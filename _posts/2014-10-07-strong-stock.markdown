@@ -14,80 +14,80 @@ categories: stock
 <td>3天率</td>
 </tr>
 <tr><td>VIMC</td><td>4.2556</td><td>4.4425</td><td>1.8424</td></tr>
-<tr><td>AVNR</td><td>3.4742</td><td>0.0356</td><td>-0.7881</td></tr>
+<tr style="background-color:gray"><td>AVNR</td><td>3.4742</td><td>0.0356</td><td>-0.7881</td></tr>
 <tr><td>AMBI</td><td>2.9140</td><td>8.9321</td><td>0.0325</td></tr>
-<tr><td>ESPR</td><td>2.4641</td><td>6.2389</td><td>-0.4082</td></tr>
+<tr style="background-color:gray"><td>ESPR</td><td>2.4641</td><td>6.2389</td><td>-0.4082</td></tr>
 <tr><td>DUST</td><td>2.4005</td><td>2.2554</td><td>2.6340</td></tr>
 <tr style="background-color:red"><td>AUXL</td><td>2.3570</td><td>-0.3180</td><td>0.2655</td></tr>
 <tr><td>JDST</td><td>1.9408</td><td>3.4833</td><td>5.3877</td></tr>
-<tr><td>PTCT</td><td>1.8633</td><td>-0.6639</td><td>-1.6427</td></tr>
+<tr style="background-color:blue"><td>PTCT</td><td>1.8633</td><td>-0.6639</td><td>-1.6427</td></tr>
 <tr><td>TTPH</td><td>1.8506</td><td>2.4953</td><td>3.2446</td></tr>
-<tr><td>EMKR</td><td>1.6793</td><td>-0.6364</td><td>-0.2229</td></tr>
+<tr style="background-color:blue"><td>EMKR</td><td>1.6793</td><td>-0.6364</td><td>-0.2229</td></tr>
 <tr><td>AGIO</td><td>1.6519</td><td>1.6021</td><td>0.8106</td></tr>
 <tr><td>SIAL</td><td>1.6235</td><td>0.0074</td><td>0.2409</td></tr>
 <tr><td>VEC</td><td>1.6012</td><td>1.6012</td><td>1.0776</td></tr>
 <tr><td>BAGL</td><td>1.4663</td><td>6.0327</td><td>0.0124</td></tr>
 <tr><td>IG</td><td>1.4006</td><td>0.9685</td><td>1.5115</td></tr>
-<tr><td>YANG</td><td>1.3534</td><td>0.8878</td><td>-6.4715</td></tr>
-<tr><td>RUSS</td><td>1.3126</td><td>2.4105</td><td>-3.9115</td></tr>
-<tr><td>EDZ</td><td>1.2948</td><td>0.8560</td><td>-4.4621</td></tr>
+<tr style="background-color:gray"><td>YANG</td><td>1.3534</td><td>0.8878</td><td>-6.4715</td></tr>
+<tr style="background-color:gray"><td>RUSS</td><td>1.3126</td><td>2.4105</td><td>-3.9115</td></tr>
+<tr style="background-color:gray"><td>EDZ</td><td>1.2948</td><td>0.8560</td><td>-4.4621</td></tr>
 <tr><td>TKMR</td><td>1.2917</td><td>3.4422</td><td>0.7832</td></tr>
 <tr><td>AMAG</td><td>1.2902</td><td>5.2412</td><td>0.6599</td></tr>
 <tr><td>FLWS</td><td>1.2594</td><td>2.4654</td><td>1.7375</td></tr>
-<tr><td>BNNY</td><td>1.2403</td><td>-0.0003</td><td>-0.0054</td></tr>
+<tr style="background-color:blue"><td>BNNY</td><td>1.2403</td><td>-0.0003</td><td>-0.0054</td></tr>
 <tr><td>CNVR</td><td>1.2129</td><td>0.0161</td><td>0.2630</td></tr>
 <tr><td>LAKE</td><td>1.2099</td><td>3.3660</td><td>2.4409</td></tr>
-<tr><td>DRC</td><td>1.1406</td><td>-0.0492</td><td>-0.0304</td></tr>
+<tr style="background-color:blue"><td>DRC</td><td>1.1406</td><td>-0.0492</td><td>-0.0304</td></tr>
 <tr><td>LE</td><td>1.1132</td><td>0.9582</td><td>4.5048</td></tr>
-<tr><td>GRT</td><td>1.0996</td><td>-0.1032</td><td>-0.1853</td></tr>
-<tr><td>ATHL</td><td>1.0822</td><td>3.4111</td><td>-0.0043</td></tr>
+<tr style="background-color:blue"><td>GRT</td><td>1.0996</td><td>-0.1032</td><td>-0.1853</td></tr>
+<tr style="background-color:gray"><td>ATHL</td><td>1.0822</td><td>3.4111</td><td>-0.0043</td></tr>
 <tr><td>RENT</td><td>1.0700</td><td>1.0040</td><td>5.8615</td></tr>
-<tr><td>ERY</td><td>1.0700</td><td>1.8828</td><td>-0.9481</td></tr>
-<tr><td>MACK</td><td>1.0569</td><td>1.8200</td><td>-0.1460</td></tr>
+<tr style="background-color:gray"><td>ERY</td><td>1.0700</td><td>1.8828</td><td>-0.9481</td></tr>
+<tr style="background-color:gray"><td>MACK</td><td>1.0569</td><td>1.8200</td><td>-0.1460</td></tr>
 <tr><td>CNQR</td><td>1.0161</td><td>0.0846</td><td>0.5398</td></tr>
 <tr><td>RCPT</td><td>1.0126</td><td>0.1689</td><td>0.9011</td></tr>
 <tr><td>HZNP</td><td>0.9997</td><td>0.5351</td><td>1.0130</td></tr>
-<tr><td>MOVE</td><td>0.9739</td><td>6.3956</td><td>-0.0119</td></tr>
+<tr style="background-color:gray"><td>MOVE</td><td>0.9739</td><td>6.3956</td><td>-0.0119</td></tr>
 <tr><td>VDSI</td><td>0.9732</td><td>1.1260</td><td>4.6632</td></tr>
 <tr><td>AXDX</td><td>0.9569</td><td>7.4715</td><td>7.4953</td></tr>
-<tr><td>SFS</td><td>0.9480</td><td>0.6423</td><td>-1.2333</td></tr>
+<tr style="background-color:gray"><td>SFS</td><td>0.9480</td><td>0.6423</td><td>-1.2333</td></tr>
 <tr style="background-color:red"><td>ULTA</td><td>0.9347</td><td>-0.4896</td><td>0.5303</td></tr>
-<tr><td>JNS</td><td>0.9114</td><td>1.8673</td><td>-0.3783</td></tr>
-<tr><td>SRTY</td><td>0.8988</td><td>0.7103</td><td>-1.6710</td></tr>
+<tr style="background-color:gray"><td>JNS</td><td>0.9114</td><td>1.8673</td><td>-0.3783</td></tr>
+<tr style="background-color:gray"><td>SRTY</td><td>0.8988</td><td>0.7103</td><td>-1.6710</td></tr>
 <tr style="background-color:red"><td>VRTX</td><td>0.8949</td><td>-0.9747</td><td>1.4299</td></tr>
-<tr><td>TZA</td><td>0.8928</td><td>0.7176</td><td>-1.6877</td></tr>
-<tr><td>INSY</td><td>0.8622</td><td>1.8590</td><td>-0.3220</td></tr>
+<tr style="background-color:gray"><td>TZA</td><td>0.8928</td><td>0.7176</td><td>-1.6877</td></tr>
+<tr style="background-color:gray"><td>INSY</td><td>0.8622</td><td>1.8590</td><td>-0.3220</td></tr>
 <tr><td>AMBA</td><td>0.8620</td><td>0.6932</td><td>3.4431</td></tr>
-<tr><td>TGTX</td><td>0.8563</td><td>-1.9324</td><td>-2.5723</td></tr>
+<tr style="background-color:blue"><td>TGTX</td><td>0.8563</td><td>-1.9324</td><td>-2.5723</td></tr>
 <tr><td>CHUY</td><td>0.8396</td><td>0.4384</td><td>1.3433</td></tr>
 <tr><td>MANH</td><td>0.8352</td><td>0.1876</td><td>2.2617</td></tr>
 <tr style="background-color:red"><td>GDOT</td><td>0.8296</td><td>-0.9992</td><td>0.2859</td></tr>
-<tr><td>MGAM</td><td>0.7985</td><td>-0.2039</td><td>-0.2513</td></tr>
+<tr style="background-color:blue"><td>MGAM</td><td>0.7985</td><td>-0.2039</td><td>-0.2513</td></tr>
 <tr><td>ALNY</td><td>0.7923</td><td>0.0665</td><td>2.1890</td></tr>
 <tr><td>WTW</td><td>0.7815</td><td>0.2319</td><td>0.3536</td></tr>
-<tr><td>UVXY</td><td>0.7716</td><td>0.2319</td><td>-8.4470</td></tr>
+<tr style="background-color:gray"><td>UVXY</td><td>0.7716</td><td>0.2319</td><td>-8.4470</td></tr>
 <tr style="background-color:red"><td>XPO</td><td>0.7369</td><td>-0.0120</td><td>1.8018</td></tr>
 <tr style="background-color:red"><td>UTHR</td><td>0.7185</td><td>-0.6625</td><td>0.2612</td></tr>
 <tr><td>CMRX</td><td>0.7142</td><td>1.6833</td><td>4.6407</td></tr>
-<tr><td>LCI</td><td>0.6957</td><td>-0.3324</td><td>-0.1683</td></tr>
+<tr style="background-color:blue"><td>LCI</td><td>0.6957</td><td>-0.3324</td><td>-0.1683</td></tr>
 <tr><td>EPAM</td><td>0.6908</td><td>1.0418</td><td>0.4145</td></tr>
-<tr><td>HPJ</td><td>0.6883</td><td>-0.8256</td><td>-0.1713</td></tr>
+<tr style="background-color:blue"><td>HPJ</td><td>0.6883</td><td>-0.8256</td><td>-0.1713</td></tr>
 <tr><td>HAWKB</td><td>0.6769</td><td>0.8370</td><td>0.9644</td></tr>
 <tr><td>HAWK</td><td>0.6743</td><td>0.8561</td><td>1.1786</td></tr>
 <tr><td>AGTC</td><td>0.6731</td><td>0.7567</td><td>1.4583</td></tr>
-<tr><td>VPRT</td><td>0.6598</td><td>1.0195</td><td>-0.4213</td></tr>
+<tr style="background-color:gray"><td>VPRT</td><td>0.6598</td><td>1.0195</td><td>-0.4213</td></tr>
 <tr><td>AMRI</td><td>0.6336</td><td>0.0783</td><td>1.4970</td></tr>
-<tr><td>GFIG</td><td>0.6236</td><td>-0.3127</td><td>-0.0000</td></tr>
+<tr style="background-color:blue"><td>GFIG</td><td>0.6236</td><td>-0.3127</td><td>-0.0000</td></tr>
 <tr><td>CTLT</td><td>0.6228</td><td>0.0967</td><td>0.2616</td></tr>
-<tr><td>JDSU</td><td>0.6217</td><td>0.1846</td><td>-0.0770</td></tr>
-<tr><td>TWM</td><td>0.6080</td><td>0.4906</td><td>-1.1055</td></tr>
+<tr style="background-color:gray"><td>JDSU</td><td>0.6217</td><td>0.1846</td><td>-0.0770</td></tr>
+<tr style="background-color:gray"><td>TWM</td><td>0.6080</td><td>0.4906</td><td>-1.1055</td></tr>
 <tr><td>RJET</td><td>0.6048</td><td>0.1077</td><td>2.0294</td></tr>
 <tr><td>ETP</td><td>0.5926</td><td>1.4441</td><td>0.9325</td></tr>
-<tr><td>SMA</td><td>0.5839</td><td>0.1966</td><td>-0.0745</td></tr>
-<tr><td>HIMX</td><td>0.5824</td><td>0.5375</td><td>-0.3411</td></tr>
+<tr style="background-color:gray"><td>SMA</td><td>0.5839</td><td>0.1966</td><td>-0.0745</td></tr>
+<tr style="background-color:gray"><td>HIMX</td><td>0.5824</td><td>0.5375</td><td>-0.3411</td></tr>
 <tr><td>FXCM</td><td>0.5785</td><td>0.1366</td><td>0.7145</td></tr>
 <tr><td>CALD</td><td>0.5690</td><td>1.4178</td><td>3.8013</td></tr>
-<tr><td>DWA</td><td>0.5639</td><td>1.3452</td><td>-1.2676</td></tr>
+<tr style="background-color:gray"><td>DWA</td><td>0.5639</td><td>1.3452</td><td>-1.2676</td></tr>
 <tr style="background-color:red"><td>ZU</td><td>0.5534</td><td>-0.6117</td><td>3.2697</td></tr>
 <tr style="background-color:red"><td>BLMN</td><td>0.5514</td><td>-0.2079</td><td>0.7500</td></tr>
 <tr><td>CALM</td><td>0.5482</td><td>1.1536</td><td>3.4271</td></tr>
@@ -100,31 +100,31 @@ categories: stock
 <tr><td>PANW</td><td>0.4851</td><td>0.7516</td><td>2.5302</td></tr>
 <tr style="background-color:red"><td>DD</td><td>0.4777</td><td>-0.4489</td><td>0.2026</td></tr>
 <tr><td>NKE</td><td>0.4776</td><td>0.9637</td><td>0.7512</td></tr>
-<tr><td>ACOR</td><td>0.4707</td><td>-0.7671</td><td>-0.2262</td></tr>
+<tr style="background-color:blue"><td>ACOR</td><td>0.4707</td><td>-0.7671</td><td>-0.2262</td></tr>
 <tr><td>MBLY</td><td>0.4671</td><td>1.7397</td><td>1.9970</td></tr>
 <tr><td>CF</td><td>0.4497</td><td>0.0181</td><td>0.7104</td></tr>
-<tr><td>VXX</td><td>0.4447</td><td>0.1971</td><td>-4.0634</td></tr>
-<tr><td>VIXY</td><td>0.4440</td><td>0.1746</td><td>-4.1089</td></tr>
-<tr><td>EUM</td><td>0.4414</td><td>0.2986</td><td>-1.4355</td></tr>
-<tr><td>SMCI</td><td>0.4385</td><td>-1.0379</td><td>-2.5618</td></tr>
+<tr style="background-color:gray"><td>VXX</td><td>0.4447</td><td>0.1971</td><td>-4.0634</td></tr>
+<tr style="background-color:gray"><td>VIXY</td><td>0.4440</td><td>0.1746</td><td>-4.1089</td></tr>
+<tr style="background-color:gray"><td>EUM</td><td>0.4414</td><td>0.2986</td><td>-1.4355</td></tr>
+<tr style="background-color:blue"><td>SMCI</td><td>0.4385</td><td>-1.0379</td><td>-2.5618</td></tr>
 <tr><td>QLYS</td><td>0.4374</td><td>1.5508</td><td>2.7341</td></tr>
 <tr style="background-color:red"><td>PRXL</td><td>0.4333</td><td>-0.2804</td><td>0.0523</td></tr>
-<tr><td>KEP</td><td>0.4316</td><td>-0.0670</td><td>-1.3448</td></tr>
+<tr style="background-color:blue"><td>KEP</td><td>0.4316</td><td>-0.0670</td><td>-1.3448</td></tr>
 <tr><td>CLX</td><td>0.4286</td><td>0.1734</td><td>0.3953</td></tr>
 <tr><td>ZOES</td><td>0.4227</td><td>0.6618</td><td>2.0021</td></tr>
-<tr><td>PSO</td><td>0.4193</td><td>-0.5728</td><td>-0.3471</td></tr>
+<tr style="background-color:blue"><td>PSO</td><td>0.4193</td><td>-0.5728</td><td>-0.3471</td></tr>
 <tr><td>ENDP</td><td>0.4165</td><td>0.1885</td><td>1.8938</td></tr>
-<tr><td>VRX</td><td>0.4158</td><td>0.0249</td><td>-0.2396</td></tr>
+<tr style="background-color:gray"><td>VRX</td><td>0.4158</td><td>0.0249</td><td>-0.2396</td></tr>
 <tr><td>MDVN</td><td>0.4155</td><td>0.3162</td><td>0.2951</td></tr>
-<tr><td>DRI</td><td>0.4116</td><td>-0.0316</td><td>-0.1555</td></tr>
-<tr><td>S</td><td>0.4096</td><td>-0.6987</td><td>-0.6863</td></tr>
+<tr style="background-color:blue"><td>DRI</td><td>0.4116</td><td>-0.0316</td><td>-0.1555</td></tr>
+<tr style="background-color:blue"><td>S</td><td>0.4096</td><td>-0.6987</td><td>-0.6863</td></tr>
 <tr style="background-color:red"><td>BURL</td><td>0.4060</td><td>-0.0982</td><td>0.0957</td></tr>
 <tr><td>MNK</td><td>0.4040</td><td>0.5623</td><td>1.8485</td></tr>
 <tr><td>DZZ</td><td>0.4028</td><td>0.3830</td><td>0.9963</td></tr>
 <tr><td>LOGM</td><td>0.4017</td><td>0.4181</td><td>1.1439</td></tr>
 <tr style="background-color:red"><td>OPWR</td><td>0.4003</td><td>-0.2561</td><td>1.0834</td></tr>
 <tr><td>ICLR</td><td>0.3999</td><td>0.3930</td><td>0.9937</td></tr>
-<tr><td>NES</td><td>0.3984</td><td>-2.3196</td><td>-1.5971</td></tr>
+<tr style="background-color:blue"><td>NES</td><td>0.3984</td><td>-2.3196</td><td>-1.5971</td></tr>
 <tr><td>RCII</td><td>0.3977</td><td>0.2436</td><td>1.0405</td></tr>
 <tr><td>AGN</td><td>0.3962</td><td>0.3520</td><td>1.3890</td></tr>
 <tr style="background-color:red"><td>BOBE</td><td>0.3839</td><td>-0.4391</td><td>0.8935</td></tr>
@@ -134,47 +134,47 @@ categories: stock
 <tr style="background-color:red"><td>YCS</td><td>0.3777</td><td>-0.0233</td><td>0.6253</td></tr>
 <tr style="background-color:red"><td>WAGE</td><td>0.3705</td><td>-0.5946</td><td>3.1387</td></tr>
 <tr><td>KNX</td><td>0.3632</td><td>0.7240</td><td>0.9275</td></tr>
-<tr><td>BFR</td><td>0.3558</td><td>-1.9204</td><td>-1.3800</td></tr>
-<tr><td>RLD</td><td>0.3548</td><td>3.4882</td><td>-0.0429</td></tr>
+<tr style="background-color:blue"><td>BFR</td><td>0.3558</td><td>-1.9204</td><td>-1.3800</td></tr>
+<tr style="background-color:gray"><td>RLD</td><td>0.3548</td><td>3.4882</td><td>-0.0429</td></tr>
 <tr><td>CPHD</td><td>0.3503</td><td>0.0233</td><td>0.7446</td></tr>
-<tr><td>RALY</td><td>0.3466</td><td>1.1909</td><td>-0.5462</td></tr>
+<tr style="background-color:gray"><td>RALY</td><td>0.3466</td><td>1.1909</td><td>-0.5462</td></tr>
 <tr><td>TTGT</td><td>0.3369</td><td>2.2166</td><td>2.5065</td></tr>
-<tr><td>DEPO</td><td>0.3365</td><td>0.0821</td><td>-0.3296</td></tr>
+<tr style="background-color:gray"><td>DEPO</td><td>0.3365</td><td>0.0821</td><td>-0.3296</td></tr>
 <tr><td>THOR</td><td>0.3358</td><td>0.1487</td><td>0.9966</td></tr>
 <tr><td>NQ</td><td>0.3352</td><td>2.1173</td><td>4.0304</td></tr>
-<tr><td>CFG</td><td>0.3313</td><td>0.0906</td><td>-0.9799</td></tr>
+<tr style="background-color:gray"><td>CFG</td><td>0.3313</td><td>0.0906</td><td>-0.9799</td></tr>
 <tr><td>FDX</td><td>0.3246</td><td>0.2231</td><td>1.2684</td></tr>
 <tr><td>PODD</td><td>0.3204</td><td>0.3252</td><td>1.6960</td></tr>
 <tr style="background-color:red"><td>CNC</td><td>0.3188</td><td>-0.2458</td><td>0.8581</td></tr>
 <tr><td>MO</td><td>0.3160</td><td>0.1863</td><td>0.8930</td></tr>
 <tr><td>EUO</td><td>0.3122</td><td>0.3422</td><td>0.3635</td></tr>
 <tr><td>BAH</td><td>0.3068</td><td>1.0644</td><td>1.7348</td></tr>
-<tr><td>RWM</td><td>0.3064</td><td>0.2528</td><td>-0.5503</td></tr>
+<tr style="background-color:gray"><td>RWM</td><td>0.3064</td><td>0.2528</td><td>-0.5503</td></tr>
 <tr style="background-color:red"><td>GLNG</td><td>0.3044</td><td>-1.5292</td><td>0.4978</td></tr>
 <tr><td>EW</td><td>0.3043</td><td>0.5368</td><td>1.9048</td></tr>
 <tr><td>DTSI</td><td>0.3025</td><td>1.7950</td><td>1.5985</td></tr>
 <tr><td>NUS</td><td>0.3016</td><td>0.4655</td><td>2.8118</td></tr>
 <tr><td>AWAY</td><td>0.3001</td><td>1.0877</td><td>1.2628</td></tr>
-<tr><td>EEP</td><td>0.2992</td><td>-0.8135</td><td>-0.4456</td></tr>
+<tr style="background-color:blue"><td>EEP</td><td>0.2992</td><td>-0.8135</td><td>-0.4456</td></tr>
 <tr style="background-color:red"><td>ACT</td><td>0.2973</td><td>-0.2304</td><td>1.4607</td></tr>
-<tr><td>VXZ</td><td>0.2951</td><td>0.2396</td><td>-2.1304</td></tr>
-<tr><td>MYGN</td><td>0.2936</td><td>-0.2142</td><td>-1.6680</td></tr>
+<tr style="background-color:gray"><td>VXZ</td><td>0.2951</td><td>0.2396</td><td>-2.1304</td></tr>
+<tr style="background-color:blue"><td>MYGN</td><td>0.2936</td><td>-0.2142</td><td>-1.6680</td></tr>
 <tr><td>BAC</td><td>0.2876</td><td>0.1794</td><td>1.4800</td></tr>
 <tr><td>CME</td><td>0.2819</td><td>0.2450</td><td>0.6497</td></tr>
 <tr><td>ICE</td><td>0.2809</td><td>0.2537</td><td>0.7909</td></tr>
 <tr><td>GMED</td><td>0.2791</td><td>0.2369</td><td>0.9889</td></tr>
-<tr><td>TIBX</td><td>0.2777</td><td>2.7037</td><td>-0.2109</td></tr>
+<tr style="background-color:gray"><td>TIBX</td><td>0.2777</td><td>2.7037</td><td>-0.2109</td></tr>
 <tr><td>CTV</td><td>0.2734</td><td>0.2734</td><td>0.4073</td></tr>
 <tr style="background-color:red"><td>LULU</td><td>0.2730</td><td>-0.2137</td><td>0.4333</td></tr>
 <tr><td>IBKR</td><td>0.2721</td><td>0.1429</td><td>0.6743</td></tr>
 <tr><td>XNPT</td><td>0.2707</td><td>0.0061</td><td>1.3762</td></tr>
 <tr style="background-color:red"><td>LYV</td><td>0.2700</td><td>-0.0124</td><td>1.7656</td></tr>
-<tr><td>HE</td><td>0.2647</td><td>-0.0436</td><td>-0.2456</td></tr>
+<tr style="background-color:blue"><td>HE</td><td>0.2647</td><td>-0.0436</td><td>-0.2456</td></tr>
 <tr><td>VRNT</td><td>0.2627</td><td>0.3947</td><td>2.0736</td></tr>
-<tr><td>ABAX</td><td>0.2620</td><td>0.1670</td><td>-0.7173</td></tr>
-<tr><td>NVO</td><td>0.2603</td><td>-0.2821</td><td>-0.4816</td></tr>
+<tr style="background-color:gray"><td>ABAX</td><td>0.2620</td><td>0.1670</td><td>-0.7173</td></tr>
+<tr style="background-color:blue"><td>NVO</td><td>0.2603</td><td>-0.2821</td><td>-0.4816</td></tr>
 <tr style="background-color:red"><td>WWWW</td><td>0.2596</td><td>-0.4143</td><td>0.4816</td></tr>
-<tr><td>RRGB</td><td>0.2569</td><td>-0.8718</td><td>-1.1436</td></tr>
+<tr style="background-color:blue"><td>RRGB</td><td>0.2569</td><td>-0.8718</td><td>-1.1436</td></tr>
 <tr style="background-color:red"><td>LB</td><td>0.2560</td><td>-0.2060</td><td>1.0856</td></tr>
 <tr><td>TK</td><td>0.2544</td><td>2.6444</td><td>1.0836</td></tr>
 <tr style="background-color:red"><td>PRSC</td><td>0.2458</td><td>-0.0500</td><td>0.6014</td></tr>
@@ -182,24 +182,24 @@ categories: stock
 <tr><td>PAYX</td><td>0.2369</td><td>0.0851</td><td>1.2921</td></tr>
 <tr><td>SHPG</td><td>0.2354</td><td>0.0229</td><td>1.0433</td></tr>
 <tr><td>TSN</td><td>0.2353</td><td>1.5427</td><td>1.1939</td></tr>
-<tr><td>HDGE</td><td>0.2344</td><td>0.3373</td><td>-0.7900</td></tr>
+<tr style="background-color:gray"><td>HDGE</td><td>0.2344</td><td>0.3373</td><td>-0.7900</td></tr>
 <tr><td>ADSK</td><td>0.2327</td><td>1.1149</td><td>0.7070</td></tr>
 <tr><td>BLOX</td><td>0.2251</td><td>0.3840</td><td>1.9955</td></tr>
 <tr><td>MKTX</td><td>0.2237</td><td>0.4599</td><td>0.4702</td></tr>
-<tr><td>MU</td><td>0.2208</td><td>0.1502</td><td>-1.4378</td></tr>
-<tr><td>SPXU</td><td>0.2182</td><td>0.4365</td><td>-2.2481</td></tr>
+<tr style="background-color:gray"><td>MU</td><td>0.2208</td><td>0.1502</td><td>-1.4378</td></tr>
+<tr style="background-color:gray"><td>SPXU</td><td>0.2182</td><td>0.4365</td><td>-2.2481</td></tr>
 <tr><td>RBS</td><td>0.2159</td><td>0.0064</td><td>1.0393</td></tr>
 <tr style="background-color:red"><td>LTM</td><td>0.2156</td><td>-0.3065</td><td>0.7556</td></tr>
-<tr><td>MSI</td><td>0.2132</td><td>-0.3284</td><td>-0.0854</td></tr>
+<tr style="background-color:blue"><td>MSI</td><td>0.2132</td><td>-0.3284</td><td>-0.0854</td></tr>
 <tr style="background-color:red"><td>ABBV</td><td>0.2125</td><td>-0.2282</td><td>1.2192</td></tr>
-<tr><td>SPXS</td><td>0.2118</td><td>0.4354</td><td>-2.2783</td></tr>
+<tr style="background-color:gray"><td>SPXS</td><td>0.2118</td><td>0.4354</td><td>-2.2783</td></tr>
 <tr style="background-color:red"><td>ANAC</td><td>0.2111</td><td>-1.0144</td><td>0.7396</td></tr>
 <tr><td>TEVA</td><td>0.2103</td><td>0.2673</td><td>0.1201</td></tr>
 <tr><td>KSU</td><td>0.2084</td><td>0.1199</td><td>1.8707</td></tr>
 <tr style="background-color:red"><td>RAIL</td><td>0.2059</td><td>-1.3622</td><td>1.8486</td></tr>
-<tr><td>VAC</td><td>0.2030</td><td>-0.1574</td><td>-0.3101</td></tr>
+<tr style="background-color:blue"><td>VAC</td><td>0.2030</td><td>-0.1574</td><td>-0.3101</td></tr>
 <tr><td>TXRH</td><td>0.2015</td><td>0.7063</td><td>1.2249</td></tr>
-<tr><td>DMND</td><td>0.2008</td><td>0.1843</td><td>-0.8580</td></tr>
+<tr style="background-color:gray"><td>DMND</td><td>0.2008</td><td>0.1843</td><td>-0.8580</td></tr>
 <tr><td>EXC</td><td>0.2006</td><td>0.5360</td><td>0.1942</td></tr>
 <tr style="background-color:red"><td>TUES</td><td>0.1971</td><td>-0.5602</td><td>1.2297</td></tr>
 <tr style="background-color:red"><td>AEO</td><td>0.1934</td><td>-0.3115</td><td>0.2627</td></tr>
@@ -208,7 +208,7 @@ categories: stock
 <tr style="background-color:red"><td>CUK</td><td>0.1899</td><td>-0.5690</td><td>1.9575</td></tr>
 <tr><td>RGEN</td><td>0.1881</td><td>1.1023</td><td>0.7301</td></tr>
 <tr style="background-color:red"><td>TGT</td><td>0.1836</td><td>-0.0965</td><td>0.4883</td></tr>
-<tr><td>SQQQ</td><td>0.1831</td><td>0.3486</td><td>-2.2488</td></tr>
+<tr style="background-color:gray"><td>SQQQ</td><td>0.1831</td><td>0.3486</td><td>-2.2488</td></tr>
 <tr><td>UTIW</td><td>0.1826</td><td>0.3940</td><td>2.5313</td></tr>
 <tr style="background-color:red"><td>CCL</td><td>0.1821</td><td>-0.6393</td><td>1.7907</td></tr>
 <tr><td>LM</td><td>0.1820</td><td>0.3680</td><td>1.4206</td></tr>
@@ -221,17 +221,17 @@ categories: stock
 <tr style="background-color:red"><td>CNSL</td><td>0.1718</td><td>-0.4307</td><td>0.2915</td></tr>
 <tr style="background-color:red"><td>LRCX</td><td>0.1711</td><td>-0.3734</td><td>1.9341</td></tr>
 <tr style="background-color:red"><td>INTU</td><td>0.1687</td><td>-0.1798</td><td>0.4307</td></tr>
-<tr><td>HAIN</td><td>0.1684</td><td>0.2840</td><td>-0.0658</td></tr>
+<tr style="background-color:gray"><td>HAIN</td><td>0.1684</td><td>0.2840</td><td>-0.0658</td></tr>
 <tr><td>HAS</td><td>0.1681</td><td>0.1587</td><td>0.5026</td></tr>
-<tr><td>UGAZ</td><td>0.1676</td><td>-0.7927</td><td>-1.9631</td></tr>
+<tr style="background-color:blue"><td>UGAZ</td><td>0.1676</td><td>-0.7927</td><td>-1.9631</td></tr>
 <tr><td>FRGI</td><td>0.1674</td><td>0.4537</td><td>1.8316</td></tr>
 <tr style="background-color:red"><td>SCHW</td><td>0.1659</td><td>-0.1682</td><td>1.3927</td></tr>
 <tr><td>DDC</td><td>0.1649</td><td>1.1236</td><td>0.5372</td></tr>
 <tr><td>PDCO</td><td>0.1647</td><td>0.2064</td><td>0.9080</td></tr>
 <tr><td>CTAS</td><td>0.1628</td><td>0.8807</td><td>1.7158</td></tr>
-<tr><td>CST</td><td>0.1611</td><td>0.2396</td><td>-0.1655</td></tr>
-<tr><td>HSY</td><td>0.1610</td><td>0.0962</td><td>-0.2080</td></tr>
-<tr><td>NSM</td><td>0.1597</td><td>-0.2187</td><td>-0.0452</td></tr>
+<tr style="background-color:gray"><td>CST</td><td>0.1611</td><td>0.2396</td><td>-0.1655</td></tr>
+<tr style="background-color:gray"><td>HSY</td><td>0.1610</td><td>0.0962</td><td>-0.2080</td></tr>
+<tr style="background-color:blue"><td>NSM</td><td>0.1597</td><td>-0.2187</td><td>-0.0452</td></tr>
 <tr><td>GS</td><td>0.1585</td><td>0.1508</td><td>1.7054</td></tr>
 <tr><td>PRGS</td><td>0.1562</td><td>0.5064</td><td>0.6695</td></tr>
 <tr style="background-color:red"><td>LMT</td><td>0.1556</td><td>-0.1410</td><td>0.3209</td></tr>
@@ -241,14 +241,14 @@ categories: stock
 <tr style="background-color:red"><td>HCSG</td><td>0.1530</td><td>-0.8067</td><td>0.2364</td></tr>
 <tr style="background-color:red"><td>FOXF</td><td>0.1527</td><td>-0.1813</td><td>0.4200</td></tr>
 <tr><td>NSC</td><td>0.1511</td><td>0.1339</td><td>1.2171</td></tr>
-<tr><td>GAME</td><td>0.1508</td><td>-0.0353</td><td>-0.0383</td></tr>
-<tr><td>BOIL</td><td>0.1507</td><td>-0.4960</td><td>-1.2213</td></tr>
+<tr style="background-color:blue"><td>GAME</td><td>0.1508</td><td>-0.0353</td><td>-0.0383</td></tr>
+<tr style="background-color:blue"><td>BOIL</td><td>0.1507</td><td>-0.4960</td><td>-1.2213</td></tr>
 <tr><td>LSTR</td><td>0.1500</td><td>0.0894</td><td>0.7468</td></tr>
 <tr><td>IIM</td><td>0.1496</td><td>0.3988</td><td>0.8924</td></tr>
-<tr><td>RCAP</td><td>0.1431</td><td>-0.0812</td><td>-1.0082</td></tr>
+<tr style="background-color:blue"><td>RCAP</td><td>0.1431</td><td>-0.0812</td><td>-1.0082</td></tr>
 <tr style="background-color:red"><td>DATA</td><td>0.1422</td><td>-0.1420</td><td>4.0924</td></tr>
 <tr><td>UUP</td><td>0.1415</td><td>0.1522</td><td>0.2517</td></tr>
-<tr><td>BRCD</td><td>0.1371</td><td>-0.1996</td><td>-0.9474</td></tr>
+<tr style="background-color:blue"><td>BRCD</td><td>0.1371</td><td>-0.1996</td><td>-0.9474</td></tr>
 <tr style="background-color:red"><td>WSM</td><td>0.1364</td><td>-0.1339</td><td>0.7221</td></tr>
 <tr><td>CAG</td><td>0.1358</td><td>0.0422</td><td>1.1859</td></tr>
 <tr><td>DPS</td><td>0.1350</td><td>0.0722</td><td>0.6984</td></tr>
@@ -262,25 +262,25 @@ categories: stock
 <tr style="background-color:red"><td>CYH</td><td>0.1305</td><td>-0.4076</td><td>1.9389</td></tr>
 <tr><td>BABY</td><td>0.1295</td><td>1.2030</td><td>3.0573</td></tr>
 <tr><td>TWTR</td><td>0.1285</td><td>0.3253</td><td>2.6557</td></tr>
-<tr><td>QID</td><td>0.1272</td><td>0.2392</td><td>-1.4987</td></tr>
-<tr><td>SMTC</td><td>0.1267</td><td>-0.0410</td><td>-0.3486</td></tr>
+<tr style="background-color:gray"><td>QID</td><td>0.1272</td><td>0.2392</td><td>-1.4987</td></tr>
+<tr style="background-color:blue"><td>SMTC</td><td>0.1267</td><td>-0.0410</td><td>-0.3486</td></tr>
 <tr><td>BERY</td><td>0.1262</td><td>0.1512</td><td>0.1505</td></tr>
 <tr><td>RARE</td><td>0.1259</td><td>0.0266</td><td>1.8274</td></tr>
 <tr style="background-color:red"><td>PHG</td><td>0.1257</td><td>-0.5821</td><td>0.3820</td></tr>
 <tr style="background-color:red"><td>TAP</td><td>0.1253</td><td>-0.3771</td><td>1.0272</td></tr>
 <tr><td>QLGC</td><td>0.1233</td><td>0.7106</td><td>1.3069</td></tr>
-<tr><td>MLNX</td><td>0.1231</td><td>0.9229</td><td>-0.1653</td></tr>
+<tr style="background-color:gray"><td>MLNX</td><td>0.1231</td><td>0.9229</td><td>-0.1653</td></tr>
 <tr style="background-color:red"><td>WLP</td><td>0.1227</td><td>-0.1836</td><td>1.3065</td></tr>
 <tr style="background-color:red"><td>FBR</td><td>0.1224</td><td>-0.0606</td><td>0.8496</td></tr>
 <tr style="background-color:red"><td>AOL</td><td>0.1222</td><td>-0.0297</td><td>0.7433</td></tr>
 <tr style="background-color:red"><td>CSX</td><td>0.1163</td><td>-0.1171</td><td>1.5150</td></tr>
 <tr><td>AMTD</td><td>0.1159</td><td>0.1151</td><td>0.8970</td></tr>
-<tr><td>SNMX</td><td>0.1157</td><td>-2.0132</td><td>-1.1153</td></tr>
+<tr style="background-color:blue"><td>SNMX</td><td>0.1157</td><td>-2.0132</td><td>-1.1153</td></tr>
 <tr style="background-color:red"><td>PEG</td><td>0.1140</td><td>-0.1587</td><td>0.0669</td></tr>
-<tr><td>MCD</td><td>0.1125</td><td>-0.0874</td><td>-0.1274</td></tr>
-<tr><td>CJES</td><td>0.1120</td><td>-1.8368</td><td>-2.4543</td></tr>
+<tr style="background-color:blue"><td>MCD</td><td>0.1125</td><td>-0.0874</td><td>-0.1274</td></tr>
+<tr style="background-color:blue"><td>CJES</td><td>0.1120</td><td>-1.8368</td><td>-2.4543</td></tr>
 <tr style="background-color:red"><td>LBTYK</td><td>0.1105</td><td>-0.2390</td><td>0.5565</td></tr>
-<tr><td>SLXP</td><td>0.1100</td><td>-1.2439</td><td>-0.9308</td></tr>
+<tr style="background-color:blue"><td>SLXP</td><td>0.1100</td><td>-1.2439</td><td>-0.9308</td></tr>
 <tr><td>KO</td><td>0.1083</td><td>0.4383</td><td>0.8438</td></tr>
 <tr style="background-color:red"><td>RTN</td><td>0.1079</td><td>-0.3131</td><td>0.4935</td></tr>
 <tr><td>GWW</td><td>0.1069</td><td>0.2421</td><td>0.8252</td></tr>
@@ -320,18 +320,18 @@ categories: stock
 <tr><td>N</td><td>0.0811</td><td>0.5884</td><td>3.1418</td></tr>
 <tr><td>DENN</td><td>0.0806</td><td>0.2970</td><td>1.2997</td></tr>
 <tr><td>HSNI</td><td>0.0804</td><td>0.3279</td><td>0.8773</td></tr>
-<tr><td>CHD</td><td>0.0797</td><td>-0.1749</td><td>-0.3772</td></tr>
+<tr style="background-color:blue"><td>CHD</td><td>0.0797</td><td>-0.1749</td><td>-0.3772</td></tr>
 <tr style="background-color:red"><td>YPF</td><td>0.0796</td><td>-1.4573</td><td>1.0950</td></tr>
 <tr style="background-color:red"><td>TRW</td><td>0.0785</td><td>-0.0179</td><td>0.3271</td></tr>
 <tr><td>SNCR</td><td>0.0783</td><td>0.7346</td><td>1.2360</td></tr>
 <tr><td>PGR</td><td>0.0759</td><td>0.1338</td><td>0.6776</td></tr>
 <tr style="background-color:red"><td>CAH</td><td>0.0758</td><td>-0.0917</td><td>0.7678</td></tr>
 <tr style="background-color:red"><td>ADM</td><td>0.0757</td><td>-0.0071</td><td>0.0837</td></tr>
-<tr><td>SH</td><td>0.0755</td><td>0.1486</td><td>-0.7642</td></tr>
+<tr style="background-color:gray"><td>SH</td><td>0.0755</td><td>0.1486</td><td>-0.7642</td></tr>
 <tr><td>REGN</td><td>0.0747</td><td>0.1078</td><td>0.7188</td></tr>
 <tr><td>EFII</td><td>0.0741</td><td>0.1054</td><td>0.2463</td></tr>
 <tr><td>T</td><td>0.0737</td><td>0.1381</td><td>0.8154</td></tr>
-<tr><td>KOS</td><td>0.0725</td><td>-0.1458</td><td>-0.3777</td></tr>
+<tr style="background-color:blue"><td>KOS</td><td>0.0725</td><td>-0.1458</td><td>-0.3777</td></tr>
 <tr style="background-color:red"><td>DXJ</td><td>0.0717</td><td>-0.6587</td><td>1.1316</td></tr>
 <tr><td>AHL</td><td>0.0716</td><td>0.2640</td><td>0.7471</td></tr>
 <tr><td>EDU</td><td>0.0712</td><td>1.3607</td><td>0.5090</td></tr>
@@ -341,8 +341,8 @@ categories: stock
 <tr style="background-color:red"><td>ALLT</td><td>0.0688</td><td>-0.2224</td><td>0.9753</td></tr>
 <tr style="background-color:red"><td>LUV</td><td>0.0687</td><td>-0.4123</td><td>1.4447</td></tr>
 <tr><td>PEP</td><td>0.0672</td><td>0.0193</td><td>0.3175</td></tr>
-<tr><td>PSQ</td><td>0.0662</td><td>0.1234</td><td>-0.7837</td></tr>
-<tr><td>EBAY</td><td>0.0656</td><td>0.6096</td><td>-0.8990</td></tr>
+<tr style="background-color:gray"><td>PSQ</td><td>0.0662</td><td>0.1234</td><td>-0.7837</td></tr>
+<tr style="background-color:gray"><td>EBAY</td><td>0.0656</td><td>0.6096</td><td>-0.8990</td></tr>
 <tr style="background-color:red"><td>AMGN</td><td>0.0655</td><td>-0.2672</td><td>0.2601</td></tr>
 <tr><td>BYI</td><td>0.0654</td><td>0.1913</td><td>0.2985</td></tr>
 <tr><td>NTRSP</td><td>0.0654</td><td>0.3436</td><td>0.2622</td></tr>
@@ -354,30 +354,30 @@ categories: stock
 <tr><td>INN</td><td>0.0612</td><td>0.1469</td><td>1.4293</td></tr>
 <tr style="background-color:red"><td>WMGI</td><td>0.0609</td><td>-0.3121</td><td>1.5113</td></tr>
 <tr style="background-color:red"><td>HCA</td><td>0.0608</td><td>-0.4046</td><td>1.8381</td></tr>
-<tr><td>FRAN</td><td>0.0598</td><td>-0.5720</td><td>-0.2025</td></tr>
+<tr style="background-color:blue"><td>FRAN</td><td>0.0598</td><td>-0.5720</td><td>-0.2025</td></tr>
 <tr><td>CHSCM</td><td>0.0593</td><td>0.1788</td><td>0.2249</td></tr>
 <tr><td>NWL</td><td>0.0580</td><td>0.1390</td><td>1.1625</td></tr>
-<tr><td>GLUU</td><td>0.0577</td><td>-0.7805</td><td>-0.0482</td></tr>
+<tr style="background-color:blue"><td>GLUU</td><td>0.0577</td><td>-0.7805</td><td>-0.0482</td></tr>
 <tr><td>IGT</td><td>0.0573</td><td>0.1357</td><td>0.5448</td></tr>
 <tr style="background-color:red"><td>JPM</td><td>0.0568</td><td>-0.2172</td><td>1.1302</td></tr>
-<tr><td>SHOR</td><td>0.0556</td><td>-0.7244</td><td>-0.6886</td></tr>
+<tr style="background-color:blue"><td>SHOR</td><td>0.0556</td><td>-0.7244</td><td>-0.6886</td></tr>
 <tr style="background-color:red"><td>MSFT</td><td>0.0556</td><td>-0.1353</td><td>0.2609</td></tr>
 <tr style="background-color:red"><td>ARCB</td><td>0.0551</td><td>-0.9440</td><td>0.8804</td></tr>
-<tr><td>DUK</td><td>0.0537</td><td>0.3100</td><td>-0.0797</td></tr>
+<tr style="background-color:gray"><td>DUK</td><td>0.0537</td><td>0.3100</td><td>-0.0797</td></tr>
 <tr style="background-color:red"><td>ING</td><td>0.0527</td><td>-0.2267</td><td>0.8859</td></tr>
 <tr><td>NRG</td><td>0.0525</td><td>0.9489</td><td>0.2066</td></tr>
 <tr style="background-color:red"><td>NOC</td><td>0.0524</td><td>-0.3443</td><td>0.3007</td></tr>
 <tr style="background-color:red"><td>PII</td><td>0.0522</td><td>-0.6044</td><td>0.9629</td></tr>
-<tr><td>HYD</td><td>0.0513</td><td>-0.0114</td><td>-0.0163</td></tr>
+<tr style="background-color:blue"><td>HYD</td><td>0.0513</td><td>-0.0114</td><td>-0.0163</td></tr>
 <tr><td>TLT</td><td>0.0504</td><td>0.2465</td><td>0.0446</td></tr>
 <tr><td>CP</td><td>0.0499</td><td>1.0972</td><td>2.4632</td></tr>
 <tr><td>FUEL</td><td>0.0494</td><td>1.5669</td><td>2.7516</td></tr>
 <tr><td>LO</td><td>0.0485</td><td>0.0201</td><td>0.3420</td></tr>
 <tr style="background-color:red"><td>BMY</td><td>0.0481</td><td>-0.2924</td><td>0.4194</td></tr>
-<tr><td>FSIC</td><td>0.0480</td><td>-0.0169</td><td>-0.2375</td></tr>
+<tr style="background-color:blue"><td>FSIC</td><td>0.0480</td><td>-0.0169</td><td>-0.2375</td></tr>
 <tr><td>UNP</td><td>0.0471</td><td>0.0672</td><td>1.8960</td></tr>
 <tr style="background-color:red"><td>TM</td><td>0.0453</td><td>-0.3590</td><td>1.0401</td></tr>
-<tr><td>SPPI</td><td>0.0452</td><td>-0.0691</td><td>-0.6464</td></tr>
+<tr style="background-color:blue"><td>SPPI</td><td>0.0452</td><td>-0.0691</td><td>-0.6464</td></tr>
 <tr style="background-color:red"><td>ARG</td><td>0.0450</td><td>-0.3978</td><td>0.4613</td></tr>
 <tr style="background-color:red"><td>ODFL</td><td>0.0446</td><td>-0.0572</td><td>0.8191</td></tr>
 <tr><td>ETR</td><td>0.0428</td><td>0.3598</td><td>0.0353</td></tr>
@@ -386,7 +386,7 @@ categories: stock
 <tr><td>KR</td><td>0.0404</td><td>0.2246</td><td>1.6074</td></tr>
 <tr style="background-color:red"><td>MDXG</td><td>0.0382</td><td>-0.1191</td><td>1.0927</td></tr>
 <tr><td>BPFH</td><td>0.0374</td><td>0.2917</td><td>0.9539</td></tr>
-<tr><td>SDOW</td><td>0.0371</td><td>0.3254</td><td>-2.2556</td></tr>
+<tr style="background-color:gray"><td>SDOW</td><td>0.0371</td><td>0.3254</td><td>-2.2556</td></tr>
 <tr><td>WM</td><td>0.0367</td><td>0.1081</td><td>0.3377</td></tr>
 <tr><td>YHOO</td><td>0.0356</td><td>0.5698</td><td>1.4961</td></tr>
 <tr><td>CBOE</td><td>0.0354</td><td>0.3358</td><td>0.5572</td></tr>
@@ -395,7 +395,7 @@ categories: stock
 <tr><td>CLDT</td><td>0.0321</td><td>0.1563</td><td>1.1932</td></tr>
 <tr><td>RAI</td><td>0.0306</td><td>0.3063</td><td>0.4756</td></tr>
 <tr><td>NIO</td><td>0.0304</td><td>0.2065</td><td>0.6452</td></tr>
-<tr><td>DXD</td><td>0.0284</td><td>0.2243</td><td>-1.4974</td></tr>
+<tr style="background-color:gray"><td>DXD</td><td>0.0284</td><td>0.2243</td><td>-1.4974</td></tr>
 <tr><td>BRK.B</td><td>0.0274</td><td>0.0796</td><td>0.7836</td></tr>
 <tr><td>AHS</td><td>0.0269</td><td>0.4748</td><td>2.1130</td></tr>
 <tr style="background-color:red"><td>SWKS</td><td>0.0265</td><td>-1.2788</td><td>1.4975</td></tr>
@@ -410,7 +410,7 @@ categories: stock
 <tr style="background-color:red"><td>WAL</td><td>0.0217</td><td>-0.0310</td><td>1.1584</td></tr>
 <tr style="background-color:red"><td>VRA</td><td>0.0216</td><td>-0.5129</td><td>1.7898</td></tr>
 <tr style="background-color:red"><td>BA</td><td>0.0201</td><td>-0.3244</td><td>0.6335</td></tr>
-<tr><td>DECK</td><td>0.0197</td><td>-1.3294</td><td>-0.8583</td></tr>
+<tr style="background-color:blue"><td>DECK</td><td>0.0197</td><td>-1.3294</td><td>-0.8583</td></tr>
 <tr style="background-color:red"><td>PFE</td><td>0.0195</td><td>-0.4908</td><td>0.2058</td></tr>
 <tr><td>WMT</td><td>0.0192</td><td>0.1804</td><td>0.6628</td></tr>
 <tr><td>FRC</td><td>0.0191</td><td>0.2161</td><td>0.6858</td></tr>
@@ -420,7 +420,7 @@ categories: stock
 <tr><td>LOW</td><td>0.0149</td><td>0.0796</td><td>0.7403</td></tr>
 <tr><td>BNDX</td><td>0.0149</td><td>0.0234</td><td>-0.0000</td></tr>
 <tr style="background-color:red"><td>TRAK</td><td>0.0148</td><td>-0.2000</td><td>2.3440</td></tr>
-<tr><td>DOG</td><td>0.0144</td><td>0.1153</td><td>-0.7539</td></tr>
+<tr style="background-color:gray"><td>DOG</td><td>0.0144</td><td>0.1153</td><td>-0.7539</td></tr>
 <tr style="background-color:red"><td>AEG</td><td>0.0132</td><td>-0.5370</td><td>0.6154</td></tr>
 <tr><td>CSCO</td><td>0.0123</td><td>0.2531</td><td>0.5188</td></tr>
 <tr style="background-color:red"><td>IBB</td><td>0.0120</td><td>-0.2207</td><td>1.1767</td></tr>
@@ -428,31 +428,31 @@ categories: stock
 <tr><td>CONN</td><td>0.0111</td><td>2.3760</td><td>4.9177</td></tr>
 <tr><td>TNGO</td><td>0.0110</td><td>0.7854</td><td>1.1329</td></tr>
 <tr><td>MS</td><td>0.0102</td><td>0.1592</td><td>1.5099</td></tr>
-<tr><td>MBB</td><td>0.0101</td><td>0.0458</td><td>-0.0115</td></tr>
+<tr style="background-color:gray"><td>MBB</td><td>0.0101</td><td>0.0458</td><td>-0.0115</td></tr>
 <tr><td>CERN</td><td>0.0101</td><td>0.2614</td><td>0.4855</td></tr>
 <tr style="background-color:red"><td>MMP</td><td>0.0100</td><td>-0.3932</td><td>0.5354</td></tr>
 <tr style="background-color:red"><td>ASML</td><td>0.0100</td><td>-0.3558</td><td>0.7046</td></tr>
 <tr><td>CRL</td><td>0.0098</td><td>0.2626</td><td>0.8449</td></tr>
 <tr style="background-color:red"><td>BIB</td><td>0.0097</td><td>-0.4542</td><td>2.3526</td></tr>
 <tr style="background-color:red"><td>CPWR</td><td>0.0078</td><td>-0.0219</td><td>0.1647</td></tr>
-<tr><td>KLAC</td><td>0.0076</td><td>-0.8416</td><td>-0.0886</td></tr>
+<tr style="background-color:blue"><td>KLAC</td><td>0.0076</td><td>-0.8416</td><td>-0.0886</td></tr>
 <tr style="background-color:red"><td>GILD</td><td>0.0073</td><td>-0.3873</td><td>0.6520</td></tr>
 <tr style="background-color:red"><td>PNC</td><td>0.0072</td><td>-0.1783</td><td>0.9721</td></tr>
-<tr><td>BWC</td><td>0.0071</td><td>1.2427</td><td>-0.1845</td></tr>
+<tr style="background-color:gray"><td>BWC</td><td>0.0071</td><td>1.2427</td><td>-0.1845</td></tr>
 <tr><td>TRV</td><td>0.0070</td><td>0.0414</td><td>0.9490</td></tr>
 <tr style="background-color:red"><td>ATK</td><td>0.0064</td><td>-0.6722</td><td>0.9328</td></tr>
-<tr><td>HII</td><td>0.0050</td><td>-0.1839</td><td>-0.0583</td></tr>
+<tr style="background-color:blue"><td>HII</td><td>0.0050</td><td>-0.1839</td><td>-0.0583</td></tr>
 <tr style="background-color:red"><td>MHFI</td><td>0.0044</td><td>-0.3066</td><td>0.2110</td></tr>
-<tr><td>KMB</td><td>0.0030</td><td>-0.0550</td><td>-0.0746</td></tr>
+<tr style="background-color:blue"><td>KMB</td><td>0.0030</td><td>-0.0550</td><td>-0.0746</td></tr>
 <tr style="background-color:red"><td>SHW</td><td>0.0028</td><td>-0.3982</td><td>0.5377</td></tr>
-<tr><td>FLOT</td><td>0.0027</td><td>-0.0064</td><td>-0.0000</td></tr>
+<tr style="background-color:blue"><td>FLOT</td><td>0.0027</td><td>-0.0064</td><td>-0.0000</td></tr>
 <tr><td>MRH</td><td>0.0027</td><td>0.3017</td><td>0.9867</td></tr>
 <tr><td>ALL</td><td>0.0025</td><td>0.1232</td><td>0.6344</td></tr>
-<tr><td>SHY</td><td>0.0017</td><td>0.0047</td><td>-0.0118</td></tr>
+<tr style="background-color:gray"><td>SHY</td><td>0.0017</td><td>0.0047</td><td>-0.0118</td></tr>
 <tr><td>SCHZ</td><td>0.0014</td><td>0.0548</td><td>-0.0000</td></tr>
-<tr><td>IEF</td><td>0.0010</td><td>0.0960</td><td>-0.0504</td></tr>
+<tr style="background-color:gray"><td>IEF</td><td>0.0010</td><td>0.0960</td><td>-0.0504</td></tr>
 <tr><td>CB</td><td>0.0005</td><td>0.3269</td><td>1.1211</td></tr>
-<tr><td>BSV</td><td>0.0002</td><td>0.0120</td><td>-0.0281</td></tr>
+<tr style="background-color:gray"><td>BSV</td><td>0.0002</td><td>0.0120</td><td>-0.0281</td></tr>
 <tr><td>ECL</td><td>-0.0000</td><td>-0.4178</td><td>0.8156</td></tr>
 <tr><td>PEI</td><td>-0.0001</td><td>-0.1176</td><td>0.6536</td></tr>
 <tr><td>MCK</td><td>-0.0001</td><td>0.2172</td><td>0.9810</td></tr>
@@ -2528,6 +2528,5 @@ categories: stock
 <tr><td>VHC</td><td>-5.7273</td><td>-1.7306</td><td>-1.2525</td></tr>
 <tr><td>W</td><td>-6.2072</td><td>-6.2072</td><td>-6.2072</td></tr>
 <tr><td>VSLR</td><td>-9.3670</td><td>-9.3670</td><td>-8.6006</td></tr>
-
 </table>
 
