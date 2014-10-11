@@ -14,3 +14,7 @@ before_install:
 - export BUILD_ID=`date +%Y%m%d_%H%M%S`
 install:
 - sh scripts/create.sh
+env:
+  global:
+  - secure: FlGfPQ2BvbB8zaHSNJ4/qI7bhef5ce3Bk6hl87psHVM/lLvqsbF6HweYFzYGLnbbjMmXMp9N+UYiiC+ZLS4NO5KIw3eWAJYwxf9IIExK+//SvGa2NAwOqM3AsWxr1t/3ryMkbtmJm+XsS/CEWaudG7x4zIUXrOicb/pw0yuW/Eo=
+  - secure: spZsyxFBfjB21IuYaqJi7y1nsW2tEoPYUKmB4FJ53l7mawre9+dfh4zAangwKstKuLRERWez8WVfYNDTdRxbbJ8gR9agHkhOUugBdtek3fXzdi4JALTtoA1azS1pQct4/dqWCRDFHZd16XlN2QCClWgOuUS/sE/tPA7Kcn4L1X8=
