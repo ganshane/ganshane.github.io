@@ -1,7 +1,7 @@
 language: java
 before_install:
-- openssl aes-256-cbc -K $encrypted_f66994ef8ceb_key -iv $encrypted_f66994ef8ceb_iv
-  -in key.txt.enc -out key.txt -d
+- openssl aes-256-cbc -K $encrypted_01a7575cd035_key -iv $encrypted_01a7575cd035_iv
+  -in key.txt.enc -out ../key.txt -d
 - source key.txt
 - gcc --version
 - echo -e "Host *\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
