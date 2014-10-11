@@ -1,0 +1,16 @@
+language: java
+before_install:
+- openssl aes-256-cbc -K $encrypted_f66994ef8ceb_key -iv $encrypted_f66994ef8ceb_iv
+  -in key.txt.enc -out key.txt -d
+- source key.txt
+- gcc --version
+- echo -e "Host *\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+- echo -e "$SSH_PUBLIC_KEY" > ~/.ssh/id_rsa.pub
+- echo -e "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+- chmod 600 ~/.ssh/id_rsa*
+- eval `ssh-agent -s`
+- ssh-add ~/.ssh/id_rsa
+- sudo apt-get install cmake swig build-essential
+- export BUILD_ID=`date +%Y%m%d_%H%M%S`
+install:
+- sh scripts/create.sh
