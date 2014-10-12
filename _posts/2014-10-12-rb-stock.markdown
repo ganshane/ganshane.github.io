@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "反转股票20141012"
+date:   2014-10-12 14:09:02
+categories: stock
+---
+<table border="1">
+ <tr>
+ <td>代码</td>
+ <td>反转指数</td>
+</tr>
+  <tr><td>CPLP</td><td>27.667</td></tr>
+  <tr><td>VNR</td><td>26.167</td></tr>
+  <tr><td>GEL</td><td>12.5</td></tr>
+  <tr><td>DHT</td><td>11</td></tr>
+  <tr><td>ARP</td><td>8.333</td></tr>
+  <tr><td>UCO</td><td>4.429</td></tr>
+  <tr><td>CLD</td><td>4</td></tr>
+  <tr><td>BWP</td><td>3.875</td></tr>
+  <tr><td>GLNG</td><td>2.453</td></tr>
+</table>
