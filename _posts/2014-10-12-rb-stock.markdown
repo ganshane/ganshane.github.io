@@ -9,13 +9,13 @@ categories: stock
  <td>代码</td>
  <td>反转指数</td>
 </tr>
-  <tr><td>CPLP</td><td>27.667</td></tr>
-  <tr><td>VNR</td><td>26.167</td></tr>
-  <tr><td>GEL</td><td>12.5</td></tr>
-  <tr><td>DHT</td><td>11</td></tr>
-  <tr><td>ARP</td><td>8.333</td></tr>
-  <tr><td>UCO</td><td>4.429</td></tr>
-  <tr><td>CLD</td><td>4</td></tr>
-  <tr><td>BWP</td><td>3.875</td></tr>
-  <tr><td>GLNG</td><td>2.453</td></tr>
+  <tr><td><a href="http://finance.yahoo.com/echarts?s=CPLP#symbol=CPLP;range=3m" target="_blank">CPLP</a></td><td>27.667</td></tr>
+  <tr><td><a href="http://finance.yahoo.com/echarts?s=VNR#symbol=VNR;range=3m" target="_blank">VNR</a></td><td>26.167</td></tr>
+  <tr><td><a href="http://finance.yahoo.com/echarts?s=GEL#symbol=GEL;range=3m" target="_blank">GEL</a></td><td>12.5</td></tr>
+  <tr><td><a href="http://finance.yahoo.com/echarts?s=DHT#symbol=DHT;range=3m" target="_blank">DHT</a></td><td>11</td></tr>
+  <tr><td><a href="http://finance.yahoo.com/echarts?s=ARP#symbol=ARP;range=3m" target="_blank">ARP</a></td><td>8.333</td></tr>
+  <tr><td><a href="http://finance.yahoo.com/echarts?s=UCO#symbol=UCO;range=3m" target="_blank">UCO</a></td><td>4.429</td></tr>
+  <tr><td><a href="http://finance.yahoo.com/echarts?s=CLD#symbol=CLD;range=3m" target="_blank">CLD</a></td><td>4</td></tr>
+  <tr><td><a href="http://finance.yahoo.com/echarts?s=BWP#symbol=BWP;range=3m" target="_blank">BWP</a></td><td>3.875</td></tr>
+  <tr><td><a href="http://finance.yahoo.com/echarts?s=GLNG#symbol=GLNG;range=3m" target="_blank">GLNG</a></td><td>2.453</td></tr>
 </table>
