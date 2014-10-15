@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20141015"
-date:   2014-10-15 00:18:36
+date:   2014-10-15 00:30:01
 categories: stock
 ---
 <table border="1">
@@ -60,7 +60,6 @@ categories: stock
   <tr><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ED.html" target="_blank">ED</a></td><td>2.571</td></tr>
   <tr><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OKS.html" target="_blank">OKS</a></td><td>2.564</td></tr>
   <tr><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VXZ.html" target="_blank">VXZ</a></td><td>2.545</td></tr>
-  <tr><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NCLH.html" target="_blank">NCLH</a></td><td>2.536</td></tr>
   <tr><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DUG.html" target="_blank">DUG</a></td><td>2.514</td></tr>
   <tr><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TEN.html" target="_blank">TEN</a></td><td>2.506</td></tr>
   <tr><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARC.html" target="_blank">ARC</a></td><td>2.506</td></tr>
