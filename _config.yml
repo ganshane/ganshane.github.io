@@ -1,6 +1,6 @@
 # Site settings
 title: shakey
-email: jcai@ganshane.com
+email: jcai AT GanShaNe dot com
 description: > # this means to ignore newlines until "baseurl:"
   powered by you!
 baseurl: "" # the subpath of your site, e.g. /blog/
