@@ -128,7 +128,7 @@ stockList.push('gb_amx');
  <tr>
  <td>代码</td>
  <td>最新价</td>
- <td>涨跌幅</td>
+ <td>涨跌幅(%)</td>
  <td>接近程度</td>
  <td>阻力1</td>
  <td>阻力2</td>
