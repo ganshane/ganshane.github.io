@@ -4,10 +4,6 @@ title:  "触碰支撑位或阻力位股票分析20141018"
 date:   2014-10-18 09:33:07
 categories: stock
 ---
-<style type="text/css">
-   .red {background-color: red}
-   .green {background-color: green}
-</style>
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_hyg');
