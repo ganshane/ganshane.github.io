@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20141028"
-date:   2014-10-28 01:18:06
+date:   2014-10-28 04:17:08
 categories: stock
 ---
 <script type="text/javascript">
@@ -50,6 +50,7 @@ stockList.push('gb_fi');
 stockList.push('gb_fcg');
 stockList.push('gb_su');
 stockList.push('gb_htgc');
+stockList.push('gb_pxd');
 stockList.push('gb_apc');
 stockList.push('gb_bns');
 stockList.push('gb_nmm');
@@ -179,6 +180,8 @@ stockList.push('gb_mgm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SU.html" target="_blank">SU</a></td><td></td><td></td><td>49</td><td>38.29</td><td>39.69</td><td>31.33</td><td>33.5</td></tr>
   <tr id="htgc" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HTGC.html" target="_blank">HTGC</a></td><td></td><td></td><td>49</td><td>15.41</td><td>15.43</td><td>13.79</td><td>14.27</td></tr>
+  <tr id="pxd" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PXD.html" target="_blank">PXD</a></td><td></td><td></td><td>48</td><td>179.18</td><td>196.13</td><td>156.82</td><td>0</td></tr>
   <tr id="apc" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APC.html" target="_blank">APC</a></td><td></td><td></td><td>47</td><td>97.63</td><td>103.15</td><td>83.12</td><td>86.86</td></tr>
   <tr id="bns" class="green">
