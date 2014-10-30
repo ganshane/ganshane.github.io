@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20141030"
-date:   2014-10-30 01:18:45
+date:   2014-10-30 04:17:06
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,6 +32,7 @@ stockList.push('gb_atu');
 stockList.push('gb_fsl');
 stockList.push('gb_grfs');
 stockList.push('gb_cmg');
+stockList.push('gb_blox');
 stockList.push('gb_cvd');
 stockList.push('gb_xop');
 stockList.push('gb_blmn');
@@ -123,6 +124,8 @@ stockList.push('gb_seas');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GRFS.html" target="_blank">GRFS</a></td><td></td><td></td><td>63</td><td>35.26</td><td>40</td><td>29.65</td><td>0</td></tr>
   <tr id="cmg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMG.html" target="_blank">CMG</a></td><td></td><td></td><td>61</td><td>651.41</td><td>673.5</td><td>575.92</td><td>608.77</td></tr>
+  <tr id="blox" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BLOX.html" target="_blank">BLOX</a></td><td></td><td></td><td>54</td><td>17.85</td><td>20.88</td><td>13.96</td><td>15.13</td></tr>
   <tr id="cvd" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVD.html" target="_blank">CVD</a></td><td></td><td></td><td>49</td><td>83.19</td><td>85.5</td><td>74.44</td><td>0</td></tr>
   <tr id="xop" class="red">
