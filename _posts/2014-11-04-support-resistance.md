@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20141104"
-date:   2014-11-04 03:12:50
+date:   2014-11-04 04:17:08
 categories: stock
 ---
 <script type="text/javascript">
@@ -29,7 +29,6 @@ stockList.push('gb_ovti');
 stockList.push('gb_cog');
 stockList.push('gb_dan');
 stockList.push('gb_bzh');
-stockList.push('gb_xiv');
 stockList.push('gb_ten');
 stockList.push('gb_splk');
 stockList.push('gb_mdc');
@@ -38,6 +37,7 @@ stockList.push('gb_svxy');
 stockList.push('gb_mmlp');
 stockList.push('gb_arcc');
 stockList.push('gb_mth');
+stockList.push('gb_xiv');
 stockList.push('gb_deo');
 stockList.push('gb_dar');
 stockList.push('gb_fi');
@@ -110,8 +110,6 @@ stockList.push('gb_s');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DAN.html" target="_blank">DAN</a></td><td></td><td></td><td>66</td><td>20.62</td><td>21.99</td><td>18.3</td><td>0</td></tr>
   <tr id="bzh" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BZH.html" target="_blank">BZH</a></td><td></td><td></td><td>63</td><td>18.41</td><td>19.29</td><td>16.11</td><td>0</td></tr>
-  <tr id="xiv" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XIV.html" target="_blank">XIV</a></td><td></td><td></td><td>61</td><td>35.16</td><td>44.62</td><td>28.48</td><td>32.61</td></tr>
   <tr id="ten" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TEN.html" target="_blank">TEN</a></td><td></td><td></td><td>57</td><td>52.77</td><td>53.76</td><td>47.83</td><td>0</td></tr>
   <tr id="splk" class="red">
@@ -128,6 +126,8 @@ stockList.push('gb_s');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARCC.html" target="_blank">ARCC</a></td><td></td><td></td><td>51</td><td>16.45</td><td>16.1</td><td>14.68</td><td>0</td></tr>
   <tr id="mth" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTH.html" target="_blank">MTH</a></td><td></td><td></td><td>47</td><td>37.36</td><td>38.93</td><td>33.27</td><td>0</td></tr>
+  <tr id="xiv" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XIV.html" target="_blank">XIV</a></td><td></td><td></td><td>47</td><td>35.16</td><td>44.62</td><td>28.48</td><td>32.61</td></tr>
   <tr id="deo" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DEO.html" target="_blank">DEO</a></td><td></td><td></td><td>41</td><td>116.44</td><td>122.36</td><td>108.2</td><td>0</td></tr>
   <tr id="dar" class="red">
