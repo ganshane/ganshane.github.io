@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20141114"
-date:   2014-11-14 01:18:08
+date:   2014-11-14 04:18:35
 categories: stock
 ---
 <script type="text/javascript">
@@ -24,7 +24,6 @@ stockList.push('gb_ter');
 stockList.push('gb_cvd');
 stockList.push('gb_rok');
 stockList.push('gb_exg');
-stockList.push('gb_psx');
 stockList.push('gb_cnw');
 stockList.push('gb_onnn');
 stockList.push('gb_lfl');
@@ -107,8 +106,6 @@ stockList.push('gb_gm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ROK.html" target="_blank">ROK</a></td><td></td><td></td><td>80</td><td>111.62</td><td>118.75</td><td>98.61</td><td>0</td></tr>
   <tr id="exg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXG.html" target="_blank">EXG</a></td><td></td><td></td><td>80</td><td>9.96</td><td>10.22</td><td>9.31</td><td>0</td></tr>
-  <tr id="psx" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PSX.html" target="_blank">PSX</a></td><td></td><td></td><td>79</td><td>74.37</td><td>78.89</td><td>66.12</td><td>0</td></tr>
   <tr id="cnw" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CNW.html" target="_blank">CNW</a></td><td></td><td></td><td>77</td><td>47.06</td><td>50.12</td><td>41.93</td><td>42.56</td></tr>
   <tr id="onnn" class="red">
