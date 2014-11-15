@@ -1,18 +1,17 @@
 ---
 layout: post
 title:  "天量股票分析20141115"
-date:   2014-11-15 01:17:43
+date:   2014-11-15 04:17:21
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_rcap');
-stockList.push('gb_king');
-stockList.push('gb_nadl');
 stockList.push('gb_sgms');
 stockList.push('gb_cldx');
 stockList.push('gb_bbry');
-stockList.push('gb_resi');
+stockList.push('gb_rate');
+stockList.push('gb_rxn');
+stockList.push('gb_ctlt');
 </script>
 
 <table border="1">
@@ -23,11 +22,10 @@ stockList.push('gb_resi');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>-0.043</td><td>3.094</td></tr>
-  <tr id="king"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KING.html" target="_blank">KING</a></td><td></td><td></td><td>0.025</td><td>2.323</td></tr>
-  <tr id="nadl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NADL.html" target="_blank">NADL</a></td><td></td><td></td><td>-0.023</td><td>3.69</td></tr>
   <tr id="sgms"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGMS.html" target="_blank">SGMS</a></td><td></td><td></td><td>0.016</td><td>2.744</td></tr>
   <tr id="cldx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLDX.html" target="_blank">CLDX</a></td><td></td><td></td><td>-0.016</td><td>2.524</td></tr>
   <tr id="bbry"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBRY.html" target="_blank">BBRY</a></td><td></td><td></td><td>0.015</td><td>2.76</td></tr>
-  <tr id="resi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RESI.html" target="_blank">RESI</a></td><td></td><td></td><td>-0.014</td><td>2.42</td></tr>
+  <tr id="rate"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RATE.html" target="_blank">RATE</a></td><td></td><td></td><td>0.015</td><td>2.255</td></tr>
+  <tr id="rxn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RXN.html" target="_blank">RXN</a></td><td></td><td></td><td>-0.011</td><td>2.923</td></tr>
+  <tr id="ctlt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CTLT.html" target="_blank">CTLT</a></td><td></td><td></td><td>-0.01</td><td>2.198</td></tr>
 </table>
