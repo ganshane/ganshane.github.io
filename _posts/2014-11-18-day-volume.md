@@ -1,17 +1,14 @@
 ---
 layout: post
 title:  "天量股票分析20141118"
-date:   2014-11-18 01:19:19
+date:   2014-11-18 04:17:01
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_sgms');
-stockList.push('gb_cldx');
-stockList.push('gb_bbry');
-stockList.push('gb_rate');
-stockList.push('gb_rxn');
-stockList.push('gb_ctlt');
+stockList.push('gb_dwa');
+stockList.push('gb_bhi');
+stockList.push('gb_jd');
 </script>
 
 <table border="1">
@@ -22,10 +19,7 @@ stockList.push('gb_ctlt');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="sgms"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGMS.html" target="_blank">SGMS</a></td><td></td><td></td><td>0.016</td><td>2.744</td></tr>
-  <tr id="cldx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLDX.html" target="_blank">CLDX</a></td><td></td><td></td><td>-0.016</td><td>2.524</td></tr>
-  <tr id="bbry"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBRY.html" target="_blank">BBRY</a></td><td></td><td></td><td>0.015</td><td>2.76</td></tr>
-  <tr id="rate"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RATE.html" target="_blank">RATE</a></td><td></td><td></td><td>0.015</td><td>2.255</td></tr>
-  <tr id="rxn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RXN.html" target="_blank">RXN</a></td><td></td><td></td><td>-0.011</td><td>2.923</td></tr>
-  <tr id="ctlt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CTLT.html" target="_blank">CTLT</a></td><td></td><td></td><td>-0.01</td><td>2.198</td></tr>
+  <tr id="dwa"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DWA.html" target="_blank">DWA</a></td><td></td><td></td><td>0.016</td><td>2.821</td></tr>
+  <tr id="bhi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BHI.html" target="_blank">BHI</a></td><td></td><td></td><td>0.014</td><td>6.398</td></tr>
+  <tr id="jd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JD.html" target="_blank">JD</a></td><td></td><td></td><td>0.014</td><td>2.212</td></tr>
 </table>
