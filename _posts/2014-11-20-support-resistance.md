@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20141120"
-date:   2014-11-20 01:17:55
+date:   2014-11-20 04:17:33
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,7 +17,6 @@ stockList.push('gb_enb');
 stockList.push('gb_win');
 stockList.push('gb_vxus');
 stockList.push('gb_cmc');
-stockList.push('gb_yelp');
 stockList.push('gb_mur');
 stockList.push('gb_ecol');
 stockList.push('gb_wfm');
@@ -81,8 +80,6 @@ stockList.push('gb_clh');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VXUS.html" target="_blank">VXUS</a></td><td></td><td></td><td>89</td><td>50.7</td><td>52.92</td><td>47</td><td>0</td></tr>
   <tr id="cmc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMC.html" target="_blank">CMC</a></td><td></td><td></td><td>89</td><td>16.76</td><td>18.19</td><td>14.41</td><td>0</td></tr>
-  <tr id="yelp" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YELP.html" target="_blank">YELP</a></td><td></td><td></td><td>87</td><td>58.81</td><td>62.38</td><td>52.55</td><td>0</td></tr>
   <tr id="mur" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MUR.html" target="_blank">MUR</a></td><td></td><td></td><td>85</td><td>58.86</td><td>54.57</td><td>50.74</td><td>0</td></tr>
   <tr id="ecol" class="green">
