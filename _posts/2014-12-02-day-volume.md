@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20141202"
-date:   2014-12-02 02:26:47
+date:   2014-12-02 04:40:59
 categories: stock
 ---
 <script type="text/javascript">
@@ -37,6 +37,7 @@ stockList.push('gb_crzo');
 stockList.push('gb_mtdr');
 stockList.push('gb_memp');
 stockList.push('gb_crr');
+stockList.push('gb_qre');
 stockList.push('gb_royt');
 stockList.push('gb_lnco');
 stockList.push('gb_arex');
@@ -95,6 +96,7 @@ stockList.push('gb_upl');
   <tr id="mtdr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTDR.html" target="_blank">MTDR</a></td><td></td><td></td><td>-0.013</td><td>2.635</td></tr>
   <tr id="memp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MEMP.html" target="_blank">MEMP</a></td><td></td><td></td><td>-0.013</td><td>2.467</td></tr>
   <tr id="crr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRR.html" target="_blank">CRR</a></td><td></td><td></td><td>-0.013</td><td>2.319</td></tr>
+  <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.914</td></tr>
   <tr id="royt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ROYT.html" target="_blank">ROYT</a></td><td></td><td></td><td>-0.013</td><td>2.725</td></tr>
   <tr id="lnco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LNCO.html" target="_blank">LNCO</a></td><td></td><td></td><td>-0.013</td><td>2.916</td></tr>
   <tr id="arex"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AREX.html" target="_blank">AREX</a></td><td></td><td></td><td>-0.012</td><td>2.491</td></tr>

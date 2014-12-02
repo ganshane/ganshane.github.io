@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20141202"
-date:   2014-12-02 02:26:47
+date:   2014-12-02 04:40:59
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_pkt');
 stockList.push('gb_swn');
+stockList.push('gb_qre');
 stockList.push('gb_cree');
 stockList.push('gb_mbly');
 stockList.push('gb_ely');
@@ -64,6 +65,8 @@ stockList.push('gb_vimc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PKT.html" target="_blank">PKT</a></td><td></td><td></td><td>100</td><td>8.45</td><td>7.52</td><td>6.5</td><td>0</td></tr>
   <tr id="swn" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWN.html" target="_blank">SWN</a></td><td></td><td></td><td>94</td><td>38.4</td><td>34.96</td><td>31</td><td>0</td></tr>
+  <tr id="qre" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>94</td><td>15.24</td><td>16.99</td><td>14.05</td><td>0</td></tr>
   <tr id="cree" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CREE.html" target="_blank">CREE</a></td><td></td><td></td><td>92</td><td>44.83</td><td>48.86</td><td>31.4</td><td>34.09</td></tr>
   <tr id="mbly" class="red">
