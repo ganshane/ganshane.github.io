@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "天量股票分析20141204"
+date:   2014-12-04 01:17:54
+categories: stock
+---
+<script type="text/javascript">
+var stockList = []
+stockList.push('gb_exxi');
+stockList.push('gb_sm');
+stockList.push('gb_nog');
+stockList.push('gb_wll');
+stockList.push('gb_sdlp');
+stockList.push('gb_nr');
+stockList.push('gb_arex');
+stockList.push('gb_ne');
+stockList.push('gb_bbg');
+stockList.push('gb_hclp');
+stockList.push('gb_rusl');
+stockList.push('gb_sto');
+stockList.push('gb_ftk');
+stockList.push('gb_pba');
+stockList.push('gb_qre');
+stockList.push('gb_tasr');
+stockList.push('gb_sblk');
+stockList.push('gb_code');
+stockList.push('gb_jd');
+stockList.push('gb_semg');
+stockList.push('gb_amag');
+stockList.push('gb_cmcm');
+stockList.push('gb_adi');
+stockList.push('gb_orig');
+</script>
+
+<table border="1">
+ <tr>
+  <td>代码</td>
+  <td>最新价</td>
+  <td>涨跌幅(%)</td>
+ <td>强度指数</td>
+ <td>天量指数</td>
+</tr>
+  <tr id="exxi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXXI.html" target="_blank">EXXI</a></td><td></td><td></td><td>-0.063</td><td>2.09</td></tr>
+  <tr id="sm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SM.html" target="_blank">SM</a></td><td></td><td></td><td>-0.034</td><td>2.052</td></tr>
+  <tr id="nog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NOG.html" target="_blank">NOG</a></td><td></td><td></td><td>-0.031</td><td>2.517</td></tr>
+  <tr id="wll"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WLL.html" target="_blank">WLL</a></td><td></td><td></td><td>-0.03</td><td>2.113</td></tr>
+  <tr id="sdlp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDLP.html" target="_blank">SDLP</a></td><td></td><td></td><td>-0.028</td><td>2.187</td></tr>
+  <tr id="nr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NR.html" target="_blank">NR</a></td><td></td><td></td><td>-0.026</td><td>2.407</td></tr>
+  <tr id="arex"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AREX.html" target="_blank">AREX</a></td><td></td><td></td><td>-0.022</td><td>2.003</td></tr>
+  <tr id="ne"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NE.html" target="_blank">NE</a></td><td></td><td></td><td>-0.022</td><td>2.179</td></tr>
+  <tr id="bbg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBG.html" target="_blank">BBG</a></td><td></td><td></td><td>-0.021</td><td>2.084</td></tr>
+  <tr id="hclp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HCLP.html" target="_blank">HCLP</a></td><td></td><td></td><td>-0.021</td><td>2.182</td></tr>
+  <tr id="rusl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RUSL.html" target="_blank">RUSL</a></td><td></td><td></td><td>-0.018</td><td>2.137</td></tr>
+  <tr id="sto"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/STO.html" target="_blank">STO</a></td><td></td><td></td><td>-0.017</td><td>2.69</td></tr>
+  <tr id="ftk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FTK.html" target="_blank">FTK</a></td><td></td><td></td><td>-0.016</td><td>2.497</td></tr>
+  <tr id="pba"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PBA.html" target="_blank">PBA</a></td><td></td><td></td><td>-0.014</td><td>2.051</td></tr>
+  <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.914</td></tr>
+  <tr id="tasr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TASR.html" target="_blank">TASR</a></td><td></td><td></td><td>0.012</td><td>3.162</td></tr>
+  <tr id="sblk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SBLK.html" target="_blank">SBLK</a></td><td></td><td></td><td>-0.012</td><td>2.195</td></tr>
+  <tr id="code"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CODE.html" target="_blank">CODE</a></td><td></td><td></td><td>0.012</td><td>27.491</td></tr>
+  <tr id="jd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JD.html" target="_blank">JD</a></td><td></td><td></td><td>-0.011</td><td>2.976</td></tr>
+  <tr id="semg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SEMG.html" target="_blank">SEMG</a></td><td></td><td></td><td>-0.011</td><td>2.689</td></tr>
+  <tr id="amag"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMAG.html" target="_blank">AMAG</a></td><td></td><td></td><td>0.01</td><td>2.059</td></tr>
+  <tr id="cmcm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMCM.html" target="_blank">CMCM</a></td><td></td><td></td><td>-0.01</td><td>2.263</td></tr>
+  <tr id="adi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ADI.html" target="_blank">ADI</a></td><td></td><td></td><td>0.01</td><td>2.708</td></tr>
+  <tr id="orig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ORIG.html" target="_blank">ORIG</a></td><td></td><td></td><td>-0.01</td><td>2.355</td></tr>
+</table>
