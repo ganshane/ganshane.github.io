@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20141209"
-date:   2014-12-09 01:18:00
+date:   2014-12-09 04:17:13
 categories: stock
 ---
 <script type="text/javascript">
@@ -31,6 +31,7 @@ stockList.push('gb_igd');
 stockList.push('gb_acwx');
 stockList.push('gb_cpa');
 stockList.push('gb_wmb');
+stockList.push('gb_twtr');
 stockList.push('gb_aeis');
 stockList.push('gb_ino');
 stockList.push('gb_xone');
@@ -107,6 +108,8 @@ stockList.push('gb_sbgl');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CPA.html" target="_blank">CPA</a></td><td></td><td></td><td>53</td><td>121.68</td><td>113.71</td><td>105.93</td><td>0</td></tr>
   <tr id="wmb" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WMB.html" target="_blank">WMB</a></td><td></td><td></td><td>53</td><td>53.38</td><td>56.81</td><td>46.15</td><td>42.94</td></tr>
+  <tr id="twtr" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TWTR.html" target="_blank">TWTR</a></td><td></td><td></td><td>45</td><td>39.68</td><td>42.08</td><td>35.95</td><td>0</td></tr>
   <tr id="aeis" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AEIS.html" target="_blank">AEIS</a></td><td></td><td></td><td>44</td><td>23.2</td><td>24.64</td><td>19.78</td><td>20.88</td></tr>
   <tr id="ino" class="green">

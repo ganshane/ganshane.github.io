@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20141209"
-date:   2014-12-09 01:18:00
+date:   2014-12-09 04:17:13
 categories: stock
 ---
 <script type="text/javascript">
@@ -33,6 +33,7 @@ stockList.push('gb_wmb');
 stockList.push('gb_mcc');
 stockList.push('gb_vde');
 stockList.push('gb_iye');
+stockList.push('gb_txtr');
 stockList.push('gb_nmm');
 stockList.push('gb_achn');
 stockList.push('gb_kpti');
@@ -63,7 +64,7 @@ stockList.push('gb_mlpn');
   <tr id="yndx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YNDX.html" target="_blank">YNDX</a></td><td></td><td></td><td>-0.023</td><td>2.433</td></tr>
   <tr id="rrc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RRC.html" target="_blank">RRC</a></td><td></td><td></td><td>-0.021</td><td>2.036</td></tr>
   <tr id="czz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CZZ.html" target="_blank">CZZ</a></td><td></td><td></td><td>-0.019</td><td>3.509</td></tr>
-  <tr id="ymlp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YMLP.html" target="_blank">YMLP</a></td><td></td><td></td><td>-0.016</td><td>2.203</td></tr>
+  <tr id="ymlp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YMLP.html" target="_blank">YMLP</a></td><td></td><td></td><td>-0.016</td><td>2.202</td></tr>
   <tr id="cmcm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMCM.html" target="_blank">CMCM</a></td><td></td><td></td><td>-0.015</td><td>2.494</td></tr>
   <tr id="cmge"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMGE.html" target="_blank">CMGE</a></td><td></td><td></td><td>-0.015</td><td>2.008</td></tr>
   <tr id="athm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATHM.html" target="_blank">ATHM</a></td><td></td><td></td><td>-0.014</td><td>3.064</td></tr>
@@ -74,6 +75,7 @@ stockList.push('gb_mlpn');
   <tr id="mcc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MCC.html" target="_blank">MCC</a></td><td></td><td></td><td>-0.012</td><td>2.449</td></tr>
   <tr id="vde"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VDE.html" target="_blank">VDE</a></td><td></td><td></td><td>-0.012</td><td>2.213</td></tr>
   <tr id="iye"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IYE.html" target="_blank">IYE</a></td><td></td><td></td><td>-0.011</td><td>2.078</td></tr>
+  <tr id="txtr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TXTR.html" target="_blank">TXTR</a></td><td></td><td></td><td>0.011</td><td>2.413</td></tr>
   <tr id="nmm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NMM.html" target="_blank">NMM</a></td><td></td><td></td><td>-0.011</td><td>2.327</td></tr>
   <tr id="achn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACHN.html" target="_blank">ACHN</a></td><td></td><td></td><td>0.011</td><td>2.06</td></tr>
   <tr id="kpti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KPTI.html" target="_blank">KPTI</a></td><td></td><td></td><td>0.01</td><td>2.871</td></tr>
