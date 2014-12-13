@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20141213"
-date:   2014-12-13 01:18:38
+date:   2014-12-13 04:18:05
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,6 +14,7 @@ stockList.push('gb_gdxj');
 stockList.push('gb_l');
 stockList.push('gb_sny');
 stockList.push('gb_amcc');
+stockList.push('gb_szmk');
 stockList.push('gb_cmc');
 stockList.push('gb_mth');
 stockList.push('gb_dow');
@@ -69,6 +70,8 @@ stockList.push('gb_dks');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNY.html" target="_blank">SNY</a></td><td></td><td></td><td>85</td><td>49.82</td><td>48.98</td><td>45.01</td><td>0</td></tr>
   <tr id="amcc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMCC.html" target="_blank">AMCC</a></td><td></td><td></td><td>84</td><td>6.01</td><td>6.25</td><td>5.64</td><td>0</td></tr>
+  <tr id="szmk" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SZMK.html" target="_blank">SZMK</a></td><td></td><td></td><td>84</td><td>8.58</td><td>9</td><td>5.69</td><td>6.25</td></tr>
   <tr id="cmc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMC.html" target="_blank">CMC</a></td><td></td><td></td><td>82</td><td>16.12</td><td>17.1</td><td>14.41</td><td>0</td></tr>
   <tr id="mth" class="green">

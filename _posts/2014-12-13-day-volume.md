@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20141213"
-date:   2014-12-13 01:18:38
+date:   2014-12-13 04:18:05
 categories: stock
 ---
 <script type="text/javascript">
@@ -44,7 +44,7 @@ stockList.push('gb_win');
   <tr id="tlm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>-0.028</td><td>6.351</td></tr>
   <tr id="tck"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TCK.html" target="_blank">TCK</a></td><td></td><td></td><td>-0.026</td><td>2.109</td></tr>
   <tr id="sgmo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGMO.html" target="_blank">SGMO</a></td><td></td><td></td><td>0.019</td><td>3.062</td></tr>
-  <tr id="wmb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WMB.html" target="_blank">WMB</a></td><td></td><td></td><td>-0.017</td><td>2.219</td></tr>
+  <tr id="wmb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WMB.html" target="_blank">WMB</a></td><td></td><td></td><td>-0.017</td><td>2.218</td></tr>
   <tr id="onvo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ONVO.html" target="_blank">ONVO</a></td><td></td><td></td><td>-0.017</td><td>4.816</td></tr>
   <tr id="edz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EDZ.html" target="_blank">EDZ</a></td><td></td><td></td><td>0.017</td><td>2.105</td></tr>
   <tr id="xiv"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XIV.html" target="_blank">XIV</a></td><td></td><td></td><td>-0.015</td><td>2.533</td></tr>
