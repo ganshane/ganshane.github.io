@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20141219"
-date:   2014-12-19 01:18:21
+date:   2014-12-19 04:17:58
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,9 +11,9 @@ stockList.push('gb_mbt');
 stockList.push('gb_kog');
 stockList.push('gb_axll');
 stockList.push('gb_ery');
+stockList.push('gb_tsl');
 stockList.push('gb_vale.p');
 stockList.push('gb_sxl');
-stockList.push('gb_tsl');
 stockList.push('gb_pah');
 stockList.push('gb_stld');
 stockList.push('gb_dug');
@@ -37,14 +37,14 @@ stockList.push('gb_king');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="rusl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RUSL.html" target="_blank">RUSL</a></td><td></td><td></td><td>-0.101</td><td>2.786</td></tr>
+  <tr id="rusl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RUSL.html" target="_blank">RUSL</a></td><td></td><td></td><td>-0.101</td><td>2.774</td></tr>
   <tr id="mbt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MBT.html" target="_blank">MBT</a></td><td></td><td></td><td>-0.064</td><td>3.767</td></tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.057</td><td>7.657</td></tr>
   <tr id="axll"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AXLL.html" target="_blank">AXLL</a></td><td></td><td></td><td>-0.024</td><td>2.172</td></tr>
   <tr id="ery"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ERY.html" target="_blank">ERY</a></td><td></td><td></td><td>0.023</td><td>2.033</td></tr>
+  <tr id="tsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TSL.html" target="_blank">TSL</a></td><td></td><td></td><td>-0.021</td><td>2.626</td></tr>
   <tr id="vale.p"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VALE.P.html" target="_blank">VALE.P</a></td><td></td><td></td><td>-0.02</td><td>2.156</td></tr>
   <tr id="sxl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SXL.html" target="_blank">SXL</a></td><td></td><td></td><td>-0.02</td><td>2.094</td></tr>
-  <tr id="tsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TSL.html" target="_blank">TSL</a></td><td></td><td></td><td>-0.02</td><td>2.381</td></tr>
   <tr id="pah"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PAH.html" target="_blank">PAH</a></td><td></td><td></td><td>-0.019</td><td>2.251</td></tr>
   <tr id="stld"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/STLD.html" target="_blank">STLD</a></td><td></td><td></td><td>-0.019</td><td>3.249</td></tr>
   <tr id="dug"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DUG.html" target="_blank">DUG</a></td><td></td><td></td><td>0.017</td><td>3.09</td></tr>
