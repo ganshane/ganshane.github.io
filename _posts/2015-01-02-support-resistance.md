@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150102"
-date:   2015-01-02 01:17:41
+date:   2015-01-02 04:17:05
 categories: stock
 ---
 <script type="text/javascript">
@@ -15,7 +15,6 @@ stockList.push('gb_pah');
 stockList.push('gb_ige');
 stockList.push('gb_qre');
 stockList.push('gb_aa');
-stockList.push('gb_ibm');
 stockList.push('gb_invn');
 stockList.push('gb_ncr');
 stockList.push('gb_jec');
@@ -47,6 +46,7 @@ stockList.push('gb_ryam');
 stockList.push('gb_jd');
 stockList.push('gb_stng');
 stockList.push('gb_f');
+stockList.push('gb_vale');
 stockList.push('gb_iev');
 stockList.push('gb_apc');
 stockList.push('gb_spil');
@@ -58,7 +58,6 @@ stockList.push('gb_apam');
 stockList.push('gb_mth');
 stockList.push('gb_oxy');
 stockList.push('gb_nws');
-stockList.push('gb_xom');
 </script>
 <table border="1">
  <tr>
@@ -89,8 +88,6 @@ stockList.push('gb_xom');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>94</td><td>15.24</td><td>16.99</td><td>14.05</td><td>0</td></tr>
   <tr id="aa" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AA.html" target="_blank">AA</a></td><td></td><td></td><td>94</td><td>16.02</td><td>16.43</td><td>14.41</td><td>13.95</td></tr>
-  <tr id="ibm" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IBM.html" target="_blank">IBM</a></td><td></td><td></td><td>89</td><td>161.01</td><td>164.5</td><td>151.11</td><td>0</td></tr>
   <tr id="invn" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INVN.html" target="_blank">INVN</a></td><td></td><td></td><td>88</td><td>17.41</td><td>21.75</td><td>13.5</td><td>15.87</td></tr>
   <tr id="ncr" class="red">
@@ -153,6 +150,8 @@ stockList.push('gb_xom');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/STNG.html" target="_blank">STNG</a></td><td></td><td></td><td>44</td><td>8.75</td><td>9.04</td><td>8.04</td><td>0</td></tr>
   <tr id="f" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/F.html" target="_blank">F</a></td><td></td><td></td><td>43</td><td>15.55</td><td>16.03</td><td>14.11</td><td>14.49</td></tr>
+  <tr id="vale" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VALE.html" target="_blank">VALE</a></td><td></td><td></td><td>41</td><td>8.4</td><td>9.5</td><td>6.82</td><td>0</td></tr>
   <tr id="iev" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IEV.html" target="_blank">IEV</a></td><td></td><td></td><td>39</td><td>45.54</td><td>45.02</td><td>42.24</td><td>0</td></tr>
   <tr id="apc" class="red">
@@ -175,6 +174,4 @@ stockList.push('gb_xom');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OXY.html" target="_blank">OXY</a></td><td></td><td></td><td>23</td><td>81.948</td><td>83.19</td><td>72.32</td><td>0</td></tr>
   <tr id="nws" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NWS.html" target="_blank">NWS</a></td><td></td><td></td><td>22</td><td>16.2</td><td>15.44</td><td>14.34</td><td>0</td></tr>
-  <tr id="xom" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XOM.html" target="_blank">XOM</a></td><td></td><td></td><td>21</td><td>94.13</td><td>97.2</td><td>88.18</td><td>0</td></tr>
 </table>
