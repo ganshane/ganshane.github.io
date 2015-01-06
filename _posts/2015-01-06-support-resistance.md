@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150106"
-date:   2015-01-06 01:17:43
+date:   2015-01-06 04:17:49
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,6 +32,7 @@ stockList.push('gb_sdrl');
 stockList.push('gb_jcp');
 stockList.push('gb_atml');
 stockList.push('gb_bhp');
+stockList.push('gb_ddd');
 stockList.push('gb_bns');
 stockList.push('gb_trgp');
 stockList.push('gb_rcap');
@@ -112,6 +113,8 @@ stockList.push('gb_iye');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATML.html" target="_blank">ATML</a></td><td></td><td></td><td>51</td><td>9.07</td><td>8.76</td><td>8.1</td><td>8.17</td></tr>
   <tr id="bhp" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BHP.html" target="_blank">BHP</a></td><td></td><td></td><td>48</td><td>55.59</td><td>59.5</td><td>45.09</td><td>0</td></tr>
+  <tr id="ddd" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DDD.html" target="_blank">DDD</a></td><td></td><td></td><td>48</td><td>32.64</td><td>38.07</td><td>30.14</td><td>0</td></tr>
   <tr id="bns" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BNS.html" target="_blank">BNS</a></td><td></td><td></td><td>47</td><td>58.3</td><td>61.43</td><td>54.31</td><td>0</td></tr>
   <tr id="trgp" class="red">
