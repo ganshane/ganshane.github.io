@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "强势股票分析20150120"
-date:   2015-01-20 01:17:24
+date:   2015-01-20 04:18:13
 categories: stock
 ---
 <table border="1">
@@ -580,6 +580,7 @@ categories: stock
   <tr style="background-color:red"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMLP.html" target="_blank">CMLP</a></td><td>0.001</td><td>-0.001</td><td>0.004</td></tr>
   <tr style="background-color:blue"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XRT.html" target="_blank">XRT</a></td><td>0.001</td><td>-0.005</td><td>-0.006</td></tr>
   <tr style="background-color:blue"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BRKR.html" target="_blank">BRKR</a></td><td>0.001</td><td>-0.005</td><td>-0.023</td></tr>
+  <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GRT.html" target="_blank">GRT</a></td><td>0.001</td><td>0.001</td><td>0.003</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PKG.html" target="_blank">PKG</a></td><td>0.001</td><td>0.004</td><td>0.006</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KMB.html" target="_blank">KMB</a></td><td>0.001</td><td>0.002</td><td>0.005</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EEM.html" target="_blank">EEM</a></td><td>0.001</td><td>0.001</td><td>0.004</td></tr>
