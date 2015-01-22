@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150122"
-date:   2015-01-22 01:19:14
+date:   2015-01-22 04:18:41
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_icpt');
-stockList.push('gb_ctcm');
+stockList.push('gb_grfs');
 stockList.push('gb_qre');
 stockList.push('gb_baba');
 stockList.push('gb_fdo');
@@ -25,7 +25,7 @@ stockList.push('gb_tsl');
 stockList.push('gb_ino');
 stockList.push('gb_gntx');
 stockList.push('gb_ewi');
-stockList.push('gb_uan');
+stockList.push('gb_cfg');
 stockList.push('gb_vmw');
 stockList.push('gb_trs');
 stockList.push('gb_leju');
@@ -54,8 +54,8 @@ stockList.push('gb_ewz');
 </tr>
   <tr id="icpt" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ICPT.html" target="_blank">ICPT</a></td><td></td><td></td><td>100</td><td>176.13</td><td>175</td><td>128.6</td><td>148.8</td></tr>
-  <tr id="ctcm" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CTCM.html" target="_blank">CTCM</a></td><td></td><td></td><td>100</td><td>4.54</td><td>5.08</td><td>4.26</td><td>0</td></tr>
+  <tr id="grfs" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GRFS.html" target="_blank">GRFS</a></td><td></td><td></td><td>95</td><td>35.26</td><td>34.82</td><td>32.6</td><td>0</td></tr>
   <tr id="qre" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>94</td><td>15.24</td><td>16.99</td><td>14.05</td><td>0</td></tr>
   <tr id="baba" class="red">
@@ -90,8 +90,8 @@ stockList.push('gb_ewz');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GNTX.html" target="_blank">GNTX</a></td><td></td><td></td><td>64</td><td>17.645</td><td>18.7</td><td>14.525</td><td>15.385</td></tr>
   <tr id="ewi" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWI.html" target="_blank">EWI</a></td><td></td><td></td><td>64</td><td>13.78</td><td>14.16</td><td>12.81</td><td>0</td></tr>
-  <tr id="uan" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UAN.html" target="_blank">UAN</a></td><td></td><td></td><td>63</td><td>10.76</td><td>13.06</td><td>8.72</td><td>0</td></tr>
+  <tr id="cfg" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CFG.html" target="_blank">CFG</a></td><td></td><td></td><td>62</td><td>23.5</td><td>24.25</td><td>21.73</td><td>0</td></tr>
   <tr id="vmw" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VMW.html" target="_blank">VMW</a></td><td></td><td></td><td>58</td><td>82.11</td><td>82.59</td><td>76.21</td><td>0</td></tr>
   <tr id="trs" class="red">
