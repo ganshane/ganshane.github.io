@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150127"
-date:   2015-01-27 01:18:40
+date:   2015-01-27 04:18:07
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,6 +9,7 @@ var stockList = []
 stockList.push('gb_aer');
 stockList.push('gb_paa');
 stockList.push('gb_atw');
+stockList.push('gb_qre');
 stockList.push('gb_har');
 stockList.push('gb_apc');
 stockList.push('gb_bhi');
@@ -24,7 +25,6 @@ stockList.push('gb_lpsn');
 stockList.push('gb_spxu');
 stockList.push('gb_flir');
 stockList.push('gb_slxp');
-stockList.push('gb_iex');
 stockList.push('gb_mtw');
 stockList.push('gb_orig');
 stockList.push('gb_dhx');
@@ -52,6 +52,8 @@ stockList.push('gb_nmm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PAA.html" target="_blank">PAA</a></td><td></td><td></td><td>95</td><td>52</td><td>52.68</td><td>47.57</td><td>0</td></tr>
   <tr id="atw" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>94</td><td>34.84</td><td>30.07</td><td>26.36</td><td>0</td></tr>
+  <tr id="qre" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>94</td><td>15.24</td><td>16.99</td><td>14.05</td><td>0</td></tr>
   <tr id="har" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HAR.html" target="_blank">HAR</a></td><td></td><td></td><td>90</td><td>102.9</td><td>108.31</td><td>85.74</td><td>0</td></tr>
   <tr id="apc" class="red">
@@ -82,8 +84,6 @@ stockList.push('gb_nmm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FLIR.html" target="_blank">FLIR</a></td><td></td><td></td><td>59</td><td>30.97</td><td>32.76</td><td>28.32</td><td>0</td></tr>
   <tr id="slxp" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLXP.html" target="_blank">SLXP</a></td><td></td><td></td><td>47</td><td>127.19</td><td>136.62</td><td>111.24</td><td>118.48</td></tr>
-  <tr id="iex" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IEX.html" target="_blank">IEX</a></td><td></td><td></td><td>46</td><td>73.24</td><td>76.67</td><td>65.91</td><td>0</td></tr>
   <tr id="mtw" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTW.html" target="_blank">MTW</a></td><td></td><td></td><td>46</td><td>20.24</td><td>21.62</td><td>18.01</td><td>0</td></tr>
   <tr id="orig" class="red">
