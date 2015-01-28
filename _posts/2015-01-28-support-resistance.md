@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150128"
-date:   2015-01-28 01:19:06
+date:   2015-01-28 04:17:11
 categories: stock
 ---
 <script type="text/javascript">
@@ -21,6 +21,7 @@ stockList.push('gb_paa');
 stockList.push('gb_slxp');
 stockList.push('gb_ttph');
 stockList.push('gb_allt');
+stockList.push('gb_ggn');
 stockList.push('gb_bdbd');
 stockList.push('gb_abbv');
 stockList.push('gb_im');
@@ -88,6 +89,8 @@ stockList.push('gb_nmm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TTPH.html" target="_blank">TTPH</a></td><td></td><td></td><td>79</td><td>36.5</td><td>44.55</td><td>21.65</td><td>25.5</td></tr>
   <tr id="allt" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALLT.html" target="_blank">ALLT</a></td><td></td><td></td><td>79</td><td>9.5</td><td>11.77</td><td>8.81</td><td>0</td></tr>
+  <tr id="ggn" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GGN.html" target="_blank">GGN</a></td><td></td><td></td><td>75</td><td>7.76</td><td>9.19</td><td>6.8</td><td>0</td></tr>
   <tr id="bdbd" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BDBD.html" target="_blank">BDBD</a></td><td></td><td></td><td>71</td><td>11.02</td><td>10.71</td><td>10</td><td>0</td></tr>
   <tr id="abbv" class="red">
