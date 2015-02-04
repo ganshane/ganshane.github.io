@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150204"
-date:   2015-02-04 01:17:59
+date:   2015-02-04 04:18:29
 categories: stock
 ---
 <script type="text/javascript">
@@ -49,16 +49,16 @@ stockList.push('gb_sse');
  <td>天量指数</td>
 </tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.057</td><td>7.657</td></tr>
-  <tr id="bbep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBEP.html" target="_blank">BBEP</a></td><td></td><td></td><td>0.045</td><td>2.976</td></tr>
+  <tr id="bbep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBEP.html" target="_blank">BBEP</a></td><td></td><td></td><td>0.045</td><td>2.97</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>0.042</td><td>2.096</td></tr>
-  <tr id="clf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLF.html" target="_blank">CLF</a></td><td></td><td></td><td>-0.038</td><td>2.72</td></tr>
+  <tr id="clf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLF.html" target="_blank">CLF</a></td><td></td><td></td><td>-0.038</td><td>2.703</td></tr>
   <tr id="bxe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BXE.html" target="_blank">BXE</a></td><td></td><td></td><td>-0.031</td><td>2.01</td></tr>
-  <tr id="exxi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXXI.html" target="_blank">EXXI</a></td><td></td><td></td><td>0.03</td><td>2.346</td></tr>
+  <tr id="exxi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXXI.html" target="_blank">EXXI</a></td><td></td><td></td><td>0.03</td><td>2.345</td></tr>
   <tr id="arp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARP.html" target="_blank">ARP</a></td><td></td><td></td><td>0.03</td><td>2.092</td></tr>
   <tr id="bcei"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BCEI.html" target="_blank">BCEI</a></td><td></td><td></td><td>0.027</td><td>4.7</td></tr>
   <tr id="lgcy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LGCY.html" target="_blank">LGCY</a></td><td></td><td></td><td>0.026</td><td>2.018</td></tr>
   <tr id="opk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OPK.html" target="_blank">OPK</a></td><td></td><td></td><td>0.023</td><td>2.54</td></tr>
-  <tr id="emes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EMES.html" target="_blank">EMES</a></td><td></td><td></td><td>-0.022</td><td>2.398</td></tr>
+  <tr id="emes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EMES.html" target="_blank">EMES</a></td><td></td><td></td><td>-0.022</td><td>2.397</td></tr>
   <tr id="stng"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/STNG.html" target="_blank">STNG</a></td><td></td><td></td><td>-0.022</td><td>2.38</td></tr>
   <tr id="sn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SN.html" target="_blank">SN</a></td><td></td><td></td><td>0.022</td><td>2.307</td></tr>
   <tr id="tti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TTI.html" target="_blank">TTI</a></td><td></td><td></td><td>-0.021</td><td>5.857</td></tr>
@@ -68,7 +68,7 @@ stockList.push('gb_sse');
   <tr id="cveo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVEO.html" target="_blank">CVEO</a></td><td></td><td></td><td>-0.016</td><td>2.627</td></tr>
   <tr id="line"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LINE.html" target="_blank">LINE</a></td><td></td><td></td><td>0.016</td><td>2.35</td></tr>
   <tr id="epe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EPE.html" target="_blank">EPE</a></td><td></td><td></td><td>0.016</td><td>2.07</td></tr>
-  <tr id="crk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRK.html" target="_blank">CRK</a></td><td></td><td></td><td>-0.015</td><td>2.483</td></tr>
+  <tr id="crk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRK.html" target="_blank">CRK</a></td><td></td><td></td><td>-0.015</td><td>2.482</td></tr>
   <tr id="wll"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WLL.html" target="_blank">WLL</a></td><td></td><td></td><td>0.015</td><td>2.56</td></tr>
   <tr id="pbf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PBF.html" target="_blank">PBF</a></td><td></td><td></td><td>0.014</td><td>2.905</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.914</td></tr>

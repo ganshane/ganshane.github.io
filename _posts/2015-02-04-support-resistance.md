@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150204"
-date:   2015-02-04 01:17:59
+date:   2015-02-04 04:18:29
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,6 +32,7 @@ stockList.push('gb_n');
 stockList.push('gb_apam');
 stockList.push('gb_nfx');
 stockList.push('gb_lpsn');
+stockList.push('gb_wpz');
 stockList.push('gb_gra');
 stockList.push('gb_rds.b');
 stockList.push('gb_mtw');
@@ -104,6 +105,8 @@ stockList.push('gb_lvs');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NFX.html" target="_blank">NFX</a></td><td></td><td></td><td>45</td><td>32.72</td><td>35.84</td><td>26.85</td><td>27.99</td></tr>
   <tr id="lpsn" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPSN.html" target="_blank">LPSN</a></td><td></td><td></td><td>44</td><td>12.37</td><td>13.2</td><td>9.52</td><td>10.63</td></tr>
+  <tr id="wpz" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPZ.html" target="_blank">WPZ</a></td><td></td><td></td><td>43</td><td>49.218</td><td>50.556</td><td>45.071</td><td>0</td></tr>
   <tr id="gra" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GRA.html" target="_blank">GRA</a></td><td></td><td></td><td>40</td><td>90.4</td><td>93.42</td><td>79.7</td><td>0</td></tr>
   <tr id="rds.b" class="red">
