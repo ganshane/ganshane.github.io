@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150217"
-date:   2015-02-17 01:17:50
+date:   2015-02-17 04:17:13
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,6 +9,7 @@ var stockList = []
 stockList.push('gb_dsx');
 stockList.push('gb_spn');
 stockList.push('gb_grfs');
+stockList.push('gb_qre');
 stockList.push('gb_qep');
 stockList.push('gb_fmsa');
 stockList.push('gb_sgy');
@@ -62,6 +63,8 @@ stockList.push('gb_xme');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPN.html" target="_blank">SPN</a></td><td></td><td></td><td>96</td><td>23.04</td><td>25.74</td><td>18.23</td><td>20.97</td></tr>
   <tr id="grfs" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GRFS.html" target="_blank">GRFS</a></td><td></td><td></td><td>95</td><td>35.26</td><td>34.82</td><td>32.6</td><td>0</td></tr>
+  <tr id="qre" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>94</td><td>15.24</td><td>16.99</td><td>14.05</td><td>0</td></tr>
   <tr id="qep" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QEP.html" target="_blank">QEP</a></td><td></td><td></td><td>92</td><td>22.73</td><td>25.47</td><td>18.84</td><td>20.49</td></tr>
   <tr id="fmsa" class="red">

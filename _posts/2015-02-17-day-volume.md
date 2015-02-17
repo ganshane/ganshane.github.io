@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150217"
-date:   2015-02-17 01:17:50
+date:   2015-02-17 04:17:13
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,6 +11,7 @@ stockList.push('gb_vdsi');
 stockList.push('gb_ptla');
 stockList.push('gb_lake');
 stockList.push('gb_ceco');
+stockList.push('gb_qre');
 stockList.push('gb_nrp');
 stockList.push('gb_feye');
 stockList.push('gb_rfmd');
@@ -32,6 +33,7 @@ stockList.push('gb_dug');
   <tr id="ptla"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTLA.html" target="_blank">PTLA</a></td><td></td><td></td><td>0.015</td><td>2.365</td></tr>
   <tr id="lake"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LAKE.html" target="_blank">LAKE</a></td><td></td><td></td><td>0.014</td><td>2.11</td></tr>
   <tr id="ceco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CECO.html" target="_blank">CECO</a></td><td></td><td></td><td>0.014</td><td>4.884</td></tr>
+  <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.914</td></tr>
   <tr id="nrp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRP.html" target="_blank">NRP</a></td><td></td><td></td><td>-0.012</td><td>3.148</td></tr>
   <tr id="feye"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FEYE.html" target="_blank">FEYE</a></td><td></td><td></td><td>0.012</td><td>2.686</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>7.637</td></tr>
