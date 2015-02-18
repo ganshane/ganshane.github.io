@@ -1,23 +1,25 @@
 ---
 layout: post
 title:  "天量股票分析20150218"
-date:   2015-02-18 01:17:37
+date:   2015-02-18 04:18:02
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_kog');
+stockList.push('gb_bxe');
+stockList.push('gb_pes');
 stockList.push('gb_vdsi');
-stockList.push('gb_ptla');
-stockList.push('gb_lake');
-stockList.push('gb_ceco');
+stockList.push('gb_acrx');
 stockList.push('gb_qre');
-stockList.push('gb_nrp');
-stockList.push('gb_feye');
+stockList.push('gb_glf');
+stockList.push('gb_kndi');
 stockList.push('gb_rfmd');
 stockList.push('gb_tqnt');
-stockList.push('gb_fnsr');
-stockList.push('gb_dug');
+stockList.push('gb_ato');
+stockList.push('gb_rax');
+stockList.push('gb_gxp');
+stockList.push('gb_dte');
 </script>
 
 <table border="1">
@@ -29,15 +31,17 @@ stockList.push('gb_dug');
  <td>天量指数</td>
 </tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.057</td><td>7.657</td></tr>
-  <tr id="vdsi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VDSI.html" target="_blank">VDSI</a></td><td></td><td></td><td>0.016</td><td>4.986</td></tr>
-  <tr id="ptla"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTLA.html" target="_blank">PTLA</a></td><td></td><td></td><td>0.015</td><td>2.365</td></tr>
-  <tr id="lake"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LAKE.html" target="_blank">LAKE</a></td><td></td><td></td><td>0.014</td><td>2.11</td></tr>
-  <tr id="ceco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CECO.html" target="_blank">CECO</a></td><td></td><td></td><td>0.014</td><td>4.884</td></tr>
+  <tr id="bxe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BXE.html" target="_blank">BXE</a></td><td></td><td></td><td>0.026</td><td>2.423</td></tr>
+  <tr id="pes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PES.html" target="_blank">PES</a></td><td></td><td></td><td>0.024</td><td>2.078</td></tr>
+  <tr id="vdsi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VDSI.html" target="_blank">VDSI</a></td><td></td><td></td><td>0.023</td><td>14.276</td></tr>
+  <tr id="acrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACRX.html" target="_blank">ACRX</a></td><td></td><td></td><td>0.013</td><td>2.304</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.914</td></tr>
-  <tr id="nrp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRP.html" target="_blank">NRP</a></td><td></td><td></td><td>-0.012</td><td>3.148</td></tr>
-  <tr id="feye"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FEYE.html" target="_blank">FEYE</a></td><td></td><td></td><td>0.012</td><td>2.686</td></tr>
+  <tr id="glf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLF.html" target="_blank">GLF</a></td><td></td><td></td><td>-0.012</td><td>4.209</td></tr>
+  <tr id="kndi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KNDI.html" target="_blank">KNDI</a></td><td></td><td></td><td>-0.012</td><td>7.766</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>7.637</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>8.377</td></tr>
-  <tr id="fnsr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FNSR.html" target="_blank">FNSR</a></td><td></td><td></td><td>0.011</td><td>2.043</td></tr>
-  <tr id="dug"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DUG.html" target="_blank">DUG</a></td><td></td><td></td><td>-0.01</td><td>2.477</td></tr>
+  <tr id="ato"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATO.html" target="_blank">ATO</a></td><td></td><td></td><td>-0.011</td><td>2.042</td></tr>
+  <tr id="rax"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RAX.html" target="_blank">RAX</a></td><td></td><td></td><td>0.011</td><td>2.17</td></tr>
+  <tr id="gxp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GXP.html" target="_blank">GXP</a></td><td></td><td></td><td>-0.011</td><td>2.511</td></tr>
+  <tr id="dte"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DTE.html" target="_blank">DTE</a></td><td></td><td></td><td>-0.011</td><td>2.028</td></tr>
 </table>
