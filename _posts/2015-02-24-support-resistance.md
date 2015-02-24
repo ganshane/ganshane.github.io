@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150224"
-date:   2015-02-24 01:18:45
+date:   2015-02-24 04:17:46
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,7 +10,6 @@ stockList.push('gb_agco');
 stockList.push('gb_ery');
 stockList.push('gb_sale');
 stockList.push('gb_ainv');
-stockList.push('gb_cig');
 stockList.push('gb_xec');
 stockList.push('gb_trip');
 stockList.push('gb_qre');
@@ -76,8 +75,6 @@ stockList.push('gb_pbr.a');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SALE.html" target="_blank">SALE</a></td><td></td><td></td><td>100</td><td>17.34</td><td>17.93</td><td>14.44</td><td>14.98</td></tr>
   <tr id="ainv" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AINV.html" target="_blank">AINV</a></td><td></td><td></td><td>100</td><td>7.88</td><td>8.34</td><td>7.05</td><td>0</td></tr>
-  <tr id="cig" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CIG.html" target="_blank">CIG</a></td><td></td><td></td><td>100</td><td>4.31</td><td>4.69</td><td>3.93</td><td>0</td></tr>
   <tr id="xec" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XEC.html" target="_blank">XEC</a></td><td></td><td></td><td>98</td><td>123.22</td><td>122.99</td><td>103.3</td><td>113.8</td></tr>
   <tr id="trip" class="red">
