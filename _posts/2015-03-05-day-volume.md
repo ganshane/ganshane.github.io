@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150305"
-date:   2015-03-05 01:46:14
+date:   2015-03-05 04:46:33
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,7 +12,6 @@ stockList.push('gb_royt');
 stockList.push('gb_oas');
 stockList.push('gb_ptx');
 stockList.push('gb_amba');
-stockList.push('gb_sse');
 stockList.push('gb_cenx');
 stockList.push('gb_ej');
 stockList.push('gb_cmcm');
@@ -36,7 +35,6 @@ stockList.push('gb_wuba');
   <tr id="oas"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OAS.html" target="_blank">OAS</a></td><td></td><td></td><td>-0.027</td><td>3.271</td></tr>
   <tr id="ptx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTX.html" target="_blank">PTX</a></td><td></td><td></td><td>0.026</td><td>2.091</td></tr>
   <tr id="amba"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMBA.html" target="_blank">AMBA</a></td><td></td><td></td><td>0.023</td><td>4.376</td></tr>
-  <tr id="sse"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SSE.html" target="_blank">SSE</a></td><td></td><td></td><td>-0.021</td><td>2.52</td></tr>
   <tr id="cenx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CENX.html" target="_blank">CENX</a></td><td></td><td></td><td>-0.019</td><td>3.622</td></tr>
   <tr id="ej"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EJ.html" target="_blank">EJ</a></td><td></td><td></td><td>-0.015</td><td>2.296</td></tr>
   <tr id="cmcm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMCM.html" target="_blank">CMCM</a></td><td></td><td></td><td>-0.013</td><td>2.062</td></tr>
