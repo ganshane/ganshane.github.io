@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150306"
-date:   2015-03-06 01:18:59
+date:   2015-03-06 04:18:41
 categories: stock
 ---
 <script type="text/javascript">
@@ -42,7 +42,6 @@ stockList.push('gb_xop');
 stockList.push('gb_amcc');
 stockList.push('gb_dfs');
 stockList.push('gb_wbmd');
-stockList.push('gb_sblk');
 stockList.push('gb_arco');
 stockList.push('gb_xone');
 stockList.push('gb_trs');
@@ -132,8 +131,6 @@ stockList.push('gb_iye');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DFS.html" target="_blank">DFS</a></td><td></td><td></td><td>30</td><td>59.08</td><td>64.61</td><td>54.09</td><td>0</td></tr>
   <tr id="wbmd" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WBMD.html" target="_blank">WBMD</a></td><td></td><td></td><td>29</td><td>47.5</td><td>49.32</td><td>38.04</td><td>43.59</td></tr>
-  <tr id="sblk" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SBLK.html" target="_blank">SBLK</a></td><td></td><td></td><td>29</td><td>4.21</td><td>6.66</td><td>3.67</td><td>0</td></tr>
   <tr id="arco" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARCO.html" target="_blank">ARCO</a></td><td></td><td></td><td>27</td><td>5.38</td><td>5.59</td><td>5.03</td><td>0</td></tr>
   <tr id="xone" class="red">
