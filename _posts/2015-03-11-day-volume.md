@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150311"
-date:   2015-03-11 01:18:49
+date:   2015-03-11 04:17:38
 categories: stock
 ---
 <script type="text/javascript">
@@ -22,8 +22,6 @@ stockList.push('gb_five');
 stockList.push('gb_wb');
 stockList.push('gb_rfmd');
 stockList.push('gb_tqnt');
-stockList.push('gb_orig');
-stockList.push('gb_hct');
 </script>
 
 <table border="1">
@@ -50,6 +48,4 @@ stockList.push('gb_hct');
   <tr id="wb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WB.html" target="_blank">WB</a></td><td></td><td></td><td>0.013</td><td>3.27</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>7.637</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>8.377</td></tr>
-  <tr id="orig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ORIG.html" target="_blank">ORIG</a></td><td></td><td></td><td>-0.011</td><td>2.052</td></tr>
-  <tr id="hct"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HCT.html" target="_blank">HCT</a></td><td></td><td></td><td>0.01</td><td>5.596</td></tr>
 </table>

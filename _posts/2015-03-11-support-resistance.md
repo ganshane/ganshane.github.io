@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150311"
-date:   2015-03-11 01:18:49
+date:   2015-03-11 04:17:38
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,19 +32,19 @@ stockList.push('gb_grfs');
 stockList.push('gb_resi');
 stockList.push('gb_cald');
 stockList.push('gb_xlnx');
+stockList.push('gb_xiv');
 stockList.push('gb_bidu');
 stockList.push('gb_emes');
 stockList.push('gb_fmc');
 stockList.push('gb_abev');
 stockList.push('gb_eww');
 stockList.push('gb_svxy');
-stockList.push('gb_wmgi');
 stockList.push('gb_srty');
 stockList.push('gb_navi');
 stockList.push('gb_fcg');
-stockList.push('gb_nov');
 stockList.push('gb_lng');
 stockList.push('gb_drh');
+stockList.push('gb_mfc');
 stockList.push('gb_mbi');
 stockList.push('gb_mkto');
 stockList.push('gb_dhx');
@@ -120,6 +120,8 @@ stockList.push('gb_bwp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CALD.html" target="_blank">CALD</a></td><td></td><td></td><td>62</td><td>14.53</td><td>16.95</td><td>11.28</td><td>13.03</td></tr>
   <tr id="xlnx" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XLNX.html" target="_blank">XLNX</a></td><td></td><td></td><td>59</td><td>40.91</td><td>42.76</td><td>38.07</td><td>0</td></tr>
+  <tr id="xiv" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XIV.html" target="_blank">XIV</a></td><td></td><td></td><td>55</td><td>35.16</td><td>35.36</td><td>28.83</td><td>31.21</td></tr>
   <tr id="bidu" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIDU.html" target="_blank">BIDU</a></td><td></td><td></td><td>53</td><td>211.86</td><td>220.48</td><td>194.31</td><td>191.84</td></tr>
   <tr id="emes" class="red">
@@ -132,20 +134,18 @@ stockList.push('gb_bwp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWW.html" target="_blank">EWW</a></td><td></td><td></td><td>47</td><td>65.4</td><td>59.47</td><td>55.97</td><td>0</td></tr>
   <tr id="svxy" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SVXY.html" target="_blank">SVXY</a></td><td></td><td></td><td>45</td><td>68.91</td><td>69.37</td><td>56.58</td><td>61.28</td></tr>
-  <tr id="wmgi" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WMGI.html" target="_blank">WMGI</a></td><td></td><td></td><td>44</td><td>28.04</td><td>26.27</td><td>24.51</td><td>0</td></tr>
   <tr id="srty" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SRTY.html" target="_blank">SRTY</a></td><td></td><td></td><td>43</td><td>29.53</td><td>34.5</td><td>27.46</td><td>0</td></tr>
   <tr id="navi" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NAVI.html" target="_blank">NAVI</a></td><td></td><td></td><td>42</td><td>20.52</td><td>22</td><td>19.1</td><td>18.15</td></tr>
   <tr id="fcg" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FCG.html" target="_blank">FCG</a></td><td></td><td></td><td>42</td><td>13.83</td><td>11.77</td><td>10.11</td><td>0</td></tr>
-  <tr id="nov" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NOV.html" target="_blank">NOV</a></td><td></td><td></td><td>40</td><td>60.91</td><td>56.17</td><td>51.34</td><td>0</td></tr>
   <tr id="lng" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LNG.html" target="_blank">LNG</a></td><td></td><td></td><td>39</td><td>80.53</td><td>82.32</td><td>70.36</td><td>75.48</td></tr>
   <tr id="drh" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DRH.html" target="_blank">DRH</a></td><td></td><td></td><td>35</td><td>14.62</td><td>14.8</td><td>12.5</td><td>13.66</td></tr>
+  <tr id="mfc" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MFC.html" target="_blank">MFC</a></td><td></td><td></td><td>34</td><td>17.57</td><td>17.72</td><td>16.46</td><td>0</td></tr>
   <tr id="mbi" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MBI.html" target="_blank">MBI</a></td><td></td><td></td><td>34</td><td>9.07</td><td>9.55</td><td>8.41</td><td>0</td></tr>
   <tr id="mkto" class="red">
