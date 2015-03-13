@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150313"
-date:   2015-03-13 01:18:39
+date:   2015-03-13 04:17:36
 categories: stock
 ---
 <script type="text/javascript">
@@ -38,7 +38,7 @@ stockList.push('gb_lxk');
   <tr id="ttph"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TTPH.html" target="_blank">TTPH</a></td><td></td><td></td><td>-0.017</td><td>4.851</td></tr>
   <tr id="ally"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALLY.html" target="_blank">ALLY</a></td><td></td><td></td><td>-0.017</td><td>2.254</td></tr>
   <tr id="cnx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CNX.html" target="_blank">CNX</a></td><td></td><td></td><td>-0.017</td><td>3.007</td></tr>
-  <tr id="logi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LOGI.html" target="_blank">LOGI</a></td><td></td><td></td><td>-0.016</td><td>2.539</td></tr>
+  <tr id="logi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LOGI.html" target="_blank">LOGI</a></td><td></td><td></td><td>-0.016</td><td>2.534</td></tr>
   <tr id="wb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WB.html" target="_blank">WB</a></td><td></td><td></td><td>0.015</td><td>2.019</td></tr>
   <tr id="five"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FIVE.html" target="_blank">FIVE</a></td><td></td><td></td><td>-0.014</td><td>3.005</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.914</td></tr>
