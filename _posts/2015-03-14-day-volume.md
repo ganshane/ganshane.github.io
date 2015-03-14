@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150314"
-date:   2015-03-14 01:17:59
+date:   2015-03-14 04:17:34
 categories: stock
 ---
 <script type="text/javascript">
@@ -20,7 +20,6 @@ stockList.push('gb_qre');
 stockList.push('gb_bas');
 stockList.push('gb_emes');
 stockList.push('gb_wuba');
-stockList.push('gb_rds.b');
 stockList.push('gb_rfmd');
 stockList.push('gb_tqnt');
 stockList.push('gb_hlf');
@@ -48,7 +47,6 @@ stockList.push('gb_hlf');
   <tr id="bas"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BAS.html" target="_blank">BAS</a></td><td></td><td></td><td>-0.013</td><td>2.262</td></tr>
   <tr id="emes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EMES.html" target="_blank">EMES</a></td><td></td><td></td><td>-0.012</td><td>2.494</td></tr>
   <tr id="wuba"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WUBA.html" target="_blank">WUBA</a></td><td></td><td></td><td>0.012</td><td>2.064</td></tr>
-  <tr id="rds.b"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RDS.B.html" target="_blank">RDS.B</a></td><td></td><td></td><td>-0.012</td><td>2.597</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>7.637</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>8.377</td></tr>
   <tr id="hlf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HLF.html" target="_blank">HLF</a></td><td></td><td></td><td>0.01</td><td>3.408</td></tr>
