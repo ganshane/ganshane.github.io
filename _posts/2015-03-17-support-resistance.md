@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150317"
-date:   2015-03-17 01:18:22
+date:   2015-03-17 04:18:17
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_drh');
-stockList.push('gb_pwe');
 stockList.push('gb_dre');
 stockList.push('gb_bhi');
 stockList.push('gb_spxu');
@@ -31,7 +30,6 @@ stockList.push('gb_spxs');
 stockList.push('gb_bwp');
 stockList.push('gb_hes');
 stockList.push('gb_cef');
-stockList.push('gb_cald');
 stockList.push('gb_nws');
 stockList.push('gb_vtr');
 stockList.push('gb_airm');
@@ -60,8 +58,6 @@ stockList.push('gb_dow');
 </tr>
   <tr id="drh" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DRH.html" target="_blank">DRH</a></td><td></td><td></td><td>100</td><td>14.62</td><td>14.8</td><td>13.52</td><td>13.66</td></tr>
-  <tr id="pwe" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PWE.html" target="_blank">PWE</a></td><td></td><td></td><td>100</td><td>4.07</td><td>2.56</td><td>1.37</td><td>0</td></tr>
   <tr id="dre" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DRE.html" target="_blank">DRE</a></td><td></td><td></td><td>96</td><td>21.11</td><td>21.74</td><td>18.85</td><td>19.73</td></tr>
   <tr id="bhi" class="green">
@@ -108,8 +104,6 @@ stockList.push('gb_dow');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HES.html" target="_blank">HES</a></td><td></td><td></td><td>65</td><td>78.05</td><td>72.48</td><td>67.77</td><td>0</td></tr>
   <tr id="cef" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CEF.html" target="_blank">CEF</a></td><td></td><td></td><td>65</td><td>12.24</td><td>12.05</td><td>11.31</td><td>0</td></tr>
-  <tr id="cald" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CALD.html" target="_blank">CALD</a></td><td></td><td></td><td>62</td><td>14.53</td><td>16.95</td><td>11.28</td><td>13.03</td></tr>
   <tr id="nws" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NWS.html" target="_blank">NWS</a></td><td></td><td></td><td>46</td><td>16.7</td><td>17.07</td><td>14.34</td><td>15.29</td></tr>
   <tr id="vtr" class="red">
