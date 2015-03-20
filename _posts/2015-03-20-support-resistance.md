@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150320"
-date:   2015-03-20 01:22:33
+date:   2015-03-20 04:18:29
 categories: stock
 ---
 <script type="text/javascript">
@@ -23,9 +23,9 @@ stockList.push('gb_cam');
 stockList.push('gb_dust');
 stockList.push('gb_bbry');
 stockList.push('gb_pdce');
-stockList.push('gb_sale');
 stockList.push('gb_vno');
 stockList.push('gb_ges');
+stockList.push('gb_sale');
 stockList.push('gb_alb');
 stockList.push('gb_aeis');
 stockList.push('gb_sm');
@@ -90,12 +90,12 @@ stockList.push('gb_spls');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBRY.html" target="_blank">BBRY</a></td><td></td><td></td><td>70</td><td>9.76</td><td>10.7</td><td>9.1</td><td>0</td></tr>
   <tr id="pdce" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PDCE.html" target="_blank">PDCE</a></td><td></td><td></td><td>68</td><td>52.23</td><td>54.7</td><td>43.5</td><td>45.43</td></tr>
-  <tr id="sale" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SALE.html" target="_blank">SALE</a></td><td></td><td></td><td>66</td><td>17.34</td><td>17.93</td><td>14.44</td><td>14.98</td></tr>
   <tr id="vno" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VNO.html" target="_blank">VNO</a></td><td></td><td></td><td>65</td><td>110.06</td><td>114.15</td><td>100.906</td><td>100.625</td></tr>
   <tr id="ges" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GES.html" target="_blank">GES</a></td><td></td><td></td><td>56</td><td>19.69</td><td>19.16</td><td>0</td><td>17.92</td></tr>
+  <tr id="sale" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SALE.html" target="_blank">SALE</a></td><td></td><td></td><td>55</td><td>17.34</td><td>17.93</td><td>14.44</td><td>14.98</td></tr>
   <tr id="alb" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALB.html" target="_blank">ALB</a></td><td></td><td></td><td>51</td><td>52.44</td><td>57.08</td><td>48.88</td><td>0</td></tr>
   <tr id="aeis" class="green">
