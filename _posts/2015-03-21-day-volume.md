@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150321"
-date:   2015-03-21 01:18:57
+date:   2015-03-21 04:24:22
 categories: stock
 ---
 <script type="text/javascript">
@@ -61,7 +61,7 @@ stockList.push('gb_act');
   <tr id="sse"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SSE.html" target="_blank">SSE</a></td><td></td><td></td><td>-0.035</td><td>2.257</td></tr>
   <tr id="kpti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KPTI.html" target="_blank">KPTI</a></td><td></td><td></td><td>0.029</td><td>2.072</td></tr>
   <tr id="ino"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INO.html" target="_blank">INO</a></td><td></td><td></td><td>0.029</td><td>3.054</td></tr>
-  <tr id="arp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARP.html" target="_blank">ARP</a></td><td></td><td></td><td>-0.028</td><td>4.903</td></tr>
+  <tr id="arp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARP.html" target="_blank">ARP</a></td><td></td><td></td><td>-0.028</td><td>4.902</td></tr>
   <tr id="fold"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FOLD.html" target="_blank">FOLD</a></td><td></td><td></td><td>0.027</td><td>3.259</td></tr>
   <tr id="jpep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JPEP.html" target="_blank">JPEP</a></td><td></td><td></td><td>-0.027</td><td>3.351</td></tr>
   <tr id="avp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AVP.html" target="_blank">AVP</a></td><td></td><td></td><td>-0.026</td><td>5.12</td></tr>
@@ -73,7 +73,7 @@ stockList.push('gb_act');
   <tr id="aal"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AAL.html" target="_blank">AAL</a></td><td></td><td></td><td>0.018</td><td>9.69</td></tr>
   <tr id="pes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PES.html" target="_blank">PES</a></td><td></td><td></td><td>-0.017</td><td>2.17</td></tr>
   <tr id="bis"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIS.html" target="_blank">BIS</a></td><td></td><td></td><td>-0.015</td><td>3.892</td></tr>
-  <tr id="thrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/THRX.html" target="_blank">THRX</a></td><td></td><td></td><td>-0.015</td><td>2.64</td></tr>
+  <tr id="thrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/THRX.html" target="_blank">THRX</a></td><td></td><td></td><td>-0.015</td><td>2.636</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.914</td></tr>
   <tr id="fcx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FCX.html" target="_blank">FCX</a></td><td></td><td></td><td>-0.013</td><td>2.193</td></tr>
   <tr id="dyax"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DYAX.html" target="_blank">DYAX</a></td><td></td><td></td><td>0.013</td><td>2.609</td></tr>
