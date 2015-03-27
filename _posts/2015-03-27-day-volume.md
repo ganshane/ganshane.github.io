@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150327"
-date:   2015-03-27 01:19:25
+date:   2015-03-27 04:18:24
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,6 +11,7 @@ stockList.push('gb_krft');
 stockList.push('gb_cig');
 stockList.push('gb_qre');
 stockList.push('gb_apol');
+stockList.push('gb_hct');
 stockList.push('gb_dplo');
 </script>
 
@@ -27,5 +28,6 @@ stockList.push('gb_dplo');
   <tr id="cig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CIG.html" target="_blank">CIG</a></td><td></td><td></td><td>0.015</td><td>2.766</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.914</td></tr>
   <tr id="apol"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APOL.html" target="_blank">APOL</a></td><td></td><td></td><td>-0.012</td><td>2.353</td></tr>
+  <tr id="hct"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HCT.html" target="_blank">HCT</a></td><td></td><td></td><td>0.01</td><td>5.596</td></tr>
   <tr id="dplo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DPLO.html" target="_blank">DPLO</a></td><td></td><td></td><td>0.01</td><td>13.781</td></tr>
 </table>
