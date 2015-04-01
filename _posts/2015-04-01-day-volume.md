@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "天量股票分析20150401"
-date:   2015-04-01 01:18:38
+date:   2015-04-01 04:17:51
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_kog');
 stockList.push('gb_bcrx');
 stockList.push('gb_ceco');
 stockList.push('gb_qre');
@@ -25,7 +24,6 @@ stockList.push('gb_swft');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="bcrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BCRX.html" target="_blank">BCRX</a></td><td></td><td></td><td>-0.027</td><td>2.167</td></tr>
   <tr id="ceco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CECO.html" target="_blank">CECO</a></td><td></td><td></td><td>-0.017</td><td>3.291</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.914</td></tr>
