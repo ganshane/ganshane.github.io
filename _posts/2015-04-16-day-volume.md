@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "天量股票分析20150416"
-date:   2015-04-16 01:19:41
+date:   2015-04-16 04:18:07
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
+stockList.push('gb_kog');
 stockList.push('gb_pwe');
 stockList.push('gb_szym');
 stockList.push('gb_sco');
@@ -29,6 +30,7 @@ stockList.push('gb_ery');
 stockList.push('gb_wprt');
 stockList.push('gb_nes');
 stockList.push('gb_qre');
+stockList.push('gb_glog');
 stockList.push('gb_fmsa');
 stockList.push('gb_rcap');
 stockList.push('gb_tplm');
@@ -47,6 +49,7 @@ stockList.push('gb_nsam');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
+  <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="pwe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PWE.html" target="_blank">PWE</a></td><td></td><td></td><td>0.028</td><td>2.579</td></tr>
   <tr id="szym"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SZYM.html" target="_blank">SZYM</a></td><td></td><td></td><td>0.027</td><td>2.881</td></tr>
   <tr id="sco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCO.html" target="_blank">SCO</a></td><td></td><td></td><td>-0.022</td><td>2.054</td></tr>
@@ -70,6 +73,7 @@ stockList.push('gb_nsam');
   <tr id="wprt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPRT.html" target="_blank">WPRT</a></td><td></td><td></td><td>0.014</td><td>2.398</td></tr>
   <tr id="nes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NES.html" target="_blank">NES</a></td><td></td><td></td><td>0.013</td><td>2.292</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.914</td></tr>
+  <tr id="glog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLOG.html" target="_blank">GLOG</a></td><td></td><td></td><td>0.013</td><td>2.107</td></tr>
   <tr id="fmsa"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FMSA.html" target="_blank">FMSA</a></td><td></td><td></td><td>0.013</td><td>3.594</td></tr>
   <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>-0.013</td><td>4.274</td></tr>
   <tr id="tplm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TPLM.html" target="_blank">TPLM</a></td><td></td><td></td><td>0.012</td><td>2.125</td></tr>
