@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150417"
-date:   2015-04-17 01:18:29
+date:   2015-04-17 04:18:05
 categories: stock
 ---
 <script type="text/javascript">
@@ -15,6 +15,7 @@ stockList.push('gb_nflx');
 stockList.push('gb_tasr');
 stockList.push('gb_vdsi');
 stockList.push('gb_hznp');
+stockList.push('gb_anac');
 stockList.push('gb_atw');
 stockList.push('gb_nq');
 stockList.push('gb_sndk');
@@ -38,6 +39,7 @@ stockList.push('gb_unt');
   <tr id="tasr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TASR.html" target="_blank">TASR</a></td><td></td><td></td><td>0.015</td><td>2.073</td></tr>
   <tr id="vdsi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VDSI.html" target="_blank">VDSI</a></td><td></td><td></td><td>0.015</td><td>2.093</td></tr>
   <tr id="hznp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HZNP.html" target="_blank">HZNP</a></td><td></td><td></td><td>0.014</td><td>4.635</td></tr>
+  <tr id="anac"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANAC.html" target="_blank">ANAC</a></td><td></td><td></td><td>0.014</td><td>2.01</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.013</td><td>2.092</td></tr>
   <tr id="nq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>0.013</td><td>2.383</td></tr>
   <tr id="sndk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNDK.html" target="_blank">SNDK</a></td><td></td><td></td><td>0.011</td><td>4.637</td></tr>

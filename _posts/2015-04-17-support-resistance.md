@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150417"
-date:   2015-04-17 01:18:29
+date:   2015-04-17 04:18:05
 categories: stock
 ---
 <script type="text/javascript">
@@ -28,7 +28,6 @@ stockList.push('gb_sdlp');
 stockList.push('gb_penn');
 stockList.push('gb_line');
 stockList.push('gb_nov');
-stockList.push('gb_royt');
 stockList.push('gb_sndk');
 stockList.push('gb_tel');
 stockList.push('gb_wbmd');
@@ -93,8 +92,6 @@ stockList.push('gb_oww');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LINE.html" target="_blank">LINE</a></td><td></td><td></td><td>55</td><td>22.18</td><td>13.31</td><td>10.98</td><td>12.3</td></tr>
   <tr id="nov" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NOV.html" target="_blank">NOV</a></td><td></td><td></td><td>54</td><td>60.91</td><td>56.17</td><td>51.34</td><td>0</td></tr>
-  <tr id="royt" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ROYT.html" target="_blank">ROYT</a></td><td></td><td></td><td>52</td><td>5.05</td><td>5.6</td><td>3.72</td><td>4.13</td></tr>
   <tr id="sndk" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNDK.html" target="_blank">SNDK</a></td><td></td><td></td><td>50</td><td>76.67</td><td>82.76</td><td>65.63</td><td>0</td></tr>
   <tr id="tel" class="red">
