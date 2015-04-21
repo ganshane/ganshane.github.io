@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150421"
-date:   2015-04-21 01:19:16
+date:   2015-04-21 04:18:01
 categories: stock
 ---
 <script type="text/javascript">
@@ -20,7 +20,6 @@ stockList.push('gb_coo');
 stockList.push('gb_nfx');
 stockList.push('gb_sppi');
 stockList.push('gb_tlm');
-stockList.push('gb_penn');
 stockList.push('gb_dltr');
 stockList.push('gb_sgms');
 stockList.push('gb_ewm');
@@ -76,8 +75,6 @@ stockList.push('gb_sho');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPPI.html" target="_blank">SPPI</a></td><td></td><td></td><td>67</td><td>5.98</td><td>6.55</td><td>5.58</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>62</td><td>9.76</td><td>10.72</td><td>7.57</td><td>7.82</td></tr>
-  <tr id="penn" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PENN.html" target="_blank">PENN</a></td><td></td><td></td><td>56</td><td>15.64</td><td>16.58</td><td>13.34</td><td>14.33</td></tr>
   <tr id="dltr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DLTR.html" target="_blank">DLTR</a></td><td></td><td></td><td>54</td><td>80.16</td><td>84</td><td>66.85</td><td>71.2</td></tr>
   <tr id="sgms" class="red">
