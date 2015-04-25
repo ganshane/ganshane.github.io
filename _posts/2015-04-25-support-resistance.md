@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150425"
-date:   2015-04-25 01:18:59
+date:   2015-04-25 04:17:31
 categories: stock
 ---
 <script type="text/javascript">
@@ -27,6 +27,7 @@ stockList.push('gb_memp');
 stockList.push('gb_wpx');
 stockList.push('gb_scty');
 stockList.push('gb_ioc');
+stockList.push('gb_urs');
 stockList.push('gb_ne');
 stockList.push('gb_rice');
 stockList.push('gb_spil');
@@ -102,6 +103,8 @@ stockList.push('gb_pxlw');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCTY.html" target="_blank">SCTY</a></td><td></td><td></td><td>69</td><td>67.06</td><td>75.9</td><td>50.17</td><td>59.31</td></tr>
   <tr id="ioc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IOC.html" target="_blank">IOC</a></td><td></td><td></td><td>69</td><td>54.5</td><td>51.33</td><td>45.71</td><td>47.58</td></tr>
+  <tr id="urs" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>68</td><td>57.26</td><td>3.1</td><td>2.82</td><td>2.15</td></tr>
   <tr id="ne" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NE.html" target="_blank">NE</a></td><td></td><td></td><td>68</td><td>18.3</td><td>17.46</td><td>15.45</td><td>0</td></tr>
   <tr id="rice" class="red">
