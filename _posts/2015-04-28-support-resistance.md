@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150428"
-date:   2015-04-28 01:19:39
+date:   2015-04-28 04:18:06
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,7 +12,6 @@ stockList.push('gb_ioc');
 stockList.push('gb_ocn');
 stockList.push('gb_wll');
 stockList.push('gb_rbs');
-stockList.push('gb_ndls');
 stockList.push('gb_isis');
 stockList.push('gb_ctsh');
 stockList.push('gb_emes');
@@ -63,8 +62,6 @@ stockList.push('gb_seas');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WLL.html" target="_blank">WLL</a></td><td></td><td></td><td>86</td><td>53.62</td><td>39.97</td><td>34.52</td><td>35.1</td></tr>
   <tr id="rbs" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RBS.html" target="_blank">RBS</a></td><td></td><td></td><td>82</td><td>10.86</td><td>11.61</td><td>10.18</td><td>0</td></tr>
-  <tr id="ndls" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NDLS.html" target="_blank">NDLS</a></td><td></td><td></td><td>81</td><td>20.61</td><td>23.15</td><td>17.83</td><td>19.32</td></tr>
   <tr id="isis" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ISIS.html" target="_blank">ISIS</a></td><td></td><td></td><td>78</td><td>67.13</td><td>73.75</td><td>61.41</td><td>42.5</td></tr>
   <tr id="ctsh" class="red">
