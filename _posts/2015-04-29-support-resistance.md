@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150429"
-date:   2015-04-29 01:18:59
+date:   2015-04-29 04:18:25
 categories: stock
 ---
 <script type="text/javascript">
@@ -29,7 +29,6 @@ stockList.push('gb_arc');
 stockList.push('gb_smtc');
 stockList.push('gb_ctsh');
 stockList.push('gb_dltr');
-stockList.push('gb_tmv');
 stockList.push('gb_aks');
 stockList.push('gb_kr');
 stockList.push('gb_avgo');
@@ -103,8 +102,6 @@ stockList.push('gb_obci');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CTSH.html" target="_blank">CTSH</a></td><td></td><td></td><td>64</td><td>60.29</td><td>63.14</td><td>53.33</td><td>56.25</td></tr>
   <tr id="dltr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DLTR.html" target="_blank">DLTR</a></td><td></td><td></td><td>63</td><td>80.16</td><td>84</td><td>66.85</td><td>71.2</td></tr>
-  <tr id="tmv" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TMV.html" target="_blank">TMV</a></td><td></td><td></td><td>61</td><td>27.61</td><td>30.59</td><td>25.77</td><td>0</td></tr>
   <tr id="aks" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AKS.html" target="_blank">AKS</a></td><td></td><td></td><td>58</td><td>5.08</td><td>6.17</td><td>4.57</td><td>4.68</td></tr>
   <tr id="kr" class="green">
