@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150505"
-date:   2015-05-05 01:19:11
+date:   2015-05-05 04:17:57
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,6 +11,7 @@ stockList.push('gb_bios');
 stockList.push('gb_cnc');
 stockList.push('gb_scty');
 stockList.push('gb_away');
+stockList.push('gb_wetf');
 stockList.push('gb_sonc');
 stockList.push('gb_srty');
 stockList.push('gb_wbai');
@@ -72,6 +73,8 @@ stockList.push('gb_abx');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCTY.html" target="_blank">SCTY</a></td><td></td><td></td><td>99</td><td>67.06</td><td>75.9</td><td>50.17</td><td>59.31</td></tr>
   <tr id="away" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AWAY.html" target="_blank">AWAY</a></td><td></td><td></td><td>97</td><td>29.86</td><td>30</td><td>25.87</td><td>27.57</td></tr>
+  <tr id="wetf" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>96</td><td>20.49</td><td>21.98</td><td>14.925</td><td>19.15</td></tr>
   <tr id="sonc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SONC.html" target="_blank">SONC</a></td><td></td><td></td><td>91</td><td>30.1</td><td>31.53</td><td>25.91</td><td>27.8</td></tr>
   <tr id="srty" class="red">
