@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150508"
-date:   2015-05-08 01:18:50
+date:   2015-05-08 04:19:58
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,7 +10,6 @@ stockList.push('gb_clh');
 stockList.push('gb_iclr');
 stockList.push('gb_res');
 stockList.push('gb_byd');
-stockList.push('gb_wetf');
 stockList.push('gb_rwt');
 stockList.push('gb_san');
 stockList.push('gb_cgnx');
@@ -42,6 +41,7 @@ stockList.push('gb_paa');
 stockList.push('gb_car');
 stockList.push('gb_yndx');
 stockList.push('gb_ngls');
+stockList.push('gb_wetf');
 stockList.push('gb_sonc');
 stockList.push('gb_tlm');
 stockList.push('gb_oled');
@@ -72,8 +72,6 @@ stockList.push('gb_amat');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RES.html" target="_blank">RES</a></td><td></td><td></td><td>94</td><td>15.2</td><td>16.77</td><td>12.76</td><td>13.95</td></tr>
   <tr id="byd" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BYD.html" target="_blank">BYD</a></td><td></td><td></td><td>93</td><td>13.8</td><td>14.37</td><td>12.78</td><td>12.62</td></tr>
-  <tr id="wetf" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>91</td><td>20.49</td><td>21.98</td><td>14.925</td><td>19.15</td></tr>
   <tr id="rwt" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RWT.html" target="_blank">RWT</a></td><td></td><td></td><td>88</td><td>17.72</td><td>18.64</td><td>16.27</td><td>0</td></tr>
   <tr id="san" class="green">
@@ -136,6 +134,8 @@ stockList.push('gb_amat');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YNDX.html" target="_blank">YNDX</a></td><td></td><td></td><td>48</td><td>24.26</td><td>21.36</td><td>17.45</td><td>18.93</td></tr>
   <tr id="ngls" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>45</td><td>55.7</td><td>47.71</td><td>44.6</td><td>0</td></tr>
+  <tr id="wetf" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>43</td><td>20.49</td><td>21.98</td><td>14.925</td><td>19.15</td></tr>
   <tr id="sonc" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SONC.html" target="_blank">SONC</a></td><td></td><td></td><td>41</td><td>30.1</td><td>31.53</td><td>25.91</td><td>27.8</td></tr>
   <tr id="tlm" class="green">
