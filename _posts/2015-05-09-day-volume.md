@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "天量股票分析20150509"
-date:   2015-05-09 01:21:27
+date:   2015-05-09 04:18:26
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_sse');
 stockList.push('gb_kog');
 stockList.push('gb_yelp');
 stockList.push('gb_w');
@@ -31,7 +30,6 @@ stockList.push('gb_ubnt');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="sse"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SSE.html" target="_blank">SSE</a></td><td></td><td></td><td>-0.325</td><td>3.326</td></tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="yelp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YELP.html" target="_blank">YELP</a></td><td></td><td></td><td>-0.029</td><td>2.741</td></tr>
   <tr id="w"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/W.html" target="_blank">W</a></td><td></td><td></td><td>-0.022</td><td>3.187</td></tr>
