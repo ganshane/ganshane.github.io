@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150513"
-date:   2015-05-13 01:19:44
+date:   2015-05-13 04:19:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -19,6 +19,7 @@ stockList.push('gb_cray');
 stockList.push('gb_rwt');
 stockList.push('gb_jdst');
 stockList.push('gb_feng');
+stockList.push('gb_szmk');
 stockList.push('gb_wetf');
 stockList.push('gb_rji');
 stockList.push('gb_geos');
@@ -38,7 +39,6 @@ stockList.push('gb_jcp');
 stockList.push('gb_hedj');
 stockList.push('gb_apo');
 stockList.push('gb_wtw');
-stockList.push('gb_szmk');
 stockList.push('gb_tmv');
 stockList.push('gb_hp');
 stockList.push('gb_lpt');
@@ -99,6 +99,8 @@ stockList.push('gb_tlm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JDST.html" target="_blank">JDST</a></td><td></td><td></td><td>87</td><td>7.68</td><td>8.74</td><td>7.13</td><td>0</td></tr>
   <tr id="feng" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FENG.html" target="_blank">FENG</a></td><td></td><td></td><td>87</td><td>7.47</td><td>8.2</td><td>5.6</td><td>0</td></tr>
+  <tr id="szmk" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SZMK.html" target="_blank">SZMK</a></td><td></td><td></td><td>86</td><td>7.03</td><td>7.72</td><td>6</td><td>6.57</td></tr>
   <tr id="wetf" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>85</td><td>20.49</td><td>21.98</td><td>14.925</td><td>19.15</td></tr>
   <tr id="rji" class="green">
@@ -137,8 +139,6 @@ stockList.push('gb_tlm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APO.html" target="_blank">APO</a></td><td></td><td></td><td>64</td><td>21.76</td><td>22.77</td><td>20.11</td><td>0</td></tr>
   <tr id="wtw" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WTW.html" target="_blank">WTW</a></td><td></td><td></td><td>60</td><td>7.5</td><td>8.39</td><td>6.71</td><td>0</td></tr>
-  <tr id="szmk" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SZMK.html" target="_blank">SZMK</a></td><td></td><td></td><td>58</td><td>7.03</td><td>7.72</td><td>6</td><td>6.57</td></tr>
   <tr id="tmv" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TMV.html" target="_blank">TMV</a></td><td></td><td></td><td>57</td><td>36.62</td><td>34.19</td><td>27.61</td><td>31.52</td></tr>
   <tr id="hp" class="red">
