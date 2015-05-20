@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150520"
-date:   2015-05-20 01:33:12
+date:   2015-05-20 04:39:41
 categories: stock
 ---
 <script type="text/javascript">
@@ -15,6 +15,7 @@ stockList.push('gb_ati');
 stockList.push('gb_apo');
 stockList.push('gb_qlys');
 stockList.push('gb_wetf');
+stockList.push('gb_sse');
 stockList.push('gb_byd');
 stockList.push('gb_hp');
 stockList.push('gb_sgy');
@@ -69,6 +70,8 @@ stockList.push('gb_tlm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QLYS.html" target="_blank">QLYS</a></td><td></td><td></td><td>68</td><td>42.15</td><td>48.33</td><td>36.92</td><td>39.65</td></tr>
   <tr id="wetf" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>66</td><td>20.49</td><td>21.98</td><td>14.925</td><td>19.15</td></tr>
+  <tr id="sse" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SSE.html" target="_blank">SSE</a></td><td></td><td></td><td>65</td><td>22.27</td><td>6.847</td><td>4.54</td><td>5.69</td></tr>
   <tr id="byd" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BYD.html" target="_blank">BYD</a></td><td></td><td></td><td>64</td><td>13.8</td><td>14.37</td><td>12.78</td><td>12.62</td></tr>
   <tr id="hp" class="green">
