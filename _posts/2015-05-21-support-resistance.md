@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150521"
-date:   2015-05-21 01:22:48
+date:   2015-05-21 04:18:22
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,11 +18,11 @@ stockList.push('gb_bgc');
 stockList.push('gb_save');
 stockList.push('gb_ten');
 stockList.push('gb_pds');
-stockList.push('gb_wetf');
 stockList.push('gb_ngls');
 stockList.push('gb_eopn');
 stockList.push('gb_cam');
 stockList.push('gb_res');
+stockList.push('gb_wetf');
 stockList.push('gb_bita');
 stockList.push('gb_biib');
 stockList.push('gb_sblk');
@@ -67,8 +67,6 @@ stockList.push('gb_tlm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TEN.html" target="_blank">TEN</a></td><td></td><td></td><td>72</td><td>63.39</td><td>65.33</td><td>55.55</td><td>59.49</td></tr>
   <tr id="pds" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PDS.html" target="_blank">PDS</a></td><td></td><td></td><td>71</td><td>7.29</td><td>7.43</td><td>6.8</td><td>6.4</td></tr>
-  <tr id="wetf" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>67</td><td>20.49</td><td>21.98</td><td>14.925</td><td>19.15</td></tr>
   <tr id="ngls" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>54</td><td>55.7</td><td>47.71</td><td>44.63</td><td>0</td></tr>
   <tr id="eopn" class="green">
@@ -77,6 +75,8 @@ stockList.push('gb_tlm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CAM.html" target="_blank">CAM</a></td><td></td><td></td><td>49</td><td>55.34</td><td>55.67</td><td>44.43</td><td>50.98</td></tr>
   <tr id="res" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RES.html" target="_blank">RES</a></td><td></td><td></td><td>43</td><td>15.2</td><td>16.26</td><td>12.76</td><td>13.95</td></tr>
+  <tr id="wetf" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>42</td><td>20.49</td><td>21.98</td><td>14.925</td><td>19.15</td></tr>
   <tr id="bita" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BITA.html" target="_blank">BITA</a></td><td></td><td></td><td>39</td><td>61.06</td><td>74.8</td><td>54.63</td><td>54.83</td></tr>
   <tr id="biib" class="red">
