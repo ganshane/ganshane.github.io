@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150522"
-date:   2015-05-22 01:18:54
+date:   2015-05-22 04:17:41
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,7 +9,6 @@ var stockList = []
 stockList.push('gb_srpt');
 stockList.push('gb_yoku');
 stockList.push('gb_exas');
-stockList.push('gb_nclh');
 </script>
 
 <table border="1">
@@ -23,5 +22,4 @@ stockList.push('gb_nclh');
   <tr id="srpt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SRPT.html" target="_blank">SRPT</a></td><td></td><td></td><td>0.037</td><td>2.16</td></tr>
   <tr id="yoku"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YOKU.html" target="_blank">YOKU</a></td><td></td><td></td><td>0.024</td><td>2.773</td></tr>
   <tr id="exas"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXAS.html" target="_blank">EXAS</a></td><td></td><td></td><td>0.015</td><td>2.162</td></tr>
-  <tr id="nclh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NCLH.html" target="_blank">NCLH</a></td><td></td><td></td><td>0.013</td><td>4.159</td></tr>
 </table>
