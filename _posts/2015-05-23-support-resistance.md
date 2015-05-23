@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150523"
-date:   2015-05-23 01:23:17
+date:   2015-05-23 04:19:09
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,7 +18,6 @@ stockList.push('gb_res');
 stockList.push('gb_sil');
 stockList.push('gb_cnx');
 stockList.push('gb_wft');
-stockList.push('gb_wetf');
 stockList.push('gb_wprt');
 stockList.push('gb_nov');
 stockList.push('gb_five');
@@ -72,8 +71,6 @@ stockList.push('gb_tlm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CNX.html" target="_blank">CNX</a></td><td></td><td></td><td>72</td><td>31.64</td><td>33.39</td><td>28.51</td><td>29.4</td></tr>
   <tr id="wft" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WFT.html" target="_blank">WFT</a></td><td></td><td></td><td>67</td><td>14.86</td><td>14.91</td><td>13.2</td><td>13.04</td></tr>
-  <tr id="wetf" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>66</td><td>20.49</td><td>21.98</td><td>14.925</td><td>19.15</td></tr>
   <tr id="wprt" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPRT.html" target="_blank">WPRT</a></td><td></td><td></td><td>65</td><td>5.61</td><td>5.97</td><td>4.3</td><td>4.93</td></tr>
   <tr id="nov" class="red">
