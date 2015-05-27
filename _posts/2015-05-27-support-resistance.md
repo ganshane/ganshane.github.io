@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150527"
-date:   2015-05-27 01:19:44
+date:   2015-05-27 04:21:22
 categories: stock
 ---
 <script type="text/javascript">
@@ -24,6 +24,7 @@ stockList.push('gb_gbx');
 stockList.push('gb_scss');
 stockList.push('gb_vale');
 stockList.push('gb_apo');
+stockList.push('gb_wetf');
 stockList.push('gb_wpz');
 stockList.push('gb_cveo');
 stockList.push('gb_cam');
@@ -84,6 +85,8 @@ stockList.push('gb_paa');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VALE.html" target="_blank">VALE</a></td><td></td><td></td><td>70</td><td>7.11</td><td>8.13</td><td>5.83</td><td>6.52</td></tr>
   <tr id="apo" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APO.html" target="_blank">APO</a></td><td></td><td></td><td>68</td><td>21.76</td><td>22.77</td><td>20.11</td><td>0</td></tr>
+  <tr id="wetf" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>66</td><td>20.49</td><td>21.98</td><td>14.925</td><td>19.15</td></tr>
   <tr id="wpz" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPZ.html" target="_blank">WPZ</a></td><td></td><td></td><td>64</td><td>57.578</td><td>60.056</td><td>50.066</td><td>53.93</td></tr>
   <tr id="cveo" class="green">
