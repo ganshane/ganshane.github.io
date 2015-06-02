@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "天量股票分析20150602"
-date:   2015-06-02 01:18:35
+date:   2015-06-02 04:17:53
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_kog');
 stockList.push('gb_cenx');
 stockList.push('gb_pxlw');
 stockList.push('gb_vimc');
@@ -24,7 +23,6 @@ stockList.push('gb_hum');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="cenx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CENX.html" target="_blank">CENX</a></td><td></td><td></td><td>-0.021</td><td>3.126</td></tr>
   <tr id="pxlw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PXLW.html" target="_blank">PXLW</a></td><td></td><td></td><td>0.017</td><td>6.322</td></tr>
   <tr id="vimc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIMC.html" target="_blank">VIMC</a></td><td></td><td></td><td>0.016</td><td>2.384</td></tr>

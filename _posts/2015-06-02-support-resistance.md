@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150602"
-date:   2015-06-02 01:18:35
+date:   2015-06-02 04:17:53
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,6 +14,7 @@ stockList.push('gb_luv');
 stockList.push('gb_bbep');
 stockList.push('gb_swn');
 stockList.push('gb_bidu');
+stockList.push('gb_qlys');
 stockList.push('gb_ngls');
 stockList.push('gb_bdbd');
 stockList.push('gb_ej');
@@ -26,7 +27,6 @@ stockList.push('gb_oks');
 stockList.push('gb_fcx');
 stockList.push('gb_crk');
 stockList.push('gb_res');
-stockList.push('gb_chgg');
 stockList.push('gb_cop');
 stockList.push('gb_orig');
 stockList.push('gb_ach');
@@ -67,6 +67,8 @@ stockList.push('gb_mbt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWN.html" target="_blank">SWN</a></td><td></td><td></td><td>81</td><td>27.62</td><td>28.02</td><td>25.22</td><td>23.77</td></tr>
   <tr id="bidu" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIDU.html" target="_blank">BIDU</a></td><td></td><td></td><td>79</td><td>202.2</td><td>212.87</td><td>189.2</td><td>0</td></tr>
+  <tr id="qlys" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QLYS.html" target="_blank">QLYS</a></td><td></td><td></td><td>73</td><td>42.15</td><td>48.33</td><td>37.48</td><td>39.65</td></tr>
   <tr id="ngls" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>68</td><td>43.55</td><td>47</td><td>40.17</td><td>0</td></tr>
   <tr id="bdbd" class="red">
@@ -91,8 +93,6 @@ stockList.push('gb_mbt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRK.html" target="_blank">CRK</a></td><td></td><td></td><td>45</td><td>3.58</td><td>5.09</td><td>3.32</td><td>0</td></tr>
   <tr id="res" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RES.html" target="_blank">RES</a></td><td></td><td></td><td>43</td><td>15.2</td><td>15.17</td><td>12.76</td><td>13.95</td></tr>
-  <tr id="chgg" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CHGG.html" target="_blank">CHGG</a></td><td></td><td></td><td>36</td><td>7.8</td><td>8.18</td><td>7.2</td><td>7.2</td></tr>
   <tr id="cop" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/COP.html" target="_blank">COP</a></td><td></td><td></td><td>35</td><td>64.89</td><td>69.03</td><td>60.84</td><td>0</td></tr>
   <tr id="orig" class="green">
