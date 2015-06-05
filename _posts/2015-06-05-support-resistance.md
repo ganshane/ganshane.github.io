@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150605"
-date:   2015-06-05 01:18:22
+date:   2015-06-05 04:18:28
 categories: stock
 ---
 <script type="text/javascript">
@@ -26,7 +26,6 @@ stockList.push('gb_htgc');
 stockList.push('gb_dpm');
 stockList.push('gb_podd');
 stockList.push('gb_ej');
-stockList.push('gb_kog');
 stockList.push('gb_hlx');
 stockList.push('gb_ohi');
 stockList.push('gb_tdw');
@@ -99,8 +98,6 @@ stockList.push('gb_tlm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PODD.html" target="_blank">PODD</a></td><td></td><td></td><td>66</td><td>29.42</td><td>31.45</td><td>25.5</td><td>0</td></tr>
   <tr id="ej" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EJ.html" target="_blank">EJ</a></td><td></td><td></td><td>66</td><td>5.86</td><td>6.4</td><td>5.1</td><td>0</td></tr>
-  <tr id="kog" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>65</td><td>68.5</td><td>71.75</td><td>62.49</td><td>64.04</td></tr>
   <tr id="hlx" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HLX.html" target="_blank">HLX</a></td><td></td><td></td><td>62</td><td>15.66</td><td>17.18</td><td>13.11</td><td>0</td></tr>
   <tr id="ohi" class="green">
