@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150610"
-date:   2015-06-10 01:18:10
+date:   2015-06-10 04:17:53
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,6 +12,7 @@ stockList.push('gb_powi');
 stockList.push('gb_atw');
 stockList.push('gb_hiw');
 stockList.push('gb_sn');
+stockList.push('gb_xone');
 stockList.push('gb_ag');
 stockList.push('gb_nov');
 stockList.push('gb_nnn');
@@ -69,6 +70,8 @@ stockList.push('gb_pkg');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HIW.html" target="_blank">HIW</a></td><td></td><td></td><td>91</td><td>41.44</td><td>43.06</td><td>38.8</td><td>0</td></tr>
   <tr id="sn" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SN.html" target="_blank">SN</a></td><td></td><td></td><td>91</td><td>11.71</td><td>14.29</td><td>7.66</td><td>10.22</td></tr>
+  <tr id="xone" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XONE.html" target="_blank">XONE</a></td><td></td><td></td><td>86</td><td>13.33</td><td>15.64</td><td>12.06</td><td>0</td></tr>
   <tr id="ag" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AG.html" target="_blank">AG</a></td><td></td><td></td><td>80</td><td>4.99</td><td>5.24</td><td>4.61</td><td>0</td></tr>
   <tr id="nov" class="green">
