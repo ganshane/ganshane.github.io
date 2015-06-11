@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150611"
-date:   2015-06-11 01:18:11
+date:   2015-06-11 04:18:08
 categories: stock
 ---
 <script type="text/javascript">
@@ -36,6 +36,6 @@ stockList.push('gb_snh');
   <tr id="uan"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UAN.html" target="_blank">UAN</a></td><td></td><td></td><td>-0.011</td><td>2.537</td></tr>
   <tr id="eido"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EIDO.html" target="_blank">EIDO</a></td><td></td><td></td><td>-0.011</td><td>2.916</td></tr>
   <tr id="itc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ITC.html" target="_blank">ITC</a></td><td></td><td></td><td>-0.01</td><td>2.044</td></tr>
-  <tr id="nem"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NEM.html" target="_blank">NEM</a></td><td></td><td></td><td>-0.01</td><td>6.316</td></tr>
+  <tr id="nem"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NEM.html" target="_blank">NEM</a></td><td></td><td></td><td>-0.01</td><td>6.301</td></tr>
   <tr id="snh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNH.html" target="_blank">SNH</a></td><td></td><td></td><td>-0.01</td><td>2.812</td></tr>
 </table>
