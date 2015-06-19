@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150619"
-date:   2015-06-19 01:18:34
+date:   2015-06-19 04:18:04
 categories: stock
 ---
 <script type="text/javascript">
@@ -13,6 +13,7 @@ stockList.push('gb_iyt');
 stockList.push('gb_ks');
 stockList.push('gb_wtr');
 stockList.push('gb_isis');
+stockList.push('gb_sse');
 stockList.push('gb_edz');
 stockList.push('gb_lgcy');
 stockList.push('gb_stm');
@@ -70,6 +71,8 @@ stockList.push('gb_pld');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WTR.html" target="_blank">WTR</a></td><td></td><td></td><td>85</td><td>25.44</td><td>26.7</td><td>23.26</td><td>0</td></tr>
   <tr id="isis" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ISIS.html" target="_blank">ISIS</a></td><td></td><td></td><td>83</td><td>67.13</td><td>68.15</td><td>61.41</td><td>42.5</td></tr>
+  <tr id="sse" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SSE.html" target="_blank">SSE</a></td><td></td><td></td><td>83</td><td>22.27</td><td>6.847</td><td>4.54</td><td>5.69</td></tr>
   <tr id="edz" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EDZ.html" target="_blank">EDZ</a></td><td></td><td></td><td>82</td><td>31.75</td><td>35.6</td><td>26.47</td><td>28.09</td></tr>
   <tr id="lgcy" class="red">
