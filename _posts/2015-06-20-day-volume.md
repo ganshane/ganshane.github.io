@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "天量股票分析20150620"
-date:   2015-06-20 01:18:41
+date:   2015-06-20 04:19:25
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_cf');
 stockList.push('gb_kog');
 stockList.push('gb_gdp');
 stockList.push('gb_alxn');
@@ -36,7 +35,6 @@ stockList.push('gb_cnc');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="cf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CF.html" target="_blank">CF</a></td><td></td><td></td><td>-0.087</td><td>5.298</td></tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="gdp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GDP.html" target="_blank">GDP</a></td><td></td><td></td><td>-0.046</td><td>3.053</td></tr>
   <tr id="alxn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALXN.html" target="_blank">ALXN</a></td><td></td><td></td><td>0.016</td><td>4.061</td></tr>
