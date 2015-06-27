@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150627"
-date:   2015-06-27 01:19:37
+date:   2015-06-27 04:17:41
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,6 +11,7 @@ stockList.push('gb_edz');
 stockList.push('gb_syt');
 stockList.push('gb_cms');
 stockList.push('gb_osur');
+stockList.push('gb_iyt');
 stockList.push('gb_aec');
 stockList.push('gb_eido');
 stockList.push('gb_erf');
@@ -67,6 +68,8 @@ stockList.push('gb_cig');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMS.html" target="_blank">CMS</a></td><td></td><td></td><td>85</td><td>31.77</td><td>32.9</td><td>29.24</td><td>0</td></tr>
   <tr id="osur" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OSUR.html" target="_blank">OSUR</a></td><td></td><td></td><td>82</td><td>6.38</td><td>7.08</td><td>5.44</td><td>0</td></tr>
+  <tr id="iyt" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IYT.html" target="_blank">IYT</a></td><td></td><td></td><td>80</td><td>148.13</td><td>153.18</td><td>137.05</td><td>0</td></tr>
   <tr id="aec" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AEC.html" target="_blank">AEC</a></td><td></td><td></td><td>80</td><td>28.58</td><td>28.7</td><td>23.97</td><td>26.22</td></tr>
   <tr id="eido" class="green">

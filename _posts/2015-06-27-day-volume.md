@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150627"
-date:   2015-06-27 01:19:37
+date:   2015-06-27 04:17:41
 categories: stock
 ---
 <script type="text/javascript">
@@ -43,7 +43,7 @@ stockList.push('gb_fxcm');
   <tr id="atls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATLS.html" target="_blank">ATLS</a></td><td></td><td></td><td>-0.016</td><td>2.123</td></tr>
   <tr id="anac"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANAC.html" target="_blank">ANAC</a></td><td></td><td></td><td>0.016</td><td>2.678</td></tr>
   <tr id="wuba"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WUBA.html" target="_blank">WUBA</a></td><td></td><td></td><td>-0.016</td><td>2.042</td></tr>
-  <tr id="pf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PF.html" target="_blank">PF</a></td><td></td><td></td><td>0.016</td><td>3.056</td></tr>
+  <tr id="pf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PF.html" target="_blank">PF</a></td><td></td><td></td><td>0.016</td><td>3.055</td></tr>
   <tr id="sse"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SSE.html" target="_blank">SSE</a></td><td></td><td></td><td>-0.015</td><td>4.993</td></tr>
   <tr id="cmrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMRX.html" target="_blank">CMRX</a></td><td></td><td></td><td>0.015</td><td>2.646</td></tr>
   <tr id="pes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PES.html" target="_blank">PES</a></td><td></td><td></td><td>-0.015</td><td>2.592</td></tr>
