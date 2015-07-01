@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150701"
-date:   2015-07-01 01:18:20
+date:   2015-07-01 04:22:09
 categories: stock
 ---
 <script type="text/javascript">
@@ -50,7 +50,6 @@ stockList.push('gb_iye');
 stockList.push('gb_arcp');
 stockList.push('gb_oke');
 stockList.push('gb_tlm');
-stockList.push('gb_vno');
 stockList.push('gb_ipg');
 stockList.push('gb_kim');
 </script>
@@ -153,8 +152,6 @@ stockList.push('gb_kim');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OKE.html" target="_blank">OKE</a></td><td></td><td></td><td>26</td><td>42.02</td><td>48.19</td><td>38.67</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>25</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
-  <tr id="vno" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VNO.html" target="_blank">VNO</a></td><td></td><td></td><td>24</td><td>97.129</td><td>100.625</td><td>84.321</td><td>0</td></tr>
   <tr id="ipg" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IPG.html" target="_blank">IPG</a></td><td></td><td></td><td>23</td><td>19.18</td><td>20.3</td><td>16.37</td><td>0</td></tr>
   <tr id="kim" class="red">
