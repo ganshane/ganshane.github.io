@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150703"
-date:   2015-07-03 01:19:11
+date:   2015-07-03 04:17:35
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,6 +18,7 @@ stockList.push('gb_dft');
 stockList.push('gb_eca');
 stockList.push('gb_txn');
 stockList.push('gb_iyr');
+stockList.push('gb_sse');
 stockList.push('gb_cvrr');
 stockList.push('gb_adt');
 stockList.push('gb_crox');
@@ -50,7 +51,6 @@ stockList.push('gb_leju');
 stockList.push('gb_arcp');
 stockList.push('gb_trow');
 stockList.push('gb_tlm');
-stockList.push('gb_yelp');
 stockList.push('gb_ipxl');
 stockList.push('gb_qlik');
 stockList.push('gb_tvpt');
@@ -90,6 +90,8 @@ stockList.push('gb_tvpt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TXN.html" target="_blank">TXN</a></td><td></td><td></td><td>78</td><td>52.12</td><td>54.28</td><td>42.04</td><td>0</td></tr>
   <tr id="iyr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IYR.html" target="_blank">IYR</a></td><td></td><td></td><td>77</td><td>73.22</td><td>75.5</td><td>68.66</td><td>0</td></tr>
+  <tr id="sse" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SSE.html" target="_blank">SSE</a></td><td></td><td></td><td>75</td><td>4.44</td><td>5.19</td><td>3.85</td><td>0</td></tr>
   <tr id="cvrr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVRR.html" target="_blank">CVRR</a></td><td></td><td></td><td>74</td><td>19.05</td><td>19.77</td><td>17.72</td><td>17.64</td></tr>
   <tr id="adt" class="green">
@@ -154,8 +156,6 @@ stockList.push('gb_tvpt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TROW.html" target="_blank">TROW</a></td><td></td><td></td><td>27</td><td>77.41</td><td>79.78</td><td>71.78</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>25</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
-  <tr id="yelp" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YELP.html" target="_blank">YELP</a></td><td></td><td></td><td>22</td><td>43.83</td><td>46.4</td><td>37.91</td><td>0</td></tr>
   <tr id="ipxl" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IPXL.html" target="_blank">IPXL</a></td><td></td><td></td><td>22</td><td>46.6</td><td>48.67</td><td>43.4</td><td>41.08</td></tr>
   <tr id="qlik" class="green">
