@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150707"
-date:   2015-07-07 01:18:40
+date:   2015-07-07 04:18:53
 categories: stock
 ---
 <script type="text/javascript">
@@ -25,6 +25,7 @@ stockList.push('gb_lpi');
 stockList.push('gb_cig');
 stockList.push('gb_trow');
 stockList.push('gb_ph');
+stockList.push('gb_cveo');
 stockList.push('gb_hal');
 stockList.push('gb_ntes');
 stockList.push('gb_kim');
@@ -46,8 +47,8 @@ stockList.push('gb_king');
 stockList.push('gb_bidu');
 stockList.push('gb_dsw');
 stockList.push('gb_athm');
-stockList.push('gb_qunr');
 stockList.push('gb_crox');
+stockList.push('gb_hubs');
 stockList.push('gb_mnst');
 stockList.push('gb_wtr');
 stockList.push('gb_cvrr');
@@ -103,6 +104,8 @@ stockList.push('gb_gab');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TROW.html" target="_blank">TROW</a></td><td></td><td></td><td>71</td><td>77.41</td><td>79.78</td><td>71.78</td><td>0</td></tr>
   <tr id="ph" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PH.html" target="_blank">PH</a></td><td></td><td></td><td>67</td><td>116.91</td><td>119.68</td><td>101.19</td><td>0</td></tr>
+  <tr id="cveo" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVEO.html" target="_blank">CVEO</a></td><td></td><td></td><td>65</td><td>3.31</td><td>3.83</td><td>2.79</td><td>0</td></tr>
   <tr id="hal" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HAL.html" target="_blank">HAL</a></td><td></td><td></td><td>64</td><td>44.37</td><td>44.64</td><td>39.87</td><td>40.47</td></tr>
   <tr id="ntes" class="red">
@@ -145,10 +148,10 @@ stockList.push('gb_gab');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DSW.html" target="_blank">DSW</a></td><td></td><td></td><td>37</td><td>34.36</td><td>35.99</td><td>29.32</td><td>31.5</td></tr>
   <tr id="athm" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATHM.html" target="_blank">ATHM</a></td><td></td><td></td><td>34</td><td>47.68</td><td>53.56</td><td>44.02</td><td>44.46</td></tr>
-  <tr id="qunr" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QUNR.html" target="_blank">QUNR</a></td><td></td><td></td><td>34</td><td>42.62</td><td>51.75</td><td>28.49</td><td>30.55</td></tr>
   <tr id="crox" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CROX.html" target="_blank">CROX</a></td><td></td><td></td><td>33</td><td>14.78</td><td>15.57</td><td>12.12</td><td>13.22</td></tr>
+  <tr id="hubs" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HUBS.html" target="_blank">HUBS</a></td><td></td><td></td><td>32</td><td>47.66</td><td>51.86</td><td>37.56</td><td>42.715</td></tr>
   <tr id="mnst" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MNST.html" target="_blank">MNST</a></td><td></td><td></td><td>31</td><td>133.92</td><td>140.24</td><td>124.18</td><td>122.27</td></tr>
   <tr id="wtr" class="red">

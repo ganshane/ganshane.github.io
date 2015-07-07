@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "天量股票分析20150707"
-date:   2015-07-07 01:18:40
+date:   2015-07-07 04:18:53
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
+stockList.push('gb_kog');
 stockList.push('gb_ctcm');
 stockList.push('gb_aks');
 stockList.push('gb_yoku');
@@ -13,6 +14,7 @@ stockList.push('gb_vslr');
 stockList.push('gb_wtw');
 stockList.push('gb_wuba');
 stockList.push('gb_feng');
+stockList.push('gb_wb');
 stockList.push('gb_sohu');
 stockList.push('gb_yelp');
 stockList.push('gb_sina');
@@ -33,6 +35,7 @@ stockList.push('gb_clny');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
+  <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="ctcm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CTCM.html" target="_blank">CTCM</a></td><td></td><td></td><td>-0.047</td><td>2.286</td></tr>
   <tr id="aks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AKS.html" target="_blank">AKS</a></td><td></td><td></td><td>-0.028</td><td>2.176</td></tr>
   <tr id="yoku"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YOKU.html" target="_blank">YOKU</a></td><td></td><td></td><td>-0.026</td><td>2.447</td></tr>
@@ -40,6 +43,7 @@ stockList.push('gb_clny');
   <tr id="wtw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WTW.html" target="_blank">WTW</a></td><td></td><td></td><td>-0.02</td><td>4.834</td></tr>
   <tr id="wuba"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WUBA.html" target="_blank">WUBA</a></td><td></td><td></td><td>-0.02</td><td>2.086</td></tr>
   <tr id="feng"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FENG.html" target="_blank">FENG</a></td><td></td><td></td><td>-0.019</td><td>3.313</td></tr>
+  <tr id="wb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WB.html" target="_blank">WB</a></td><td></td><td></td><td>-0.018</td><td>3.814</td></tr>
   <tr id="sohu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SOHU.html" target="_blank">SOHU</a></td><td></td><td></td><td>-0.016</td><td>3.19</td></tr>
   <tr id="yelp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YELP.html" target="_blank">YELP</a></td><td></td><td></td><td>-0.015</td><td>2.117</td></tr>
   <tr id="sina"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SINA.html" target="_blank">SINA</a></td><td></td><td></td><td>-0.015</td><td>3.251</td></tr>
