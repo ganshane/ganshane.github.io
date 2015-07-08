@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150708"
-date:   2015-07-08 01:18:40
+date:   2015-07-08 04:18:47
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,7 +18,6 @@ stockList.push('gb_mmm');
 stockList.push('gb_abc');
 stockList.push('gb_itub');
 stockList.push('gb_ual');
-stockList.push('gb_sse');
 stockList.push('gb_lpi');
 stockList.push('gb_crox');
 stockList.push('gb_qlik');
@@ -86,8 +85,6 @@ stockList.push('gb_ph');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ITUB.html" target="_blank">ITUB</a></td><td></td><td></td><td>81</td><td>11.73</td><td>11.48</td><td>10.35</td><td>0</td></tr>
   <tr id="ual" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UAL.html" target="_blank">UAL</a></td><td></td><td></td><td>78</td><td>54.61</td><td>55.4</td><td>50.69</td><td>48.85</td></tr>
-  <tr id="sse" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SSE.html" target="_blank">SSE</a></td><td></td><td></td><td>74</td><td>3.85</td><td>5.19</td><td>3.02</td><td>0</td></tr>
   <tr id="lpi" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPI.html" target="_blank">LPI</a></td><td></td><td></td><td>73</td><td>13.04</td><td>14.35</td><td>10.61</td><td>10.94</td></tr>
   <tr id="crox" class="red">

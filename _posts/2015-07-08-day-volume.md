@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "天量股票分析20150708"
-date:   2015-07-08 01:18:40
+date:   2015-07-08 04:18:47
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_gasl');
 stockList.push('gb_dang');
+stockList.push('gb_cmcm');
 stockList.push('gb_yoku');
 stockList.push('gb_sgy');
 stockList.push('gb_wbai');
@@ -80,6 +81,7 @@ stockList.push('gb_clny');
 </tr>
   <tr id="gasl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GASL.html" target="_blank">GASL</a></td><td></td><td></td><td>-0.053</td><td>2.781</td></tr>
   <tr id="dang"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DANG.html" target="_blank">DANG</a></td><td></td><td></td><td>-0.034</td><td>3.784</td></tr>
+  <tr id="cmcm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMCM.html" target="_blank">CMCM</a></td><td></td><td></td><td>-0.033</td><td>3.204</td></tr>
   <tr id="yoku"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YOKU.html" target="_blank">YOKU</a></td><td></td><td></td><td>-0.032</td><td>2.843</td></tr>
   <tr id="sgy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGY.html" target="_blank">SGY</a></td><td></td><td></td><td>-0.03</td><td>2.813</td></tr>
   <tr id="wbai"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WBAI.html" target="_blank">WBAI</a></td><td></td><td></td><td>-0.028</td><td>4.59</td></tr>
