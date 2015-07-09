@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150709"
-date:   2015-07-09 01:17:56
+date:   2015-07-09 04:17:35
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,7 +10,6 @@ stockList.push('gb_cmcm');
 stockList.push('gb_yy');
 stockList.push('gb_sohu');
 stockList.push('gb_feng');
-stockList.push('gb_wb');
 stockList.push('gb_ach');
 stockList.push('gb_geos');
 stockList.push('gb_jaso');
@@ -43,7 +42,6 @@ stockList.push('gb_gm');
   <tr id="yy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YY.html" target="_blank">YY</a></td><td></td><td></td><td>-0.032</td><td>2.338</td></tr>
   <tr id="sohu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SOHU.html" target="_blank">SOHU</a></td><td></td><td></td><td>-0.032</td><td>2.773</td></tr>
   <tr id="feng"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FENG.html" target="_blank">FENG</a></td><td></td><td></td><td>-0.032</td><td>2.12</td></tr>
-  <tr id="wb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WB.html" target="_blank">WB</a></td><td></td><td></td><td>-0.027</td><td>2.439</td></tr>
   <tr id="ach"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACH.html" target="_blank">ACH</a></td><td></td><td></td><td>-0.026</td><td>3.816</td></tr>
   <tr id="geos"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GEOS.html" target="_blank">GEOS</a></td><td></td><td></td><td>-0.024</td><td>3.149</td></tr>
   <tr id="jaso"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JASO.html" target="_blank">JASO</a></td><td></td><td></td><td>-0.023</td><td>2.133</td></tr>

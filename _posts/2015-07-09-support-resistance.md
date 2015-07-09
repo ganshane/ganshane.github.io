@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150709"
-date:   2015-07-09 01:17:56
+date:   2015-07-09 04:17:35
 categories: stock
 ---
 <script type="text/javascript">
@@ -26,7 +26,6 @@ stockList.push('gb_tvpt');
 stockList.push('gb_nvo');
 stockList.push('gb_apd');
 stockList.push('gb_dust');
-stockList.push('gb_sse');
 stockList.push('gb_syrg');
 stockList.push('gb_navi');
 stockList.push('gb_ipg');
@@ -110,8 +109,6 @@ stockList.push('gb_im');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APD.html" target="_blank">APD</a></td><td></td><td></td><td>75</td><td>136.38</td><td>147.53</td><td>118.2</td><td>0</td></tr>
   <tr id="dust" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DUST.html" target="_blank">DUST</a></td><td></td><td></td><td>75</td><td>20.84</td><td>21.65</td><td>14.82</td><td>19.41</td></tr>
-  <tr id="sse" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SSE.html" target="_blank">SSE</a></td><td></td><td></td><td>74</td><td>3.85</td><td>5.19</td><td>3.02</td><td>0</td></tr>
   <tr id="syrg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SYRG.html" target="_blank">SYRG</a></td><td></td><td></td><td>73</td><td>10.83</td><td>11.92</td><td>9.42</td><td>0</td></tr>
   <tr id="navi" class="red">
