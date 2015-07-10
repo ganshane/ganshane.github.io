@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150710"
-date:   2015-07-10 01:17:55
+date:   2015-07-10 04:17:33
 categories: stock
 ---
 <script type="text/javascript">
@@ -38,7 +38,7 @@ stockList.push('gb_crus');
 </tr>
   <tr id="dang"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DANG.html" target="_blank">DANG</a></td><td></td><td></td><td>-0.05</td><td>3.491</td></tr>
   <tr id="wb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WB.html" target="_blank">WB</a></td><td></td><td></td><td>-0.04</td><td>2.794</td></tr>
-  <tr id="yy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YY.html" target="_blank">YY</a></td><td></td><td></td><td>-0.032</td><td>2.338</td></tr>
+  <tr id="yy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YY.html" target="_blank">YY</a></td><td></td><td></td><td>-0.033</td><td>2.592</td></tr>
   <tr id="sina"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SINA.html" target="_blank">SINA</a></td><td></td><td></td><td>-0.03</td><td>3.007</td></tr>
   <tr id="scln"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCLN.html" target="_blank">SCLN</a></td><td></td><td></td><td>0.026</td><td>2.396</td></tr>
   <tr id="enph"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENPH.html" target="_blank">ENPH</a></td><td></td><td></td><td>-0.026</td><td>2.53</td></tr>
