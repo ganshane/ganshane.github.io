@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  "天量股票分析20150711"
-date:   2015-07-11 01:17:54
+date:   2015-07-11 04:17:39
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_atls');
-stockList.push('gb_yy');
-stockList.push('gb_qihu');
 stockList.push('gb_s');
 stockList.push('gb_lbtya');
 stockList.push('gb_sne');
@@ -29,8 +27,6 @@ stockList.push('gb_ewq');
  <td>天量指数</td>
 </tr>
   <tr id="atls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATLS.html" target="_blank">ATLS</a></td><td></td><td></td><td>-0.033</td><td>2.307</td></tr>
-  <tr id="yy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YY.html" target="_blank">YY</a></td><td></td><td></td><td>-0.033</td><td>2.592</td></tr>
-  <tr id="qihu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QIHU.html" target="_blank">QIHU</a></td><td></td><td></td><td>-0.022</td><td>2.043</td></tr>
   <tr id="s"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/S.html" target="_blank">S</a></td><td></td><td></td><td>-0.018</td><td>2.078</td></tr>
   <tr id="lbtya"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LBTYA.html" target="_blank">LBTYA</a></td><td></td><td></td><td>-0.018</td><td>2.613</td></tr>
   <tr id="sne"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNE.html" target="_blank">SNE</a></td><td></td><td></td><td>-0.016</td><td>3.154</td></tr>
