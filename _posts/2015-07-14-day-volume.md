@@ -1,21 +1,22 @@
 ---
 layout: post
 title:  "天量股票分析20150714"
-date:   2015-07-14 01:17:38
+date:   2015-07-14 04:17:19
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_atls');
-stockList.push('gb_s');
+stockList.push('gb_arp');
+stockList.push('gb_cbd');
+stockList.push('gb_vale');
+stockList.push('gb_mtcn');
+stockList.push('gb_xme');
 stockList.push('gb_lbtya');
+stockList.push('gb_line');
+stockList.push('gb_bbep');
+stockList.push('gb_rio');
 stockList.push('gb_sne');
-stockList.push('gb_hmsy');
-stockList.push('gb_nxst');
-stockList.push('gb_asml');
-stockList.push('gb_tot');
-stockList.push('gb_powr');
-stockList.push('gb_ewq');
+stockList.push('gb_coty');
 </script>
 
 <table border="1">
@@ -26,14 +27,15 @@ stockList.push('gb_ewq');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="atls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATLS.html" target="_blank">ATLS</a></td><td></td><td></td><td>-0.033</td><td>2.307</td></tr>
-  <tr id="s"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/S.html" target="_blank">S</a></td><td></td><td></td><td>-0.018</td><td>2.078</td></tr>
-  <tr id="lbtya"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LBTYA.html" target="_blank">LBTYA</a></td><td></td><td></td><td>-0.018</td><td>2.613</td></tr>
-  <tr id="sne"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNE.html" target="_blank">SNE</a></td><td></td><td></td><td>-0.016</td><td>3.154</td></tr>
-  <tr id="hmsy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HMSY.html" target="_blank">HMSY</a></td><td></td><td></td><td>-0.015</td><td>2.859</td></tr>
-  <tr id="nxst"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NXST.html" target="_blank">NXST</a></td><td></td><td></td><td>-0.012</td><td>2.193</td></tr>
-  <tr id="asml"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ASML.html" target="_blank">ASML</a></td><td></td><td></td><td>-0.012</td><td>2.328</td></tr>
-  <tr id="tot"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOT.html" target="_blank">TOT</a></td><td></td><td></td><td>-0.011</td><td>2.36</td></tr>
-  <tr id="powr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POWR.html" target="_blank">POWR</a></td><td></td><td></td><td>-0.01</td><td>4.556</td></tr>
-  <tr id="ewq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWQ.html" target="_blank">EWQ</a></td><td></td><td></td><td>-0.01</td><td>2.308</td></tr>
+  <tr id="arp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARP.html" target="_blank">ARP</a></td><td></td><td></td><td>-0.024</td><td>3.353</td></tr>
+  <tr id="cbd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CBD.html" target="_blank">CBD</a></td><td></td><td></td><td>-0.019</td><td>2.317</td></tr>
+  <tr id="vale"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VALE.html" target="_blank">VALE</a></td><td></td><td></td><td>-0.016</td><td>2.27</td></tr>
+  <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.016</td><td>3.165</td></tr>
+  <tr id="xme"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XME.html" target="_blank">XME</a></td><td></td><td></td><td>-0.014</td><td>2.123</td></tr>
+  <tr id="lbtya"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LBTYA.html" target="_blank">LBTYA</a></td><td></td><td></td><td>-0.014</td><td>2.162</td></tr>
+  <tr id="line"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LINE.html" target="_blank">LINE</a></td><td></td><td></td><td>-0.014</td><td>2.11</td></tr>
+  <tr id="bbep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBEP.html" target="_blank">BBEP</a></td><td></td><td></td><td>-0.012</td><td>2.228</td></tr>
+  <tr id="rio"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RIO.html" target="_blank">RIO</a></td><td></td><td></td><td>-0.012</td><td>2.098</td></tr>
+  <tr id="sne"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNE.html" target="_blank">SNE</a></td><td></td><td></td><td>-0.012</td><td>3.587</td></tr>
+  <tr id="coty"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/COTY.html" target="_blank">COTY</a></td><td></td><td></td><td>-0.01</td><td>2.12</td></tr>
 </table>
