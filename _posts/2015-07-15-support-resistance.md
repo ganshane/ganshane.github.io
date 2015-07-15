@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150715"
-date:   2015-07-15 01:18:17
+date:   2015-07-15 04:17:13
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_aegr');
-stockList.push('gb_lnkd');
 stockList.push('gb_cavm');
 stockList.push('gb_sn');
 stockList.push('gb_tdw');
@@ -52,8 +51,6 @@ stockList.push('gb_oww');
 </tr>
   <tr id="aegr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AEGR.html" target="_blank">AEGR</a></td><td></td><td></td><td>95</td><td>19.97</td><td>19.15</td><td>17.15</td><td>0</td></tr>
-  <tr id="lnkd" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LNKD.html" target="_blank">LNKD</a></td><td></td><td></td><td>93</td><td>214.03</td><td>218.27</td><td>195.5</td><td>0</td></tr>
   <tr id="cavm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CAVM.html" target="_blank">CAVM</a></td><td></td><td></td><td>91</td><td>67.87</td><td>72.97</td><td>63.62</td><td>62.6</td></tr>
   <tr id="sn" class="green">
