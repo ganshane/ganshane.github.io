@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "天量股票分析20150717"
-date:   2015-07-17 01:17:43
+date:   2015-07-17 04:17:20
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
+stockList.push('gb_kog');
 stockList.push('gb_sfy');
 stockList.push('gb_imgn');
 stockList.push('gb_emes');
@@ -24,7 +25,8 @@ stockList.push('gb_lea');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="sfy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SFY.html" target="_blank">SFY</a></td><td></td><td></td><td>-0.046</td><td>2.397</td></tr>
+  <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
+  <tr id="sfy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SFY.html" target="_blank">SFY</a></td><td></td><td></td><td>-0.046</td><td>2.396</td></tr>
   <tr id="imgn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IMGN.html" target="_blank">IMGN</a></td><td></td><td></td><td>0.022</td><td>2.714</td></tr>
   <tr id="emes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EMES.html" target="_blank">EMES</a></td><td></td><td></td><td>-0.019</td><td>2.265</td></tr>
   <tr id="dplo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DPLO.html" target="_blank">DPLO</a></td><td></td><td></td><td>0.016</td><td>3.297</td></tr>
