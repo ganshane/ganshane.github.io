@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150718"
-date:   2015-07-18 01:17:35
+date:   2015-07-18 04:18:03
 categories: stock
 ---
 <script type="text/javascript">
@@ -44,6 +44,6 @@ stockList.push('gb_te');
   <tr id="memp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MEMP.html" target="_blank">MEMP</a></td><td></td><td></td><td>-0.012</td><td>3.026</td></tr>
   <tr id="googl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOOGL.html" target="_blank">GOOGL</a></td><td></td><td></td><td>0.011</td><td>5.836</td></tr>
   <tr id="ttwo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TTWO.html" target="_blank">TTWO</a></td><td></td><td></td><td>0.011</td><td>3.441</td></tr>
-  <tr id="wprt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPRT.html" target="_blank">WPRT</a></td><td></td><td></td><td>0.011</td><td>4.005</td></tr>
+  <tr id="wprt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPRT.html" target="_blank">WPRT</a></td><td></td><td></td><td>0.011</td><td>4.01</td></tr>
   <tr id="te"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TE.html" target="_blank">TE</a></td><td></td><td></td><td>0.01</td><td>4.003</td></tr>
 </table>
