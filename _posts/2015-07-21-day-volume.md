@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150721"
-date:   2015-07-21 01:17:48
+date:   2015-07-21 04:17:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -26,6 +26,7 @@ stockList.push('gb_gg');
 stockList.push('gb_paas');
 stockList.push('gb_gdx');
 stockList.push('gb_nem');
+stockList.push('gb_urs');
 stockList.push('gb_au');
 stockList.push('gb_srpt');
 stockList.push('gb_slh');
@@ -50,7 +51,7 @@ stockList.push('gb_ag');
   <tr id="jnug"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JNUG.html" target="_blank">JNUG</a></td><td></td><td></td><td>-0.021</td><td>3.232</td></tr>
   <tr id="cnx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CNX.html" target="_blank">CNX</a></td><td></td><td></td><td>-0.019</td><td>2.292</td></tr>
   <tr id="abx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ABX.html" target="_blank">ABX</a></td><td></td><td></td><td>-0.019</td><td>3.507</td></tr>
-  <tr id="gdp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GDP.html" target="_blank">GDP</a></td><td></td><td></td><td>-0.018</td><td>2.366</td></tr>
+  <tr id="gdp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GDP.html" target="_blank">GDP</a></td><td></td><td></td><td>-0.018</td><td>2.365</td></tr>
   <tr id="jdst"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JDST.html" target="_blank">JDST</a></td><td></td><td></td><td>0.018</td><td>2.147</td></tr>
   <tr id="ego"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EGO.html" target="_blank">EGO</a></td><td></td><td></td><td>-0.017</td><td>2.528</td></tr>
   <tr id="memp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MEMP.html" target="_blank">MEMP</a></td><td></td><td></td><td>-0.017</td><td>2.053</td></tr>
@@ -59,7 +60,8 @@ stockList.push('gb_ag');
   <tr id="gg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GG.html" target="_blank">GG</a></td><td></td><td></td><td>-0.012</td><td>2.855</td></tr>
   <tr id="paas"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PAAS.html" target="_blank">PAAS</a></td><td></td><td></td><td>-0.012</td><td>2.245</td></tr>
   <tr id="gdx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GDX.html" target="_blank">GDX</a></td><td></td><td></td><td>-0.011</td><td>5.05</td></tr>
-  <tr id="nem"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NEM.html" target="_blank">NEM</a></td><td></td><td></td><td>-0.011</td><td>3.577</td></tr>
+  <tr id="nem"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NEM.html" target="_blank">NEM</a></td><td></td><td></td><td>-0.011</td><td>3.56</td></tr>
+  <tr id="urs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>0.011</td><td>2.504</td></tr>
   <tr id="au"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AU.html" target="_blank">AU</a></td><td></td><td></td><td>-0.011</td><td>2.31</td></tr>
   <tr id="srpt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SRPT.html" target="_blank">SRPT</a></td><td></td><td></td><td>0.011</td><td>2.376</td></tr>
   <tr id="slh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLH.html" target="_blank">SLH</a></td><td></td><td></td><td>-0.011</td><td>2.366</td></tr>
