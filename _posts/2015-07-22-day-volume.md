@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "天量股票分析20150722"
-date:   2015-07-22 01:18:12
+date:   2015-07-22 04:17:46
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_kog');
 stockList.push('gb_jnug');
 stockList.push('gb_ioc');
 stockList.push('gb_hmsy');
@@ -28,7 +27,6 @@ stockList.push('gb_czr');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="jnug"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JNUG.html" target="_blank">JNUG</a></td><td></td><td></td><td>-0.041</td><td>2.281</td></tr>
   <tr id="ioc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IOC.html" target="_blank">IOC</a></td><td></td><td></td><td>-0.017</td><td>2.937</td></tr>
   <tr id="hmsy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HMSY.html" target="_blank">HMSY</a></td><td></td><td></td><td>-0.015</td><td>2.269</td></tr>
