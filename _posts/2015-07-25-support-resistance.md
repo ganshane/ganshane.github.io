@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150725"
-date:   2015-07-25 01:17:47
+date:   2015-07-25 04:17:33
 categories: stock
 ---
 <script type="text/javascript">
@@ -35,7 +35,6 @@ stockList.push('gb_ggal');
 stockList.push('gb_egn');
 stockList.push('gb_phg');
 stockList.push('gb_sohu');
-stockList.push('gb_tlm');
 stockList.push('gb_aal');
 </script>
 <table border="1">
@@ -107,8 +106,6 @@ stockList.push('gb_aal');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PHG.html" target="_blank">PHG</a></td><td></td><td></td><td>29</td><td>26.78</td><td>28.26</td><td>24.42</td><td>0</td></tr>
   <tr id="sohu" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SOHU.html" target="_blank">SOHU</a></td><td></td><td></td><td>28</td><td>46.28</td><td>51.04</td><td>42.61</td><td>0</td></tr>
-  <tr id="tlm" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>25</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
   <tr id="aal" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AAL.html" target="_blank">AAL</a></td><td></td><td></td><td>24</td><td>42.78</td><td>43.42</td><td>38.91</td><td>0</td></tr>
 </table>
