@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150728"
-date:   2015-07-28 01:17:45
+date:   2015-07-28 04:17:36
 categories: stock
 ---
 <script type="text/javascript">
@@ -44,7 +44,7 @@ stockList.push('gb_nfx');
   <tr id="wprt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPRT.html" target="_blank">WPRT</a></td><td></td><td></td><td>-0.012</td><td>2.05</td></tr>
   <tr id="kn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KN.html" target="_blank">KN</a></td><td></td><td></td><td>-0.012</td><td>2.437</td></tr>
   <tr id="athn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATHN.html" target="_blank">ATHN</a></td><td></td><td></td><td>0.011</td><td>2.007</td></tr>
-  <tr id="bidu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIDU.html" target="_blank">BIDU</a></td><td></td><td></td><td>0.011</td><td>2.323</td></tr>
+  <tr id="bidu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIDU.html" target="_blank">BIDU</a></td><td></td><td></td><td>0.011</td><td>2.331</td></tr>
   <tr id="vips"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIPS.html" target="_blank">VIPS</a></td><td></td><td></td><td>-0.01</td><td>2.095</td></tr>
   <tr id="viab"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIAB.html" target="_blank">VIAB</a></td><td></td><td></td><td>-0.01</td><td>2.013</td></tr>
   <tr id="nfx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NFX.html" target="_blank">NFX</a></td><td></td><td></td><td>-0.01</td><td>2.643</td></tr>
