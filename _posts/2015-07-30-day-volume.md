@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150730"
-date:   2015-07-30 01:18:23
+date:   2015-07-30 04:17:43
 categories: stock
 ---
 <script type="text/javascript">
@@ -30,7 +30,6 @@ stockList.push('gb_tkr');
 stockList.push('gb_ha');
 stockList.push('gb_brfs');
 stockList.push('gb_foe');
-stockList.push('gb_cve');
 stockList.push('gb_mdvn');
 stockList.push('gb_ec');
 stockList.push('gb_erus');
@@ -62,7 +61,7 @@ stockList.push('gb_ssys');
   <tr id="wti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WTI.html" target="_blank">WTI</a></td><td></td><td></td><td>-0.015</td><td>2.228</td></tr>
   <tr id="lpsn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPSN.html" target="_blank">LPSN</a></td><td></td><td></td><td>-0.015</td><td>3.737</td></tr>
   <tr id="ois"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OIS.html" target="_blank">OIS</a></td><td></td><td></td><td>-0.014</td><td>2.822</td></tr>
-  <tr id="aks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AKS.html" target="_blank">AKS</a></td><td></td><td></td><td>-0.014</td><td>2.42</td></tr>
+  <tr id="aks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AKS.html" target="_blank">AKS</a></td><td></td><td></td><td>-0.014</td><td>2.419</td></tr>
   <tr id="slca"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLCA.html" target="_blank">SLCA</a></td><td></td><td></td><td>-0.014</td><td>3.924</td></tr>
   <tr id="peb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PEB.html" target="_blank">PEB</a></td><td></td><td></td><td>-0.013</td><td>2.261</td></tr>
   <tr id="drii"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DRII.html" target="_blank">DRII</a></td><td></td><td></td><td>-0.013</td><td>2.194</td></tr>
@@ -70,7 +69,6 @@ stockList.push('gb_ssys');
   <tr id="ha"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HA.html" target="_blank">HA</a></td><td></td><td></td><td>-0.012</td><td>2.854</td></tr>
   <tr id="brfs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BRFS.html" target="_blank">BRFS</a></td><td></td><td></td><td>-0.011</td><td>2.17</td></tr>
   <tr id="foe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FOE.html" target="_blank">FOE</a></td><td></td><td></td><td>-0.011</td><td>2.093</td></tr>
-  <tr id="cve"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVE.html" target="_blank">CVE</a></td><td></td><td></td><td>-0.011</td><td>2.102</td></tr>
   <tr id="mdvn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MDVN.html" target="_blank">MDVN</a></td><td></td><td></td><td>-0.011</td><td>4.18</td></tr>
   <tr id="ec"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EC.html" target="_blank">EC</a></td><td></td><td></td><td>-0.01</td><td>3.211</td></tr>
   <tr id="erus"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ERUS.html" target="_blank">ERUS</a></td><td></td><td></td><td>-0.01</td><td>7.846</td></tr>
