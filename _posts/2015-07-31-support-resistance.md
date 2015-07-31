@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150731"
-date:   2015-07-31 01:17:58
+date:   2015-07-31 04:17:47
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_thrm');
-stockList.push('gb_sale');
 stockList.push('gb_holi');
 stockList.push('gb_im');
 stockList.push('gb_ggal');
@@ -45,8 +44,6 @@ stockList.push('gb_uthr');
 </tr>
   <tr id="thrm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/THRM.html" target="_blank">THRM</a></td><td></td><td></td><td>100</td><td>49.32</td><td>54.26</td><td>39.7</td><td>45</td></tr>
-  <tr id="sale" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SALE.html" target="_blank">SALE</a></td><td></td><td></td><td>87</td><td>16.85</td><td>18.47</td><td>13.55</td><td>14.98</td></tr>
   <tr id="holi" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HOLI.html" target="_blank">HOLI</a></td><td></td><td></td><td>82</td><td>21.97</td><td>22.96</td><td>17</td><td>0</td></tr>
   <tr id="im" class="red">

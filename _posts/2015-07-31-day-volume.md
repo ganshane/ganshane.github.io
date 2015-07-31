@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150731"
-date:   2015-07-31 01:17:58
+date:   2015-07-31 04:17:47
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,6 +9,7 @@ var stockList = []
 stockList.push('gb_kog');
 stockList.push('gb_pva');
 stockList.push('gb_hees');
+stockList.push('gb_lnco');
 stockList.push('gb_lpsn');
 stockList.push('gb_snmx');
 stockList.push('gb_line');
@@ -47,6 +48,7 @@ stockList.push('gb_gtls');
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="pva"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PVA.html" target="_blank">PVA</a></td><td></td><td></td><td>-0.044</td><td>2.673</td></tr>
   <tr id="hees"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HEES.html" target="_blank">HEES</a></td><td></td><td></td><td>-0.028</td><td>3.685</td></tr>
+  <tr id="lnco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LNCO.html" target="_blank">LNCO</a></td><td></td><td></td><td>-0.025</td><td>3.734</td></tr>
   <tr id="lpsn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPSN.html" target="_blank">LPSN</a></td><td></td><td></td><td>-0.024</td><td>2.645</td></tr>
   <tr id="snmx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNMX.html" target="_blank">SNMX</a></td><td></td><td></td><td>-0.021</td><td>3.328</td></tr>
   <tr id="line"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LINE.html" target="_blank">LINE</a></td><td></td><td></td><td>-0.019</td><td>3.537</td></tr>
