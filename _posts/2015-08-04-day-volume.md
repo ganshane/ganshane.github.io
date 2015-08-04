@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150804"
-date:   2015-08-04 01:17:44
+date:   2015-08-04 04:17:19
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,7 +14,6 @@ stockList.push('gb_lscc');
 stockList.push('gb_simo');
 stockList.push('gb_sale');
 stockList.push('gb_outr');
-stockList.push('gb_bks');
 </script>
 
 <table border="1">
@@ -33,5 +32,4 @@ stockList.push('gb_bks');
   <tr id="simo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SIMO.html" target="_blank">SIMO</a></td><td></td><td></td><td>-0.016</td><td>3.655</td></tr>
   <tr id="sale"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SALE.html" target="_blank">SALE</a></td><td></td><td></td><td>-0.013</td><td>2.005</td></tr>
   <tr id="outr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OUTR.html" target="_blank">OUTR</a></td><td></td><td></td><td>-0.012</td><td>2.02</td></tr>
-  <tr id="bks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BKS.html" target="_blank">BKS</a></td><td></td><td></td><td>-0.011</td><td>2.374</td></tr>
 </table>
