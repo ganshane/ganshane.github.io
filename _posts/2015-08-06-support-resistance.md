@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150806"
-date:   2015-08-06 01:18:24
+date:   2015-08-06 04:17:35
 categories: stock
 ---
 <script type="text/javascript">
@@ -23,6 +23,7 @@ stockList.push('gb_bg');
 stockList.push('gb_xlnx');
 stockList.push('gb_pe');
 stockList.push('gb_data');
+stockList.push('gb_cmcm');
 stockList.push('gb_lpsn');
 stockList.push('gb_eopn');
 stockList.push('gb_czr');
@@ -77,6 +78,8 @@ stockList.push('gb_syna');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PE.html" target="_blank">PE</a></td><td></td><td></td><td>64</td><td>14.895</td><td>16.5</td><td>13.86</td><td>0</td></tr>
   <tr id="data" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DATA.html" target="_blank">DATA</a></td><td></td><td></td><td>61</td><td>113.87</td><td>122.86</td><td>94.79</td><td>102</td></tr>
+  <tr id="cmcm" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMCM.html" target="_blank">CMCM</a></td><td></td><td></td><td>60</td><td>31.32</td><td>28.22</td><td>24.66</td><td>24.41</td></tr>
   <tr id="lpsn" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPSN.html" target="_blank">LPSN</a></td><td></td><td></td><td>59</td><td>9.55</td><td>9.68</td><td>8.67</td><td>0</td></tr>
   <tr id="eopn" class="green">
