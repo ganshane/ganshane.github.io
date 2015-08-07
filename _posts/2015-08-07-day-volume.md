@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150807"
-date:   2015-08-07 01:22:19
+date:   2015-08-07 04:20:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -82,7 +82,7 @@ stockList.push('gb_pgti');
   <tr id="bxe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BXE.html" target="_blank">BXE</a></td><td></td><td></td><td>-0.014</td><td>2.158</td></tr>
   <tr id="pagp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PAGP.html" target="_blank">PAGP</a></td><td></td><td></td><td>-0.013</td><td>4.637</td></tr>
   <tr id="ptx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTX.html" target="_blank">PTX</a></td><td></td><td></td><td>-0.012</td><td>4.502</td></tr>
-  <tr id="mdlz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MDLZ.html" target="_blank">MDLZ</a></td><td></td><td></td><td>0.012</td><td>2.525</td></tr>
+  <tr id="mdlz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MDLZ.html" target="_blank">MDLZ</a></td><td></td><td></td><td>0.012</td><td>2.528</td></tr>
   <tr id="rig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RIG.html" target="_blank">RIG</a></td><td></td><td></td><td>-0.012</td><td>2.52</td></tr>
   <tr id="enlc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENLC.html" target="_blank">ENLC</a></td><td></td><td></td><td>-0.012</td><td>2.001</td></tr>
   <tr id="semg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SEMG.html" target="_blank">SEMG</a></td><td></td><td></td><td>-0.012</td><td>2.908</td></tr>
@@ -90,7 +90,7 @@ stockList.push('gb_pgti');
   <tr id="mmlp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MMLP.html" target="_blank">MMLP</a></td><td></td><td></td><td>-0.011</td><td>2.102</td></tr>
   <tr id="trmb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TRMB.html" target="_blank">TRMB</a></td><td></td><td></td><td>-0.011</td><td>2.311</td></tr>
   <tr id="fi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FI.html" target="_blank">FI</a></td><td></td><td></td><td>-0.011</td><td>2</td></tr>
-  <tr id="rice"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RICE.html" target="_blank">RICE</a></td><td></td><td></td><td>-0.011</td><td>2.085</td></tr>
+  <tr id="rice"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RICE.html" target="_blank">RICE</a></td><td></td><td></td><td>-0.011</td><td>2.09</td></tr>
   <tr id="enlk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENLK.html" target="_blank">ENLK</a></td><td></td><td></td><td>-0.011</td><td>2.403</td></tr>
   <tr id="cstm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CSTM.html" target="_blank">CSTM</a></td><td></td><td></td><td>-0.01</td><td>7.427</td></tr>
   <tr id="pgti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PGTI.html" target="_blank">PGTI</a></td><td></td><td></td><td>0.01</td><td>4.458</td></tr>

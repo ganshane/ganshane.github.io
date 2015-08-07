@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150807"
-date:   2015-08-07 01:22:19
+date:   2015-08-07 04:20:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,10 +16,7 @@ stockList.push('gb_brcm');
 stockList.push('gb_har');
 stockList.push('gb_geo');
 stockList.push('gb_smci');
-stockList.push('gb_data');
 stockList.push('gb_arcb');
-stockList.push('gb_kr');
-stockList.push('gb_czr');
 stockList.push('gb_joe');
 stockList.push('gb_ig');
 stockList.push('gb_rpm');
@@ -57,14 +54,8 @@ stockList.push('gb_ncz');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GEO.html" target="_blank">GEO</a></td><td></td><td></td><td>68</td><td>36.39</td><td>38.61</td><td>34</td><td>0</td></tr>
   <tr id="smci" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SMCI.html" target="_blank">SMCI</a></td><td></td><td></td><td>66</td><td>28.87</td><td>34.6</td><td>24.59</td><td>0</td></tr>
-  <tr id="data" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DATA.html" target="_blank">DATA</a></td><td></td><td></td><td>61</td><td>113.87</td><td>122.86</td><td>94.79</td><td>102</td></tr>
   <tr id="arcb" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARCB.html" target="_blank">ARCB</a></td><td></td><td></td><td>57</td><td>34.2</td><td>34.69</td><td>29.39</td><td>0</td></tr>
-  <tr id="kr" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KR.html" target="_blank">KR</a></td><td></td><td></td><td>51</td><td>62.38</td><td>73.41</td><td>38.19</td><td>0</td></tr>
-  <tr id="czr" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CZR.html" target="_blank">CZR</a></td><td></td><td></td><td>50</td><td>5.94</td><td>8.31</td><td>4.93</td><td>0</td></tr>
   <tr id="joe" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JOE.html" target="_blank">JOE</a></td><td></td><td></td><td>44</td><td>16.12</td><td>16.68</td><td>15</td><td>0</td></tr>
   <tr id="ig" class="red">
