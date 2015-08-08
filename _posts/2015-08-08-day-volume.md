@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150808"
-date:   2015-08-08 01:21:04
+date:   2015-08-08 04:20:21
 categories: stock
 ---
 <script type="text/javascript">
@@ -41,7 +41,7 @@ stockList.push('gb_dyax');
   <tr id="semg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SEMG.html" target="_blank">SEMG</a></td><td></td><td></td><td>-0.017</td><td>2.388</td></tr>
   <tr id="pxlw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PXLW.html" target="_blank">PXLW</a></td><td></td><td></td><td>0.017</td><td>5.325</td></tr>
   <tr id="himx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HIMX.html" target="_blank">HIMX</a></td><td></td><td></td><td>-0.015</td><td>3.099</td></tr>
-  <tr id="bita"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BITA.html" target="_blank">BITA</a></td><td></td><td></td><td>-0.014</td><td>3.412</td></tr>
+  <tr id="bita"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BITA.html" target="_blank">BITA</a></td><td></td><td></td><td>-0.014</td><td>3.415</td></tr>
   <tr id="ndls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NDLS.html" target="_blank">NDLS</a></td><td></td><td></td><td>0.01</td><td>5.64</td></tr>
   <tr id="dyax"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DYAX.html" target="_blank">DYAX</a></td><td></td><td></td><td>-0.01</td><td>2.388</td></tr>
 </table>
