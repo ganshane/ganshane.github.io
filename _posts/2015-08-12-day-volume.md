@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150812"
-date:   2015-08-12 01:18:36
+date:   2015-08-12 04:17:35
 categories: stock
 ---
 <script type="text/javascript">
@@ -42,6 +42,6 @@ stockList.push('gb_rax');
   <tr id="resi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RESI.html" target="_blank">RESI</a></td><td></td><td></td><td>-0.012</td><td>2.237</td></tr>
   <tr id="dpm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DPM.html" target="_blank">DPM</a></td><td></td><td></td><td>-0.012</td><td>2.072</td></tr>
   <tr id="qunr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QUNR.html" target="_blank">QUNR</a></td><td></td><td></td><td>0.012</td><td>3.039</td></tr>
-  <tr id="halo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HALO.html" target="_blank">HALO</a></td><td></td><td></td><td>-0.012</td><td>8.01</td></tr>
+  <tr id="halo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HALO.html" target="_blank">HALO</a></td><td></td><td></td><td>-0.012</td><td>8.007</td></tr>
   <tr id="rax"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RAX.html" target="_blank">RAX</a></td><td></td><td></td><td>-0.011</td><td>3.92</td></tr>
 </table>

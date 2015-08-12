@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150812"
-date:   2015-08-12 01:18:36
+date:   2015-08-12 04:17:35
 categories: stock
 ---
 <script type="text/javascript">
@@ -21,6 +21,7 @@ stockList.push('gb_chrw');
 stockList.push('gb_mt');
 stockList.push('gb_clf');
 stockList.push('gb_cpa');
+stockList.push('gb_mnk');
 stockList.push('gb_vale');
 stockList.push('gb_hca');
 stockList.push('gb_stx');
@@ -74,6 +75,8 @@ stockList.push('gb_ibn');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLF.html" target="_blank">CLF</a></td><td></td><td></td><td>68</td><td>4.15</td><td>3.1</td><td>2.41</td><td>0</td></tr>
   <tr id="cpa" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CPA.html" target="_blank">CPA</a></td><td></td><td></td><td>66</td><td>78.95</td><td>86.37</td><td>73.73</td><td>0</td></tr>
+  <tr id="mnk" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MNK.html" target="_blank">MNK</a></td><td></td><td></td><td>64</td><td>113.27</td><td>126.25</td><td>100.61</td><td>99.46</td></tr>
   <tr id="vale" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VALE.html" target="_blank">VALE</a></td><td></td><td></td><td>64</td><td>5.45</td><td>5.92</td><td>5.04</td><td>0</td></tr>
   <tr id="hca" class="red">
