@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150814"
-date:   2015-08-14 01:17:36
+date:   2015-08-14 04:17:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,6 +14,7 @@ stockList.push('gb_axl');
 stockList.push('gb_data');
 stockList.push('gb_mbi');
 stockList.push('gb_jks');
+stockList.push('gb_nrz');
 stockList.push('gb_arcb');
 stockList.push('gb_wnc');
 stockList.push('gb_sgen');
@@ -27,7 +28,6 @@ stockList.push('gb_eopn');
 stockList.push('gb_amag');
 stockList.push('gb_syt');
 stockList.push('gb_fsl');
-stockList.push('gb_gwph');
 stockList.push('gb_mw');
 stockList.push('gb_pkg');
 stockList.push('gb_sfly');
@@ -68,6 +68,8 @@ stockList.push('gb_dsw');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MBI.html" target="_blank">MBI</a></td><td></td><td></td><td>85</td><td>7.92</td><td>9.32</td><td>6.04</td><td>6.45</td></tr>
   <tr id="jks" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JKS.html" target="_blank">JKS</a></td><td></td><td></td><td>82</td><td>25.59</td><td>25.08</td><td>21.84</td><td>20.16</td></tr>
+  <tr id="nrz" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRZ.html" target="_blank">NRZ</a></td><td></td><td></td><td>80</td><td>14.68</td><td>15.09</td><td>12.89</td><td>13.64</td></tr>
   <tr id="arcb" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARCB.html" target="_blank">ARCB</a></td><td></td><td></td><td>71</td><td>34.2</td><td>34.69</td><td>29.39</td><td>0</td></tr>
   <tr id="wnc" class="red">
@@ -94,8 +96,6 @@ stockList.push('gb_dsw');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SYT.html" target="_blank">SYT</a></td><td></td><td></td><td>51</td><td>81.21</td><td>86.73</td><td>66.6</td><td>71.93</td></tr>
   <tr id="fsl" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>44</td><td>38.61</td><td>41.7</td><td>36.08</td><td>25.71</td></tr>
-  <tr id="gwph" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GWPH.html" target="_blank">GWPH</a></td><td></td><td></td><td>42</td><td>107.08</td><td>120.99</td><td>86.55</td><td>99.58</td></tr>
   <tr id="mw" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MW.html" target="_blank">MW</a></td><td></td><td></td><td>39</td><td>57.09</td><td>62.73</td><td>51.01</td><td>52.99</td></tr>
   <tr id="pkg" class="green">
