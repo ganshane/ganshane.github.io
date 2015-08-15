@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150815"
-date:   2015-08-15 01:17:41
+date:   2015-08-15 04:17:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -27,7 +27,7 @@ stockList.push('gb_royt');
 </tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="bios"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIOS.html" target="_blank">BIOS</a></td><td></td><td></td><td>-0.049</td><td>2.117</td></tr>
-  <tr id="ll"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LL.html" target="_blank">LL</a></td><td></td><td></td><td>-0.048</td><td>2.135</td></tr>
+  <tr id="ll"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LL.html" target="_blank">LL</a></td><td></td><td></td><td>-0.048</td><td>2.134</td></tr>
   <tr id="pwe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PWE.html" target="_blank">PWE</a></td><td></td><td></td><td>-0.025</td><td>2.402</td></tr>
   <tr id="aegr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AEGR.html" target="_blank">AEGR</a></td><td></td><td></td><td>-0.014</td><td>2.007</td></tr>
   <tr id="szmk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SZMK.html" target="_blank">SZMK</a></td><td></td><td></td><td>-0.014</td><td>5.469</td></tr>
