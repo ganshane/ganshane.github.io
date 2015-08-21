@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150821"
-date:   2015-08-21 01:18:52
+date:   2015-08-21 04:17:31
 categories: stock
 ---
 <script type="text/javascript">
@@ -37,7 +37,7 @@ stockList.push('gb_kn');
   <tr id="edz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EDZ.html" target="_blank">EDZ</a></td><td></td><td></td><td>0.019</td><td>3.024</td></tr>
   <tr id="yoku"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YOKU.html" target="_blank">YOKU</a></td><td></td><td></td><td>-0.019</td><td>2.944</td></tr>
   <tr id="btu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BTU.html" target="_blank">BTU</a></td><td></td><td></td><td>0.016</td><td>6.405</td></tr>
-  <tr id="nmm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NMM.html" target="_blank">NMM</a></td><td></td><td></td><td>-0.015</td><td>2.6</td></tr>
+  <tr id="nmm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NMM.html" target="_blank">NMM</a></td><td></td><td></td><td>-0.015</td><td>2.601</td></tr>
   <tr id="leju"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LEJU.html" target="_blank">LEJU</a></td><td></td><td></td><td>-0.014</td><td>3.013</td></tr>
   <tr id="slh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLH.html" target="_blank">SLH</a></td><td></td><td></td><td>0.013</td><td>2.899</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.013</td><td>5.687</td></tr>
