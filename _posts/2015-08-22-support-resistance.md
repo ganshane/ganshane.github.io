@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150822"
-date:   2015-08-22 01:18:11
+date:   2015-08-22 04:17:25
 categories: stock
 ---
 <script type="text/javascript">
@@ -27,6 +27,7 @@ stockList.push('gb_nktr');
 stockList.push('gb_gca');
 stockList.push('gb_fb');
 stockList.push('gb_clne');
+stockList.push('gb_eopn');
 stockList.push('gb_ea');
 stockList.push('gb_drq');
 stockList.push('gb_swc');
@@ -106,6 +107,8 @@ stockList.push('gb_mbly');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FB.html" target="_blank">FB</a></td><td></td><td></td><td>56</td><td>92.8</td><td>98.74</td><td>85.23</td><td>84.34</td></tr>
   <tr id="clne" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLNE.html" target="_blank">CLNE</a></td><td></td><td></td><td>54</td><td>4.25</td><td>5.39</td><td>3.99</td><td>0</td></tr>
+  <tr id="eopn" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EOPN.html" target="_blank">EOPN</a></td><td></td><td></td><td>54</td><td>13.54</td><td>9.72</td><td>8.55</td><td>7.1</td></tr>
   <tr id="ea" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EA.html" target="_blank">EA</a></td><td></td><td></td><td>51</td><td>70.14</td><td>75.1</td><td>61.38</td><td>63.69</td></tr>
   <tr id="drq" class="green">
