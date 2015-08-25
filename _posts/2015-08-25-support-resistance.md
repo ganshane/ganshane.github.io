@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150825"
-date:   2015-08-25 01:18:36
+date:   2015-08-25 04:17:29
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,7 +17,6 @@ stockList.push('gb_bhe');
 stockList.push('gb_phg');
 stockList.push('gb_oled');
 stockList.push('gb_gdxj');
-stockList.push('gb_gwph');
 stockList.push('gb_big');
 stockList.push('gb_avgo');
 stockList.push('gb_ann');
@@ -25,7 +24,6 @@ stockList.push('gb_impv');
 stockList.push('gb_hmhc');
 stockList.push('gb_gca');
 stockList.push('gb_aks');
-stockList.push('gb_fb');
 stockList.push('gb_twi');
 stockList.push('gb_osk');
 stockList.push('gb_mscc');
@@ -75,8 +73,6 @@ stockList.push('gb_btu');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OLED.html" target="_blank">OLED</a></td><td></td><td></td><td>76</td><td>44.42</td><td>48.84</td><td>33.03</td><td>29.33</td></tr>
   <tr id="gdxj" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GDXJ.html" target="_blank">GDXJ</a></td><td></td><td></td><td>72</td><td>21.41</td><td>25.24</td><td>18.41</td><td>0</td></tr>
-  <tr id="gwph" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GWPH.html" target="_blank">GWPH</a></td><td></td><td></td><td>71</td><td>107.08</td><td>120.99</td><td>99</td><td>99.58</td></tr>
   <tr id="big" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIG.html" target="_blank">BIG</a></td><td></td><td></td><td>69</td><td>41.89</td><td>43.5</td><td>38.74</td><td>0</td></tr>
   <tr id="avgo" class="red">
@@ -91,8 +87,6 @@ stockList.push('gb_btu');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>59</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="aks" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AKS.html" target="_blank">AKS</a></td><td></td><td></td><td>59</td><td>3.65</td><td>3.33</td><td>2.38</td><td>0</td></tr>
-  <tr id="fb" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FB.html" target="_blank">FB</a></td><td></td><td></td><td>56</td><td>92.8</td><td>98.74</td><td>85.23</td><td>84.34</td></tr>
   <tr id="twi" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TWI.html" target="_blank">TWI</a></td><td></td><td></td><td>56</td><td>8.98</td><td>9.5</td><td>8.43</td><td>0</td></tr>
   <tr id="osk" class="red">
