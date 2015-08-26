@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150826"
-date:   2015-08-26 01:18:04
+date:   2015-08-26 04:17:20
 categories: stock
 ---
 <script type="text/javascript">
@@ -116,7 +116,7 @@ stockList.push('gb_ewq');
   <tr id="wdr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WDR.html" target="_blank">WDR</a></td><td></td><td></td><td>-0.015</td><td>2.552</td></tr>
   <tr id="smfg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SMFG.html" target="_blank">SMFG</a></td><td></td><td></td><td>-0.015</td><td>2.1</td></tr>
   <tr id="semg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SEMG.html" target="_blank">SEMG</a></td><td></td><td></td><td>-0.015</td><td>2.709</td></tr>
-  <tr id="pru"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PRU.html" target="_blank">PRU</a></td><td></td><td></td><td>-0.015</td><td>2.261</td></tr>
+  <tr id="pru"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PRU.html" target="_blank">PRU</a></td><td></td><td></td><td>-0.015</td><td>2.244</td></tr>
   <tr id="navi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NAVI.html" target="_blank">NAVI</a></td><td></td><td></td><td>-0.015</td><td>2.597</td></tr>
   <tr id="vde"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VDE.html" target="_blank">VDE</a></td><td></td><td></td><td>-0.015</td><td>3.222</td></tr>
   <tr id="cbs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CBS.html" target="_blank">CBS</a></td><td></td><td></td><td>-0.015</td><td>2.051</td></tr>
@@ -138,7 +138,7 @@ stockList.push('gb_ewq');
   <tr id="bcs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BCS.html" target="_blank">BCS</a></td><td></td><td></td><td>-0.012</td><td>2.409</td></tr>
   <tr id="acor"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACOR.html" target="_blank">ACOR</a></td><td></td><td></td><td>-0.012</td><td>12.331</td></tr>
   <tr id="dxcm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DXCM.html" target="_blank">DXCM</a></td><td></td><td></td><td>-0.012</td><td>2.022</td></tr>
-  <tr id="pin"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PIN.html" target="_blank">PIN</a></td><td></td><td></td><td>-0.011</td><td>2.376</td></tr>
+  <tr id="pin"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PIN.html" target="_blank">PIN</a></td><td></td><td></td><td>-0.011</td><td>2.264</td></tr>
   <tr id="ewa"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWA.html" target="_blank">EWA</a></td><td></td><td></td><td>-0.011</td><td>2.326</td></tr>
   <tr id="abt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ABT.html" target="_blank">ABT</a></td><td></td><td></td><td>-0.011</td><td>2.297</td></tr>
   <tr id="atu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATU.html" target="_blank">ATU</a></td><td></td><td></td><td>-0.011</td><td>2.131</td></tr>
@@ -159,7 +159,7 @@ stockList.push('gb_ewq');
   <tr id="mdlz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MDLZ.html" target="_blank">MDLZ</a></td><td></td><td></td><td>-0.01</td><td>2.168</td></tr>
   <tr id="ben"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BEN.html" target="_blank">BEN</a></td><td></td><td></td><td>-0.01</td><td>2.424</td></tr>
   <tr id="wbs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WBS.html" target="_blank">WBS</a></td><td></td><td></td><td>-0.01</td><td>3.554</td></tr>
-  <tr id="ccl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CCL.html" target="_blank">CCL</a></td><td></td><td></td><td>-0.01</td><td>2.003</td></tr>
+  <tr id="ccl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CCL.html" target="_blank">CCL</a></td><td></td><td></td><td>-0.01</td><td>2.001</td></tr>
   <tr id="gs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GS.html" target="_blank">GS</a></td><td></td><td></td><td>-0.01</td><td>2.137</td></tr>
   <tr id="ewq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWQ.html" target="_blank">EWQ</a></td><td></td><td></td><td>-0.01</td><td>2.572</td></tr>
 </table>

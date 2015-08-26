@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150826"
-date:   2015-08-26 01:18:04
+date:   2015-08-26 04:17:20
 categories: stock
 ---
 <script type="text/javascript">
@@ -30,7 +30,6 @@ stockList.push('gb_ea');
 stockList.push('gb_ann');
 stockList.push('gb_nrg');
 stockList.push('gb_bhe');
-stockList.push('gb_hmhc');
 stockList.push('gb_wwww');
 stockList.push('gb_sohu');
 stockList.push('gb_luv');
@@ -115,8 +114,6 @@ stockList.push('gb_cof');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRG.html" target="_blank">NRG</a></td><td></td><td></td><td>63</td><td>21.28</td><td>21.24</td><td>18.95</td><td>0</td></tr>
   <tr id="bhe" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BHE.html" target="_blank">BHE</a></td><td></td><td></td><td>61</td><td>22.7</td><td>22.35</td><td>20.37</td><td>0</td></tr>
-  <tr id="hmhc" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HMHC.html" target="_blank">HMHC</a></td><td></td><td></td><td>61</td><td>22.69</td><td>24.1</td><td>19.71</td><td>21.255</td></tr>
   <tr id="wwww" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WWWW.html" target="_blank">WWWW</a></td><td></td><td></td><td>60</td><td>22.24</td><td>23.39</td><td>18.15</td><td>19.77</td></tr>
   <tr id="sohu" class="red">
