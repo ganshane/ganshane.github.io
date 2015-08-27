@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150827"
-date:   2015-08-27 01:18:03
+date:   2015-08-27 04:17:39
 categories: stock
 ---
 <script type="text/javascript">
@@ -104,19 +104,19 @@ stockList.push('gb_im');
   <tr id="feng"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FENG.html" target="_blank">FENG</a></td><td></td><td></td><td>-0.041</td><td>2.929</td></tr>
   <tr id="spxs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPXS.html" target="_blank">SPXS</a></td><td></td><td></td><td>0.035</td><td>2.562</td></tr>
   <tr id="wetf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>-0.032</td><td>2.421</td></tr>
-  <tr id="intu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INTU.html" target="_blank">INTU</a></td><td></td><td></td><td>-0.03</td><td>2.044</td></tr>
+  <tr id="intu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INTU.html" target="_blank">INTU</a></td><td></td><td></td><td>-0.03</td><td>2.045</td></tr>
   <tr id="sdlp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDLP.html" target="_blank">SDLP</a></td><td></td><td></td><td>-0.028</td><td>4.648</td></tr>
   <tr id="cog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/COG.html" target="_blank">COG</a></td><td></td><td></td><td>-0.026</td><td>2.727</td></tr>
   <tr id="rjet"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RJET.html" target="_blank">RJET</a></td><td></td><td></td><td>-0.024</td><td>7.935</td></tr>
   <tr id="cam"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CAM.html" target="_blank">CAM</a></td><td></td><td></td><td>-0.023</td><td>22.102</td></tr>
-  <tr id="rig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RIG.html" target="_blank">RIG</a></td><td></td><td></td><td>-0.021</td><td>2.253</td></tr>
+  <tr id="rig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RIG.html" target="_blank">RIG</a></td><td></td><td></td><td>-0.021</td><td>2.239</td></tr>
   <tr id="qihu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QIHU.html" target="_blank">QIHU</a></td><td></td><td></td><td>-0.02</td><td>2.04</td></tr>
   <tr id="cbg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CBG.html" target="_blank">CBG</a></td><td></td><td></td><td>-0.02</td><td>3.058</td></tr>
   <tr id="schw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCHW.html" target="_blank">SCHW</a></td><td></td><td></td><td>-0.019</td><td>2.386</td></tr>
   <tr id="alb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALB.html" target="_blank">ALB</a></td><td></td><td></td><td>-0.019</td><td>2.88</td></tr>
   <tr id="ewbc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWBC.html" target="_blank">EWBC</a></td><td></td><td></td><td>-0.019</td><td>2.083</td></tr>
   <tr id="txn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TXN.html" target="_blank">TXN</a></td><td></td><td></td><td>-0.018</td><td>2.252</td></tr>
-  <tr id="anf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANF.html" target="_blank">ANF</a></td><td></td><td></td><td>-0.018</td><td>3.556</td></tr>
+  <tr id="anf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANF.html" target="_blank">ANF</a></td><td></td><td></td><td>-0.018</td><td>3.558</td></tr>
   <tr id="fti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FTI.html" target="_blank">FTI</a></td><td></td><td></td><td>-0.018</td><td>2.531</td></tr>
   <tr id="slb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLB.html" target="_blank">SLB</a></td><td></td><td></td><td>-0.018</td><td>6.868</td></tr>
   <tr id="save"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SAVE.html" target="_blank">SAVE</a></td><td></td><td></td><td>-0.018</td><td>3.457</td></tr>
@@ -176,8 +176,8 @@ stockList.push('gb_im');
   <tr id="acco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACCO.html" target="_blank">ACCO</a></td><td></td><td></td><td>-0.011</td><td>2.014</td></tr>
   <tr id="sqi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SQI.html" target="_blank">SQI</a></td><td></td><td></td><td>-0.011</td><td>2.184</td></tr>
   <tr id="kim"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KIM.html" target="_blank">KIM</a></td><td></td><td></td><td>-0.011</td><td>2.049</td></tr>
-  <tr id="ewp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWP.html" target="_blank">EWP</a></td><td></td><td></td><td>-0.011</td><td>2.345</td></tr>
-  <tr id="ilmn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ILMN.html" target="_blank">ILMN</a></td><td></td><td></td><td>-0.01</td><td>2.056</td></tr>
+  <tr id="ewp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWP.html" target="_blank">EWP</a></td><td></td><td></td><td>-0.011</td><td>2.338</td></tr>
+  <tr id="ilmn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ILMN.html" target="_blank">ILMN</a></td><td></td><td></td><td>-0.01</td><td>2.055</td></tr>
   <tr id="px"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PX.html" target="_blank">PX</a></td><td></td><td></td><td>-0.01</td><td>2.203</td></tr>
   <tr id="im"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IM.html" target="_blank">IM</a></td><td></td><td></td><td>-0.01</td><td>2.424</td></tr>
 </table>
