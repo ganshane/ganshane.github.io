@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150828"
-date:   2015-08-28 01:17:36
+date:   2015-08-28 04:17:22
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,6 +32,7 @@ stockList.push('gb_gdxj');
 stockList.push('gb_cld');
 stockList.push('gb_pgr');
 stockList.push('gb_affx');
+stockList.push('gb_anet');
 stockList.push('gb_gdx');
 stockList.push('gb_impv');
 stockList.push('gb_sgen');
@@ -100,6 +101,8 @@ stockList.push('gb_nfx');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PGR.html" target="_blank">PGR</a></td><td></td><td></td><td>31</td><td>30.17</td><td>30.73</td><td>27.77</td><td>27.59</td></tr>
   <tr id="affx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AFFX.html" target="_blank">AFFX</a></td><td></td><td></td><td>26</td><td>10</td><td>11.36</td><td>8.86</td><td>9.3</td></tr>
+  <tr id="anet" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANET.html" target="_blank">ANET</a></td><td></td><td></td><td>24</td><td>78.51</td><td>88.25</td><td>65.5</td><td>73.72</td></tr>
   <tr id="gdx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GDX.html" target="_blank">GDX</a></td><td></td><td></td><td>24</td><td>17.16</td><td>16.16</td><td>13.11</td><td>0</td></tr>
   <tr id="impv" class="red">
