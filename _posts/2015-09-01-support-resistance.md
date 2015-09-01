@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150901"
-date:   2015-09-01 01:20:01
+date:   2015-09-01 04:17:34
 categories: stock
 ---
 <script type="text/javascript">
@@ -31,6 +31,7 @@ stockList.push('gb_cma');
 stockList.push('gb_tts');
 stockList.push('gb_cof');
 stockList.push('gb_penn');
+stockList.push('gb_sgen');
 stockList.push('gb_tw');
 stockList.push('gb_anet');
 stockList.push('gb_pff');
@@ -103,6 +104,8 @@ stockList.push('gb_hznp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/COF.html" target="_blank">COF</a></td><td></td><td></td><td>48</td><td>77.7</td><td>80.82</td><td>72.77</td><td>0</td></tr>
   <tr id="penn" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PENN.html" target="_blank">PENN</a></td><td></td><td></td><td>46</td><td>18.33</td><td>19.59</td><td>16.34</td><td>17.17</td></tr>
+  <tr id="sgen" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGEN.html" target="_blank">SGEN</a></td><td></td><td></td><td>43</td><td>45.44</td><td>47.49</td><td>34.88</td><td>39.98</td></tr>
   <tr id="tw" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TW.html" target="_blank">TW</a></td><td></td><td></td><td>41</td><td>125.83</td><td>131.3</td><td>111.64</td><td>117.86</td></tr>
   <tr id="anet" class="green">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150901"
-date:   2015-09-01 01:20:01
+date:   2015-09-01 04:17:34
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,8 +9,6 @@ var stockList = []
 stockList.push('gb_kog');
 stockList.push('gb_gasl');
 stockList.push('gb_bcei');
-stockList.push('gb_crzo');
-stockList.push('gb_splk');
 stockList.push('gb_sfy');
 stockList.push('gb_apam');
 stockList.push('gb_lpt');
@@ -37,8 +35,6 @@ stockList.push('gb_saic');
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="gasl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GASL.html" target="_blank">GASL</a></td><td></td><td></td><td>-0.029</td><td>2.078</td></tr>
   <tr id="bcei"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BCEI.html" target="_blank">BCEI</a></td><td></td><td></td><td>-0.023</td><td>2.092</td></tr>
-  <tr id="crzo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRZO.html" target="_blank">CRZO</a></td><td></td><td></td><td>-0.023</td><td>2.173</td></tr>
-  <tr id="splk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPLK.html" target="_blank">SPLK</a></td><td></td><td></td><td>-0.018</td><td>3.49</td></tr>
   <tr id="sfy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SFY.html" target="_blank">SFY</a></td><td></td><td></td><td>-0.016</td><td>2.097</td></tr>
   <tr id="apam"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APAM.html" target="_blank">APAM</a></td><td></td><td></td><td>-0.016</td><td>2.851</td></tr>
   <tr id="lpt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPT.html" target="_blank">LPT</a></td><td></td><td></td><td>-0.015</td><td>2.247</td></tr>
