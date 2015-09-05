@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150905"
-date:   2015-09-05 01:17:56
+date:   2015-09-05 04:17:14
 categories: stock
 ---
 <script type="text/javascript">
@@ -19,6 +19,7 @@ stockList.push('gb_enlk');
 stockList.push('gb_mga');
 stockList.push('gb_egn');
 stockList.push('gb_nymt');
+stockList.push('gb_impv');
 stockList.push('gb_ua');
 stockList.push('gb_swir');
 stockList.push('gb_xme');
@@ -30,7 +31,6 @@ stockList.push('gb_powi');
 stockList.push('gb_bsx');
 stockList.push('gb_mnta');
 stockList.push('gb_ann');
-stockList.push('gb_impv');
 stockList.push('gb_aer');
 stockList.push('gb_gdx');
 stockList.push('gb_gca');
@@ -94,6 +94,8 @@ stockList.push('gb_mtw');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EGN.html" target="_blank">EGN</a></td><td></td><td></td><td>85</td><td>50.8</td><td>66.37</td><td>43.75</td><td>0</td></tr>
   <tr id="nymt" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NYMT.html" target="_blank">NYMT</a></td><td></td><td></td><td>85</td><td>7.43</td><td>6.9</td><td>6.33</td><td>0</td></tr>
+  <tr id="impv" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IMPV.html" target="_blank">IMPV</a></td><td></td><td></td><td>83</td><td>62.59</td><td>73.28</td><td>43.49</td><td>53.35</td></tr>
   <tr id="ua" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UA.html" target="_blank">UA</a></td><td></td><td></td><td>82</td><td>95.85</td><td>101.68</td><td>87</td><td>88.15</td></tr>
   <tr id="swir" class="red">
@@ -116,8 +118,6 @@ stockList.push('gb_mtw');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MNTA.html" target="_blank">MNTA</a></td><td></td><td></td><td>69</td><td>18.93</td><td>20.5</td><td>17.13</td><td>15.51</td></tr>
   <tr id="ann" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
-  <tr id="impv" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IMPV.html" target="_blank">IMPV</a></td><td></td><td></td><td>65</td><td>62.59</td><td>73.28</td><td>43.49</td><td>53.35</td></tr>
   <tr id="aer" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AER.html" target="_blank">AER</a></td><td></td><td></td><td>63</td><td>43.26</td><td>45.27</td><td>38.56</td><td>40.14</td></tr>
   <tr id="gdx" class="green">
