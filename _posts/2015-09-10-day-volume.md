@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150910"
-date:   2015-09-10 01:21:57
+date:   2015-09-10 04:18:12
 categories: stock
 ---
 <script type="text/javascript">
@@ -29,7 +29,7 @@ stockList.push('gb_tsem');
 </tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="fran"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FRAN.html" target="_blank">FRAN</a></td><td></td><td></td><td>0.021</td><td>2.13</td></tr>
-  <tr id="clvs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLVS.html" target="_blank">CLVS</a></td><td></td><td></td><td>0.02</td><td>4.378</td></tr>
+  <tr id="clvs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLVS.html" target="_blank">CLVS</a></td><td></td><td></td><td>0.02</td><td>4.431</td></tr>
   <tr id="slh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLH.html" target="_blank">SLH</a></td><td></td><td></td><td>0.016</td><td>2.452</td></tr>
   <tr id="thrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/THRX.html" target="_blank">THRX</a></td><td></td><td></td><td>0.016</td><td>2.418</td></tr>
   <tr id="mro"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MRO.html" target="_blank">MRO</a></td><td></td><td></td><td>0.015</td><td>2.067</td></tr>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150910"
-date:   2015-09-10 01:21:57
+date:   2015-09-10 04:18:12
 categories: stock
 ---
 <script type="text/javascript">
@@ -41,6 +41,7 @@ stockList.push('gb_avy');
 stockList.push('gb_amx');
 stockList.push('gb_gca');
 stockList.push('gb_rok');
+stockList.push('gb_eopn');
 stockList.push('gb_xom');
 stockList.push('gb_pkg');
 stockList.push('gb_hbi');
@@ -150,6 +151,8 @@ stockList.push('gb_pfg');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>59</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="rok" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ROK.html" target="_blank">ROK</a></td><td></td><td></td><td>57</td><td>110</td><td>112.42</td><td>103.1</td><td>0</td></tr>
+  <tr id="eopn" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EOPN.html" target="_blank">EOPN</a></td><td></td><td></td><td>54</td><td>13.54</td><td>9.72</td><td>8.55</td><td>7.1</td></tr>
   <tr id="xom" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XOM.html" target="_blank">XOM</a></td><td></td><td></td><td>53</td><td>76.33</td><td>75.98</td><td>71.51</td><td>0</td></tr>
   <tr id="pkg" class="red">
