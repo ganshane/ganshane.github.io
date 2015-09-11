@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150911"
-date:   2015-09-11 01:18:28
+date:   2015-09-11 04:17:25
 categories: stock
 ---
 <script type="text/javascript">
@@ -26,6 +26,7 @@ stockList.push('gb_enlk');
 stockList.push('gb_hmsy');
 stockList.push('gb_qep');
 stockList.push('gb_kate');
+stockList.push('gb_goog');
 stockList.push('gb_dis');
 stockList.push('gb_trn');
 stockList.push('gb_pxd');
@@ -51,7 +52,6 @@ stockList.push('gb_ar');
 stockList.push('gb_cqp');
 stockList.push('gb_endp');
 stockList.push('gb_mu');
-stockList.push('gb_goog');
 stockList.push('gb_wetf');
 stockList.push('gb_gg');
 </script>
@@ -106,6 +106,8 @@ stockList.push('gb_gg');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QEP.html" target="_blank">QEP</a></td><td></td><td></td><td>70</td><td>13.17</td><td>14.66</td><td>11.2</td><td>0</td></tr>
   <tr id="kate" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KATE.html" target="_blank">KATE</a></td><td></td><td></td><td>69</td><td>18.98</td><td>21.6</td><td>17.07</td><td>0</td></tr>
+  <tr id="goog" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOOG.html" target="_blank">GOOG</a></td><td></td><td></td><td>67</td><td>622.05</td><td>648.17</td><td>544.505</td><td>575.101</td></tr>
   <tr id="dis" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DIS.html" target="_blank">DIS</a></td><td></td><td></td><td>67</td><td>102.87</td><td>106.64</td><td>95.72</td><td>95.53</td></tr>
   <tr id="trn" class="red">
@@ -156,8 +158,6 @@ stockList.push('gb_gg');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENDP.html" target="_blank">ENDP</a></td><td></td><td></td><td>35</td><td>77.02</td><td>81.96</td><td>70.62</td><td>0</td></tr>
   <tr id="mu" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MU.html" target="_blank">MU</a></td><td></td><td></td><td>32</td><td>17.3</td><td>20.24</td><td>14.11</td><td>0</td></tr>
-  <tr id="goog" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOOG.html" target="_blank">GOOG</a></td><td></td><td></td><td>29</td><td>622.05</td><td>648.17</td><td>544.505</td><td>575.101</td></tr>
   <tr id="wetf" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>25</td><td>18.34</td><td>19.52</td><td>14.57</td><td>16.71</td></tr>
   <tr id="gg" class="green">
