@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150912"
-date:   2015-09-12 01:17:31
+date:   2015-09-12 04:17:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,7 +32,7 @@ stockList.push('gb_xpo');
   <tr id="jdst"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JDST.html" target="_blank">JDST</a></td><td></td><td></td><td>-0.062</td><td>2.948</td></tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="mbly"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MBLY.html" target="_blank">MBLY</a></td><td></td><td></td><td>-0.024</td><td>3.216</td></tr>
-  <tr id="avp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AVP.html" target="_blank">AVP</a></td><td></td><td></td><td>-0.019</td><td>4.36</td></tr>
+  <tr id="avp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AVP.html" target="_blank">AVP</a></td><td></td><td></td><td>-0.019</td><td>4.361</td></tr>
   <tr id="lng"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LNG.html" target="_blank">LNG</a></td><td></td><td></td><td>-0.019</td><td>4.246</td></tr>
   <tr id="fig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FIG.html" target="_blank">FIG</a></td><td></td><td></td><td>-0.016</td><td>2.003</td></tr>
   <tr id="ngl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGL.html" target="_blank">NGL</a></td><td></td><td></td><td>-0.014</td><td>2.237</td></tr>
