@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150916"
-date:   2015-09-16 01:17:42
+date:   2015-09-16 04:17:31
 categories: stock
 ---
 <script type="text/javascript">
@@ -49,6 +49,7 @@ stockList.push('gb_sqi');
 stockList.push('gb_orcl');
 stockList.push('gb_ea');
 stockList.push('gb_dyax');
+stockList.push('gb_qunr');
 stockList.push('gb_bbby');
 stockList.push('gb_dnow');
 stockList.push('gb_etn');
@@ -154,6 +155,8 @@ stockList.push('gb_sanm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EA.html" target="_blank">EA</a></td><td></td><td></td><td>32</td><td>70.14</td><td>75.1</td><td>63.97</td><td>63.69</td></tr>
   <tr id="dyax" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DYAX.html" target="_blank">DYAX</a></td><td></td><td></td><td>32</td><td>23.56</td><td>24.52</td><td>20.61</td><td>17.94</td></tr>
+  <tr id="qunr" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QUNR.html" target="_blank">QUNR</a></td><td></td><td></td><td>31</td><td>34.85</td><td>42.55</td><td>28.49</td><td>30.55</td></tr>
   <tr id="bbby" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBBY.html" target="_blank">BBBY</a></td><td></td><td></td><td>30</td><td>67.77</td><td>69.69</td><td>60.65</td><td>0</td></tr>
   <tr id="dnow" class="red">

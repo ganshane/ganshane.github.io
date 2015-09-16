@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "天量股票分析20150916"
-date:   2015-09-16 01:17:42
+date:   2015-09-16 04:17:31
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
+stockList.push('gb_kog');
 stockList.push('gb_zinc');
 stockList.push('gb_ocn');
 stockList.push('gb_tvpt');
@@ -24,6 +25,7 @@ stockList.push('gb_logi');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
+  <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.054</td><td>8.367</td></tr>
   <tr id="zinc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ZINC.html" target="_blank">ZINC</a></td><td></td><td></td><td>-0.025</td><td>2.001</td></tr>
   <tr id="ocn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OCN.html" target="_blank">OCN</a></td><td></td><td></td><td>0.016</td><td>2.179</td></tr>
   <tr id="tvpt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TVPT.html" target="_blank">TVPT</a></td><td></td><td></td><td>0.015</td><td>2.079</td></tr>
