@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150917"
-date:   2015-09-17 01:18:05
+date:   2015-09-17 04:17:29
 categories: stock
 ---
 <script type="text/javascript">
@@ -40,7 +40,6 @@ stockList.push('gb_xbi');
 stockList.push('gb_kex');
 stockList.push('gb_ea');
 stockList.push('gb_cuz');
-stockList.push('gb_gca');
 stockList.push('gb_abc');
 stockList.push('gb_met');
 stockList.push('gb_aer');
@@ -146,8 +145,6 @@ stockList.push('gb_iws');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EA.html" target="_blank">EA</a></td><td></td><td></td><td>61</td><td>70.14</td><td>75.1</td><td>63.97</td><td>63.69</td></tr>
   <tr id="cuz" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CUZ.html" target="_blank">CUZ</a></td><td></td><td></td><td>59</td><td>9.57</td><td>10.11</td><td>8.77</td><td>0</td></tr>
-  <tr id="gca" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>59</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="abc" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ABC.html" target="_blank">ABC</a></td><td></td><td></td><td>58</td><td>106</td><td>107.02</td><td>95.61</td><td>92.84</td></tr>
   <tr id="met" class="red">
