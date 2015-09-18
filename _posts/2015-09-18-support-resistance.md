@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150918"
-date:   2015-09-18 01:17:43
+date:   2015-09-18 04:17:27
 categories: stock
 ---
 <script type="text/javascript">
@@ -27,6 +27,7 @@ stockList.push('gb_gpc');
 stockList.push('gb_hyld');
 stockList.push('gb_ann');
 stockList.push('gb_lxp');
+stockList.push('gb_nsam');
 stockList.push('gb_rji');
 stockList.push('gb_unp');
 stockList.push('gb_gca');
@@ -123,6 +124,8 @@ stockList.push('gb_swft');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="lxp" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LXP.html" target="_blank">LXP</a></td><td></td><td></td><td>65</td><td>8.46</td><td>8.81</td><td>7.82</td><td>0</td></tr>
+  <tr id="nsam" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NSAM.html" target="_blank">NSAM</a></td><td></td><td></td><td>63</td><td>17.44</td><td>18.97</td><td>16.06</td><td>0</td></tr>
   <tr id="rji" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RJI.html" target="_blank">RJI</a></td><td></td><td></td><td>63</td><td>5.66</td><td>5.33</td><td>4.99</td><td>0</td></tr>
   <tr id="unp" class="red">

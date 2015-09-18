@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150918"
-date:   2015-09-18 01:17:43
+date:   2015-09-18 04:17:27
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,7 +32,7 @@ stockList.push('gb_tex');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="jnug"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JNUG.html" target="_blank">JNUG</a></td><td></td><td></td><td>-0.24</td><td>2.347</td></tr>
+  <tr id="jnug"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JNUG.html" target="_blank">JNUG</a></td><td></td><td></td><td>-0.24</td><td>2.046</td></tr>
   <tr id="jdst"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JDST.html" target="_blank">JDST</a></td><td></td><td></td><td>-0.218</td><td>2.361</td></tr>
   <tr id="pva"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PVA.html" target="_blank">PVA</a></td><td></td><td></td><td>-0.046</td><td>2.451</td></tr>
   <tr id="lgcy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LGCY.html" target="_blank">LGCY</a></td><td></td><td></td><td>-0.031</td><td>2.493</td></tr>
