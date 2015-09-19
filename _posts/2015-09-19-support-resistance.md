@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150919"
-date:   2015-09-19 01:17:31
+date:   2015-09-19 04:17:25
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,7 +10,6 @@ stockList.push('gb_wll');
 stockList.push('gb_sbra');
 stockList.push('gb_bgc');
 stockList.push('gb_fast');
-stockList.push('gb_ubs');
 stockList.push('gb_amag');
 stockList.push('gb_pff');
 stockList.push('gb_mga');
@@ -85,8 +84,6 @@ stockList.push('gb_tsm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BGC.html" target="_blank">BGC</a></td><td></td><td></td><td>100</td><td>14.5</td><td>15.52</td><td>13.61</td><td>0</td></tr>
   <tr id="fast" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FAST.html" target="_blank">FAST</a></td><td></td><td></td><td>92</td><td>39.79</td><td>40.79</td><td>37.1</td><td>0</td></tr>
-  <tr id="ubs" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UBS.html" target="_blank">UBS</a></td><td></td><td></td><td>91</td><td>20.12</td><td>20.92</td><td>17.13</td><td>17.78</td></tr>
   <tr id="amag" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMAG.html" target="_blank">AMAG</a></td><td></td><td></td><td>89</td><td>50.62</td><td>59.29</td><td>41.3</td><td>47.33</td></tr>
   <tr id="pff" class="red">
