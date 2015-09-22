@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150922"
-date:   2015-09-22 01:18:08
+date:   2015-09-22 04:17:20
 categories: stock
 ---
 <script type="text/javascript">
@@ -72,6 +72,7 @@ stockList.push('gb_cma');
 stockList.push('gb_foxa');
 stockList.push('gb_lpl');
 stockList.push('gb_jbht');
+stockList.push('gb_urs');
 stockList.push('gb_ibkr');
 stockList.push('gb_shld');
 stockList.push('gb_itub');
@@ -221,6 +222,8 @@ stockList.push('gb_fch');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPL.html" target="_blank">LPL</a></td><td></td><td></td><td>32</td><td>12.98</td><td>14.13</td><td>9.53</td><td>10.29</td></tr>
   <tr id="jbht" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JBHT.html" target="_blank">JBHT</a></td><td></td><td></td><td>30</td><td>77.93</td><td>83.39</td><td>70.92</td><td>0</td></tr>
+  <tr id="urs" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>30</td><td>2.82</td><td>3.1</td><td>2.45</td><td>2.15</td></tr>
   <tr id="ibkr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IBKR.html" target="_blank">IBKR</a></td><td></td><td></td><td>28</td><td>40.04</td><td>43.65</td><td>36.83</td><td>34.8</td></tr>
   <tr id="shld" class="green">
