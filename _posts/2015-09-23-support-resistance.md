@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150923"
-date:   2015-09-23 01:18:20
+date:   2015-09-23 04:17:28
 categories: stock
 ---
 <script type="text/javascript">
@@ -31,6 +31,7 @@ stockList.push('gb_tdc');
 stockList.push('gb_hedj');
 stockList.push('gb_cxp');
 stockList.push('gb_athm');
+stockList.push('gb_schd');
 stockList.push('gb_sco');
 stockList.push('gb_gntx');
 stockList.push('gb_vsh');
@@ -47,6 +48,7 @@ stockList.push('gb_wyn');
 stockList.push('gb_lxk');
 stockList.push('gb_win');
 stockList.push('gb_gca');
+stockList.push('gb_scty');
 stockList.push('gb_irdm');
 stockList.push('gb_cree');
 stockList.push('gb_pkg');
@@ -142,6 +144,8 @@ stockList.push('gb_gg');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CXP.html" target="_blank">CXP</a></td><td></td><td></td><td>75</td><td>23.37</td><td>24.22</td><td>21.1</td><td>0</td></tr>
   <tr id="athm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATHM.html" target="_blank">ATHM</a></td><td></td><td></td><td>72</td><td>34.69</td><td>37.8</td><td>28.21</td><td>0</td></tr>
+  <tr id="schd" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCHD.html" target="_blank">SCHD</a></td><td></td><td></td><td>70</td><td>38</td><td>38.69</td><td>35.52</td><td>0</td></tr>
   <tr id="sco" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCO.html" target="_blank">SCO</a></td><td></td><td></td><td>69</td><td>88.27</td><td>99.44</td><td>71.28</td><td>82.84</td></tr>
   <tr id="gntx" class="red">
@@ -174,6 +178,8 @@ stockList.push('gb_gg');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WIN.html" target="_blank">WIN</a></td><td></td><td></td><td>59</td><td>7.33</td><td>7.77</td><td>4.64</td><td>0</td></tr>
   <tr id="gca" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>59</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
+  <tr id="scty" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCTY.html" target="_blank">SCTY</a></td><td></td><td></td><td>57</td><td>47.68</td><td>49.98</td><td>40.06</td><td>0</td></tr>
   <tr id="irdm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRDM.html" target="_blank">IRDM</a></td><td></td><td></td><td>56</td><td>8.54</td><td>7.34</td><td>6.73</td><td>0</td></tr>
   <tr id="cree" class="green">
