@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150924"
-date:   2015-09-24 01:18:01
+date:   2015-09-24 04:17:31
 categories: stock
 ---
 <script type="text/javascript">
@@ -67,11 +67,11 @@ stockList.push('gb_navi');
 stockList.push('gb_ppc');
 stockList.push('gb_xbi');
 stockList.push('gb_lxk');
+stockList.push('gb_fxr');
 stockList.push('gb_c');
 stockList.push('gb_iwn');
 stockList.push('gb_hca');
 stockList.push('gb_bvn');
-stockList.push('gb_urs');
 stockList.push('gb_igd');
 stockList.push('gb_dbc');
 stockList.push('gb_orcl');
@@ -217,6 +217,8 @@ stockList.push('gb_ibkr');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XBI.html" target="_blank">XBI</a></td><td></td><td></td><td>40</td><td>78.573</td><td>81.66</td><td>72.603</td><td>68.38</td></tr>
   <tr id="lxk" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LXK.html" target="_blank">LXK</a></td><td></td><td></td><td>40</td><td>37.37</td><td>42.02</td><td>28.48</td><td>0</td></tr>
+  <tr id="fxr" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FXR.html" target="_blank">FXR</a></td><td></td><td></td><td>36</td><td>28.49</td><td>28.13</td><td>26.12</td><td>0</td></tr>
   <tr id="c" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/C.html" target="_blank">C</a></td><td></td><td></td><td>35</td><td>50.98</td><td>53</td><td>46.83</td><td>0</td></tr>
   <tr id="iwn" class="green">
@@ -225,8 +227,6 @@ stockList.push('gb_ibkr');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HCA.html" target="_blank">HCA</a></td><td></td><td></td><td>34</td><td>90.93</td><td>88.46</td><td>80.25</td><td>82.69</td></tr>
   <tr id="bvn" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BVN.html" target="_blank">BVN</a></td><td></td><td></td><td>33</td><td>6.32</td><td>7.44</td><td>5.86</td><td>0</td></tr>
-  <tr id="urs" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>30</td><td>2.82</td><td>3.1</td><td>2.45</td><td>2.15</td></tr>
   <tr id="igd" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IGD.html" target="_blank">IGD</a></td><td></td><td></td><td>30</td><td>7.91</td><td>8.11</td><td>7.05</td><td>0</td></tr>
   <tr id="dbc" class="red">
