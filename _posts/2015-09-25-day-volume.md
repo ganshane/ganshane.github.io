@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150925"
-date:   2015-09-25 01:17:52
+date:   2015-09-25 04:17:25
 categories: stock
 ---
 <script type="text/javascript">
@@ -35,7 +35,7 @@ stockList.push('gb_vxz');
 </tr>
   <tr id="crk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRK.html" target="_blank">CRK</a></td><td></td><td></td><td>-0.037</td><td>2.102</td></tr>
   <tr id="ypf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YPF.html" target="_blank">YPF</a></td><td></td><td></td><td>-0.028</td><td>3.079</td></tr>
-  <tr id="amag"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMAG.html" target="_blank">AMAG</a></td><td></td><td></td><td>-0.024</td><td>2.767</td></tr>
+  <tr id="amag"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMAG.html" target="_blank">AMAG</a></td><td></td><td></td><td>-0.024</td><td>2.768</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.02</td><td>3.184</td></tr>
   <tr id="tx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TX.html" target="_blank">TX</a></td><td></td><td></td><td>-0.018</td><td>3.018</td></tr>
   <tr id="arwr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARWR.html" target="_blank">ARWR</a></td><td></td><td></td><td>0.018</td><td>10.136</td></tr>
