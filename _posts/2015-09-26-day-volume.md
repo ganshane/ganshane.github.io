@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20150926"
-date:   2015-09-26 01:17:33
+date:   2015-09-26 04:17:13
 categories: stock
 ---
 <script type="text/javascript">

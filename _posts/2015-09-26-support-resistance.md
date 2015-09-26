@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150926"
-date:   2015-09-26 01:17:33
+date:   2015-09-26 04:17:13
 categories: stock
 ---
 <script type="text/javascript">
@@ -45,7 +45,6 @@ stockList.push('gb_cmcm');
 stockList.push('gb_htz');
 stockList.push('gb_geos');
 stockList.push('gb_conn');
-stockList.push('gb_cwb');
 stockList.push('gb_irm');
 stockList.push('gb_cxp');
 stockList.push('gb_nxst');
@@ -144,8 +143,6 @@ stockList.push('gb_asx');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GEOS.html" target="_blank">GEOS</a></td><td></td><td></td><td>41</td><td>15.1</td><td>17.19</td><td>13.77</td><td>0</td></tr>
   <tr id="conn" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CONN.html" target="_blank">CONN</a></td><td></td><td></td><td>40</td><td>26.5</td><td>34.6</td><td>23.83</td><td>21.57</td></tr>
-  <tr id="cwb" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CWB.html" target="_blank">CWB</a></td><td></td><td></td><td>39</td><td>45.9</td><td>46.32</td><td>31.04</td><td>0</td></tr>
   <tr id="irm" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRM.html" target="_blank">IRM</a></td><td></td><td></td><td>36</td><td>30.65</td><td>30.62</td><td>28.68</td><td>0</td></tr>
   <tr id="cxp" class="red">
