@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150929"
-date:   2015-09-29 01:18:03
+date:   2015-09-29 04:17:51
 categories: stock
 ---
 <script type="text/javascript">
@@ -25,6 +25,7 @@ stockList.push('gb_iemg');
 stockList.push('gb_trs');
 stockList.push('gb_cp');
 stockList.push('gb_ewm');
+stockList.push('gb_lnkd');
 stockList.push('gb_wri');
 stockList.push('gb_iws');
 stockList.push('gb_ann');
@@ -110,6 +111,8 @@ stockList.push('gb_svu');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CP.html" target="_blank">CP</a></td><td></td><td></td><td>70</td><td>153.44</td><td>151.78</td><td>137.88</td><td>0</td></tr>
   <tr id="ewm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWM.html" target="_blank">EWM</a></td><td></td><td></td><td>69</td><td>11.97</td><td>10.25</td><td>9.53</td><td>0</td></tr>
+  <tr id="lnkd" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LNKD.html" target="_blank">LNKD</a></td><td></td><td></td><td>67</td><td>194.12</td><td>203.98</td><td>173.9</td><td>0</td></tr>
   <tr id="wri" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WRI.html" target="_blank">WRI</a></td><td></td><td></td><td>67</td><td>32.56</td><td>34.15</td><td>30.3</td><td>0</td></tr>
   <tr id="iws" class="green">
