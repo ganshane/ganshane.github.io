@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20150930"
-date:   2015-09-30 01:17:41
+date:   2015-09-30 04:17:30
 categories: stock
 ---
 <script type="text/javascript">
@@ -21,10 +21,10 @@ stockList.push('gb_mnta');
 stockList.push('gb_alb');
 stockList.push('gb_fti');
 stockList.push('gb_nvo');
-stockList.push('gb_ann');
 stockList.push('gb_bk');
 stockList.push('gb_pin');
 stockList.push('gb_atls');
+stockList.push('gb_gca');
 stockList.push('gb_tasr');
 stockList.push('gb_asgn');
 stockList.push('gb_pb');
@@ -89,14 +89,14 @@ stockList.push('gb_asx');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FTI.html" target="_blank">FTI</a></td><td></td><td></td><td>69</td><td>32.01</td><td>34.03</td><td>28.72</td><td>0</td></tr>
   <tr id="nvo" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NVO.html" target="_blank">NVO</a></td><td></td><td></td><td>67</td><td>53.9</td><td>57.3</td><td>45.87</td><td>47.59</td></tr>
-  <tr id="ann" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="bk" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BK.html" target="_blank">BK</a></td><td></td><td></td><td>64</td><td>38.65</td><td>41.12</td><td>35.75</td><td>0</td></tr>
   <tr id="pin" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PIN.html" target="_blank">PIN</a></td><td></td><td></td><td>63</td><td>20.43</td><td>20.11</td><td>18.83</td><td>0</td></tr>
   <tr id="atls" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATLS.html" target="_blank">ATLS</a></td><td></td><td></td><td>61</td><td>2.56</td><td>3.54</td><td>2.06</td><td>0</td></tr>
+  <tr id="gca" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>59</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="tasr" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TASR.html" target="_blank">TASR</a></td><td></td><td></td><td>58</td><td>23.41</td><td>25</td><td>21.39</td><td>0</td></tr>
   <tr id="asgn" class="red">
