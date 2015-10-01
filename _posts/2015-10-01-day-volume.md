@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151001"
-date:   2015-10-01 01:17:46
+date:   2015-10-01 04:17:25
 categories: stock
 ---
 <script type="text/javascript">
@@ -74,7 +74,7 @@ stockList.push('gb_gpk');
  <td>天量指数</td>
 </tr>
   <tr id="nes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NES.html" target="_blank">NES</a></td><td></td><td></td><td>-0.051</td><td>4.606</td></tr>
-  <tr id="hun"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HUN.html" target="_blank">HUN</a></td><td></td><td></td><td>-0.047</td><td>2.01</td></tr>
+  <tr id="hun"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HUN.html" target="_blank">HUN</a></td><td></td><td></td><td>-0.047</td><td>2.013</td></tr>
   <tr id="czr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CZR.html" target="_blank">CZR</a></td><td></td><td></td><td>-0.044</td><td>2.81</td></tr>
   <tr id="pah"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PAH.html" target="_blank">PAH</a></td><td></td><td></td><td>-0.04</td><td>2.08</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.037</td><td>10.498</td></tr>
@@ -95,7 +95,7 @@ stockList.push('gb_gpk');
   <tr id="fch"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FCH.html" target="_blank">FCH</a></td><td></td><td></td><td>-0.02</td><td>2.044</td></tr>
   <tr id="epd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EPD.html" target="_blank">EPD</a></td><td></td><td></td><td>-0.02</td><td>2.223</td></tr>
   <tr id="syna"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SYNA.html" target="_blank">SYNA</a></td><td></td><td></td><td>-0.02</td><td>8.876</td></tr>
-  <tr id="wdc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WDC.html" target="_blank">WDC</a></td><td></td><td></td><td>-0.019</td><td>3.739</td></tr>
+  <tr id="wdc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WDC.html" target="_blank">WDC</a></td><td></td><td></td><td>-0.019</td><td>3.709</td></tr>
   <tr id="ns"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NS.html" target="_blank">NS</a></td><td></td><td></td><td>-0.019</td><td>3.147</td></tr>
   <tr id="cphd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CPHD.html" target="_blank">CPHD</a></td><td></td><td></td><td>-0.019</td><td>2.155</td></tr>
   <tr id="paa"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PAA.html" target="_blank">PAA</a></td><td></td><td></td><td>-0.019</td><td>2.093</td></tr>
