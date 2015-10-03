@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151003"
-date:   2015-10-03 01:18:07
+date:   2015-10-03 04:17:27
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,6 +12,7 @@ stockList.push('gb_orig');
 stockList.push('gb_knd');
 stockList.push('gb_wynn');
 stockList.push('gb_arco');
+stockList.push('gb_fold');
 stockList.push('gb_xnpt');
 stockList.push('gb_rax');
 stockList.push('gb_lvs');
@@ -43,6 +44,7 @@ stockList.push('gb_ois');
   <tr id="knd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KND.html" target="_blank">KND</a></td><td></td><td></td><td>-0.034</td><td>4.203</td></tr>
   <tr id="wynn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WYNN.html" target="_blank">WYNN</a></td><td></td><td></td><td>-0.032</td><td>3.286</td></tr>
   <tr id="arco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARCO.html" target="_blank">ARCO</a></td><td></td><td></td><td>-0.029</td><td>4.528</td></tr>
+  <tr id="fold"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FOLD.html" target="_blank">FOLD</a></td><td></td><td></td><td>-0.028</td><td>16.811</td></tr>
   <tr id="xnpt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XNPT.html" target="_blank">XNPT</a></td><td></td><td></td><td>-0.026</td><td>8.86</td></tr>
   <tr id="rax"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RAX.html" target="_blank">RAX</a></td><td></td><td></td><td>-0.026</td><td>2.709</td></tr>
   <tr id="lvs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LVS.html" target="_blank">LVS</a></td><td></td><td></td><td>-0.023</td><td>2.609</td></tr>
