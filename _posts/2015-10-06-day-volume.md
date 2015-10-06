@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151006"
-date:   2015-10-06 01:18:15
+date:   2015-10-06 04:17:34
 categories: stock
 ---
 <script type="text/javascript">
@@ -47,7 +47,7 @@ stockList.push('gb_mlpn');
   <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>-0.073</td><td>2.792</td></tr>
   <tr id="fold"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FOLD.html" target="_blank">FOLD</a></td><td></td><td></td><td>-0.061</td><td>2.139</td></tr>
   <tr id="orig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ORIG.html" target="_blank">ORIG</a></td><td></td><td></td><td>-0.04</td><td>2.312</td></tr>
-  <tr id="gasl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GASL.html" target="_blank">GASL</a></td><td></td><td></td><td>-0.037</td><td>2.027</td></tr>
+  <tr id="gasl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GASL.html" target="_blank">GASL</a></td><td></td><td></td><td>-0.037</td><td>2.025</td></tr>
   <tr id="pva"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PVA.html" target="_blank">PVA</a></td><td></td><td></td><td>-0.036</td><td>2.385</td></tr>
   <tr id="arco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARCO.html" target="_blank">ARCO</a></td><td></td><td></td><td>-0.027</td><td>3.033</td></tr>
   <tr id="thc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/THC.html" target="_blank">THC</a></td><td></td><td></td><td>-0.027</td><td>2.251</td></tr>
