@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151007"
-date:   2015-10-07 01:18:38
+date:   2015-10-07 04:17:32
 categories: stock
 ---
 <script type="text/javascript">
@@ -19,12 +19,12 @@ stockList.push('gb_gntx');
 stockList.push('gb_ofc');
 stockList.push('gb_post');
 stockList.push('gb_rmbs');
-stockList.push('gb_ann');
 stockList.push('gb_bam');
 stockList.push('gb_erj');
 stockList.push('gb_yrcw');
 stockList.push('gb_ewh');
 stockList.push('gb_fcs');
+stockList.push('gb_gca');
 stockList.push('gb_chk');
 stockList.push('gb_sre');
 stockList.push('gb_splk');
@@ -84,8 +84,6 @@ stockList.push('gb_imgn');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POST.html" target="_blank">POST</a></td><td></td><td></td><td>69</td><td>60.98</td><td>65.79</td><td>51.13</td><td>55.45</td></tr>
   <tr id="rmbs" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RMBS.html" target="_blank">RMBS</a></td><td></td><td></td><td>68</td><td>12.3</td><td>12.8</td><td>11.15</td><td>0</td></tr>
-  <tr id="ann" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="bam" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BAM.html" target="_blank">BAM</a></td><td></td><td></td><td>64</td><td>32.78</td><td>34.933</td><td>30.48</td><td>0</td></tr>
   <tr id="erj" class="red">
@@ -96,6 +94,8 @@ stockList.push('gb_imgn');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWH.html" target="_blank">EWH</a></td><td></td><td></td><td>60</td><td>19.95</td><td>20.07</td><td>18.5</td><td>0</td></tr>
   <tr id="fcs" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FCS.html" target="_blank">FCS</a></td><td></td><td></td><td>59</td><td>15.44</td><td>14.38</td><td>12.62</td><td>0</td></tr>
+  <tr id="gca" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>59</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="chk" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CHK.html" target="_blank">CHK</a></td><td></td><td></td><td>56</td><td>9.94</td><td>8.96</td><td>6.03</td><td>0</td></tr>
   <tr id="sre" class="red">
