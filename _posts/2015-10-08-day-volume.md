@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151008"
-date:   2015-10-08 01:18:11
+date:   2015-10-08 04:17:32
 categories: stock
 ---
 <script type="text/javascript">
@@ -72,7 +72,7 @@ stockList.push('gb_cpa');
   <tr id="bte"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BTE.html" target="_blank">BTE</a></td><td></td><td></td><td>0.016</td><td>2.453</td></tr>
   <tr id="arex"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AREX.html" target="_blank">AREX</a></td><td></td><td></td><td>0.016</td><td>3.541</td></tr>
   <tr id="bp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BP.html" target="_blank">BP</a></td><td></td><td></td><td>0.015</td><td>2.739</td></tr>
-  <tr id="wmgi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WMGI.html" target="_blank">WMGI</a></td><td></td><td></td><td>-0.015</td><td>3.536</td></tr>
+  <tr id="wmgi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WMGI.html" target="_blank">WMGI</a></td><td></td><td></td><td>-0.015</td><td>3.514</td></tr>
   <tr id="enlc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENLC.html" target="_blank">ENLC</a></td><td></td><td></td><td>0.015</td><td>2.535</td></tr>
   <tr id="fcg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FCG.html" target="_blank">FCG</a></td><td></td><td></td><td>0.014</td><td>2.196</td></tr>
   <tr id="jnpr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JNPR.html" target="_blank">JNPR</a></td><td></td><td></td><td>0.014</td><td>2.294</td></tr>
