@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151009"
-date:   2015-10-09 01:17:38
+date:   2015-10-09 04:17:26
 categories: stock
 ---
 <script type="text/javascript">
@@ -36,7 +36,7 @@ stockList.push('gb_dang');
   <tr id="plcm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PLCM.html" target="_blank">PLCM</a></td><td></td><td></td><td>0.013</td><td>7.767</td></tr>
   <tr id="emc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EMC.html" target="_blank">EMC</a></td><td></td><td></td><td>0.012</td><td>4.881</td></tr>
   <tr id="lltc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LLTC.html" target="_blank">LLTC</a></td><td></td><td></td><td>0.011</td><td>2.985</td></tr>
-  <tr id="wmgi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WMGI.html" target="_blank">WMGI</a></td><td></td><td></td><td>-0.011</td><td>2.433</td></tr>
+  <tr id="wmgi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WMGI.html" target="_blank">WMGI</a></td><td></td><td></td><td>-0.011</td><td>2.432</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.132</td></tr>
   <tr id="abev"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ABEV.html" target="_blank">ABEV</a></td><td></td><td></td><td>0.011</td><td>2.575</td></tr>
   <tr id="dang"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DANG.html" target="_blank">DANG</a></td><td></td><td></td><td>0.011</td><td>2.086</td></tr>
