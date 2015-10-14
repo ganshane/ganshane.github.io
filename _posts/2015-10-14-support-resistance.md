@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151014"
-date:   2015-10-14 01:17:46
+date:   2015-10-14 04:17:40
 categories: stock
 ---
 <script type="text/javascript">
@@ -54,7 +54,6 @@ stockList.push('gb_hlit');
 stockList.push('gb_rax');
 stockList.push('gb_etr');
 stockList.push('gb_rf');
-stockList.push('gb_bdj');
 stockList.push('gb_gnw');
 stockList.push('gb_mbi');
 stockList.push('gb_nue');
@@ -66,6 +65,7 @@ stockList.push('gb_orcl');
 stockList.push('gb_symc');
 stockList.push('gb_bp');
 stockList.push('gb_dan');
+stockList.push('gb_bdj');
 stockList.push('gb_igd');
 stockList.push('gb_mga');
 stockList.push('gb_ggn');
@@ -182,8 +182,6 @@ stockList.push('gb_beav');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ETR.html" target="_blank">ETR</a></td><td></td><td></td><td>47</td><td>68.25</td><td>71.56</td><td>62.3</td><td>0</td></tr>
   <tr id="rf" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RF.html" target="_blank">RF</a></td><td></td><td></td><td>46</td><td>9.16</td><td>9.77</td><td>8.54</td><td>0</td></tr>
-  <tr id="bdj" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BDJ.html" target="_blank">BDJ</a></td><td></td><td></td><td>46</td><td>7.89</td><td>8.06</td><td>7.04</td><td>7.34</td></tr>
   <tr id="gnw" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GNW.html" target="_blank">GNW</a></td><td></td><td></td><td>43</td><td>6.75</td><td>7.96</td><td>4.36</td><td>5.22</td></tr>
   <tr id="mbi" class="green">
@@ -206,6 +204,8 @@ stockList.push('gb_beav');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BP.html" target="_blank">BP</a></td><td></td><td></td><td>35</td><td>34.93</td><td>40.35</td><td>30.44</td><td>32.62</td></tr>
   <tr id="dan" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DAN.html" target="_blank">DAN</a></td><td></td><td></td><td>34</td><td>20.15</td><td>18.11</td><td>16.92</td><td>0</td></tr>
+  <tr id="bdj" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BDJ.html" target="_blank">BDJ</a></td><td></td><td></td><td>33</td><td>7.89</td><td>8.06</td><td>7.04</td><td>7.34</td></tr>
   <tr id="igd" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IGD.html" target="_blank">IGD</a></td><td></td><td></td><td>32</td><td>7.91</td><td>8.11</td><td>7.05</td><td>7.39</td></tr>
   <tr id="mga" class="red">
