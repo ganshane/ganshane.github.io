@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151015"
-date:   2015-10-15 01:17:43
+date:   2015-10-15 04:17:38
 categories: stock
 ---
 <script type="text/javascript">
@@ -34,7 +34,7 @@ stockList.push('gb_lrn');
   <tr id="jdst"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JDST.html" target="_blank">JDST</a></td><td></td><td></td><td>-0.046</td><td>2.059</td></tr>
   <tr id="dug"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DUG.html" target="_blank">DUG</a></td><td></td><td></td><td>-0.028</td><td>2.152</td></tr>
   <tr id="fcg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FCG.html" target="_blank">FCG</a></td><td></td><td></td><td>0.024</td><td>2.259</td></tr>
-  <tr id="amcc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMCC.html" target="_blank">AMCC</a></td><td></td><td></td><td>0.022</td><td>2.223</td></tr>
+  <tr id="amcc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMCC.html" target="_blank">AMCC</a></td><td></td><td></td><td>0.022</td><td>2.21</td></tr>
   <tr id="wbai"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WBAI.html" target="_blank">WBAI</a></td><td></td><td></td><td>0.022</td><td>2.072</td></tr>
   <tr id="al"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AL.html" target="_blank">AL</a></td><td></td><td></td><td>0.015</td><td>4.727</td></tr>
   <tr id="sndk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNDK.html" target="_blank">SNDK</a></td><td></td><td></td><td>0.015</td><td>3.036</td></tr>
