@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151017"
-date:   2015-10-17 01:17:30
+date:   2015-10-17 04:17:25
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,7 +10,6 @@ stockList.push('gb_sivb');
 stockList.push('gb_slw');
 stockList.push('gb_idti');
 stockList.push('gb_mrk');
-stockList.push('gb_scty');
 stockList.push('gb_vwo');
 stockList.push('gb_snh');
 stockList.push('gb_meoh');
@@ -34,8 +33,8 @@ stockList.push('gb_time');
 stockList.push('gb_etfc');
 stockList.push('gb_hpt');
 stockList.push('gb_ir');
+stockList.push('gb_gca');
 stockList.push('gb_arcb');
-stockList.push('gb_impv');
 stockList.push('gb_h');
 stockList.push('gb_paas');
 stockList.push('gb_lscc');
@@ -45,7 +44,6 @@ stockList.push('gb_armh');
 stockList.push('gb_symc');
 stockList.push('gb_elgx');
 stockList.push('gb_tmv');
-stockList.push('gb_ggn');
 stockList.push('gb_isil');
 stockList.push('gb_beav');
 stockList.push('gb_ftr');
@@ -82,8 +80,6 @@ stockList.push('gb_smtc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IDTI.html" target="_blank">IDTI</a></td><td></td><td></td><td>100</td><td>23.25</td><td>24</td><td>20.09</td><td>21.73</td></tr>
   <tr id="mrk" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MRK.html" target="_blank">MRK</a></td><td></td><td></td><td>99</td><td>51.71</td><td>54.5</td><td>48.35</td><td>0</td></tr>
-  <tr id="scty" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCTY.html" target="_blank">SCTY</a></td><td></td><td></td><td>96</td><td>47.68</td><td>49.98</td><td>40.06</td><td>0</td></tr>
   <tr id="vwo" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VWO.html" target="_blank">VWO</a></td><td></td><td></td><td>95</td><td>38.63</td><td>40.21</td><td>32.62</td><td>36</td></tr>
   <tr id="snh" class="red">
@@ -130,10 +126,10 @@ stockList.push('gb_smtc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HPT.html" target="_blank">HPT</a></td><td></td><td></td><td>62</td><td>28.85</td><td>28.62</td><td>26.07</td><td>26.78</td></tr>
   <tr id="ir" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IR.html" target="_blank">IR</a></td><td></td><td></td><td>60</td><td>53.93</td><td>63.67</td><td>49.74</td><td>0</td></tr>
+  <tr id="gca" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>59</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="arcb" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARCB.html" target="_blank">ARCB</a></td><td></td><td></td><td>57</td><td>27.63</td><td>29.72</td><td>24.83</td><td>0</td></tr>
-  <tr id="impv" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IMPV.html" target="_blank">IMPV</a></td><td></td><td></td><td>56</td><td>62.59</td><td>69.21</td><td>56.94</td><td>49.26</td></tr>
   <tr id="h" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/H.html" target="_blank">H</a></td><td></td><td></td><td>55</td><td>50.39</td><td>52.14</td><td>46.25</td><td>0</td></tr>
   <tr id="paas" class="red">
@@ -152,8 +148,6 @@ stockList.push('gb_smtc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ELGX.html" target="_blank">ELGX</a></td><td></td><td></td><td>50</td><td>14.01</td><td>14.06</td><td>12.44</td><td>0</td></tr>
   <tr id="tmv" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TMV.html" target="_blank">TMV</a></td><td></td><td></td><td>49</td><td>27.15</td><td>28.56</td><td>24.84</td><td>0</td></tr>
-  <tr id="ggn" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GGN.html" target="_blank">GGN</a></td><td></td><td></td><td>48</td><td>6.66</td><td>7.22</td><td>5.23</td><td>5.7</td></tr>
   <tr id="isil" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ISIL.html" target="_blank">ISIL</a></td><td></td><td></td><td>45</td><td>12.79</td><td>13.57</td><td>9.86</td><td>0</td></tr>
   <tr id="beav" class="green">

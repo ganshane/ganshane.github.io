@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151017"
-date:   2015-10-17 01:17:30
+date:   2015-10-17 04:17:25
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,7 +10,6 @@ stockList.push('gb_dyax');
 stockList.push('gb_rmti');
 stockList.push('gb_cldx');
 stockList.push('gb_ual');
-stockList.push('gb_nq');
 stockList.push('gb_oled');
 stockList.push('gb_win');
 stockList.push('gb_cbi');
@@ -31,7 +30,6 @@ stockList.push('gb_mat');
   <tr id="rmti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RMTI.html" target="_blank">RMTI</a></td><td></td><td></td><td>0.026</td><td>2.464</td></tr>
   <tr id="cldx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLDX.html" target="_blank">CLDX</a></td><td></td><td></td><td>0.019</td><td>3.708</td></tr>
   <tr id="ual"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UAL.html" target="_blank">UAL</a></td><td></td><td></td><td>0.015</td><td>2.207</td></tr>
-  <tr id="nq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>0.015</td><td>2.319</td></tr>
   <tr id="oled"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OLED.html" target="_blank">OLED</a></td><td></td><td></td><td>0.014</td><td>3.675</td></tr>
   <tr id="win"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WIN.html" target="_blank">WIN</a></td><td></td><td></td><td>0.012</td><td>2.224</td></tr>
   <tr id="cbi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CBI.html" target="_blank">CBI</a></td><td></td><td></td><td>0.011</td><td>2.315</td></tr>
