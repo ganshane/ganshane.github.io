@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151020"
-date:   2015-10-20 01:18:47
+date:   2015-10-20 04:17:37
 categories: stock
 ---
 <script type="text/javascript">
@@ -69,6 +69,7 @@ stockList.push('gb_symc');
 stockList.push('gb_phk');
 stockList.push('gb_bte');
 stockList.push('gb_etfc');
+stockList.push('gb_bdj');
 stockList.push('gb_lscc');
 stockList.push('gb_ach');
 stockList.push('gb_ttph');
@@ -217,6 +218,8 @@ stockList.push('gb_hos');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BTE.html" target="_blank">BTE</a></td><td></td><td></td><td>34</td><td>4.5</td><td>5.54</td><td>2.99</td><td>0</td></tr>
   <tr id="etfc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ETFC.html" target="_blank">ETFC</a></td><td></td><td></td><td>33</td><td>26.83</td><td>28.27</td><td>24.55</td><td>0</td></tr>
+  <tr id="bdj" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BDJ.html" target="_blank">BDJ</a></td><td></td><td></td><td>33</td><td>7.89</td><td>8.06</td><td>7.04</td><td>7.34</td></tr>
   <tr id="lscc" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LSCC.html" target="_blank">LSCC</a></td><td></td><td></td><td>33</td><td>5.95</td><td>6.32</td><td>3.25</td><td>4.42</td></tr>
   <tr id="ach" class="green">
