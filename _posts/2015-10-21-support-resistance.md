@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151021"
-date:   2015-10-21 01:17:47
+date:   2015-10-21 04:17:26
 categories: stock
 ---
 <script type="text/javascript">
@@ -25,7 +25,6 @@ stockList.push('gb_ubs');
 stockList.push('gb_bcrx');
 stockList.push('gb_dov');
 stockList.push('gb_rate');
-stockList.push('gb_twx');
 stockList.push('gb_svu');
 stockList.push('gb_hot');
 stockList.push('gb_mnta');
@@ -57,6 +56,7 @@ stockList.push('gb_ndsn');
 stockList.push('gb_snh');
 stockList.push('gb_cnhi');
 stockList.push('gb_phk');
+stockList.push('gb_atu');
 stockList.push('gb_tivo');
 stockList.push('gb_s');
 stockList.push('gb_cst');
@@ -123,8 +123,6 @@ stockList.push('gb_egn');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DOV.html" target="_blank">DOV</a></td><td></td><td></td><td>75</td><td>63.09</td><td>62.4</td><td>57.98</td><td>0</td></tr>
   <tr id="rate" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RATE.html" target="_blank">RATE</a></td><td></td><td></td><td>75</td><td>11.86</td><td>12.65</td><td>11.05</td><td>10.95</td></tr>
-  <tr id="twx" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TWX.html" target="_blank">TWX</a></td><td></td><td></td><td>73</td><td>78.55</td><td>72.91</td><td>65.25</td><td>0</td></tr>
   <tr id="svu" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SVU.html" target="_blank">SVU</a></td><td></td><td></td><td>73</td><td>7.26</td><td>7.84</td><td>6.75</td><td>0</td></tr>
   <tr id="hot" class="red">
@@ -187,6 +185,8 @@ stockList.push('gb_egn');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CNHI.html" target="_blank">CNHI</a></td><td></td><td></td><td>39</td><td>7.41</td><td>7.34</td><td>6.44</td><td>0</td></tr>
   <tr id="phk" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PHK.html" target="_blank">PHK</a></td><td></td><td></td><td>38</td><td>9.04</td><td>9.56</td><td>7.26</td><td>8.1</td></tr>
+  <tr id="atu" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATU.html" target="_blank">ATU</a></td><td></td><td></td><td>36</td><td>21.92</td><td>23.23</td><td>17.02</td><td>20.29</td></tr>
   <tr id="tivo" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TIVO.html" target="_blank">TIVO</a></td><td></td><td></td><td>35</td><td>10.01</td><td>10.53</td><td>8.81</td><td>9.26</td></tr>
   <tr id="s" class="red">
