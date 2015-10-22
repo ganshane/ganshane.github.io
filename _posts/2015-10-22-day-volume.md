@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151022"
-date:   2015-10-22 01:17:56
+date:   2015-10-22 04:17:31
 categories: stock
 ---
 <script type="text/javascript">
@@ -30,7 +30,7 @@ stockList.push('gb_ryl');
   <tr id="swi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWI.html" target="_blank">SWI</a></td><td></td><td></td><td>0.019</td><td>5.037</td></tr>
   <tr id="drii"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DRII.html" target="_blank">DRII</a></td><td></td><td></td><td>-0.014</td><td>2.123</td></tr>
   <tr id="edu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EDU.html" target="_blank">EDU</a></td><td></td><td></td><td>0.013</td><td>2.218</td></tr>
-  <tr id="wdc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WDC.html" target="_blank">WDC</a></td><td></td><td></td><td>-0.012</td><td>4.024</td></tr>
+  <tr id="wdc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WDC.html" target="_blank">WDC</a></td><td></td><td></td><td>-0.012</td><td>3.991</td></tr>
   <tr id="arco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARCO.html" target="_blank">ARCO</a></td><td></td><td></td><td>0.011</td><td>2.838</td></tr>
   <tr id="fsc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSC.html" target="_blank">FSC</a></td><td></td><td></td><td>-0.011</td><td>2.172</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.132</td></tr>
