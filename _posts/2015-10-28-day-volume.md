@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151028"
-date:   2015-10-28 01:17:58
+date:   2015-10-28 04:17:18
 categories: stock
 ---
 <script type="text/javascript">
@@ -53,7 +53,7 @@ stockList.push('gb_shoo');
   <tr id="save"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SAVE.html" target="_blank">SAVE</a></td><td></td><td></td><td>-0.028</td><td>2.971</td></tr>
   <tr id="cnx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CNX.html" target="_blank">CNX</a></td><td></td><td></td><td>-0.027</td><td>3.872</td></tr>
   <tr id="pva"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PVA.html" target="_blank">PVA</a></td><td></td><td></td><td>-0.023</td><td>2.077</td></tr>
-  <tr id="tdw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TDW.html" target="_blank">TDW</a></td><td></td><td></td><td>-0.022</td><td>2.802</td></tr>
+  <tr id="tdw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TDW.html" target="_blank">TDW</a></td><td></td><td></td><td>-0.022</td><td>2.789</td></tr>
   <tr id="sm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SM.html" target="_blank">SM</a></td><td></td><td></td><td>-0.021</td><td>2.096</td></tr>
   <tr id="tmst"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TMST.html" target="_blank">TMST</a></td><td></td><td></td><td>-0.02</td><td>2.031</td></tr>
   <tr id="dyn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DYN.html" target="_blank">DYN</a></td><td></td><td></td><td>-0.019</td><td>2.62</td></tr>

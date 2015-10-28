@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151028"
-date:   2015-10-28 01:17:58
+date:   2015-10-28 04:17:18
 categories: stock
 ---
 <script type="text/javascript">
@@ -74,7 +74,6 @@ stockList.push('gb_dvn');
 stockList.push('gb_etr');
 stockList.push('gb_bx');
 stockList.push('gb_ua');
-stockList.push('gb_amtg');
 stockList.push('gb_hos');
 stockList.push('gb_txt');
 stockList.push('gb_fch');
@@ -230,8 +229,6 @@ stockList.push('gb_edc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BX.html" target="_blank">BX</a></td><td></td><td></td><td>35</td><td>36.11</td><td>36.04</td><td>33.23</td><td>0</td></tr>
   <tr id="ua" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UA.html" target="_blank">UA</a></td><td></td><td></td><td>33</td><td>95.85</td><td>101.68</td><td>87</td><td>88.15</td></tr>
-  <tr id="amtg" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMTG.html" target="_blank">AMTG</a></td><td></td><td></td><td>33</td><td>13.6</td><td>13.34</td><td>12.5</td><td>0</td></tr>
   <tr id="hos" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HOS.html" target="_blank">HOS</a></td><td></td><td></td><td>32</td><td>16.12</td><td>16.71</td><td>13.2</td><td>0</td></tr>
   <tr id="txt" class="red">
