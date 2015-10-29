@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151029"
-date:   2015-10-29 01:18:16
+date:   2015-10-29 04:17:24
 categories: stock
 ---
 <script type="text/javascript">
@@ -29,7 +29,6 @@ stockList.push('gb_aa');
 stockList.push('gb_wlk');
 stockList.push('gb_sf');
 stockList.push('gb_tasr');
-stockList.push('gb_ann');
 stockList.push('gb_jakk');
 stockList.push('gb_icl');
 stockList.push('gb_gab');
@@ -131,8 +130,6 @@ stockList.push('gb_ev');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SF.html" target="_blank">SF</a></td><td></td><td></td><td>66</td><td>46.77</td><td>47.36</td><td>40.52</td><td>43.74</td></tr>
   <tr id="tasr" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TASR.html" target="_blank">TASR</a></td><td></td><td></td><td>66</td><td>23.41</td><td>24.43</td><td>21.39</td><td>0</td></tr>
-  <tr id="ann" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="jakk" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JAKK.html" target="_blank">JAKK</a></td><td></td><td></td><td>65</td><td>8.47</td><td>9.02</td><td>7.45</td><td>7.25</td></tr>
   <tr id="icl" class="red">
