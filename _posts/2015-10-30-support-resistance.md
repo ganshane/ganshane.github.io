@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151030"
-date:   2015-10-30 01:17:59
+date:   2015-10-30 04:17:34
 categories: stock
 ---
 <script type="text/javascript">
@@ -44,6 +44,7 @@ stockList.push('gb_amat');
 stockList.push('gb_vnr');
 stockList.push('gb_ash');
 stockList.push('gb_wbc');
+stockList.push('gb_gca');
 stockList.push('gb_wpx');
 stockList.push('gb_ssys');
 stockList.push('gb_lscc');
@@ -151,6 +152,8 @@ stockList.push('gb_invn');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ASH.html" target="_blank">ASH</a></td><td></td><td></td><td>60</td><td>110.62</td><td>109.63</td><td>100.03</td><td>0</td></tr>
   <tr id="wbc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WBC.html" target="_blank">WBC</a></td><td></td><td></td><td>59</td><td>111.73</td><td>112.87</td><td>99.13</td><td>0</td></tr>
+  <tr id="gca" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>59</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="wpx" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPX.html" target="_blank">WPX</a></td><td></td><td></td><td>58</td><td>7.11</td><td>8.04</td><td>6.25</td><td>0</td></tr>
   <tr id="ssys" class="red">

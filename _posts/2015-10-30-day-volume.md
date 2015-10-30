@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151030"
-date:   2015-10-30 01:17:59
+date:   2015-10-30 04:17:34
 categories: stock
 ---
 <script type="text/javascript">
@@ -43,7 +43,7 @@ stockList.push('gb_lnkd');
   <tr id="wll"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WLL.html" target="_blank">WLL</a></td><td></td><td></td><td>-0.022</td><td>2.24</td></tr>
   <tr id="ddd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DDD.html" target="_blank">DDD</a></td><td></td><td></td><td>-0.021</td><td>2.338</td></tr>
   <tr id="hos"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HOS.html" target="_blank">HOS</a></td><td></td><td></td><td>-0.019</td><td>2.142</td></tr>
-  <tr id="ig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IG.html" target="_blank">IG</a></td><td></td><td></td><td>-0.017</td><td>4.532</td></tr>
+  <tr id="ig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IG.html" target="_blank">IG</a></td><td></td><td></td><td>-0.017</td><td>4.527</td></tr>
   <tr id="ypf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YPF.html" target="_blank">YPF</a></td><td></td><td></td><td>0.014</td><td>2.064</td></tr>
   <tr id="yrcw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YRCW.html" target="_blank">YRCW</a></td><td></td><td></td><td>-0.013</td><td>2.552</td></tr>
   <tr id="gnc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GNC.html" target="_blank">GNC</a></td><td></td><td></td><td>-0.013</td><td>7.545</td></tr>
@@ -55,5 +55,5 @@ stockList.push('gb_lnkd');
   <tr id="kate"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KATE.html" target="_blank">KATE</a></td><td></td><td></td><td>-0.011</td><td>2.055</td></tr>
   <tr id="vsi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VSI.html" target="_blank">VSI</a></td><td></td><td></td><td>-0.01</td><td>4.509</td></tr>
   <tr id="trs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TRS.html" target="_blank">TRS</a></td><td></td><td></td><td>0.01</td><td>2.254</td></tr>
-  <tr id="lnkd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LNKD.html" target="_blank">LNKD</a></td><td></td><td></td><td>0.01</td><td>2.184</td></tr>
+  <tr id="lnkd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LNKD.html" target="_blank">LNKD</a></td><td></td><td></td><td>0.01</td><td>2.183</td></tr>
 </table>
