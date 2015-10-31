@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151031"
-date:   2015-10-31 01:17:37
+date:   2015-10-31 04:17:25
 categories: stock
 ---
 <script type="text/javascript">
@@ -44,7 +44,7 @@ stockList.push('gb_ryl');
   <tr id="rprx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RPRX.html" target="_blank">RPRX</a></td><td></td><td></td><td>-0.108</td><td>4.933</td></tr>
   <tr id="btu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BTU.html" target="_blank">BTU</a></td><td></td><td></td><td>-0.055</td><td>2.203</td></tr>
   <tr id="cstm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CSTM.html" target="_blank">CSTM</a></td><td></td><td></td><td>-0.051</td><td>3.446</td></tr>
-  <tr id="upl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UPL.html" target="_blank">UPL</a></td><td></td><td></td><td>-0.049</td><td>2.571</td></tr>
+  <tr id="upl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UPL.html" target="_blank">UPL</a></td><td></td><td></td><td>-0.049</td><td>2.565</td></tr>
   <tr id="tmst"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TMST.html" target="_blank">TMST</a></td><td></td><td></td><td>-0.028</td><td>2.562</td></tr>
   <tr id="cenx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CENX.html" target="_blank">CENX</a></td><td></td><td></td><td>-0.027</td><td>3.393</td></tr>
   <tr id="deck"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DECK.html" target="_blank">DECK</a></td><td></td><td></td><td>-0.022</td><td>3.379</td></tr>
@@ -62,7 +62,7 @@ stockList.push('gb_ryl');
   <tr id="tile"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TILE.html" target="_blank">TILE</a></td><td></td><td></td><td>-0.014</td><td>2.368</td></tr>
   <tr id="lnkd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LNKD.html" target="_blank">LNKD</a></td><td></td><td></td><td>0.012</td><td>4.253</td></tr>
   <tr id="scty"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCTY.html" target="_blank">SCTY</a></td><td></td><td></td><td>-0.012</td><td>8.562</td></tr>
-  <tr id="tss"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TSS.html" target="_blank">TSS</a></td><td></td><td></td><td>0.012</td><td>2.191</td></tr>
+  <tr id="tss"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TSS.html" target="_blank">TSS</a></td><td></td><td></td><td>0.012</td><td>2.192</td></tr>
   <tr id="axl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AXL.html" target="_blank">AXL</a></td><td></td><td></td><td>0.011</td><td>2.317</td></tr>
   <tr id="ecol"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ECOL.html" target="_blank">ECOL</a></td><td></td><td></td><td>-0.011</td><td>7.075</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.132</td></tr>

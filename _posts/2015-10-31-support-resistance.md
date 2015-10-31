@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151031"
-date:   2015-10-31 01:17:38
+date:   2015-10-31 04:17:25
 categories: stock
 ---
 <script type="text/javascript">
@@ -28,7 +28,6 @@ stockList.push('gb_pds');
 stockList.push('gb_vip');
 stockList.push('gb_bgy');
 stockList.push('gb_fl');
-stockList.push('gb_ann');
 stockList.push('gb_tfm');
 stockList.push('gb_agu');
 stockList.push('gb_sgen');
@@ -120,8 +119,6 @@ stockList.push('gb_eido');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BGY.html" target="_blank">BGY</a></td><td></td><td></td><td>69</td><td>6.94</td><td>7.18</td><td>6.01</td><td>6.43</td></tr>
   <tr id="fl" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FL.html" target="_blank">FL</a></td><td></td><td></td><td>67</td><td>68.4</td><td>71.07</td><td>61.31</td><td>63.98</td></tr>
-  <tr id="ann" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="tfm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TFM.html" target="_blank">TFM</a></td><td></td><td></td><td>64</td><td>31.55</td><td>28.14</td><td>23.45</td><td>24.61</td></tr>
   <tr id="agu" class="red">
