@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151103"
-date:   2015-11-03 01:18:35
+date:   2015-11-03 04:17:49
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,6 +17,7 @@ stockList.push('gb_nlnk');
 stockList.push('gb_cveo');
 stockList.push('gb_ryl');
 stockList.push('gb_acad');
+stockList.push('gb_cmg');
 </script>
 
 <table border="1">
@@ -38,4 +39,5 @@ stockList.push('gb_acad');
   <tr id="cveo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVEO.html" target="_blank">CVEO</a></td><td></td><td></td><td>-0.011</td><td>2.075</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.132</td></tr>
   <tr id="acad"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACAD.html" target="_blank">ACAD</a></td><td></td><td></td><td>0.01</td><td>3.603</td></tr>
+  <tr id="cmg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMG.html" target="_blank">CMG</a></td><td></td><td></td><td>-0.01</td><td>2.647</td></tr>
 </table>
