@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151119"
-date:   2015-11-19 01:17:59
+date:   2015-11-19 04:18:07
 categories: stock
 ---
 <script type="text/javascript">
@@ -22,7 +22,6 @@ stockList.push('gb_meli');
 stockList.push('gb_xcra');
 stockList.push('gb_amkr');
 stockList.push('gb_wuba');
-stockList.push('gb_ann');
 stockList.push('gb_rlgy');
 stockList.push('gb_rok');
 stockList.push('gb_mon');
@@ -99,8 +98,6 @@ stockList.push('gb_skx');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMKR.html" target="_blank">AMKR</a></td><td></td><td></td><td>69</td><td>6.29</td><td>6.54</td><td>4.3</td><td>5.49</td></tr>
   <tr id="wuba" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WUBA.html" target="_blank">WUBA</a></td><td></td><td></td><td>66</td><td>58.92</td><td>69</td><td>48.1</td><td>52</td></tr>
-  <tr id="ann" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="rlgy" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RLGY.html" target="_blank">RLGY</a></td><td></td><td></td><td>64</td><td>44.21</td><td>44.64</td><td>39.39</td><td>41.21</td></tr>
   <tr id="rok" class="green">
