@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151121"
-date:   2015-11-21 01:18:20
+date:   2015-11-21 04:17:53
 categories: stock
 ---
 <script type="text/javascript">
@@ -24,7 +24,6 @@ stockList.push('gb_navi');
 stockList.push('gb_fran');
 stockList.push('gb_gpor');
 stockList.push('gb_chs');
-stockList.push('gb_ryl');
 stockList.push('gb_pay');
 </script>
 
@@ -54,6 +53,5 @@ stockList.push('gb_pay');
   <tr id="fran"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FRAN.html" target="_blank">FRAN</a></td><td></td><td></td><td>-0.012</td><td>3.112</td></tr>
   <tr id="gpor"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GPOR.html" target="_blank">GPOR</a></td><td></td><td></td><td>-0.012</td><td>2.159</td></tr>
   <tr id="chs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CHS.html" target="_blank">CHS</a></td><td></td><td></td><td>-0.011</td><td>2.071</td></tr>
-  <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.132</td></tr>
   <tr id="pay"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PAY.html" target="_blank">PAY</a></td><td></td><td></td><td>-0.01</td><td>2.234</td></tr>
 </table>
