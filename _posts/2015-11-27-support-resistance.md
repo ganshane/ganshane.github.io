@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151127"
-date:   2015-11-27 01:17:28
+date:   2015-11-27 04:17:38
 categories: stock
 ---
 <script type="text/javascript">
@@ -30,6 +30,7 @@ stockList.push('gb_bsmx');
 stockList.push('gb_scss');
 stockList.push('gb_ptx');
 stockList.push('gb_nymt');
+stockList.push('gb_ann');
 stockList.push('gb_wuba');
 stockList.push('gb_gca');
 stockList.push('gb_saic');
@@ -114,6 +115,8 @@ stockList.push('gb_ttmi');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTX.html" target="_blank">PTX</a></td><td></td><td></td><td>68</td><td>3.06</td><td>3.5</td><td>2.75</td><td>0</td></tr>
   <tr id="nymt" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NYMT.html" target="_blank">NYMT</a></td><td></td><td></td><td>66</td><td>6.33</td><td>5.89</td><td>5.43</td><td>0</td></tr>
+  <tr id="ann" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="wuba" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WUBA.html" target="_blank">WUBA</a></td><td></td><td></td><td>62</td><td>58.92</td><td>69</td><td>50.85</td><td>55.1</td></tr>
   <tr id="gca" class="green">
