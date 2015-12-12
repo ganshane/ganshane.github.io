@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151212"
-date:   2015-12-12 01:17:37
+date:   2015-12-12 04:17:37
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_ag');
 stockList.push('gb_har');
-stockList.push('gb_cce');
 stockList.push('gb_ftk');
 stockList.push('gb_pnr');
 stockList.push('gb_kss');
@@ -28,6 +27,7 @@ stockList.push('gb_disck');
 stockList.push('gb_mmyt');
 stockList.push('gb_slw');
 stockList.push('gb_burl');
+stockList.push('gb_cce');
 stockList.push('gb_ipgp');
 stockList.push('gb_sne');
 stockList.push('gb_tx');
@@ -59,8 +59,6 @@ stockList.push('gb_exp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AG.html" target="_blank">AG</a></td><td></td><td></td><td>100</td><td>4.72</td><td>4.12</td><td>2.94</td><td>3.36</td></tr>
   <tr id="har" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HAR.html" target="_blank">HAR</a></td><td></td><td></td><td>97</td><td>100.59</td><td>104.94</td><td>94.48</td><td>0</td></tr>
-  <tr id="cce" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CCE.html" target="_blank">CCE</a></td><td></td><td></td><td>95</td><td>50.06</td><td>51.72</td><td>46.56</td><td>46.56</td></tr>
   <tr id="ftk" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FTK.html" target="_blank">FTK</a></td><td></td><td></td><td>91</td><td>11.11</td><td>12.06</td><td>10.11</td><td>0</td></tr>
   <tr id="pnr" class="red">
@@ -99,6 +97,8 @@ stockList.push('gb_exp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLW.html" target="_blank">SLW</a></td><td></td><td></td><td>56</td><td>13.4</td><td>14.28</td><td>12.27</td><td>12.57</td></tr>
   <tr id="burl" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BURL.html" target="_blank">BURL</a></td><td></td><td></td><td>55</td><td>45.56</td><td>49</td><td>40.58</td><td>0</td></tr>
+  <tr id="cce" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CCE.html" target="_blank">CCE</a></td><td></td><td></td><td>53</td><td>50.06</td><td>51.72</td><td>46.56</td><td>46.56</td></tr>
   <tr id="ipgp" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IPGP.html" target="_blank">IPGP</a></td><td></td><td></td><td>52</td><td>91.07</td><td>94.45</td><td>84.27</td><td>85.5</td></tr>
   <tr id="sne" class="green">

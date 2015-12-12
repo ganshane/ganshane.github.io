@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20151212"
-date:   2015-12-12 01:17:37
+date:   2015-12-12 04:17:37
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,7 +10,6 @@ stockList.push('gb_ngl');
 stockList.push('gb_ras');
 stockList.push('gb_nav');
 stockList.push('gb_mur');
-stockList.push('gb_outr');
 stockList.push('gb_szmk');
 stockList.push('gb_wnc');
 stockList.push('gb_swhc');
@@ -32,7 +31,6 @@ stockList.push('gb_catm');
   <tr id="ras"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RAS.html" target="_blank">RAS</a></td><td></td><td></td><td>-0.042</td><td>2.25</td></tr>
   <tr id="nav"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NAV.html" target="_blank">NAV</a></td><td></td><td></td><td>-0.035</td><td>3.929</td></tr>
   <tr id="mur"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MUR.html" target="_blank">MUR</a></td><td></td><td></td><td>-0.03</td><td>2.519</td></tr>
-  <tr id="outr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OUTR.html" target="_blank">OUTR</a></td><td></td><td></td><td>-0.029</td><td>2.488</td></tr>
   <tr id="szmk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SZMK.html" target="_blank">SZMK</a></td><td></td><td></td><td>-0.022</td><td>2.174</td></tr>
   <tr id="wnc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WNC.html" target="_blank">WNC</a></td><td></td><td></td><td>-0.022</td><td>2.484</td></tr>
   <tr id="swhc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWHC.html" target="_blank">SWHC</a></td><td></td><td></td><td>0.018</td><td>2.879</td></tr>
