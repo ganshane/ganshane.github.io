@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151215"
-date:   2015-12-15 01:26:06
+date:   2015-12-15 04:19:13
 categories: stock
 ---
 <script type="text/javascript">
@@ -13,6 +13,7 @@ stockList.push('gb_cphd');
 stockList.push('gb_fls');
 stockList.push('gb_mmyt');
 stockList.push('gb_stm');
+stockList.push('gb_win');
 stockList.push('gb_xbi');
 stockList.push('gb_jnug');
 stockList.push('gb_mjn');
@@ -66,6 +67,8 @@ stockList.push('gb_nycb');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MMYT.html" target="_blank">MMYT</a></td><td></td><td></td><td>90</td><td>18.37</td><td>20.58</td><td>14.55</td><td>17.19</td></tr>
   <tr id="stm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/STM.html" target="_blank">STM</a></td><td></td><td></td><td>85</td><td>6.87</td><td>7.24</td><td>6.44</td><td>0</td></tr>
+  <tr id="win" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WIN.html" target="_blank">WIN</a></td><td></td><td></td><td>83</td><td>7.33</td><td>7.76</td><td>5.87</td><td>0</td></tr>
   <tr id="xbi" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XBI.html" target="_blank">XBI</a></td><td></td><td></td><td>81</td><td>66.44</td><td>71.76</td><td>60.69</td><td>0</td></tr>
   <tr id="jnug" class="green">
