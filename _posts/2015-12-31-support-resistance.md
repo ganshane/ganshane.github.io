@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20151231"
-date:   2015-12-31 01:17:01
+date:   2015-12-31 04:16:40
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,13 +9,13 @@ var stockList = []
 stockList.push('gb_cmo');
 stockList.push('gb_bhi');
 stockList.push('gb_big');
-stockList.push('gb_dsw');
 stockList.push('gb_rgld');
 stockList.push('gb_foxa');
 stockList.push('gb_mmyt');
 stockList.push('gb_apol');
 stockList.push('gb_eep');
 stockList.push('gb_amg');
+stockList.push('gb_navi');
 stockList.push('gb_itub');
 stockList.push('gb_abc');
 stockList.push('gb_pay');
@@ -24,6 +24,7 @@ stockList.push('gb_crox');
 stockList.push('gb_glf');
 stockList.push('gb_cf');
 stockList.push('gb_lci');
+stockList.push('gb_dsw');
 stockList.push('gb_clny');
 stockList.push('gb_nue');
 stockList.push('gb_exas');
@@ -42,7 +43,6 @@ stockList.push('gb_invn');
 stockList.push('gb_disca');
 stockList.push('gb_apam');
 stockList.push('gb_amj');
-stockList.push('gb_viab');
 stockList.push('gb_symc');
 stockList.push('gb_meli');
 stockList.push('gb_amlp');
@@ -65,8 +65,6 @@ stockList.push('gb_exc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BHI.html" target="_blank">BHI</a></td><td></td><td></td><td>96</td><td>46.84</td><td>55.24</td><td>43.17</td><td>0</td></tr>
   <tr id="big" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIG.html" target="_blank">BIG</a></td><td></td><td></td><td>96</td><td>40.02</td><td>43.57</td><td>37.41</td><td>0</td></tr>
-  <tr id="dsw" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DSW.html" target="_blank">DSW</a></td><td></td><td></td><td>96</td><td>24.61</td><td>26.41</td><td>22.25</td><td>0</td></tr>
   <tr id="rgld" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RGLD.html" target="_blank">RGLD</a></td><td></td><td></td><td>89</td><td>42.21</td><td>38.65</td><td>35.57</td><td>0</td></tr>
   <tr id="foxa" class="green">
@@ -79,6 +77,8 @@ stockList.push('gb_exc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EEP.html" target="_blank">EEP</a></td><td></td><td></td><td>87</td><td>22.4</td><td>27.14</td><td>19.61</td><td>0</td></tr>
   <tr id="amg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMG.html" target="_blank">AMG</a></td><td></td><td></td><td>86</td><td>163.5</td><td>180.01</td><td>152.33</td><td>0</td></tr>
+  <tr id="navi" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NAVI.html" target="_blank">NAVI</a></td><td></td><td></td><td>85</td><td>11.59</td><td>12.95</td><td>10.62</td><td>0</td></tr>
   <tr id="itub" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ITUB.html" target="_blank">ITUB</a></td><td></td><td></td><td>85</td><td>6.66</td><td>7.66</td><td>6.25</td><td>0</td></tr>
   <tr id="abc" class="red">
@@ -95,6 +95,8 @@ stockList.push('gb_exc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CF.html" target="_blank">CF</a></td><td></td><td></td><td>79</td><td>43.85</td><td>50.86</td><td>40.97</td><td>0</td></tr>
   <tr id="lci" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LCI.html" target="_blank">LCI</a></td><td></td><td></td><td>78</td><td>42.045</td><td>44.49</td><td>34.84</td><td>39.236</td></tr>
+  <tr id="dsw" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DSW.html" target="_blank">DSW</a></td><td></td><td></td><td>76</td><td>24.61</td><td>26.41</td><td>22.25</td><td>0</td></tr>
   <tr id="clny" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLNY.html" target="_blank">CLNY</a></td><td></td><td></td><td>75</td><td>19.81</td><td>20.92</td><td>18.52</td><td>0</td></tr>
   <tr id="nue" class="red">
@@ -131,8 +133,6 @@ stockList.push('gb_exc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APAM.html" target="_blank">APAM</a></td><td></td><td></td><td>38</td><td>37.12</td><td>37.09</td><td>34.5</td><td>0</td></tr>
   <tr id="amj" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMJ.html" target="_blank">AMJ</a></td><td></td><td></td><td>33</td><td>28.3</td><td>35.17</td><td>24.17</td><td>0</td></tr>
-  <tr id="viab" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIAB.html" target="_blank">VIAB</a></td><td></td><td></td><td>31</td><td>42.15</td><td>46.76</td><td>38.37</td><td>0</td></tr>
   <tr id="symc" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SYMC.html" target="_blank">SYMC</a></td><td></td><td></td><td>30</td><td>22.68</td><td>23.25</td><td>20.37</td><td>21.36</td></tr>
   <tr id="meli" class="green">
