@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160108"
-date:   2016-01-08 01:18:18
+date:   2016-01-08 04:16:41
 categories: stock
 ---
 <script type="text/javascript">
@@ -21,6 +21,7 @@ stockList.push('gb_conn');
 stockList.push('gb_cf');
 stockList.push('gb_mtcn');
 stockList.push('gb_gbx');
+stockList.push('gb_rmti');
 stockList.push('gb_xone');
 stockList.push('gb_avp');
 stockList.push('gb_tna');
@@ -63,6 +64,7 @@ stockList.push('gb_tph');
 stockList.push('gb_mga');
 stockList.push('gb_imax');
 stockList.push('gb_fmc');
+stockList.push('gb_jks');
 stockList.push('gb_pdce');
 stockList.push('gb_zltq');
 stockList.push('gb_vxx');
@@ -94,6 +96,7 @@ stockList.push('gb_apc');
   <tr id="cf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CF.html" target="_blank">CF</a></td><td></td><td></td><td>-0.017</td><td>2.144</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.017</td><td>3.179</td></tr>
   <tr id="gbx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GBX.html" target="_blank">GBX</a></td><td></td><td></td><td>-0.017</td><td>2.553</td></tr>
+  <tr id="rmti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RMTI.html" target="_blank">RMTI</a></td><td></td><td></td><td>-0.017</td><td>2.273</td></tr>
   <tr id="xone"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XONE.html" target="_blank">XONE</a></td><td></td><td></td><td>-0.017</td><td>2.238</td></tr>
   <tr id="avp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AVP.html" target="_blank">AVP</a></td><td></td><td></td><td>-0.016</td><td>3.102</td></tr>
   <tr id="tna"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TNA.html" target="_blank">TNA</a></td><td></td><td></td><td>-0.016</td><td>2.002</td></tr>
@@ -112,7 +115,7 @@ stockList.push('gb_apc');
   <tr id="cpa"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CPA.html" target="_blank">CPA</a></td><td></td><td></td><td>-0.013</td><td>2.247</td></tr>
   <tr id="rt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RT.html" target="_blank">RT</a></td><td></td><td></td><td>-0.013</td><td>2.167</td></tr>
   <tr id="bcrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BCRX.html" target="_blank">BCRX</a></td><td></td><td></td><td>-0.013</td><td>2.067</td></tr>
-  <tr id="tqqq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQQQ.html" target="_blank">TQQQ</a></td><td></td><td></td><td>-0.012</td><td>2.341</td></tr>
+  <tr id="tqqq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQQQ.html" target="_blank">TQQQ</a></td><td></td><td></td><td>-0.012</td><td>2.339</td></tr>
   <tr id="mmyt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MMYT.html" target="_blank">MMYT</a></td><td></td><td></td><td>-0.012</td><td>10.92</td></tr>
   <tr id="ipgp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IPGP.html" target="_blank">IPGP</a></td><td></td><td></td><td>-0.012</td><td>5.675</td></tr>
   <tr id="meoh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MEOH.html" target="_blank">MEOH</a></td><td></td><td></td><td>-0.012</td><td>2.08</td></tr>
@@ -135,7 +138,8 @@ stockList.push('gb_apc');
   <tr id="tph"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TPH.html" target="_blank">TPH</a></td><td></td><td></td><td>-0.011</td><td>2.186</td></tr>
   <tr id="mga"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MGA.html" target="_blank">MGA</a></td><td></td><td></td><td>-0.011</td><td>2.973</td></tr>
   <tr id="imax"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IMAX.html" target="_blank">IMAX</a></td><td></td><td></td><td>-0.011</td><td>3.189</td></tr>
-  <tr id="fmc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FMC.html" target="_blank">FMC</a></td><td></td><td></td><td>-0.011</td><td>2.25</td></tr>
+  <tr id="fmc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FMC.html" target="_blank">FMC</a></td><td></td><td></td><td>-0.011</td><td>2.249</td></tr>
+  <tr id="jks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JKS.html" target="_blank">JKS</a></td><td></td><td></td><td>-0.011</td><td>4.41</td></tr>
   <tr id="pdce"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PDCE.html" target="_blank">PDCE</a></td><td></td><td></td><td>-0.011</td><td>2.677</td></tr>
   <tr id="zltq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ZLTQ.html" target="_blank">ZLTQ</a></td><td></td><td></td><td>-0.011</td><td>2.455</td></tr>
   <tr id="vxx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VXX.html" target="_blank">VXX</a></td><td></td><td></td><td>0.01</td><td>2.448</td></tr>
