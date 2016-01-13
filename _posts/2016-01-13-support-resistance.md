@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160113"
-date:   2016-01-13 01:17:24
+date:   2016-01-13 04:16:39
 categories: stock
 ---
 <script type="text/javascript">
@@ -26,6 +26,7 @@ stockList.push('gb_armh');
 stockList.push('gb_mpel');
 stockList.push('gb_exg');
 stockList.push('gb_amkr');
+stockList.push('gb_glpi');
 stockList.push('gb_ctlt');
 stockList.push('gb_vdsi');
 stockList.push('gb_dplo');
@@ -39,6 +40,7 @@ stockList.push('gb_amzn');
 stockList.push('gb_ach');
 stockList.push('gb_ttm');
 stockList.push('gb_vip');
+stockList.push('gb_evhc');
 stockList.push('gb_ctb');
 stockList.push('gb_arco');
 stockList.push('gb_phg');
@@ -94,6 +96,8 @@ stockList.push('gb_phg');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXG.html" target="_blank">EXG</a></td><td></td><td></td><td>64</td><td>9.55</td><td>8.88</td><td>8.28</td><td>0</td></tr>
   <tr id="amkr" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMKR.html" target="_blank">AMKR</a></td><td></td><td></td><td>64</td><td>6</td><td>6.54</td><td>4.3</td><td>5.49</td></tr>
+  <tr id="glpi" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLPI.html" target="_blank">GLPI</a></td><td></td><td></td><td>62</td><td>28.82</td><td>28.3</td><td>25.79</td><td>0</td></tr>
   <tr id="ctlt" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CTLT.html" target="_blank">CTLT</a></td><td></td><td></td><td>55</td><td>26.79</td><td>28.59</td><td>24.08</td><td>0</td></tr>
   <tr id="vdsi" class="green">
@@ -120,6 +124,8 @@ stockList.push('gb_phg');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TTM.html" target="_blank">TTM</a></td><td></td><td></td><td>32</td><td>28.17</td><td>29.64</td><td>23.94</td><td>26.29</td></tr>
   <tr id="vip" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIP.html" target="_blank">VIP</a></td><td></td><td></td><td>32</td><td>3.22</td><td>3.56</td><td>2.89</td><td>0</td></tr>
+  <tr id="evhc" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EVHC.html" target="_blank">EVHC</a></td><td></td><td></td><td>31</td><td>25.73</td><td>28.18</td><td>23.14</td><td>0</td></tr>
   <tr id="ctb" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CTB.html" target="_blank">CTB</a></td><td></td><td></td><td>28</td><td>36.24</td><td>37.79</td><td>32.49</td><td>34</td></tr>
   <tr id="arco" class="green">
