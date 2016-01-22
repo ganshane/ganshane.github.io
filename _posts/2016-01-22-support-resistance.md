@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160122"
-date:   2016-01-22 01:17:08
+date:   2016-01-22 04:17:07
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,7 +17,6 @@ stockList.push('gb_ctrp');
 stockList.push('gb_akrx');
 stockList.push('gb_eat');
 stockList.push('gb_mwa');
-stockList.push('gb_msft');
 stockList.push('gb_jack');
 stockList.push('gb_ilmn');
 stockList.push('gb_himx');
@@ -27,10 +26,8 @@ stockList.push('gb_arrs');
 stockList.push('gb_lulu');
 stockList.push('gb_nktr');
 stockList.push('gb_alk');
-stockList.push('gb_goog');
 stockList.push('gb_exc');
 stockList.push('gb_baba');
-stockList.push('gb_oke');
 </script>
 <table border="1">
  <tr>
@@ -65,8 +62,6 @@ stockList.push('gb_oke');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EAT.html" target="_blank">EAT</a></td><td></td><td></td><td>64</td><td>52.72</td><td>53.18</td><td>44.33</td><td>46.5</td></tr>
   <tr id="mwa" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MWA.html" target="_blank">MWA</a></td><td></td><td></td><td>63</td><td>8.05</td><td>8.61</td><td>7.45</td><td>0</td></tr>
-  <tr id="msft" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MSFT.html" target="_blank">MSFT</a></td><td></td><td></td><td>62</td><td>52.85</td><td>54.87</td><td>46.42</td><td>48.91</td></tr>
   <tr id="jack" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JACK.html" target="_blank">JACK</a></td><td></td><td></td><td>58</td><td>74.68</td><td>77.91</td><td>69.6</td><td>0</td></tr>
   <tr id="ilmn" class="red">
@@ -85,12 +80,8 @@ stockList.push('gb_oke');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NKTR.html" target="_blank">NKTR</a></td><td></td><td></td><td>40</td><td>14.95</td><td>16.01</td><td>11.74</td><td>13.7</td></tr>
   <tr id="alk" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALK.html" target="_blank">ALK</a></td><td></td><td></td><td>39</td><td>73.65</td><td>79.89</td><td>62.59</td><td>68.27</td></tr>
-  <tr id="goog" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOOG.html" target="_blank">GOOG</a></td><td></td><td></td><td>37</td><td>711.33</td><td>762.68</td><td>641.73</td><td>667</td></tr>
   <tr id="exc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXC.html" target="_blank">EXC</a></td><td></td><td></td><td>28</td><td>27.73</td><td>28.18</td><td>25.46</td><td>0</td></tr>
   <tr id="baba" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BABA.html" target="_blank">BABA</a></td><td></td><td></td><td>27</td><td>76.15</td><td>80.99</td><td>61.11</td><td>66.65</td></tr>
-  <tr id="oke" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OKE.html" target="_blank">OKE</a></td><td></td><td></td><td>27</td><td>28.4</td><td>25.66</td><td>18.84</td><td>0</td></tr>
 </table>
