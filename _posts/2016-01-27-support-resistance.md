@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160127"
-date:   2016-01-27 01:17:03
+date:   2016-01-27 04:16:44
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,20 +17,19 @@ stockList.push('gb_ment');
 stockList.push('gb_pld');
 stockList.push('gb_amkr');
 stockList.push('gb_aph');
-stockList.push('gb_msft');
 stockList.push('gb_ce');
 stockList.push('gb_rate');
 stockList.push('gb_chmt');
 stockList.push('gb_cnp');
 stockList.push('gb_holx');
 stockList.push('gb_jakk');
+stockList.push('gb_kors');
 stockList.push('gb_af');
 stockList.push('gb_md');
 stockList.push('gb_wair');
 stockList.push('gb_ctrp');
-stockList.push('gb_lulu');
-stockList.push('gb_impv');
 stockList.push('gb_atml');
+stockList.push('gb_msft');
 </script>
 <table border="1">
  <tr>
@@ -65,8 +64,6 @@ stockList.push('gb_atml');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMKR.html" target="_blank">AMKR</a></td><td></td><td></td><td>67</td><td>6</td><td>6.54</td><td>5.15</td><td>5.49</td></tr>
   <tr id="aph" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APH.html" target="_blank">APH</a></td><td></td><td></td><td>66</td><td>49.15</td><td>53.74</td><td>44.5</td><td>0</td></tr>
-  <tr id="msft" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MSFT.html" target="_blank">MSFT</a></td><td></td><td></td><td>63</td><td>52.85</td><td>54.87</td><td>46.42</td><td>48.91</td></tr>
   <tr id="ce" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CE.html" target="_blank">CE</a></td><td></td><td></td><td>58</td><td>61.3</td><td>63.22</td><td>56.6</td><td>0</td></tr>
   <tr id="rate" class="green">
@@ -79,6 +76,8 @@ stockList.push('gb_atml');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HOLX.html" target="_blank">HOLX</a></td><td></td><td></td><td>48</td><td>36.29</td><td>38.58</td><td>32.95</td><td>0</td></tr>
   <tr id="jakk" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JAKK.html" target="_blank">JAKK</a></td><td></td><td></td><td>47</td><td>7.45</td><td>8.19</td><td>6.6</td><td>0</td></tr>
+  <tr id="kors" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KORS.html" target="_blank">KORS</a></td><td></td><td></td><td>45</td><td>37.9</td><td>41.4</td><td>34.83</td><td>0</td></tr>
   <tr id="af" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AF.html" target="_blank">AF</a></td><td></td><td></td><td>44</td><td>15.24</td><td>16.2</td><td>13.34</td><td>14.1</td></tr>
   <tr id="md" class="green">
@@ -87,10 +86,8 @@ stockList.push('gb_atml');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WAIR.html" target="_blank">WAIR</a></td><td></td><td></td><td>38</td><td>11.16</td><td>12.89</td><td>9.91</td><td>0</td></tr>
   <tr id="ctrp" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CTRP.html" target="_blank">CTRP</a></td><td></td><td></td><td>36</td><td>45.72</td><td>50.28</td><td>36.435</td><td>41.38</td></tr>
-  <tr id="lulu" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LULU.html" target="_blank">LULU</a></td><td></td><td></td><td>29</td><td>58.25</td><td>63.86</td><td>52.9</td><td>54.52</td></tr>
-  <tr id="impv" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IMPV.html" target="_blank">IMPV</a></td><td></td><td></td><td>26</td><td>56.94</td><td>69.21</td><td>43.49</td><td>49.26</td></tr>
   <tr id="atml" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATML.html" target="_blank">ATML</a></td><td></td><td></td><td>25</td><td>8.46</td><td>8.72</td><td>7.91</td><td>0</td></tr>
+  <tr id="msft" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MSFT.html" target="_blank">MSFT</a></td><td></td><td></td><td>22</td><td>52.85</td><td>54.87</td><td>46.42</td><td>48.91</td></tr>
 </table>
