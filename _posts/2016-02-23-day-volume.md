@@ -1,26 +1,29 @@
 ---
 layout: post
 title:  "天量股票分析20160223"
-date:   2016-02-23 01:17:37
+date:   2016-02-23 04:17:01
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_upl');
-stockList.push('gb_lpi');
+stockList.push('gb_tck');
 stockList.push('gb_ngls');
-stockList.push('gb_rjet');
-stockList.push('gb_epe');
-stockList.push('gb_cie');
-stockList.push('gb_clmt');
+stockList.push('gb_sgy');
 stockList.push('gb_mtcn');
-stockList.push('gb_fsc');
+stockList.push('gb_cenx');
+stockList.push('gb_lgcy');
+stockList.push('gb_ll');
 stockList.push('gb_rcap');
-stockList.push('gb_cvrr');
-stockList.push('gb_egy');
-stockList.push('gb_im');
-stockList.push('gb_ezpw');
-stockList.push('gb_irdm');
+stockList.push('gb_fsc');
+stockList.push('gb_nq');
+stockList.push('gb_wcg');
+stockList.push('gb_atls');
+stockList.push('gb_cmrx');
+stockList.push('gb_crk');
+stockList.push('gb_ndsn');
+stockList.push('gb_qiwi');
+stockList.push('gb_df');
 </script>
 
 <table border="1">
@@ -31,19 +34,22 @@ stockList.push('gb_irdm');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="upl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UPL.html" target="_blank">UPL</a></td><td></td><td></td><td>-0.177</td><td>4.244</td></tr>
-  <tr id="lpi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPI.html" target="_blank">LPI</a></td><td></td><td></td><td>-0.043</td><td>2.039</td></tr>
+  <tr id="upl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UPL.html" target="_blank">UPL</a></td><td></td><td></td><td>-0.222</td><td>2.554</td></tr>
+  <tr id="tck"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TCK.html" target="_blank">TCK</a></td><td></td><td></td><td>0.052</td><td>2.164</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>9.886</td></tr>
-  <tr id="rjet"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RJET.html" target="_blank">RJET</a></td><td></td><td></td><td>0.038</td><td>2.789</td></tr>
-  <tr id="epe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EPE.html" target="_blank">EPE</a></td><td></td><td></td><td>-0.035</td><td>2.901</td></tr>
-  <tr id="cie"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CIE.html" target="_blank">CIE</a></td><td></td><td></td><td>-0.033</td><td>2.356</td></tr>
-  <tr id="clmt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLMT.html" target="_blank">CLMT</a></td><td></td><td></td><td>-0.033</td><td>4.466</td></tr>
+  <tr id="sgy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGY.html" target="_blank">SGY</a></td><td></td><td></td><td>-0.027</td><td>2.441</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
-  <tr id="fsc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSC.html" target="_blank">FSC</a></td><td></td><td></td><td>-0.024</td><td>2.999</td></tr>
+  <tr id="cenx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CENX.html" target="_blank">CENX</a></td><td></td><td></td><td>0.025</td><td>3.013</td></tr>
+  <tr id="lgcy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LGCY.html" target="_blank">LGCY</a></td><td></td><td></td><td>-0.025</td><td>2.182</td></tr>
+  <tr id="ll"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LL.html" target="_blank">LL</a></td><td></td><td></td><td>0.023</td><td>6.559</td></tr>
   <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
-  <tr id="cvrr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVRR.html" target="_blank">CVRR</a></td><td></td><td></td><td>-0.02</td><td>2.709</td></tr>
-  <tr id="egy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EGY.html" target="_blank">EGY</a></td><td></td><td></td><td>-0.02</td><td>2.088</td></tr>
-  <tr id="im"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IM.html" target="_blank">IM</a></td><td></td><td></td><td>0.019</td><td>2.013</td></tr>
-  <tr id="ezpw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EZPW.html" target="_blank">EZPW</a></td><td></td><td></td><td>-0.012</td><td>2.386</td></tr>
-  <tr id="irdm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRDM.html" target="_blank">IRDM</a></td><td></td><td></td><td>0.011</td><td>2.112</td></tr>
+  <tr id="fsc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSC.html" target="_blank">FSC</a></td><td></td><td></td><td>-0.021</td><td>2.247</td></tr>
+  <tr id="nq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>0.019</td><td>2.004</td></tr>
+  <tr id="wcg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WCG.html" target="_blank">WCG</a></td><td></td><td></td><td>0.019</td><td>2.448</td></tr>
+  <tr id="atls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATLS.html" target="_blank">ATLS</a></td><td></td><td></td><td>-0.018</td><td>2.07</td></tr>
+  <tr id="cmrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMRX.html" target="_blank">CMRX</a></td><td></td><td></td><td>0.015</td><td>10.297</td></tr>
+  <tr id="crk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRK.html" target="_blank">CRK</a></td><td></td><td></td><td>-0.015</td><td>3.237</td></tr>
+  <tr id="ndsn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NDSN.html" target="_blank">NDSN</a></td><td></td><td></td><td>0.012</td><td>2.143</td></tr>
+  <tr id="qiwi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QIWI.html" target="_blank">QIWI</a></td><td></td><td></td><td>-0.011</td><td>2.141</td></tr>
+  <tr id="df"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DF.html" target="_blank">DF</a></td><td></td><td></td><td>0.011</td><td>2.999</td></tr>
 </table>
