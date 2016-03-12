@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160312"
-date:   2016-03-12 01:17:10
+date:   2016-03-12 04:17:00
 categories: stock
 ---
 <script type="text/javascript">
@@ -13,7 +13,6 @@ stockList.push('gb_rl');
 stockList.push('gb_foe');
 stockList.push('gb_mdvn');
 stockList.push('gb_tif');
-stockList.push('gb_akam');
 stockList.push('gb_geos');
 stockList.push('gb_lbtyk');
 stockList.push('gb_hlt');
@@ -86,8 +85,6 @@ stockList.push('gb_kn');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MDVN.html" target="_blank">MDVN</a></td><td></td><td></td><td>88</td><td>39.81</td><td>43.19</td><td>28.03</td><td>0</td></tr>
   <tr id="tif" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TIF.html" target="_blank">TIF</a></td><td></td><td></td><td>88</td><td>71.8</td><td>78.61</td><td>60.42</td><td>64.99</td></tr>
-  <tr id="akam" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AKAM.html" target="_blank">AKAM</a></td><td></td><td></td><td>88</td><td>65.33</td><td>74.04</td><td>51.99</td><td>53.83</td></tr>
   <tr id="geos" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GEOS.html" target="_blank">GEOS</a></td><td></td><td></td><td>85</td><td>12.73</td><td>14.51</td><td>10.27</td><td>10.54</td></tr>
   <tr id="lbtyk" class="green">
