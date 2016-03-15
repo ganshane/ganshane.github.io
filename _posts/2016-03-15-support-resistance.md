@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160315"
-date:   2016-03-15 01:18:02
+date:   2016-03-15 04:17:01
 categories: stock
 ---
 <script type="text/javascript">
@@ -24,7 +24,6 @@ stockList.push('gb_ll');
 stockList.push('gb_peix');
 stockList.push('gb_kn');
 stockList.push('gb_rl');
-stockList.push('gb_dnkn');
 stockList.push('gb_ivz');
 stockList.push('gb_arc');
 stockList.push('gb_sgen');
@@ -116,8 +115,6 @@ stockList.push('gb_bk');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KN.html" target="_blank">KN</a></td><td></td><td></td><td>78</td><td>13.83</td><td>13.24</td><td>10.52</td><td>0</td></tr>
   <tr id="rl" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RL.html" target="_blank">RL</a></td><td></td><td></td><td>77</td><td>99.34</td><td>113.5</td><td>86.55</td><td>0</td></tr>
-  <tr id="dnkn" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DNKN.html" target="_blank">DNKN</a></td><td></td><td></td><td>77</td><td>47.21</td><td>50.17</td><td>40.81</td><td>43.35</td></tr>
   <tr id="ivz" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IVZ.html" target="_blank">IVZ</a></td><td></td><td></td><td>77</td><td>30.21</td><td>30.02</td><td>25.31</td><td>0</td></tr>
   <tr id="arc" class="green">

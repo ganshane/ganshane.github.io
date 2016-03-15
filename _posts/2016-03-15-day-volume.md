@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160315"
-date:   2016-03-15 01:18:02
+date:   2016-03-15 04:17:01
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,6 +14,7 @@ stockList.push('gb_rcap');
 stockList.push('gb_cplp');
 stockList.push('gb_lci');
 stockList.push('gb_nq');
+stockList.push('gb_anet');
 </script>
 
 <table border="1">
@@ -32,4 +33,5 @@ stockList.push('gb_nq');
   <tr id="cplp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CPLP.html" target="_blank">CPLP</a></td><td></td><td></td><td>-0.019</td><td>3.078</td></tr>
   <tr id="lci"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LCI.html" target="_blank">LCI</a></td><td></td><td></td><td>-0.019</td><td>3.183</td></tr>
   <tr id="nq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>0.015</td><td>2.645</td></tr>
+  <tr id="anet"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANET.html" target="_blank">ANET</a></td><td></td><td></td><td>-0.013</td><td>3.429</td></tr>
 </table>
