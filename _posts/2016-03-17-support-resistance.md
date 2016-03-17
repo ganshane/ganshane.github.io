@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160317"
-date:   2016-03-17 01:18:01
+date:   2016-03-17 04:17:17
 categories: stock
 ---
 <script type="text/javascript">
@@ -70,7 +70,6 @@ stockList.push('gb_fii');
 stockList.push('gb_tsra');
 stockList.push('gb_cmg');
 stockList.push('gb_lnkd');
-stockList.push('gb_fsic');
 stockList.push('gb_tmv');
 stockList.push('gb_ivz');
 stockList.push('gb_bbg');
@@ -218,8 +217,6 @@ stockList.push('gb_rwt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMG.html" target="_blank">CMG</a></td><td></td><td></td><td>25</td><td>515</td><td>542.5</td><td>436.86</td><td>476.67</td></tr>
   <tr id="lnkd" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LNKD.html" target="_blank">LNKD</a></td><td></td><td></td><td>25</td><td>173.9</td><td>121.41</td><td>108.81</td><td>0</td></tr>
-  <tr id="fsic" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSIC.html" target="_blank">FSIC</a></td><td></td><td></td><td>25</td><td>9.18</td><td>9.83</td><td>7.66</td><td>8.44</td></tr>
   <tr id="tmv" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TMV.html" target="_blank">TMV</a></td><td></td><td></td><td>24</td><td>26.28</td><td>27.88</td><td>20.11</td><td>22.4</td></tr>
   <tr id="ivz" class="green">
