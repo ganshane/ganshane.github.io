@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160318"
-date:   2016-03-18 01:22:22
+date:   2016-03-18 04:19:30
 categories: stock
 ---
 <script type="text/javascript">
@@ -65,7 +65,6 @@ stockList.push('gb_tif');
 stockList.push('gb_ioc');
 stockList.push('gb_mck');
 stockList.push('gb_igd');
-stockList.push('gb_nsm');
 stockList.push('gb_hcp');
 </script>
 <table border="1">
@@ -197,8 +196,6 @@ stockList.push('gb_hcp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MCK.html" target="_blank">MCK</a></td><td></td><td></td><td>30</td><td>162.34</td><td>173.64</td><td>148.54</td><td>0</td></tr>
   <tr id="igd" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IGD.html" target="_blank">IGD</a></td><td></td><td></td><td>29</td><td>6.94</td><td>7.19</td><td>6.21</td><td>6.46</td></tr>
-  <tr id="nsm" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NSM.html" target="_blank">NSM</a></td><td></td><td></td><td>28</td><td>12.78</td><td>13.52</td><td>10.96</td><td>0</td></tr>
   <tr id="hcp" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HCP.html" target="_blank">HCP</a></td><td></td><td></td><td>25</td><td>32.76</td><td>37.35</td><td>27.19</td><td>0</td></tr>
 </table>
