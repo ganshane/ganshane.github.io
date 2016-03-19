@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160319"
-date:   2016-03-19 01:17:37
+date:   2016-03-19 04:16:49
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,7 +17,6 @@ stockList.push('gb_saic');
 stockList.push('gb_q');
 stockList.push('gb_sgen');
 stockList.push('gb_athm');
-stockList.push('gb_pah');
 stockList.push('gb_z');
 stockList.push('gb_erf');
 stockList.push('gb_bv');
@@ -86,8 +85,6 @@ stockList.push('gb_psp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGEN.html" target="_blank">SGEN</a></td><td></td><td></td><td>77</td><td>34.17</td><td>40.85</td><td>28.32</td><td>0</td></tr>
   <tr id="athm" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATHM.html" target="_blank">ATHM</a></td><td></td><td></td><td>76</td><td>28.51</td><td>31.29</td><td>21.63</td><td>0</td></tr>
-  <tr id="pah" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PAH.html" target="_blank">PAH</a></td><td></td><td></td><td>76</td><td>10.22</td><td>12.64</td><td>5.85</td><td>8.18</td></tr>
   <tr id="z" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/Z.html" target="_blank">Z</a></td><td></td><td></td><td>74</td><td>22.8</td><td>24.64</td><td>16.09</td><td>0</td></tr>
   <tr id="erf" class="green">

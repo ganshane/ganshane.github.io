@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160319"
-date:   2016-03-19 01:17:37
+date:   2016-03-19 04:16:49
 categories: stock
 ---
 <script type="text/javascript">
@@ -85,7 +85,7 @@ stockList.push('gb_trox');
   <tr id="insm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INSM.html" target="_blank">INSM</a></td><td></td><td></td><td>-0.013</td><td>2.175</td></tr>
   <tr id="ezpw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EZPW.html" target="_blank">EZPW</a></td><td></td><td></td><td>-0.013</td><td>6.213</td></tr>
   <tr id="oke"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OKE.html" target="_blank">OKE</a></td><td></td><td></td><td>0.013</td><td>2.549</td></tr>
-  <tr id="iret"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRET.html" target="_blank">IRET</a></td><td></td><td></td><td>0.013</td><td>2.642</td></tr>
+  <tr id="iret"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRET.html" target="_blank">IRET</a></td><td></td><td></td><td>0.013</td><td>2.635</td></tr>
   <tr id="airm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AIRM.html" target="_blank">AIRM</a></td><td></td><td></td><td>-0.013</td><td>2.237</td></tr>
   <tr id="tmst"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TMST.html" target="_blank">TMST</a></td><td></td><td></td><td>-0.012</td><td>6.743</td></tr>
   <tr id="scln"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCLN.html" target="_blank">SCLN</a></td><td></td><td></td><td>-0.012</td><td>2.017</td></tr>
