@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160322"
-date:   2016-03-22 01:18:16
+date:   2016-03-22 04:16:59
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,6 +9,7 @@ var stockList = []
 stockList.push('gb_vrx');
 stockList.push('gb_szym');
 stockList.push('gb_ngls');
+stockList.push('gb_mtcn');
 stockList.push('gb_rcap');
 stockList.push('gb_drii');
 stockList.push('gb_srpt');
@@ -30,6 +31,7 @@ stockList.push('gb_himx');
   <tr id="vrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VRX.html" target="_blank">VRX</a></td><td></td><td></td><td>-0.114</td><td>2</td></tr>
   <tr id="szym"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SZYM.html" target="_blank">SZYM</a></td><td></td><td></td><td>0.042</td><td>2.07</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>9.886</td></tr>
+  <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
   <tr id="drii"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DRII.html" target="_blank">DRII</a></td><td></td><td></td><td>0.019</td><td>2.343</td></tr>
   <tr id="srpt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SRPT.html" target="_blank">SRPT</a></td><td></td><td></td><td>0.018</td><td>2.726</td></tr>
