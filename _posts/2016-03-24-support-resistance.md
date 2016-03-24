@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160324"
-date:   2016-03-24 01:17:11
+date:   2016-03-24 04:19:24
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,6 +11,7 @@ stockList.push('gb_bxe');
 stockList.push('gb_dfs');
 stockList.push('gb_ctlt');
 stockList.push('gb_nxst');
+stockList.push('gb_evhc');
 stockList.push('gb_pnr');
 stockList.push('gb_pkg');
 stockList.push('gb_data');
@@ -24,7 +25,6 @@ stockList.push('gb_pb');
 stockList.push('gb_bkd');
 stockList.push('gb_pky');
 stockList.push('gb_inn');
-stockList.push('gb_evhc');
 stockList.push('gb_spls');
 stockList.push('gb_awi');
 stockList.push('gb_ras');
@@ -77,6 +77,8 @@ stockList.push('gb_gme');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CTLT.html" target="_blank">CTLT</a></td><td></td><td></td><td>97</td><td>26.79</td><td>28.59</td><td>24.71</td><td>25.165</td></tr>
   <tr id="nxst" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NXST.html" target="_blank">NXST</a></td><td></td><td></td><td>96</td><td>51.93</td><td>59.29</td><td>43.45</td><td>0</td></tr>
+  <tr id="evhc" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EVHC.html" target="_blank">EVHC</a></td><td></td><td></td><td>96</td><td>20.88</td><td>23.79</td><td>18.64</td><td>0</td></tr>
   <tr id="pnr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PNR.html" target="_blank">PNR</a></td><td></td><td></td><td>95</td><td>53.82</td><td>57.4</td><td>48.44</td><td>48.1</td></tr>
   <tr id="pkg" class="red">
@@ -103,8 +105,6 @@ stockList.push('gb_gme');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PKY.html" target="_blank">PKY</a></td><td></td><td></td><td>74</td><td>15.2</td><td>15.87</td><td>12.16</td><td>0</td></tr>
   <tr id="inn" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INN.html" target="_blank">INN</a></td><td></td><td></td><td>74</td><td>11.5</td><td>12.37</td><td>9.42</td><td>10.19</td></tr>
-  <tr id="evhc" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EVHC.html" target="_blank">EVHC</a></td><td></td><td></td><td>72</td><td>20.88</td><td>23.79</td><td>18.64</td><td>0</td></tr>
   <tr id="spls" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPLS.html" target="_blank">SPLS</a></td><td></td><td></td><td>70</td><td>11.61</td><td>12.79</td><td>9.39</td><td>9.88</td></tr>
   <tr id="awi" class="red">

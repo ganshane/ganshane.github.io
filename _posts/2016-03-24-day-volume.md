@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160324"
-date:   2016-03-24 01:17:11
+date:   2016-03-24 04:19:24
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,6 +10,7 @@ stockList.push('gb_ptx');
 stockList.push('gb_ngls');
 stockList.push('gb_mtcn');
 stockList.push('gb_rcap');
+stockList.push('gb_edc');
 stockList.push('gb_xone');
 stockList.push('gb_ll');
 stockList.push('gb_nke');
@@ -28,6 +29,7 @@ stockList.push('gb_pom');
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>9.886</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
+  <tr id="edc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EDC.html" target="_blank">EDC</a></td><td></td><td></td><td>0.018</td><td>3.297</td></tr>
   <tr id="xone"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XONE.html" target="_blank">XONE</a></td><td></td><td></td><td>0.015</td><td>2.875</td></tr>
   <tr id="ll"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LL.html" target="_blank">LL</a></td><td></td><td></td><td>0.013</td><td>2.579</td></tr>
   <tr id="nke"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NKE.html" target="_blank">NKE</a></td><td></td><td></td><td>0.012</td><td>2.624</td></tr>
