@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "强势股票分析20160326"
-date:   2016-03-26 01:17:38
+date:   2016-03-26 04:16:43
 categories: stock
 ---
 <table border="1">
@@ -1193,7 +1193,6 @@ categories: stock
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARRS.html" target="_blank">ARRS</a></td><td>-0.001</td><td>0.009</td><td>-0.003</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EW.html" target="_blank">EW</a></td><td>-0.001</td><td>0</td><td>0.003</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JKS.html" target="_blank">JKS</a></td><td>-0.001</td><td>-0.018</td><td>-0.049</td></tr>
-  <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TW.html" target="_blank">TW</a></td><td>-0.001</td><td>-0.007</td><td>-0.019</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FOSL.html" target="_blank">FOSL</a></td><td>-0.001</td><td>-0.008</td><td>-0.018</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ZTS.html" target="_blank">ZTS</a></td><td>-0.001</td><td>0.009</td><td>0.004</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FNF.html" target="_blank">FNF</a></td><td>-0.001</td><td>0.007</td><td>0.003</td></tr>
