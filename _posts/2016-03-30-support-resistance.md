@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160330"
-date:   2016-03-30 01:17:25
+date:   2016-03-30 04:18:22
 categories: stock
 ---
 <script type="text/javascript">
@@ -15,7 +15,6 @@ stockList.push('gb_tol');
 stockList.push('gb_axl');
 stockList.push('gb_mos');
 stockList.push('gb_mdlz');
-stockList.push('gb_nclh');
 stockList.push('gb_omam');
 stockList.push('gb_bkd');
 stockList.push('gb_fv');
@@ -25,6 +24,7 @@ stockList.push('gb_ba');
 stockList.push('gb_ntrs');
 stockList.push('gb_q');
 stockList.push('gb_fti');
+stockList.push('gb_nclh');
 stockList.push('gb_sgen');
 stockList.push('gb_dust');
 stockList.push('gb_ing');
@@ -39,6 +39,7 @@ stockList.push('gb_nws');
 stockList.push('gb_celg');
 stockList.push('gb_fcs');
 stockList.push('gb_apt');
+stockList.push('gb_hubs');
 stockList.push('gb_igd');
 stockList.push('gb_sn');
 stockList.push('gb_pb');
@@ -83,8 +84,6 @@ stockList.push('gb_sti');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MOS.html" target="_blank">MOS</a></td><td></td><td></td><td>93</td><td>28.04</td><td>30.5</td><td>22.2</td><td>26.23</td></tr>
   <tr id="mdlz" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MDLZ.html" target="_blank">MDLZ</a></td><td></td><td></td><td>93</td><td>40.16</td><td>42.35</td><td>36.9</td><td>0</td></tr>
-  <tr id="nclh" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NCLH.html" target="_blank">NCLH</a></td><td></td><td></td><td>89</td><td>54.48</td><td>56.69</td><td>46.45</td><td>50.49</td></tr>
   <tr id="omam" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OMAM.html" target="_blank">OMAM</a></td><td></td><td></td><td>84</td><td>14.07</td><td>15.36</td><td>11.39</td><td>12.47</td></tr>
   <tr id="bkd" class="red">
@@ -103,6 +102,8 @@ stockList.push('gb_sti');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/Q.html" target="_blank">Q</a></td><td></td><td></td><td>70</td><td>64.9</td><td>67.33</td><td>55.01</td><td>0</td></tr>
   <tr id="fti" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FTI.html" target="_blank">FTI</a></td><td></td><td></td><td>70</td><td>28.72</td><td>27.94</td><td>23.68</td><td>26.25</td></tr>
+  <tr id="nclh" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NCLH.html" target="_blank">NCLH</a></td><td></td><td></td><td>69</td><td>54.48</td><td>56.69</td><td>46.45</td><td>50.49</td></tr>
   <tr id="sgen" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGEN.html" target="_blank">SGEN</a></td><td></td><td></td><td>68</td><td>34.17</td><td>40.85</td><td>31.23</td><td>0</td></tr>
   <tr id="dust" class="green">
@@ -131,6 +132,8 @@ stockList.push('gb_sti');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FCS.html" target="_blank">FCS</a></td><td></td><td></td><td>51</td><td>19.95</td><td>20.1</td><td>13.19</td><td>15.39</td></tr>
   <tr id="apt" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APT.html" target="_blank">APT</a></td><td></td><td></td><td>46</td><td>1.97</td><td>2.14</td><td>1.66</td><td>1.85</td></tr>
+  <tr id="hubs" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HUBS.html" target="_blank">HUBS</a></td><td></td><td></td><td>44</td><td>46.29</td><td>52.317</td><td>42.79</td><td>0</td></tr>
   <tr id="igd" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IGD.html" target="_blank">IGD</a></td><td></td><td></td><td>43</td><td>6.94</td><td>7.02</td><td>6.21</td><td>6.46</td></tr>
   <tr id="sn" class="green">
