@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160331"
-date:   2016-03-31 01:17:42
+date:   2016-03-31 04:17:03
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,7 +17,6 @@ stockList.push('gb_mga');
 stockList.push('gb_dnkn');
 stockList.push('gb_nti');
 stockList.push('gb_blox');
-stockList.push('gb_fv');
 stockList.push('gb_voxx');
 stockList.push('gb_kex');
 stockList.push('gb_stt');
@@ -42,6 +41,7 @@ stockList.push('gb_xhb');
 stockList.push('gb_wuba');
 stockList.push('gb_mtdr');
 stockList.push('gb_apt');
+stockList.push('gb_fv');
 stockList.push('gb_hive');
 stockList.push('gb_pnr');
 stockList.push('gb_aig');
@@ -87,8 +87,6 @@ stockList.push('gb_wab');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NTI.html" target="_blank">NTI</a></td><td></td><td></td><td>84</td><td>23.96</td><td>25.04</td><td>22.38</td><td>0</td></tr>
   <tr id="blox" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BLOX.html" target="_blank">BLOX</a></td><td></td><td></td><td>83</td><td>22.5</td><td>19.31</td><td>15.26</td><td>16.77</td></tr>
-  <tr id="fv" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FV.html" target="_blank">FV</a></td><td></td><td></td><td>82</td><td>21.61</td><td>23.65</td><td>18.79</td><td>0</td></tr>
   <tr id="voxx" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VOXX.html" target="_blank">VOXX</a></td><td></td><td></td><td>80</td><td>4.86</td><td>5.17</td><td>3.42</td><td>0</td></tr>
   <tr id="kex" class="red">
@@ -137,6 +135,8 @@ stockList.push('gb_wab');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTDR.html" target="_blank">MTDR</a></td><td></td><td></td><td>48</td><td>19.21</td><td>20.92</td><td>14.02</td><td>16.46</td></tr>
   <tr id="apt" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APT.html" target="_blank">APT</a></td><td></td><td></td><td>47</td><td>1.97</td><td>2.14</td><td>1.66</td><td>1.85</td></tr>
+  <tr id="fv" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FV.html" target="_blank">FV</a></td><td></td><td></td><td>45</td><td>21.61</td><td>23.65</td><td>18.79</td><td>0</td></tr>
   <tr id="hive" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HIVE.html" target="_blank">HIVE</a></td><td></td><td></td><td>44</td><td>5.58</td><td>5.34</td><td>4.89</td><td>0</td></tr>
   <tr id="pnr" class="green">
