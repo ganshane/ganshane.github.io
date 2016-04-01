@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160401"
-date:   2016-04-01 01:17:22
+date:   2016-04-01 04:17:12
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,7 +14,6 @@ stockList.push('gb_ewz');
 stockList.push('gb_wll');
 stockList.push('gb_cenx');
 stockList.push('gb_mtdr');
-stockList.push('gb_nti');
 stockList.push('gb_stt');
 stockList.push('gb_ilf');
 stockList.push('gb_celg');
@@ -32,7 +31,6 @@ stockList.push('gb_sivb');
 stockList.push('gb_cnx');
 stockList.push('gb_kmt');
 stockList.push('gb_gme');
-stockList.push('gb_stj');
 stockList.push('gb_outr');
 stockList.push('gb_trgp');
 stockList.push('gb_tso');
@@ -83,8 +81,6 @@ stockList.push('gb_jblu');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CENX.html" target="_blank">CENX</a></td><td></td><td></td><td>86</td><td>7.94</td><td>8.55</td><td>5.16</td><td>7</td></tr>
   <tr id="mtdr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTDR.html" target="_blank">MTDR</a></td><td></td><td></td><td>85</td><td>19.21</td><td>20.92</td><td>14.02</td><td>16.46</td></tr>
-  <tr id="nti" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NTI.html" target="_blank">NTI</a></td><td></td><td></td><td>84</td><td>23.96</td><td>25.04</td><td>22.38</td><td>0</td></tr>
   <tr id="stt" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/STT.html" target="_blank">STT</a></td><td></td><td></td><td>82</td><td>65.02</td><td>68.32</td><td>56.11</td><td>58.14</td></tr>
   <tr id="ilf" class="green">
@@ -119,8 +115,6 @@ stockList.push('gb_jblu');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KMT.html" target="_blank">KMT</a></td><td></td><td></td><td>57</td><td>24.16</td><td>22.83</td><td>16.82</td><td>19.97</td></tr>
   <tr id="gme" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GME.html" target="_blank">GME</a></td><td></td><td></td><td>57</td><td>39.81</td><td>32.29</td><td>29.81</td><td>29.55</td></tr>
-  <tr id="stj" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/STJ.html" target="_blank">STJ</a></td><td></td><td></td><td>56</td><td>60.46</td><td>56</td><td>48.83</td><td>0</td></tr>
   <tr id="outr" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OUTR.html" target="_blank">OUTR</a></td><td></td><td></td><td>55</td><td>56.63</td><td>37.89</td><td>29.85</td><td>35.13</td></tr>
   <tr id="trgp" class="red">
