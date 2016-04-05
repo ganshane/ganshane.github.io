@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160405"
-date:   2016-04-05 01:19:00
+date:   2016-04-05 04:17:04
 categories: stock
 ---
 <script type="text/javascript">
@@ -22,6 +22,7 @@ stockList.push('gb_scty');
 stockList.push('gb_ne');
 stockList.push('gb_yrcw');
 stockList.push('gb_halo');
+stockList.push('gb_nrg');
 stockList.push('gb_sivb');
 stockList.push('gb_oi');
 stockList.push('gb_pb');
@@ -97,6 +98,8 @@ stockList.push('gb_cyh');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YRCW.html" target="_blank">YRCW</a></td><td></td><td></td><td>80</td><td>9.63</td><td>10.19</td><td>6.52</td><td>0</td></tr>
   <tr id="halo" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HALO.html" target="_blank">HALO</a></td><td></td><td></td><td>80</td><td>12.82</td><td>15.29</td><td>8.25</td><td>9.81</td></tr>
+  <tr id="nrg" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRG.html" target="_blank">NRG</a></td><td></td><td></td><td>77</td><td>14.55</td><td>14.54</td><td>9.76</td><td>12.65</td></tr>
   <tr id="sivb" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SIVB.html" target="_blank">SIVB</a></td><td></td><td></td><td>76</td><td>108.01</td><td>103.73</td><td>94.47</td><td>90.34</td></tr>
   <tr id="oi" class="green">

@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "天量股票分析20160405"
-date:   2016-04-05 01:19:00
+date:   2016-04-05 04:17:04
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
+stockList.push('gb_sune');
 stockList.push('gb_ngls');
 stockList.push('gb_mtcn');
 stockList.push('gb_rcap');
@@ -23,9 +24,10 @@ stockList.push('gb_swhc');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
+  <tr id="sune"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SUNE.html" target="_blank">SUNE</a></td><td></td><td></td><td>-0.185</td><td>2.487</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>9.886</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
-  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
+  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.236</td></tr>
   <tr id="bhi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BHI.html" target="_blank">BHI</a></td><td></td><td></td><td>-0.012</td><td>2.506</td></tr>
   <tr id="bbva"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBVA.html" target="_blank">BBVA</a></td><td></td><td></td><td>-0.011</td><td>2.251</td></tr>
   <tr id="smfg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SMFG.html" target="_blank">SMFG</a></td><td></td><td></td><td>-0.011</td><td>2.73</td></tr>
