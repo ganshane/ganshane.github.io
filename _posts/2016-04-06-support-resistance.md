@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160406"
-date:   2016-04-06 01:18:02
+date:   2016-04-06 04:28:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,7 +12,6 @@ stockList.push('gb_s');
 stockList.push('gb_now');
 stockList.push('gb_impv');
 stockList.push('gb_tmv');
-stockList.push('gb_amlp');
 stockList.push('gb_symc');
 stockList.push('gb_amj');
 stockList.push('gb_igt');
@@ -29,7 +28,6 @@ stockList.push('gb_hog');
 stockList.push('gb_aes');
 stockList.push('gb_outr');
 stockList.push('gb_ete');
-stockList.push('gb_nwsa');
 stockList.push('gb_ibb');
 stockList.push('gb_unm');
 stockList.push('gb_tbt');
@@ -99,8 +97,6 @@ stockList.push('gb_xpo');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IMPV.html" target="_blank">IMPV</a></td><td></td><td></td><td>98</td><td>56.94</td><td>69.21</td><td>45.98</td><td>49.45</td></tr>
   <tr id="tmv" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TMV.html" target="_blank">TMV</a></td><td></td><td></td><td>96</td><td>26.28</td><td>22.4</td><td>20.11</td><td>0</td></tr>
-  <tr id="amlp" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMLP.html" target="_blank">AMLP</a></td><td></td><td></td><td>91</td><td>11.67</td><td>11.12</td><td>10.2</td><td>10.35</td></tr>
   <tr id="symc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SYMC.html" target="_blank">SYMC</a></td><td></td><td></td><td>90</td><td>18.48</td><td>18.94</td><td>16.74</td><td>0</td></tr>
   <tr id="amj" class="green">
@@ -133,8 +129,6 @@ stockList.push('gb_xpo');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OUTR.html" target="_blank">OUTR</a></td><td></td><td></td><td>72</td><td>56.63</td><td>37.89</td><td>29.85</td><td>35.13</td></tr>
   <tr id="ete" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ETE.html" target="_blank">ETE</a></td><td></td><td></td><td>71</td><td>6.69</td><td>8.75</td><td>4.81</td><td>0</td></tr>
-  <tr id="nwsa" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NWSA.html" target="_blank">NWSA</a></td><td></td><td></td><td>70</td><td>13.13</td><td>13.1</td><td>12.16</td><td>11.19</td></tr>
   <tr id="ibb" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IBB.html" target="_blank">IBB</a></td><td></td><td></td><td>68</td><td>297.38</td><td>272.07</td><td>253.74</td><td>0</td></tr>
   <tr id="unm" class="red">
