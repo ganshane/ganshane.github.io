@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160407"
-date:   2016-04-07 01:17:26
+date:   2016-04-07 04:17:54
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,6 +10,7 @@ stockList.push('gb_brs');
 stockList.push('gb_sqqq');
 stockList.push('gb_gme');
 stockList.push('gb_unm');
+stockList.push('gb_z');
 stockList.push('gb_glng');
 stockList.push('gb_cbi');
 stockList.push('gb_awi');
@@ -30,7 +31,6 @@ stockList.push('gb_now');
 stockList.push('gb_tcb');
 stockList.push('gb_xbi');
 stockList.push('gb_tnp');
-stockList.push('gb_nclh');
 stockList.push('gb_bas');
 stockList.push('gb_enph');
 stockList.push('gb_cop');
@@ -76,6 +76,8 @@ stockList.push('gb_ptct');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GME.html" target="_blank">GME</a></td><td></td><td></td><td>94</td><td>39.81</td><td>32.29</td><td>29.81</td><td>29.55</td></tr>
   <tr id="unm" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UNM.html" target="_blank">UNM</a></td><td></td><td></td><td>94</td><td>31.22</td><td>32.66</td><td>23.99</td><td>28.83</td></tr>
+  <tr id="z" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/Z.html" target="_blank">Z</a></td><td></td><td></td><td>91</td><td>22.02</td><td>24.64</td><td>16.09</td><td>0</td></tr>
   <tr id="glng" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLNG.html" target="_blank">GLNG</a></td><td></td><td></td><td>89</td><td>27.77</td><td>18.63</td><td>14.66</td><td>17</td></tr>
   <tr id="cbi" class="green">
@@ -116,8 +118,6 @@ stockList.push('gb_ptct');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XBI.html" target="_blank">XBI</a></td><td></td><td></td><td>65</td><td>60.69</td><td>71.87</td><td>47.88</td><td>53.93</td></tr>
   <tr id="tnp" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TNP.html" target="_blank">TNP</a></td><td></td><td></td><td>65</td><td>6.77</td><td>6.79</td><td>5.67</td><td>0</td></tr>
-  <tr id="nclh" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NCLH.html" target="_blank">NCLH</a></td><td></td><td></td><td>64</td><td>54.48</td><td>60.39</td><td>46.45</td><td>50.49</td></tr>
   <tr id="bas" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BAS.html" target="_blank">BAS</a></td><td></td><td></td><td>60</td><td>2.48</td><td>3</td><td>1.73</td><td>2.32</td></tr>
   <tr id="enph" class="green">
