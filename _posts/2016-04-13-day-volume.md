@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160413"
-date:   2016-04-13 01:17:27
+date:   2016-04-13 04:17:05
 categories: stock
 ---
 <script type="text/javascript">
@@ -29,7 +29,6 @@ stockList.push('gb_bbva');
 stockList.push('gb_bbep');
 stockList.push('gb_lb');
 stockList.push('gb_oran');
-stockList.push('gb_nmm');
 stockList.push('gb_exxi');
 </script>
 
@@ -46,7 +45,7 @@ stockList.push('gb_exxi');
   <tr id="sblk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SBLK.html" target="_blank">SBLK</a></td><td></td><td></td><td>0.032</td><td>2.334</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="upl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UPL.html" target="_blank">UPL</a></td><td></td><td></td><td>-0.022</td><td>3.523</td></tr>
-  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
+  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.236</td></tr>
   <tr id="blox"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BLOX.html" target="_blank">BLOX</a></td><td></td><td></td><td>-0.021</td><td>2.565</td></tr>
   <tr id="hznp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HZNP.html" target="_blank">HZNP</a></td><td></td><td></td><td>0.019</td><td>16.487</td></tr>
   <tr id="bas"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BAS.html" target="_blank">BAS</a></td><td></td><td></td><td>-0.019</td><td>2.662</td></tr>
@@ -64,6 +63,5 @@ stockList.push('gb_exxi');
   <tr id="bbep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBEP.html" target="_blank">BBEP</a></td><td></td><td></td><td>-0.011</td><td>2.043</td></tr>
   <tr id="lb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LB.html" target="_blank">LB</a></td><td></td><td></td><td>-0.011</td><td>4.427</td></tr>
   <tr id="oran"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ORAN.html" target="_blank">ORAN</a></td><td></td><td></td><td>-0.011</td><td>8.151</td></tr>
-  <tr id="nmm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NMM.html" target="_blank">NMM</a></td><td></td><td></td><td>0.011</td><td>2.061</td></tr>
   <tr id="exxi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXXI.html" target="_blank">EXXI</a></td><td></td><td></td><td>-0.01</td><td>2.012</td></tr>
 </table>

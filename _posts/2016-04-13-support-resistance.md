@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160413"
-date:   2016-04-13 01:17:27
+date:   2016-04-13 04:17:05
 categories: stock
 ---
 <script type="text/javascript">
@@ -21,6 +21,7 @@ stockList.push('gb_bsbr');
 stockList.push('gb_apam');
 stockList.push('gb_mga');
 stockList.push('gb_tol');
+stockList.push('gb_qlys');
 stockList.push('gb_mro');
 stockList.push('gb_uco');
 stockList.push('gb_lvnta');
@@ -46,6 +47,7 @@ stockList.push('gb_dks');
 stockList.push('gb_rcl');
 stockList.push('gb_bms');
 stockList.push('gb_f');
+stockList.push('gb_amba');
 stockList.push('gb_midd');
 stockList.push('gb_viab');
 stockList.push('gb_feye');
@@ -102,6 +104,8 @@ stockList.push('gb_ks');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MGA.html" target="_blank">MGA</a></td><td></td><td></td><td>76</td><td>40.84</td><td>43.5</td><td>30.99</td><td>35.72</td></tr>
   <tr id="tol" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOL.html" target="_blank">TOL</a></td><td></td><td></td><td>76</td><td>32.92</td><td>37.67</td><td>27.23</td><td>28.93</td></tr>
+  <tr id="qlys" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QLYS.html" target="_blank">QLYS</a></td><td></td><td></td><td>76</td><td>24.53</td><td>26.15</td><td>19.29</td><td>0</td></tr>
   <tr id="mro" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MRO.html" target="_blank">MRO</a></td><td></td><td></td><td>75</td><td>15</td><td>16.53</td><td>9.77</td><td>11.84</td></tr>
   <tr id="uco" class="red">
@@ -152,6 +156,8 @@ stockList.push('gb_ks');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BMS.html" target="_blank">BMS</a></td><td></td><td></td><td>46</td><td>51.47</td><td>52.84</td><td>47.02</td><td>47.59</td></tr>
   <tr id="f" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/F.html" target="_blank">F</a></td><td></td><td></td><td>46</td><td>12.77</td><td>13.52</td><td>11.1</td><td>0</td></tr>
+  <tr id="amba" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMBA.html" target="_blank">AMBA</a></td><td></td><td></td><td>45</td><td>48.76</td><td>47.44</td><td>37.29</td><td>41.27</td></tr>
   <tr id="midd" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MIDD.html" target="_blank">MIDD</a></td><td></td><td></td><td>43</td><td>105</td><td>108.38</td><td>81.32</td><td>90.42</td></tr>
   <tr id="viab" class="red">
