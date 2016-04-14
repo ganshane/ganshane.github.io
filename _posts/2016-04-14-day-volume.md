@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160414"
-date:   2016-04-14 01:17:20
+date:   2016-04-14 04:17:00
 categories: stock
 ---
 <script type="text/javascript">
@@ -43,7 +43,7 @@ stockList.push('gb_lgf');
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>0.024</td><td>2.184</td></tr>
   <tr id="blox"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BLOX.html" target="_blank">BLOX</a></td><td></td><td></td><td>-0.024</td><td>8.006</td></tr>
   <tr id="htz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HTZ.html" target="_blank">HTZ</a></td><td></td><td></td><td>-0.022</td><td>2.117</td></tr>
-  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.236</td></tr>
+  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
   <tr id="rice"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RICE.html" target="_blank">RICE</a></td><td></td><td></td><td>0.021</td><td>6.48</td></tr>
   <tr id="sgy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGY.html" target="_blank">SGY</a></td><td></td><td></td><td>0.019</td><td>2.715</td></tr>
   <tr id="rprx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RPRX.html" target="_blank">RPRX</a></td><td></td><td></td><td>-0.017</td><td>173.09</td></tr>
