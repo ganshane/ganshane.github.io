@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160421"
-date:   2016-04-21 01:17:34
+date:   2016-04-21 04:16:59
 categories: stock
 ---
 <script type="text/javascript">
@@ -25,6 +25,7 @@ stockList.push('gb_yrcw');
 stockList.push('gb_mlpn');
 stockList.push('gb_ftk');
 stockList.push('gb_epi');
+stockList.push('gb_urs');
 stockList.push('gb_mmlp');
 stockList.push('gb_ptct');
 stockList.push('gb_jblu');
@@ -98,6 +99,8 @@ stockList.push('gb_pacw');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FTK.html" target="_blank">FTK</a></td><td></td><td></td><td>66</td><td>10.11</td><td>8.76</td><td>6.75</td><td>7.49</td></tr>
   <tr id="epi" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EPI.html" target="_blank">EPI</a></td><td></td><td></td><td>65</td><td>21.47</td><td>21.2</td><td>19.41</td><td>19.96</td></tr>
+  <tr id="urs" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>63</td><td>2.76</td><td>2.68</td><td>2.45</td><td>2.48</td></tr>
   <tr id="mmlp" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MMLP.html" target="_blank">MMLP</a></td><td></td><td></td><td>62</td><td>24.51</td><td>22.73</td><td>19.2</td><td>21.11</td></tr>
   <tr id="ptct" class="green">
