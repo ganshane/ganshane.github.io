@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160423"
-date:   2016-04-23 01:17:14
+date:   2016-04-23 04:16:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,6 +10,7 @@ stockList.push('gb_line');
 stockList.push('gb_htz');
 stockList.push('gb_rprx');
 stockList.push('gb_opk');
+stockList.push('gb_pacd');
 stockList.push('gb_rlgy');
 stockList.push('gb_ntes');
 stockList.push('gb_ewi');
@@ -63,6 +64,8 @@ stockList.push('gb_c');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RPRX.html" target="_blank">RPRX</a></td><td></td><td></td><td>100</td><td>6.63</td><td>7.7</td><td>1.46</td><td>2.73</td></tr>
   <tr id="opk" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OPK.html" target="_blank">OPK</a></td><td></td><td></td><td>100</td><td>15.93</td><td>11.36</td><td>10.2</td><td>10.37</td></tr>
+  <tr id="pacd" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PACD.html" target="_blank">PACD</a></td><td></td><td></td><td>100</td><td>0.48</td><td>0.87</td><td>0.4</td><td>0</td></tr>
   <tr id="rlgy" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RLGY.html" target="_blank">RLGY</a></td><td></td><td></td><td>98</td><td>37.32</td><td>39.91</td><td>33</td><td>34.56</td></tr>
   <tr id="ntes" class="red">

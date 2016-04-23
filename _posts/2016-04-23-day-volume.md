@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160423"
-date:   2016-04-23 01:17:14
+date:   2016-04-23 04:16:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -47,13 +47,13 @@ stockList.push('gb_an');
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="ezpw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EZPW.html" target="_blank">EZPW</a></td><td></td><td></td><td>0.024</td><td>2.3</td></tr>
   <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
-  <tr id="glog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLOG.html" target="_blank">GLOG</a></td><td></td><td></td><td>0.018</td><td>3.076</td></tr>
+  <tr id="glog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLOG.html" target="_blank">GLOG</a></td><td></td><td></td><td>0.018</td><td>3.075</td></tr>
   <tr id="skx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SKX.html" target="_blank">SKX</a></td><td></td><td></td><td>0.017</td><td>2.776</td></tr>
   <tr id="cma"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMA.html" target="_blank">CMA</a></td><td></td><td></td><td>0.016</td><td>2.389</td></tr>
   <tr id="sivb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SIVB.html" target="_blank">SIVB</a></td><td></td><td></td><td>0.016</td><td>4.082</td></tr>
   <tr id="z"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/Z.html" target="_blank">Z</a></td><td></td><td></td><td>0.014</td><td>2.188</td></tr>
   <tr id="mlpn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MLPN.html" target="_blank">MLPN</a></td><td></td><td></td><td>0.014</td><td>13.27</td></tr>
-  <tr id="eric"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ERIC.html" target="_blank">ERIC</a></td><td></td><td></td><td>-0.013</td><td>2.954</td></tr>
+  <tr id="eric"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ERIC.html" target="_blank">ERIC</a></td><td></td><td></td><td>-0.013</td><td>2.953</td></tr>
   <tr id="glf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLF.html" target="_blank">GLF</a></td><td></td><td></td><td>0.013</td><td>2.103</td></tr>
   <tr id="ptc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTC.html" target="_blank">PTC</a></td><td></td><td></td><td>0.013</td><td>2.198</td></tr>
   <tr id="sc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SC.html" target="_blank">SC</a></td><td></td><td></td><td>0.013</td><td>2.707</td></tr>
