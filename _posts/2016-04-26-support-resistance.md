@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160426"
-date:   2016-04-26 01:17:36
+date:   2016-04-26 04:17:01
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,6 +12,7 @@ stockList.push('gb_lho');
 stockList.push('gb_wynn');
 stockList.push('gb_awi');
 stockList.push('gb_tbt');
+stockList.push('gb_shld');
 stockList.push('gb_bzh');
 stockList.push('gb_chgg');
 stockList.push('gb_inn');
@@ -60,6 +61,8 @@ stockList.push('gb_pah');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AWI.html" target="_blank">AWI</a></td><td></td><td></td><td>91</td><td>44.75</td><td>46.64</td><td>41.1</td><td>40</td></tr>
   <tr id="tbt" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TBT.html" target="_blank">TBT</a></td><td></td><td></td><td>90</td><td>42.11</td><td>38.21</td><td>35.54</td><td>0</td></tr>
+  <tr id="shld" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SHLD.html" target="_blank">SHLD</a></td><td></td><td></td><td>90</td><td>19.05</td><td>18.33</td><td>15.06</td><td>0</td></tr>
   <tr id="bzh" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BZH.html" target="_blank">BZH</a></td><td></td><td></td><td>90</td><td>11.28</td><td>12.34</td><td>8.52</td><td>9.36</td></tr>
   <tr id="chgg" class="green">

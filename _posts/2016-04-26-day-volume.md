@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160426"
-date:   2016-04-26 01:17:36
+date:   2016-04-26 04:17:01
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,6 +32,6 @@ stockList.push('gb_kn');
   <tr id="lake"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LAKE.html" target="_blank">LAKE</a></td><td></td><td></td><td>-0.017</td><td>2.315</td></tr>
   <tr id="akrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AKRX.html" target="_blank">AKRX</a></td><td></td><td></td><td>0.015</td><td>3.082</td></tr>
   <tr id="mtu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTU.html" target="_blank">MTU</a></td><td></td><td></td><td>0.013</td><td>2.144</td></tr>
-  <tr id="ryam"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYAM.html" target="_blank">RYAM</a></td><td></td><td></td><td>0.013</td><td>3.802</td></tr>
+  <tr id="ryam"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYAM.html" target="_blank">RYAM</a></td><td></td><td></td><td>0.013</td><td>3.8</td></tr>
   <tr id="kn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KN.html" target="_blank">KN</a></td><td></td><td></td><td>0.011</td><td>2.827</td></tr>
 </table>
