@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160427"
-date:   2016-04-27 01:17:17
+date:   2016-04-27 04:16:50
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,7 +14,6 @@ stockList.push('gb_gasl');
 stockList.push('gb_key');
 stockList.push('gb_alj');
 stockList.push('gb_hfc');
-stockList.push('gb_shld');
 stockList.push('gb_brs');
 stockList.push('gb_pacw');
 stockList.push('gb_flo');
@@ -37,6 +36,7 @@ stockList.push('gb_stj');
 stockList.push('gb_lq');
 stockList.push('gb_epi');
 stockList.push('gb_onb');
+stockList.push('gb_jazz');
 stockList.push('gb_cvrr');
 stockList.push('gb_lea');
 stockList.push('gb_symc');
@@ -81,8 +81,6 @@ stockList.push('gb_tmv');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALJ.html" target="_blank">ALJ</a></td><td></td><td></td><td>92</td><td>14.93</td><td>11.45</td><td>9.76</td><td>0</td></tr>
   <tr id="hfc" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HFC.html" target="_blank">HFC</a></td><td></td><td></td><td>90</td><td>44.83</td><td>39.17</td><td>33.23</td><td>36.61</td></tr>
-  <tr id="shld" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SHLD.html" target="_blank">SHLD</a></td><td></td><td></td><td>90</td><td>19.05</td><td>18.33</td><td>15.06</td><td>0</td></tr>
   <tr id="brs" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BRS.html" target="_blank">BRS</a></td><td></td><td></td><td>87</td><td>22.3</td><td>23.63</td><td>18.44</td><td>20.4</td></tr>
   <tr id="pacw" class="red">
@@ -127,6 +125,8 @@ stockList.push('gb_tmv');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EPI.html" target="_blank">EPI</a></td><td></td><td></td><td>55</td><td>21.47</td><td>21.2</td><td>19.41</td><td>19.96</td></tr>
   <tr id="onb" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ONB.html" target="_blank">ONB</a></td><td></td><td></td><td>48</td><td>13.21</td><td>13.97</td><td>11.65</td><td>12.3</td></tr>
+  <tr id="jazz" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JAZZ.html" target="_blank">JAZZ</a></td><td></td><td></td><td>47</td><td>181.76</td><td>188.24</td><td>130.17</td><td>149.66</td></tr>
   <tr id="cvrr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVRR.html" target="_blank">CVRR</a></td><td></td><td></td><td>47</td><td>18</td><td>13.01</td><td>11.48</td><td>0</td></tr>
   <tr id="lea" class="green">
