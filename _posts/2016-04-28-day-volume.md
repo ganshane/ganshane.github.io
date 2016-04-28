@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160428"
-date:   2016-04-28 01:17:10
+date:   2016-04-28 04:16:57
 categories: stock
 ---
 <script type="text/javascript">
@@ -39,7 +39,7 @@ stockList.push('gb_memp');
   <tr id="arex"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AREX.html" target="_blank">AREX</a></td><td></td><td></td><td>0.034</td><td>3.36</td></tr>
   <tr id="orig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ORIG.html" target="_blank">ORIG</a></td><td></td><td></td><td>0.026</td><td>4.095</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
-  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
+  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.236</td></tr>
   <tr id="elgx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ELGX.html" target="_blank">ELGX</a></td><td></td><td></td><td>0.019</td><td>2.386</td></tr>
   <tr id="cnhi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CNHI.html" target="_blank">CNHI</a></td><td></td><td></td><td>0.016</td><td>2.018</td></tr>
   <tr id="pagp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PAGP.html" target="_blank">PAGP</a></td><td></td><td></td><td>0.015</td><td>2.399</td></tr>
