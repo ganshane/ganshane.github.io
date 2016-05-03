@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160503"
-date:   2016-05-03 01:21:00
+date:   2016-05-03 04:16:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,7 +32,7 @@ stockList.push('gb_w');
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="imgn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IMGN.html" target="_blank">IMGN</a></td><td></td><td></td><td>-0.023</td><td>2.782</td></tr>
   <tr id="ptx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTX.html" target="_blank">PTX</a></td><td></td><td></td><td>-0.022</td><td>22.351</td></tr>
-  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.236</td></tr>
+  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
   <tr id="sgy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGY.html" target="_blank">SGY</a></td><td></td><td></td><td>0.018</td><td>2.316</td></tr>
   <tr id="gnw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GNW.html" target="_blank">GNW</a></td><td></td><td></td><td>0.017</td><td>2.785</td></tr>
   <tr id="acrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACRX.html" target="_blank">ACRX</a></td><td></td><td></td><td>-0.015</td><td>2.063</td></tr>

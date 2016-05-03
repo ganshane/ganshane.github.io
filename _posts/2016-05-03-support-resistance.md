@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160503"
-date:   2016-05-03 01:21:00
+date:   2016-05-03 04:16:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,7 +16,6 @@ stockList.push('gb_sco');
 stockList.push('gb_apc');
 stockList.push('gb_ewi');
 stockList.push('gb_vmw');
-stockList.push('gb_csiq');
 stockList.push('gb_tcb');
 stockList.push('gb_cpb');
 stockList.push('gb_gogo');
@@ -81,8 +80,6 @@ stockList.push('gb_rhi');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWI.html" target="_blank">EWI</a></td><td></td><td></td><td>93</td><td>13.74</td><td>14.17</td><td>11.57</td><td>12.57</td></tr>
   <tr id="vmw" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VMW.html" target="_blank">VMW</a></td><td></td><td></td><td>90</td><td>57.48</td><td>61.47</td><td>49.76</td><td>52.49</td></tr>
-  <tr id="csiq" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CSIQ.html" target="_blank">CSIQ</a></td><td></td><td></td><td>89</td><td>19.21</td><td>20.94</td><td>17.7</td><td>0</td></tr>
   <tr id="tcb" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TCB.html" target="_blank">TCB</a></td><td></td><td></td><td>86</td><td>13.84</td><td>14.5</td><td>11.86</td><td>12.62</td></tr>
   <tr id="cpb" class="red">
