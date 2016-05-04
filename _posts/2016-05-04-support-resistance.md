@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160504"
-date:   2016-05-04 01:17:04
+date:   2016-05-04 04:16:54
 categories: stock
 ---
 <script type="text/javascript">
@@ -13,7 +13,6 @@ stockList.push('gb_twtr');
 stockList.push('gb_alj');
 stockList.push('gb_syrg');
 stockList.push('gb_tef');
-stockList.push('gb_gogo');
 stockList.push('gb_fsc');
 stockList.push('gb_hyld');
 stockList.push('gb_mmlp');
@@ -74,8 +73,6 @@ stockList.push('gb_xhb');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SYRG.html" target="_blank">SYRG</a></td><td></td><td></td><td>86</td><td>7.1</td><td>8.74</td><td>5.54</td><td>6.52</td></tr>
   <tr id="tef" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TEF.html" target="_blank">TEF</a></td><td></td><td></td><td>82</td><td>11.66</td><td>11.31</td><td>10.44</td><td>10.56</td></tr>
-  <tr id="gogo" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOGO.html" target="_blank">GOGO</a></td><td></td><td></td><td>81</td><td>13.64</td><td>11.73</td><td>10.51</td><td>0</td></tr>
   <tr id="fsc" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSC.html" target="_blank">FSC</a></td><td></td><td></td><td>81</td><td>5.63</td><td>5.53</td><td>4.94</td><td>5.19</td></tr>
   <tr id="hyld" class="green">

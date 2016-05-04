@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160504"
-date:   2016-05-04 01:17:04
+date:   2016-05-04 04:16:54
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,9 +14,8 @@ stockList.push('gb_myl');
 stockList.push('gb_comm');
 stockList.push('gb_ryam');
 stockList.push('gb_xl');
-stockList.push('gb_cyh');
 stockList.push('gb_exas');
-stockList.push('gb_w');
+stockList.push('gb_cyh');
 </script>
 
 <table border="1">
@@ -35,7 +34,6 @@ stockList.push('gb_w');
   <tr id="comm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/COMM.html" target="_blank">COMM</a></td><td></td><td></td><td>0.017</td><td>7.269</td></tr>
   <tr id="ryam"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYAM.html" target="_blank">RYAM</a></td><td></td><td></td><td>-0.016</td><td>5.266</td></tr>
   <tr id="xl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XL.html" target="_blank">XL</a></td><td></td><td></td><td>-0.014</td><td>2.029</td></tr>
-  <tr id="cyh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CYH.html" target="_blank">CYH</a></td><td></td><td></td><td>-0.014</td><td>4.165</td></tr>
   <tr id="exas"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXAS.html" target="_blank">EXAS</a></td><td></td><td></td><td>-0.011</td><td>2.757</td></tr>
-  <tr id="w"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/W.html" target="_blank">W</a></td><td></td><td></td><td>-0.011</td><td>2.858</td></tr>
+  <tr id="cyh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CYH.html" target="_blank">CYH</a></td><td></td><td></td><td>0.01</td><td>3.9</td></tr>
 </table>
