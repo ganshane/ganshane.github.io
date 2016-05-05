@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160505"
-date:   2016-05-05 01:18:02
+date:   2016-05-05 04:17:02
 categories: stock
 ---
 <script type="text/javascript">
@@ -24,7 +24,6 @@ stockList.push('gb_fmc');
 stockList.push('gb_nrp');
 stockList.push('gb_nvs');
 stockList.push('gb_lyv');
-stockList.push('gb_cmrx');
 stockList.push('gb_oas');
 stockList.push('gb_kors');
 stockList.push('gb_pacw');
@@ -95,8 +94,6 @@ stockList.push('gb_sho');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NVS.html" target="_blank">NVS</a></td><td></td><td></td><td>67</td><td>83.76</td><td>82.76</td><td>71.83</td><td>74.46</td></tr>
   <tr id="lyv" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LYV.html" target="_blank">LYV</a></td><td></td><td></td><td>67</td><td>23.46</td><td>22.62</td><td>21.14</td><td>0</td></tr>
-  <tr id="cmrx" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMRX.html" target="_blank">CMRX</a></td><td></td><td></td><td>65</td><td>6.6</td><td>6.37</td><td>4.86</td><td>5.6</td></tr>
   <tr id="oas" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OAS.html" target="_blank">OAS</a></td><td></td><td></td><td>64</td><td>8.75</td><td>11.05</td><td>8.16</td><td>8.22</td></tr>
   <tr id="kors" class="green">
