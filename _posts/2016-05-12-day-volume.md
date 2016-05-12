@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160512"
-date:   2016-05-12 01:17:17
+date:   2016-05-12 04:17:05
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,7 +14,6 @@ stockList.push('gb_eca');
 stockList.push('gb_ipi');
 stockList.push('gb_vnet');
 stockList.push('gb_yy');
-stockList.push('gb_mtcn');
 stockList.push('gb_rh');
 stockList.push('gb_csiq');
 stockList.push('gb_bbep');
@@ -44,7 +43,6 @@ stockList.push('gb_wprt');
   <tr id="ipi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IPI.html" target="_blank">IPI</a></td><td></td><td></td><td>-0.03</td><td>3.425</td></tr>
   <tr id="vnet"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VNET.html" target="_blank">VNET</a></td><td></td><td></td><td>-0.03</td><td>2.074</td></tr>
   <tr id="yy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YY.html" target="_blank">YY</a></td><td></td><td></td><td>-0.026</td><td>2.683</td></tr>
-  <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="rh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RH.html" target="_blank">RH</a></td><td></td><td></td><td>-0.025</td><td>2.091</td></tr>
   <tr id="csiq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CSIQ.html" target="_blank">CSIQ</a></td><td></td><td></td><td>-0.024</td><td>3.524</td></tr>
   <tr id="bbep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBEP.html" target="_blank">BBEP</a></td><td></td><td></td><td>-0.024</td><td>2.032</td></tr>
