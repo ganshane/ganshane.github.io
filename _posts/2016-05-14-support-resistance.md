@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160514"
-date:   2016-05-14 01:17:19
+date:   2016-05-14 04:16:59
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_luk');
 stockList.push('gb_dsw');
+stockList.push('gb_dlph');
 stockList.push('gb_al');
 stockList.push('gb_lho');
 stockList.push('gb_xnpt');
@@ -48,6 +49,8 @@ stockList.push('gb_arc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LUK.html" target="_blank">LUK</a></td><td></td><td></td><td>89</td><td>19.12</td><td>21.29</td><td>16.19</td><td>17.45</td></tr>
   <tr id="dsw" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DSW.html" target="_blank">DSW</a></td><td></td><td></td><td>87</td><td>24.61</td><td>24.8</td><td>21.99</td><td>0</td></tr>
+  <tr id="dlph" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DLPH.html" target="_blank">DLPH</a></td><td></td><td></td><td>85</td><td>70.05</td><td>75.87</td><td>57.39</td><td>0</td></tr>
   <tr id="al" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AL.html" target="_blank">AL</a></td><td></td><td></td><td>84</td><td>29.77</td><td>32.25</td><td>22.47</td><td>0</td></tr>
   <tr id="lho" class="green">
