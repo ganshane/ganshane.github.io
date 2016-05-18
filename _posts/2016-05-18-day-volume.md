@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160518"
-date:   2016-05-18 01:17:16
+date:   2016-05-18 04:16:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,7 +12,6 @@ stockList.push('gb_sgy');
 stockList.push('gb_ngls');
 stockList.push('gb_nq');
 stockList.push('gb_aegr');
-stockList.push('gb_mtcn');
 stockList.push('gb_rcap');
 stockList.push('gb_aeg');
 stockList.push('gb_wsm');
@@ -37,7 +36,6 @@ stockList.push('gb_dhx');
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>9.886</td></tr>
   <tr id="nq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>-0.03</td><td>2.761</td></tr>
   <tr id="aegr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AEGR.html" target="_blank">AEGR</a></td><td></td><td></td><td>-0.027</td><td>2.774</td></tr>
-  <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
   <tr id="aeg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AEG.html" target="_blank">AEG</a></td><td></td><td></td><td>-0.017</td><td>2.769</td></tr>
   <tr id="wsm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WSM.html" target="_blank">WSM</a></td><td></td><td></td><td>-0.015</td><td>2.812</td></tr>
