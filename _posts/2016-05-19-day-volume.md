@@ -1,15 +1,13 @@
 ---
 layout: post
 title:  "天量股票分析20160519"
-date:   2016-05-19 01:17:05
+date:   2016-05-19 04:17:33
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_arp');
 stockList.push('gb_ngls');
-stockList.push('gb_jdst');
-stockList.push('gb_dust');
 stockList.push('gb_mtcn');
 stockList.push('gb_rh');
 stockList.push('gb_rcap');
@@ -30,8 +28,6 @@ stockList.push('gb_ati');
 </tr>
   <tr id="arp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARP.html" target="_blank">ARP</a></td><td></td><td></td><td>-0.066</td><td>2.741</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>9.886</td></tr>
-  <tr id="jdst"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JDST.html" target="_blank">JDST</a></td><td></td><td></td><td>-0.04</td><td>2.883</td></tr>
-  <tr id="dust"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DUST.html" target="_blank">DUST</a></td><td></td><td></td><td>-0.029</td><td>2.635</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="rh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RH.html" target="_blank">RH</a></td><td></td><td></td><td>-0.023</td><td>2.004</td></tr>
   <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
