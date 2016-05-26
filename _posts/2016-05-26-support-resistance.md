@@ -1,19 +1,18 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160526"
-date:   2016-05-26 01:17:29
+date:   2016-05-26 04:16:48
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_cldx');
 stockList.push('gb_lfl');
-stockList.push('gb_pacd');
 stockList.push('gb_mtu');
-stockList.push('gb_nsm');
 stockList.push('gb_glog');
 stockList.push('gb_sig');
 stockList.push('gb_c');
+stockList.push('gb_lmca');
 stockList.push('gb_lvnta');
 stockList.push('gb_ibb');
 stockList.push('gb_data');
@@ -34,6 +33,7 @@ stockList.push('gb_hca');
 stockList.push('gb_dks');
 stockList.push('gb_hrl');
 stockList.push('gb_wpg');
+stockList.push('gb_nsm');
 stockList.push('gb_cf');
 stockList.push('gb_gdx');
 stockList.push('gb_rate');
@@ -59,18 +59,16 @@ stockList.push('gb_camp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLDX.html" target="_blank">CLDX</a></td><td></td><td></td><td>100</td><td>6.26</td><td>4.38</td><td>3.41</td><td>4</td></tr>
   <tr id="lfl" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LFL.html" target="_blank">LFL</a></td><td></td><td></td><td>100</td><td>6.57</td><td>6.63</td><td>6.15</td><td>6.05</td></tr>
-  <tr id="pacd" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PACD.html" target="_blank">PACD</a></td><td></td><td></td><td>100</td><td>4.8</td><td>7.7</td><td>4</td><td>0</td></tr>
   <tr id="mtu" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTU.html" target="_blank">MTU</a></td><td></td><td></td><td>100</td><td>5.91</td><td>4.95</td><td>4.5</td><td>0</td></tr>
-  <tr id="nsm" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NSM.html" target="_blank">NSM</a></td><td></td><td></td><td>93</td><td>12.78</td><td>13.05</td><td>10.96</td><td>0</td></tr>
   <tr id="glog" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLOG.html" target="_blank">GLOG</a></td><td></td><td></td><td>92</td><td>12.85</td><td>12.6</td><td>9.91</td><td>11.75</td></tr>
   <tr id="sig" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SIG.html" target="_blank">SIG</a></td><td></td><td></td><td>86</td><td>114.77</td><td>124.85</td><td>103.03</td><td>105.8</td></tr>
   <tr id="c" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/C.html" target="_blank">C</a></td><td></td><td></td><td>86</td><td>47.71</td><td>47.53</td><td>42.81</td><td>44.26</td></tr>
+  <tr id="lmca" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LMCA.html" target="_blank">LMCA</a></td><td></td><td></td><td>85</td><td>22.332</td><td>19.64</td><td>18.19</td><td>0</td></tr>
   <tr id="lvnta" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LVNTA.html" target="_blank">LVNTA</a></td><td></td><td></td><td>85</td><td>37.61</td><td>39.18</td><td>34.55</td><td>0</td></tr>
   <tr id="ibb" class="green">
@@ -111,6 +109,8 @@ stockList.push('gb_camp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HRL.html" target="_blank">HRL</a></td><td></td><td></td><td>41</td><td>37.445</td><td>40.125</td><td>33.015</td><td>34.075</td></tr>
   <tr id="wpg" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPG.html" target="_blank">WPG</a></td><td></td><td></td><td>40</td><td>9.85</td><td>11</td><td>8.94</td><td>0</td></tr>
+  <tr id="nsm" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NSM.html" target="_blank">NSM</a></td><td></td><td></td><td>38</td><td>12.78</td><td>13.05</td><td>10.96</td><td>0</td></tr>
   <tr id="cf" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CF.html" target="_blank">CF</a></td><td></td><td></td><td>37</td><td>29.51</td><td>35.17</td><td>26.29</td><td>0</td></tr>
   <tr id="gdx" class="red">
