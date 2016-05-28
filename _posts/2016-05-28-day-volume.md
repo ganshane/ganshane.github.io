@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160528"
-date:   2016-05-28 01:17:03
+date:   2016-05-28 04:16:57
 categories: stock
 ---
 <script type="text/javascript">
@@ -38,7 +38,7 @@ stockList.push('gb_veev');
   <tr id="splk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPLK.html" target="_blank">SPLK</a></td><td></td><td></td><td>0.019</td><td>2.961</td></tr>
   <tr id="jks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JKS.html" target="_blank">JKS</a></td><td></td><td></td><td>0.016</td><td>3.154</td></tr>
   <tr id="panw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PANW.html" target="_blank">PANW</a></td><td></td><td></td><td>0.014</td><td>7.756</td></tr>
-  <tr id="ibkr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IBKR.html" target="_blank">IBKR</a></td><td></td><td></td><td>0.012</td><td>6.762</td></tr>
+  <tr id="ibkr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IBKR.html" target="_blank">IBKR</a></td><td></td><td></td><td>0.012</td><td>6.76</td></tr>
   <tr id="ptla"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTLA.html" target="_blank">PTLA</a></td><td></td><td></td><td>0.011</td><td>2.263</td></tr>
   <tr id="wday"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WDAY.html" target="_blank">WDAY</a></td><td></td><td></td><td>0.011</td><td>2.792</td></tr>
   <tr id="feic"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FEIC.html" target="_blank">FEIC</a></td><td></td><td></td><td>0.011</td><td>25.242</td></tr>
