@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160601"
-date:   2016-06-01 01:17:28
+date:   2016-06-01 04:16:50
 categories: stock
 ---
 <script type="text/javascript">
@@ -28,6 +28,7 @@ stockList.push('gb_insm');
 stockList.push('gb_ntes');
 stockList.push('gb_lm');
 stockList.push('gb_onvo');
+stockList.push('gb_nxpi');
 </script>
 
 <table border="1">
@@ -60,4 +61,5 @@ stockList.push('gb_onvo');
   <tr id="ntes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NTES.html" target="_blank">NTES</a></td><td></td><td></td><td>0.011</td><td>5.215</td></tr>
   <tr id="lm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LM.html" target="_blank">LM</a></td><td></td><td></td><td>0.011</td><td>3.34</td></tr>
   <tr id="onvo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ONVO.html" target="_blank">ONVO</a></td><td></td><td></td><td>0.011</td><td>2.958</td></tr>
+  <tr id="nxpi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NXPI.html" target="_blank">NXPI</a></td><td></td><td></td><td>0.01</td><td>9.287</td></tr>
 </table>
