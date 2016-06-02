@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160602"
-date:   2016-06-02 01:17:16
+date:   2016-06-02 04:17:17
 categories: stock
 ---
 <script type="text/javascript">
@@ -38,7 +38,7 @@ stockList.push('gb_csod');
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>9.886</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="zltq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ZLTQ.html" target="_blank">ZLTQ</a></td><td></td><td></td><td>0.021</td><td>2.04</td></tr>
-  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.236</td></tr>
+  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
   <tr id="mnta"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MNTA.html" target="_blank">MNTA</a></td><td></td><td></td><td>0.017</td><td>3.523</td></tr>
   <tr id="smtc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SMTC.html" target="_blank">SMTC</a></td><td></td><td></td><td>0.015</td><td>3.015</td></tr>
   <tr id="wprt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPRT.html" target="_blank">WPRT</a></td><td></td><td></td><td>0.014</td><td>3.175</td></tr>
