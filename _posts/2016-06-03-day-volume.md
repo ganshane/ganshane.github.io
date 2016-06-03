@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "天量股票分析20160603"
-date:   2016-06-03 01:17:14
+date:   2016-06-03 04:16:53
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
+stockList.push('gb_tot');
 stockList.push('gb_sgy');
 stockList.push('gb_tplm');
 stockList.push('gb_ngls');
@@ -20,6 +21,7 @@ stockList.push('gb_five');
 stockList.push('gb_dish');
 stockList.push('gb_sig');
 stockList.push('gb_csod');
+stockList.push('gb_amba');
 stockList.push('gb_cien');
 stockList.push('gb_wft');
 stockList.push('gb_wuba');
@@ -35,6 +37,7 @@ stockList.push('gb_rmti');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
+  <tr id="tot"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOT.html" target="_blank">TOT</a></td><td></td><td></td><td>-0.124</td><td>4.316</td></tr>
   <tr id="sgy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGY.html" target="_blank">SGY</a></td><td></td><td></td><td>0.086</td><td>2.319</td></tr>
   <tr id="tplm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TPLM.html" target="_blank">TPLM</a></td><td></td><td></td><td>-0.066</td><td>3.444</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>9.886</td></tr>
@@ -49,6 +52,7 @@ stockList.push('gb_rmti');
   <tr id="dish"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DISH.html" target="_blank">DISH</a></td><td></td><td></td><td>0.014</td><td>2.486</td></tr>
   <tr id="sig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SIG.html" target="_blank">SIG</a></td><td></td><td></td><td>-0.012</td><td>4.448</td></tr>
   <tr id="csod"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CSOD.html" target="_blank">CSOD</a></td><td></td><td></td><td>0.012</td><td>2.246</td></tr>
+  <tr id="amba"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMBA.html" target="_blank">AMBA</a></td><td></td><td></td><td>0.012</td><td>2.396</td></tr>
   <tr id="cien"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CIEN.html" target="_blank">CIEN</a></td><td></td><td></td><td>0.011</td><td>5.469</td></tr>
   <tr id="wft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WFT.html" target="_blank">WFT</a></td><td></td><td></td><td>0.011</td><td>7.434</td></tr>
   <tr id="wuba"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WUBA.html" target="_blank">WUBA</a></td><td></td><td></td><td>0.011</td><td>2.522</td></tr>
