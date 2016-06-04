@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160604"
-date:   2016-06-04 01:17:08
+date:   2016-06-04 04:16:50
 categories: stock
 ---
 <script type="text/javascript">
@@ -40,7 +40,7 @@ stockList.push('gb_nrf');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="tot"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOT.html" target="_blank">TOT</a></td><td></td><td></td><td>-0.224</td><td>2.063</td></tr>
+  <tr id="tot"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOT.html" target="_blank">TOT</a></td><td></td><td></td><td>-0.224</td><td>2.025</td></tr>
   <tr id="tplm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TPLM.html" target="_blank">TPLM</a></td><td></td><td></td><td>-0.054</td><td>2.433</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>9.886</td></tr>
   <tr id="emes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EMES.html" target="_blank">EMES</a></td><td></td><td></td><td>0.034</td><td>5.424</td></tr>
