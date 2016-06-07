@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160607"
-date:   2016-06-07 01:17:34
+date:   2016-06-07 04:16:59
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,6 +17,7 @@ stockList.push('gb_ecyt');
 stockList.push('gb_bios');
 stockList.push('gb_xcra');
 stockList.push('gb_bita');
+stockList.push('gb_abbv');
 </script>
 
 <table border="1">
@@ -27,7 +28,7 @@ stockList.push('gb_bita');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="tot"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOT.html" target="_blank">TOT</a></td><td></td><td></td><td>-0.295</td><td>5.405</td></tr>
+  <tr id="tot"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOT.html" target="_blank">TOT</a></td><td></td><td></td><td>-0.295</td><td>5.389</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>9.886</td></tr>
   <tr id="emes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EMES.html" target="_blank">EMES</a></td><td></td><td></td><td>0.039</td><td>2.823</td></tr>
   <tr id="hclp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HCLP.html" target="_blank">HCLP</a></td><td></td><td></td><td>0.039</td><td>2.668</td></tr>
@@ -38,4 +39,5 @@ stockList.push('gb_bita');
   <tr id="bios"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIOS.html" target="_blank">BIOS</a></td><td></td><td></td><td>0.015</td><td>3.911</td></tr>
   <tr id="xcra"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XCRA.html" target="_blank">XCRA</a></td><td></td><td></td><td>0.014</td><td>4.851</td></tr>
   <tr id="bita"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BITA.html" target="_blank">BITA</a></td><td></td><td></td><td>0.014</td><td>2.104</td></tr>
+  <tr id="abbv"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ABBV.html" target="_blank">ABBV</a></td><td></td><td></td><td>0.01</td><td>2.094</td></tr>
 </table>
