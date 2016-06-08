@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160608"
-date:   2016-06-08 01:17:21
+date:   2016-06-08 04:17:02
 categories: stock
 ---
 <script type="text/javascript">
@@ -35,7 +35,7 @@ stockList.push('gb_nav');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="tot"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOT.html" target="_blank">TOT</a></td><td></td><td></td><td>-0.337</td><td>2.647</td></tr>
+  <tr id="tot"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOT.html" target="_blank">TOT</a></td><td></td><td></td><td>-0.337</td><td>2.642</td></tr>
   <tr id="emes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EMES.html" target="_blank">EMES</a></td><td></td><td></td><td>0.046</td><td>2.35</td></tr>
   <tr id="pacd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PACD.html" target="_blank">PACD</a></td><td></td><td></td><td>0.043</td><td>11.74</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>9.886</td></tr>
@@ -44,7 +44,7 @@ stockList.push('gb_nav');
   <tr id="nadl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NADL.html" target="_blank">NADL</a></td><td></td><td></td><td>0.027</td><td>2.294</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="srpt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SRPT.html" target="_blank">SRPT</a></td><td></td><td></td><td>-0.025</td><td>2.1</td></tr>
-  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.236</td></tr>
+  <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
   <tr id="royt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ROYT.html" target="_blank">ROYT</a></td><td></td><td></td><td>0.017</td><td>3.017</td></tr>
   <tr id="bte"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BTE.html" target="_blank">BTE</a></td><td></td><td></td><td>0.014</td><td>2.52</td></tr>
   <tr id="vrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VRX.html" target="_blank">VRX</a></td><td></td><td></td><td>0.014</td><td>4.395</td></tr>
