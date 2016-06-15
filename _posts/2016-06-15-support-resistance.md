@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160615"
-date:   2016-06-15 01:17:27
+date:   2016-06-15 04:16:54
 categories: stock
 ---
 <script type="text/javascript">
@@ -19,6 +19,7 @@ stockList.push('gb_fl');
 stockList.push('gb_laz');
 stockList.push('gb_pir');
 stockList.push('gb_m');
+stockList.push('gb_rhi');
 stockList.push('gb_fch');
 stockList.push('gb_nlnk');
 stockList.push('gb_rt');
@@ -70,6 +71,8 @@ stockList.push('gb_agn');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PIR.html" target="_blank">PIR</a></td><td></td><td></td><td>63</td><td>5.37</td><td>5.99</td><td>3.78</td><td>0</td></tr>
   <tr id="m" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/M.html" target="_blank">M</a></td><td></td><td></td><td>58</td><td>34.33</td><td>34.65</td><td>31.08</td><td>0</td></tr>
+  <tr id="rhi" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RHI.html" target="_blank">RHI</a></td><td></td><td></td><td>56</td><td>41.61</td><td>41.51</td><td>38.3</td><td>0</td></tr>
   <tr id="fch" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FCH.html" target="_blank">FCH</a></td><td></td><td></td><td>54</td><td>6.36</td><td>6.89</td><td>5.47</td><td>0</td></tr>
   <tr id="nlnk" class="green">
