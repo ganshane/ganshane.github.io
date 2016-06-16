@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160616"
-date:   2016-06-16 01:17:17
+date:   2016-06-16 04:17:05
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,6 +16,7 @@ stockList.push('gb_bios');
 stockList.push('gb_rcap');
 stockList.push('gb_exas');
 stockList.push('gb_yy');
+stockList.push('gb_dyn');
 stockList.push('gb_vnet');
 stockList.push('gb_uthr');
 stockList.push('gb_ally');
@@ -41,6 +42,7 @@ stockList.push('gb_smfg');
   <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
   <tr id="exas"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXAS.html" target="_blank">EXAS</a></td><td></td><td></td><td>0.02</td><td>10.877</td></tr>
   <tr id="yy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YY.html" target="_blank">YY</a></td><td></td><td></td><td>-0.017</td><td>2.935</td></tr>
+  <tr id="dyn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DYN.html" target="_blank">DYN</a></td><td></td><td></td><td>-0.017</td><td>6.756</td></tr>
   <tr id="vnet"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VNET.html" target="_blank">VNET</a></td><td></td><td></td><td>-0.017</td><td>2.047</td></tr>
   <tr id="uthr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UTHR.html" target="_blank">UTHR</a></td><td></td><td></td><td>-0.012</td><td>2.033</td></tr>
   <tr id="ally"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALLY.html" target="_blank">ALLY</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
