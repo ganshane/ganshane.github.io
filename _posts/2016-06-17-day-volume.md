@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160617"
-date:   2016-06-17 01:17:25
+date:   2016-06-17 04:16:50
 categories: stock
 ---
 <script type="text/javascript">
@@ -52,7 +52,7 @@ stockList.push('gb_symc');
   <tr id="evhc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EVHC.html" target="_blank">EVHC</a></td><td></td><td></td><td>0.013</td><td>3.725</td></tr>
   <tr id="cie"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CIE.html" target="_blank">CIE</a></td><td></td><td></td><td>-0.012</td><td>2.049</td></tr>
   <tr id="cavm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CAVM.html" target="_blank">CAVM</a></td><td></td><td></td><td>-0.012</td><td>11.758</td></tr>
-  <tr id="viab"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIAB.html" target="_blank">VIAB</a></td><td></td><td></td><td>-0.011</td><td>3.256</td></tr>
+  <tr id="viab"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIAB.html" target="_blank">VIAB</a></td><td></td><td></td><td>-0.011</td><td>3.255</td></tr>
   <tr id="rf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RF.html" target="_blank">RF</a></td><td></td><td></td><td>-0.011</td><td>2.56</td></tr>
   <tr id="vnr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VNR.html" target="_blank">VNR</a></td><td></td><td></td><td>-0.01</td><td>3.654</td></tr>
   <tr id="slv"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLV.html" target="_blank">SLV</a></td><td></td><td></td><td>0.01</td><td>3.445</td></tr>
