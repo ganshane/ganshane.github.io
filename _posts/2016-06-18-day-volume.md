@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160618"
-date:   2016-06-18 01:17:01
+date:   2016-06-18 04:16:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,7 +16,6 @@ stockList.push('gb_rcap');
 stockList.push('gb_acrx');
 stockList.push('gb_angi');
 stockList.push('gb_nlnk');
-stockList.push('gb_cavm');
 stockList.push('gb_semg');
 stockList.push('gb_resi');
 stockList.push('gb_bv');
@@ -78,15 +77,14 @@ stockList.push('gb_pb');
   <tr id="dyn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DYN.html" target="_blank">DYN</a></td><td></td><td></td><td>-0.036</td><td>2.134</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="fold"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FOLD.html" target="_blank">FOLD</a></td><td></td><td></td><td>-0.025</td><td>2.116</td></tr>
-  <tr id="rmti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RMTI.html" target="_blank">RMTI</a></td><td></td><td></td><td>-0.023</td><td>2.804</td></tr>
+  <tr id="rmti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RMTI.html" target="_blank">RMTI</a></td><td></td><td></td><td>-0.023</td><td>2.803</td></tr>
   <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
   <tr id="acrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACRX.html" target="_blank">ACRX</a></td><td></td><td></td><td>-0.02</td><td>2.345</td></tr>
   <tr id="angi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANGI.html" target="_blank">ANGI</a></td><td></td><td></td><td>-0.02</td><td>3.004</td></tr>
   <tr id="nlnk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NLNK.html" target="_blank">NLNK</a></td><td></td><td></td><td>-0.019</td><td>3.979</td></tr>
-  <tr id="cavm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CAVM.html" target="_blank">CAVM</a></td><td></td><td></td><td>-0.019</td><td>2.047</td></tr>
   <tr id="semg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SEMG.html" target="_blank">SEMG</a></td><td></td><td></td><td>-0.019</td><td>5.698</td></tr>
   <tr id="resi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RESI.html" target="_blank">RESI</a></td><td></td><td></td><td>-0.019</td><td>2.132</td></tr>
-  <tr id="bv"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BV.html" target="_blank">BV</a></td><td></td><td></td><td>-0.017</td><td>8.08</td></tr>
+  <tr id="bv"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BV.html" target="_blank">BV</a></td><td></td><td></td><td>-0.017</td><td>8.081</td></tr>
   <tr id="lpla"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPLA.html" target="_blank">LPLA</a></td><td></td><td></td><td>-0.016</td><td>2.52</td></tr>
   <tr id="acor"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACOR.html" target="_blank">ACOR</a></td><td></td><td></td><td>-0.016</td><td>2</td></tr>
   <tr id="lm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LM.html" target="_blank">LM</a></td><td></td><td></td><td>-0.015</td><td>2.77</td></tr>
