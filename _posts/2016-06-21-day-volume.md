@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160621"
-date:   2016-06-21 01:18:43
+date:   2016-06-21 04:17:03
 categories: stock
 ---
 <script type="text/javascript">
@@ -15,7 +15,6 @@ stockList.push('gb_mro');
 stockList.push('gb_nrp');
 stockList.push('gb_podd');
 stockList.push('gb_ads');
-stockList.push('gb_lmck');
 </script>
 
 <table border="1">
@@ -35,5 +34,4 @@ stockList.push('gb_lmck');
   <tr id="nrp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRP.html" target="_blank">NRP</a></td><td></td><td></td><td>0.013</td><td>2.76</td></tr>
   <tr id="podd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PODD.html" target="_blank">PODD</a></td><td></td><td></td><td>-0.013</td><td>2.054</td></tr>
   <tr id="ads"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ADS.html" target="_blank">ADS</a></td><td></td><td></td><td>-0.012</td><td>2.042</td></tr>
-  <tr id="lmck"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LMCK.html" target="_blank">LMCK</a></td><td></td><td></td><td>-0.01</td><td>4.008</td></tr>
 </table>

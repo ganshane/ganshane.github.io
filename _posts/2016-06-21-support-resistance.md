@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160621"
-date:   2016-06-21 01:18:43
+date:   2016-06-21 04:17:03
 categories: stock
 ---
 <script type="text/javascript">
@@ -20,7 +20,6 @@ stockList.push('gb_impv');
 stockList.push('gb_acrx');
 stockList.push('gb_kors');
 stockList.push('gb_nxst');
-stockList.push('gb_lmck');
 stockList.push('gb_jcp');
 stockList.push('gb_xbi');
 stockList.push('gb_royt');
@@ -72,8 +71,6 @@ stockList.push('gb_spls');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KORS.html" target="_blank">KORS</a></td><td></td><td></td><td>63</td><td>50.89</td><td>55.37</td><td>40.74</td><td>45.34</td></tr>
   <tr id="nxst" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NXST.html" target="_blank">NXST</a></td><td></td><td></td><td>54</td><td>53.42</td><td>53.57</td><td>47.63</td><td>49.19</td></tr>
-  <tr id="lmck" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LMCK.html" target="_blank">LMCK</a></td><td></td><td></td><td>53</td><td>22.958</td><td>19.28</td><td>17.97</td><td>0</td></tr>
   <tr id="jcp" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JCP.html" target="_blank">JCP</a></td><td></td><td></td><td>53</td><td>9.02</td><td>9.97</td><td>7.53</td><td>8.41</td></tr>
   <tr id="xbi" class="green">
