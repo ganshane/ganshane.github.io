@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160628"
-date:   2016-06-28 01:17:15
+date:   2016-06-28 04:16:48
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,6 +16,7 @@ stockList.push('gb_bidu');
 stockList.push('gb_impv');
 stockList.push('gb_ptla');
 stockList.push('gb_len');
+stockList.push('gb_fsc');
 stockList.push('gb_nvo');
 stockList.push('gb_mpel');
 stockList.push('gb_wb');
@@ -59,6 +60,8 @@ stockList.push('gb_xone');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTLA.html" target="_blank">PTLA</a></td><td></td><td></td><td>60</td><td>26.1</td><td>25.38</td><td>22.11</td><td>0</td></tr>
   <tr id="len" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LEN.html" target="_blank">LEN</a></td><td></td><td></td><td>59</td><td>45.86</td><td>47.92</td><td>42.93</td><td>42.75</td></tr>
+  <tr id="fsc" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSC.html" target="_blank">FSC</a></td><td></td><td></td><td>59</td><td>4.88</td><td>5.08</td><td>4.4</td><td>0</td></tr>
   <tr id="nvo" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NVO.html" target="_blank">NVO</a></td><td></td><td></td><td>52</td><td>51.56</td><td>56.09</td><td>47.97</td><td>0</td></tr>
   <tr id="mpel" class="green">
