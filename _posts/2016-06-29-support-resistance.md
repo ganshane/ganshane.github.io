@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160629"
-date:   2016-06-29 01:17:21
+date:   2016-06-29 04:16:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,6 +32,7 @@ stockList.push('gb_pbi');
 stockList.push('gb_mpel');
 stockList.push('gb_atw');
 stockList.push('gb_nsam');
+stockList.push('gb_vslr');
 stockList.push('gb_syf');
 stockList.push('gb_sm');
 stockList.push('gb_ccl');
@@ -105,6 +106,8 @@ stockList.push('gb_pbct');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>50</td><td>14.4</td><td>16.57</td><td>10.54</td><td>11.86</td></tr>
   <tr id="nsam" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NSAM.html" target="_blank">NSAM</a></td><td></td><td></td><td>50</td><td>11.1</td><td>11.69</td><td>10.02</td><td>0</td></tr>
+  <tr id="vslr" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VSLR.html" target="_blank">VSLR</a></td><td></td><td></td><td>48</td><td>2.82</td><td>3.44</td><td>2.32</td><td>0</td></tr>
   <tr id="syf" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SYF.html" target="_blank">SYF</a></td><td></td><td></td><td>41</td><td>27.3</td><td>29.02</td><td>23.74</td><td>0</td></tr>
   <tr id="sm" class="red">

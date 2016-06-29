@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160629"
-date:   2016-06-29 01:17:21
+date:   2016-06-29 04:16:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -37,7 +37,7 @@ stockList.push('gb_sivb');
   <tr id="voya"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VOYA.html" target="_blank">VOYA</a></td><td></td><td></td><td>-0.014</td><td>2.194</td></tr>
   <tr id="soxl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SOXL.html" target="_blank">SOXL</a></td><td></td><td></td><td>-0.013</td><td>2.376</td></tr>
   <tr id="man"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MAN.html" target="_blank">MAN</a></td><td></td><td></td><td>-0.013</td><td>2.011</td></tr>
-  <tr id="ht"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HT.html" target="_blank">HT</a></td><td></td><td></td><td>-0.012</td><td>2.388</td></tr>
+  <tr id="ht"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HT.html" target="_blank">HT</a></td><td></td><td></td><td>-0.012</td><td>2.347</td></tr>
   <tr id="foe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FOE.html" target="_blank">FOE</a></td><td></td><td></td><td>-0.011</td><td>3.115</td></tr>
   <tr id="wbc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WBC.html" target="_blank">WBC</a></td><td></td><td></td><td>-0.01</td><td>3.466</td></tr>
   <tr id="mga"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MGA.html" target="_blank">MGA</a></td><td></td><td></td><td>-0.01</td><td>2.215</td></tr>
