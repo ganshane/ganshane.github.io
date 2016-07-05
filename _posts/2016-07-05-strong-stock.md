@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "强势股票分析20160705"
-date:   2016-07-05 01:17:22
+date:   2016-07-05 04:17:05
 categories: stock
 ---
 <table border="1">
@@ -412,7 +412,6 @@ categories: stock
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CL.html" target="_blank">CL</a></td><td>0</td><td>0.002</td><td>0.01</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MPC.html" target="_blank">MPC</a></td><td>0</td><td>0.011</td><td>0.024</td></tr>
   <tr style="background-color:red"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DNOW.html" target="_blank">DNOW</a></td><td>0</td><td>-0.009</td><td>0.034</td></tr>
-  <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BEE.html" target="_blank">BEE</a></td><td>0</td><td>0</td><td>0</td></tr>
   <tr style="background-color:red"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DOV.html" target="_blank">DOV</a></td><td>0</td><td>-0.005</td><td>0.016</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BHP.html" target="_blank">BHP</a></td><td>0</td><td>0.001</td><td>0.008</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RJI.html" target="_blank">RJI</a></td><td>0</td><td>0.001</td><td>0</td></tr>
