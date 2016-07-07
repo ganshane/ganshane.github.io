@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160707"
-date:   2016-07-07 01:17:24
+date:   2016-07-07 04:16:57
 categories: stock
 ---
 <script type="text/javascript">
@@ -37,7 +37,7 @@ stockList.push('gb_fi');
   <tr id="rgld"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RGLD.html" target="_blank">RGLD</a></td><td></td><td></td><td>0.014</td><td>2.562</td></tr>
   <tr id="cvi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVI.html" target="_blank">CVI</a></td><td></td><td></td><td>-0.014</td><td>2.382</td></tr>
   <tr id="nrp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRP.html" target="_blank">NRP</a></td><td></td><td></td><td>-0.014</td><td>3.427</td></tr>
-  <tr id="gci"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCI.html" target="_blank">GCI</a></td><td></td><td></td><td>-0.012</td><td>2.046</td></tr>
+  <tr id="gci"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCI.html" target="_blank">GCI</a></td><td></td><td></td><td>-0.012</td><td>2.045</td></tr>
   <tr id="zroz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ZROZ.html" target="_blank">ZROZ</a></td><td></td><td></td><td>0.011</td><td>3.516</td></tr>
   <tr id="fi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FI.html" target="_blank">FI</a></td><td></td><td></td><td>-0.011</td><td>3.303</td></tr>
 </table>
