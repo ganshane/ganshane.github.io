@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160713"
-date:   2016-07-13 01:17:25
+date:   2016-07-13 04:17:06
 categories: stock
 ---
 <script type="text/javascript">
@@ -38,7 +38,7 @@ stockList.push('gb_n');
   <tr id="clf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLF.html" target="_blank">CLF</a></td><td></td><td></td><td>0.034</td><td>2.027</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
-  <tr id="ati"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATI.html" target="_blank">ATI</a></td><td></td><td></td><td>0.02</td><td>2.073</td></tr>
+  <tr id="ati"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATI.html" target="_blank">ATI</a></td><td></td><td></td><td>0.02</td><td>2.072</td></tr>
   <tr id="rrd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RRD.html" target="_blank">RRD</a></td><td></td><td></td><td>0.017</td><td>2.701</td></tr>
   <tr id="mt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MT.html" target="_blank">MT</a></td><td></td><td></td><td>0.015</td><td>2.343</td></tr>
   <tr id="dsx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DSX.html" target="_blank">DSX</a></td><td></td><td></td><td>0.015</td><td>2.653</td></tr>

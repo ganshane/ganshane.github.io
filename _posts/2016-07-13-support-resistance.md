@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160713"
-date:   2016-07-13 01:17:25
+date:   2016-07-13 04:17:06
 categories: stock
 ---
 <script type="text/javascript">
@@ -20,6 +20,7 @@ stockList.push('gb_xbi');
 stockList.push('gb_nflx');
 stockList.push('gb_mro');
 stockList.push('gb_sem');
+stockList.push('gb_urs');
 stockList.push('gb_gme');
 stockList.push('gb_dal');
 stockList.push('gb_cfg');
@@ -63,6 +64,8 @@ stockList.push('gb_cfg');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MRO.html" target="_blank">MRO</a></td><td></td><td></td><td>61</td><td>17.17</td><td>18.72</td><td>13.12</td><td>15.07</td></tr>
   <tr id="sem" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SEM.html" target="_blank">SEM</a></td><td></td><td></td><td>57</td><td>11.32</td><td>11.54</td><td>10.23</td><td>0</td></tr>
+  <tr id="urs" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>55</td><td>2.21</td><td>2.34</td><td>1.92</td><td>0</td></tr>
   <tr id="gme" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GME.html" target="_blank">GME</a></td><td></td><td></td><td>49</td><td>29.12</td><td>29.55</td><td>25.73</td><td>0</td></tr>
   <tr id="dal" class="red">
