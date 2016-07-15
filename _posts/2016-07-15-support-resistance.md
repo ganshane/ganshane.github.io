@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160715"
-date:   2016-07-15 01:17:27
+date:   2016-07-15 04:17:30
 categories: stock
 ---
 <script type="text/javascript">
@@ -23,6 +23,7 @@ stockList.push('gb_syrg');
 stockList.push('gb_wnr');
 stockList.push('gb_jwn');
 stockList.push('gb_stng');
+stockList.push('gb_urs');
 stockList.push('gb_bwa');
 stockList.push('gb_brkr');
 stockList.push('gb_mon');
@@ -74,6 +75,8 @@ stockList.push('gb_aer');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JWN.html" target="_blank">JWN</a></td><td></td><td></td><td>59</td><td>44.56</td><td>53.82</td><td>37.62</td><td>40.85</td></tr>
   <tr id="stng" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/STNG.html" target="_blank">STNG</a></td><td></td><td></td><td>57</td><td>4.66</td><td>5.99</td><td>4.05</td><td>0</td></tr>
+  <tr id="urs" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>55</td><td>2.21</td><td>2.34</td><td>1.92</td><td>0</td></tr>
   <tr id="bwa" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BWA.html" target="_blank">BWA</a></td><td></td><td></td><td>54</td><td>32.21</td><td>34.14</td><td>27.63</td><td>0</td></tr>
   <tr id="brkr" class="red">
