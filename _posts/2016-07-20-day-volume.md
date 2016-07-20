@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "天量股票分析20160720"
-date:   2016-07-20 01:17:40
+date:   2016-07-20 04:17:18
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_ngls');
 stockList.push('gb_armh');
+stockList.push('gb_mtcn');
 stockList.push('gb_sblk');
 stockList.push('gb_cplp');
 stockList.push('gb_rcap');
@@ -37,6 +38,7 @@ stockList.push('gb_save');
 </tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>9.886</td></tr>
   <tr id="armh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARMH.html" target="_blank">ARMH</a></td><td></td><td></td><td>0.028</td><td>4.081</td></tr>
+  <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>13.787</td></tr>
   <tr id="sblk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SBLK.html" target="_blank">SBLK</a></td><td></td><td></td><td>0.025</td><td>2.734</td></tr>
   <tr id="cplp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CPLP.html" target="_blank">CPLP</a></td><td></td><td></td><td>0.025</td><td>2.67</td></tr>
   <tr id="rcap"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCAP.html" target="_blank">RCAP</a></td><td></td><td></td><td>0.021</td><td>2.26</td></tr>
@@ -49,8 +51,8 @@ stockList.push('gb_save');
   <tr id="smci"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SMCI.html" target="_blank">SMCI</a></td><td></td><td></td><td>0.011</td><td>30.41</td></tr>
   <tr id="dfs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DFS.html" target="_blank">DFS</a></td><td></td><td></td><td>0.011</td><td>2.267</td></tr>
   <tr id="vmw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VMW.html" target="_blank">VMW</a></td><td></td><td></td><td>0.011</td><td>4.538</td></tr>
-  <tr id="hum"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HUM.html" target="_blank">HUM</a></td><td></td><td></td><td>-0.011</td><td>2.467</td></tr>
-  <tr id="ksu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KSU.html" target="_blank">KSU</a></td><td></td><td></td><td>0.011</td><td>2.914</td></tr>
+  <tr id="hum"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HUM.html" target="_blank">HUM</a></td><td></td><td></td><td>-0.011</td><td>2.466</td></tr>
+  <tr id="ksu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KSU.html" target="_blank">KSU</a></td><td></td><td></td><td>0.011</td><td>2.912</td></tr>
   <tr id="asml"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ASML.html" target="_blank">ASML</a></td><td></td><td></td><td>0.011</td><td>3.985</td></tr>
   <tr id="mlnx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MLNX.html" target="_blank">MLNX</a></td><td></td><td></td><td>0.01</td><td>2.142</td></tr>
   <tr id="save"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SAVE.html" target="_blank">SAVE</a></td><td></td><td></td><td>0.01</td><td>2.543</td></tr>
