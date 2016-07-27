@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160727"
-date:   2016-07-27 01:17:57
+date:   2016-07-27 04:17:04
 categories: stock
 ---
 <script type="text/javascript">

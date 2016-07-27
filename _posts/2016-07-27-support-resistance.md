@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160727"
-date:   2016-07-27 01:17:57
+date:   2016-07-27 04:17:04
 categories: stock
 ---
 <script type="text/javascript">
@@ -26,6 +26,7 @@ stockList.push('gb_lm');
 stockList.push('gb_qunr');
 stockList.push('gb_brs');
 stockList.push('gb_stng');
+stockList.push('gb_urs');
 stockList.push('gb_sf');
 stockList.push('gb_data');
 stockList.push('gb_lnkd');
@@ -92,6 +93,8 @@ stockList.push('gb_scln');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BRS.html" target="_blank">BRS</a></td><td></td><td></td><td>59</td><td>12.07</td><td>13.92</td><td>11.02</td><td>0</td></tr>
   <tr id="stng" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/STNG.html" target="_blank">STNG</a></td><td></td><td></td><td>58</td><td>4.66</td><td>5.99</td><td>4.05</td><td>0</td></tr>
+  <tr id="urs" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>55</td><td>2.21</td><td>2.34</td><td>1.92</td><td>0</td></tr>
   <tr id="sf" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SF.html" target="_blank">SF</a></td><td></td><td></td><td>54</td><td>41.22</td><td>36.36</td><td>30.56</td><td>33.92</td></tr>
   <tr id="data" class="green">
