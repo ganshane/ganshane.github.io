@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160728"
-date:   2016-07-28 01:17:26
+date:   2016-07-28 04:18:04
 categories: stock
 ---
 <script type="text/javascript">
@@ -33,5 +33,5 @@ stockList.push('gb_hes');
   <tr id="ois"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OIS.html" target="_blank">OIS</a></td><td></td><td></td><td>-0.012</td><td>2.445</td></tr>
   <tr id="ndls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NDLS.html" target="_blank">NDLS</a></td><td></td><td></td><td>-0.011</td><td>2.484</td></tr>
   <tr id="ocn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OCN.html" target="_blank">OCN</a></td><td></td><td></td><td>-0.011</td><td>2.076</td></tr>
-  <tr id="hes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HES.html" target="_blank">HES</a></td><td></td><td></td><td>-0.011</td><td>2.978</td></tr>
+  <tr id="hes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HES.html" target="_blank">HES</a></td><td></td><td></td><td>-0.011</td><td>2.97</td></tr>
 </table>
