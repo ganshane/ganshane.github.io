@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160730"
-date:   2016-07-30 01:16:57
+date:   2016-07-30 04:16:46
 categories: stock
 ---
 <script type="text/javascript">
@@ -41,7 +41,7 @@ stockList.push('gb_ttmi');
   <tr id="crr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRR.html" target="_blank">CRR</a></td><td></td><td></td><td>-0.013</td><td>2.052</td></tr>
   <tr id="svu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SVU.html" target="_blank">SVU</a></td><td></td><td></td><td>-0.013</td><td>3.011</td></tr>
   <tr id="wynn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WYNN.html" target="_blank">WYNN</a></td><td></td><td></td><td>0.013</td><td>3.304</td></tr>
-  <tr id="gnc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GNC.html" target="_blank">GNC</a></td><td></td><td></td><td>-0.012</td><td>2.85</td></tr>
+  <tr id="gnc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GNC.html" target="_blank">GNC</a></td><td></td><td></td><td>-0.012</td><td>2.847</td></tr>
   <tr id="ecr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ECR.html" target="_blank">ECR</a></td><td></td><td></td><td>0.012</td><td>2.548</td></tr>
   <tr id="nrp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRP.html" target="_blank">NRP</a></td><td></td><td></td><td>0.011</td><td>2.02</td></tr>
   <tr id="bdsi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BDSI.html" target="_blank">BDSI</a></td><td></td><td></td><td>-0.011</td><td>2.425</td></tr>
