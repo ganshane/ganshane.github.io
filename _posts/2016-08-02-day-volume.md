@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160802"
-date:   2016-08-02 01:17:21
+date:   2016-08-02 04:16:53
 categories: stock
 ---
 <script type="text/javascript">
@@ -34,16 +34,16 @@ stockList.push('gb_lpla');
   <tr id="jpep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JPEP.html" target="_blank">JPEP</a></td><td></td><td></td><td>0.026</td><td>2.609</td></tr>
   <tr id="icpt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ICPT.html" target="_blank">ICPT</a></td><td></td><td></td><td>0.018</td><td>2.254</td></tr>
   <tr id="crk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRK.html" target="_blank">CRK</a></td><td></td><td></td><td>-0.018</td><td>4.844</td></tr>
-  <tr id="ttmi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TTMI.html" target="_blank">TTMI</a></td><td></td><td></td><td>0.018</td><td>3.876</td></tr>
-  <tr id="nog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NOG.html" target="_blank">NOG</a></td><td></td><td></td><td>-0.017</td><td>2.387</td></tr>
+  <tr id="ttmi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TTMI.html" target="_blank">TTMI</a></td><td></td><td></td><td>0.018</td><td>3.878</td></tr>
+  <tr id="nog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NOG.html" target="_blank">NOG</a></td><td></td><td></td><td>-0.017</td><td>2.386</td></tr>
   <tr id="semg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SEMG.html" target="_blank">SEMG</a></td><td></td><td></td><td>-0.016</td><td>2.166</td></tr>
-  <tr id="ptx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTX.html" target="_blank">PTX</a></td><td></td><td></td><td>0.015</td><td>3.133</td></tr>
+  <tr id="ptx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTX.html" target="_blank">PTX</a></td><td></td><td></td><td>0.015</td><td>3.152</td></tr>
   <tr id="do"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DO.html" target="_blank">DO</a></td><td></td><td></td><td>-0.015</td><td>2.538</td></tr>
   <tr id="nrp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRP.html" target="_blank">NRP</a></td><td></td><td></td><td>0.014</td><td>4.467</td></tr>
-  <tr id="rcii"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCII.html" target="_blank">RCII</a></td><td></td><td></td><td>-0.013</td><td>2.151</td></tr>
-  <tr id="acrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACRX.html" target="_blank">ACRX</a></td><td></td><td></td><td>0.013</td><td>2.38</td></tr>
+  <tr id="rcii"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCII.html" target="_blank">RCII</a></td><td></td><td></td><td>-0.013</td><td>2.15</td></tr>
+  <tr id="acrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACRX.html" target="_blank">ACRX</a></td><td></td><td></td><td>0.013</td><td>2.379</td></tr>
   <tr id="gasl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GASL.html" target="_blank">GASL</a></td><td></td><td></td><td>-0.012</td><td>2.862</td></tr>
   <tr id="vixy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIXY.html" target="_blank">VIXY</a></td><td></td><td></td><td>-0.012</td><td>2.167</td></tr>
   <tr id="ino"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INO.html" target="_blank">INO</a></td><td></td><td></td><td>0.011</td><td>2.507</td></tr>
-  <tr id="lpla"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPLA.html" target="_blank">LPLA</a></td><td></td><td></td><td>0.011</td><td>2.27</td></tr>
+  <tr id="lpla"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPLA.html" target="_blank">LPLA</a></td><td></td><td></td><td>0.011</td><td>2.269</td></tr>
 </table>
