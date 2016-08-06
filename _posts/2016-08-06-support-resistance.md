@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160806"
-date:   2016-08-06 01:17:09
+date:   2016-08-06 04:16:52
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
+stockList.push('gb_cmrx');
 stockList.push('gb_dxd');
 stockList.push('gb_sdow');
 stockList.push('gb_yy');
@@ -48,6 +49,8 @@ stockList.push('gb_sivb');
  <td>支撑1</td>
  <td>支撑2</td>
 </tr>
+  <tr id="cmrx" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMRX.html" target="_blank">CMRX</a></td><td></td><td></td><td>100</td><td>4.45</td><td>5</td><td>3.71</td><td>4.1</td></tr>
   <tr id="dxd" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DXD.html" target="_blank">DXD</a></td><td></td><td></td><td>94</td><td>17.91</td><td>18.98</td><td>16.67</td><td>0</td></tr>
   <tr id="sdow" class="green">
