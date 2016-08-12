@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160812"
-date:   2016-08-12 01:17:12
+date:   2016-08-12 04:17:01
 categories: stock
 ---
 <script type="text/javascript">
@@ -24,6 +24,6 @@ stockList.push('gb_nmm');
   <tr id="hclp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HCLP.html" target="_blank">HCLP</a></td><td></td><td></td><td>0.022</td><td>9.758</td></tr>
   <tr id="vrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VRX.html" target="_blank">VRX</a></td><td></td><td></td><td>0.022</td><td>2.123</td></tr>
   <tr id="spwr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPWR.html" target="_blank">SPWR</a></td><td></td><td></td><td>-0.017</td><td>2.411</td></tr>
-  <tr id="himx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HIMX.html" target="_blank">HIMX</a></td><td></td><td></td><td>-0.014</td><td>3.725</td></tr>
+  <tr id="himx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HIMX.html" target="_blank">HIMX</a></td><td></td><td></td><td>-0.014</td><td>3.724</td></tr>
   <tr id="nmm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NMM.html" target="_blank">NMM</a></td><td></td><td></td><td>0.014</td><td>2.396</td></tr>
 </table>

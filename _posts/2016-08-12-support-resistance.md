@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160812"
-date:   2016-08-12 01:17:12
+date:   2016-08-12 04:17:01
 categories: stock
 ---
 <script type="text/javascript">
@@ -23,6 +23,7 @@ stockList.push('gb_alny');
 stockList.push('gb_o');
 stockList.push('gb_cmrx');
 stockList.push('gb_ete');
+stockList.push('gb_orig');
 stockList.push('gb_eqix');
 stockList.push('gb_wll');
 stockList.push('gb_ibb');
@@ -79,6 +80,8 @@ stockList.push('gb_rt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMRX.html" target="_blank">CMRX</a></td><td></td><td></td><td>56</td><td>4.45</td><td>5</td><td>3.88</td><td>4.1</td></tr>
   <tr id="ete" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ETE.html" target="_blank">ETE</a></td><td></td><td></td><td>54</td><td>17.17</td><td>20.38</td><td>15.93</td><td>14.39</td></tr>
+  <tr id="orig" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ORIG.html" target="_blank">ORIG</a></td><td></td><td></td><td>54</td><td>2.29</td><td>2.16</td><td>1.85</td><td>1.8</td></tr>
   <tr id="eqix" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EQIX.html" target="_blank">EQIX</a></td><td></td><td></td><td>52</td><td>367.48</td><td>390.39</td><td>316.3</td><td>334.18</td></tr>
   <tr id="wll" class="green">
