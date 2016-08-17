@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160817"
-date:   2016-08-17 01:17:08
+date:   2016-08-17 04:17:06
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,6 +12,7 @@ stockList.push('gb_nat');
 stockList.push('gb_voxx');
 stockList.push('gb_alks');
 stockList.push('gb_cit');
+stockList.push('gb_awk');
 stockList.push('gb_gold');
 stockList.push('gb_ewm');
 stockList.push('gb_wyn');
@@ -58,6 +59,8 @@ stockList.push('gb_bzh');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALKS.html" target="_blank">ALKS</a></td><td></td><td></td><td>92</td><td>70.29</td><td>51.5</td><td>39.65</td><td>46.63</td></tr>
   <tr id="cit" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CIT.html" target="_blank">CIT</a></td><td></td><td></td><td>89</td><td>40.78</td><td>43.57</td><td>33.49</td><td>34.9</td></tr>
+  <tr id="awk" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AWK.html" target="_blank">AWK</a></td><td></td><td></td><td>87</td><td>80.63</td><td>83</td><td>73</td><td>75.25</td></tr>
   <tr id="gold" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOLD.html" target="_blank">GOLD</a></td><td></td><td></td><td>83</td><td>112</td><td>120.72</td><td>90.94</td><td>101.6</td></tr>
   <tr id="ewm" class="green">
