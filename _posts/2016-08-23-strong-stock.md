@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "强势股票分析20160823"
-date:   2016-08-23 01:17:13
+date:   2016-08-23 04:16:57
 categories: stock
 ---
 <table border="1">
@@ -727,7 +727,7 @@ categories: stock
   <tr style="background-color:gray"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VCSH.html" target="_blank">VCSH</a></td><td>0</td><td>0</td><td>-0</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HDS.html" target="_blank">HDS</a></td><td>0</td><td>0.001</td><td>0.007</td></tr>
   <tr style="background-color:blue"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IBM.html" target="_blank">IBM</a></td><td>0</td><td>-0.003</td><td>-0.004</td></tr>
-  <tr style="background-color:blue"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AGG.html" target="_blank">AGG</a></td><td>0</td><td>-0</td><td>-0</td></tr>
+  <tr style="background-color:gray"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AGG.html" target="_blank">AGG</a></td><td>0</td><td>0</td><td>-0</td></tr>
   <tr style="background-color:blue"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BKLN.html" target="_blank">BKLN</a></td><td>0</td><td>-0</td><td>-0</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GM.html" target="_blank">GM</a></td><td>0</td><td>0.001</td><td>0.002</td></tr>
   <tr style="background-color:blue"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BND.html" target="_blank">BND</a></td><td>0</td><td>-0</td><td>-0</td></tr>
