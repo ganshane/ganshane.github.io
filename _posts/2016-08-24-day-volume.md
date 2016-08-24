@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160824"
-date:   2016-08-24 01:17:20
+date:   2016-08-24 04:16:46
 categories: stock
 ---
 <script type="text/javascript">
@@ -27,7 +27,7 @@ stockList.push('gb_clvs');
   <tr id="mdvn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MDVN.html" target="_blank">MDVN</a></td><td></td><td></td><td>0.016</td><td>2.551</td></tr>
   <tr id="nmbl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NMBL.html" target="_blank">NMBL</a></td><td></td><td></td><td>0.015</td><td>2.523</td></tr>
   <tr id="expr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXPR.html" target="_blank">EXPR</a></td><td></td><td></td><td>0.012</td><td>2.426</td></tr>
-  <tr id="isil"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ISIL.html" target="_blank">ISIL</a></td><td></td><td></td><td>0.012</td><td>2.662</td></tr>
-  <tr id="cst"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CST.html" target="_blank">CST</a></td><td></td><td></td><td>0.012</td><td>4.524</td></tr>
+  <tr id="isil"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ISIL.html" target="_blank">ISIL</a></td><td></td><td></td><td>0.012</td><td>2.661</td></tr>
+  <tr id="cst"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CST.html" target="_blank">CST</a></td><td></td><td></td><td>0.012</td><td>4.523</td></tr>
   <tr id="clvs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLVS.html" target="_blank">CLVS</a></td><td></td><td></td><td>0.011</td><td>16.866</td></tr>
 </table>
