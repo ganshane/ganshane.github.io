@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "强势股票分析20160827"
-date:   2016-08-27 01:17:11
+date:   2016-08-27 04:16:44
 categories: stock
 ---
 <table border="1">
@@ -673,7 +673,6 @@ categories: stock
   <tr style="background-color:red"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/A.html" target="_blank">A</a></td><td>0.001</td><td>-0.001</td><td>0.002</td></tr>
   <tr style="background-color:gray"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DD.html" target="_blank">DD</a></td><td>0.001</td><td>0.004</td><td>-0.001</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DOX.html" target="_blank">DOX</a></td><td>0.001</td><td>0.004</td><td>0.003</td></tr>
-  <tr style="background-color:gray"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ITC.html" target="_blank">ITC</a></td><td>0.001</td><td>0</td><td>-0.002</td></tr>
   <tr style="background-color:blue"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SHPG.html" target="_blank">SHPG</a></td><td>0.001</td><td>-0.004</td><td>-0.014</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EMC.html" target="_blank">EMC</a></td><td>0.001</td><td>0.001</td><td>0</td></tr>
   <tr style="background-color:gray"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AGCO.html" target="_blank">AGCO</a></td><td>0.001</td><td>0.005</td><td>-0.01</td></tr>
