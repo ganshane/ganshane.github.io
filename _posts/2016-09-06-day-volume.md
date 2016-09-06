@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160906"
-date:   2016-09-06 01:17:04
+date:   2016-09-06 04:17:07
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,8 +12,6 @@ stockList.push('gb_leju');
 stockList.push('gb_scty');
 stockList.push('gb_hpj');
 stockList.push('gb_cld');
-stockList.push('gb_sdlp');
-stockList.push('gb_wynn');
 stockList.push('gb_sina');
 stockList.push('gb_amba');
 stockList.push('gb_coty');
@@ -33,8 +31,6 @@ stockList.push('gb_coty');
   <tr id="scty"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCTY.html" target="_blank">SCTY</a></td><td></td><td></td><td>-0.021</td><td>2.028</td></tr>
   <tr id="hpj"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HPJ.html" target="_blank">HPJ</a></td><td></td><td></td><td>0.019</td><td>7.599</td></tr>
   <tr id="cld"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLD.html" target="_blank">CLD</a></td><td></td><td></td><td>0.015</td><td>2.615</td></tr>
-  <tr id="sdlp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDLP.html" target="_blank">SDLP</a></td><td></td><td></td><td>-0.013</td><td>2.586</td></tr>
-  <tr id="wynn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WYNN.html" target="_blank">WYNN</a></td><td></td><td></td><td>-0.013</td><td>2.207</td></tr>
   <tr id="sina"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SINA.html" target="_blank">SINA</a></td><td></td><td></td><td>0.012</td><td>2.202</td></tr>
   <tr id="amba"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMBA.html" target="_blank">AMBA</a></td><td></td><td></td><td>0.012</td><td>3.488</td></tr>
   <tr id="coty"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/COTY.html" target="_blank">COTY</a></td><td></td><td></td><td>-0.01</td><td>2.41</td></tr>
