@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "天量股票分析20160909"
-date:   2016-09-09 01:17:28
+date:   2016-09-09 04:16:49
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_chd');
 stockList.push('gb_bcei');
 stockList.push('gb_bas');
 stockList.push('gb_do');
@@ -29,7 +28,6 @@ stockList.push('gb_coty');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="chd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CHD.html" target="_blank">CHD</a></td><td></td><td></td><td>-0.088</td><td>2.273</td></tr>
   <tr id="bcei"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BCEI.html" target="_blank">BCEI</a></td><td></td><td></td><td>0.031</td><td>3.002</td></tr>
   <tr id="bas"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BAS.html" target="_blank">BAS</a></td><td></td><td></td><td>-0.026</td><td>4.916</td></tr>
   <tr id="do"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DO.html" target="_blank">DO</a></td><td></td><td></td><td>-0.022</td><td>2.682</td></tr>
