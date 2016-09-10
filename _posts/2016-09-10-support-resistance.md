@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160910"
-date:   2016-09-10 01:17:22
+date:   2016-09-10 04:17:13
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
+stockList.push('gb_qiwi');
 stockList.push('gb_vnr');
-stockList.push('gb_apam');
+stockList.push('gb_bbg');
+stockList.push('gb_lb');
 stockList.push('gb_sgy');
 stockList.push('gb_cvs');
 stockList.push('gb_ptct');
@@ -15,7 +17,6 @@ stockList.push('gb_vfc');
 stockList.push('gb_swhc');
 stockList.push('gb_o');
 stockList.push('gb_agn');
-stockList.push('gb_mlm');
 stockList.push('gb_bel');
 stockList.push('gb_cpb');
 stockList.push('gb_lltc');
@@ -31,17 +32,14 @@ stockList.push('gb_auy');
 stockList.push('gb_cvi');
 stockList.push('gb_skx');
 stockList.push('gb_abx');
-stockList.push('gb_jwn');
-stockList.push('gb_lb');
 stockList.push('gb_rl');
 stockList.push('gb_gis');
 stockList.push('gb_moh');
 stockList.push('gb_cno');
 stockList.push('gb_spil');
+stockList.push('gb_se');
 stockList.push('gb_phm');
-stockList.push('gb_dre');
 stockList.push('gb_hsy');
-stockList.push('gb_c');
 stockList.push('gb_pir');
 stockList.push('gb_cx');
 stockList.push('gb_asna');
@@ -57,10 +55,14 @@ stockList.push('gb_asna');
  <td>支撑1</td>
  <td>支撑2</td>
 </tr>
+  <tr id="qiwi" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QIWI.html" target="_blank">QIWI</a></td><td></td><td></td><td>100</td><td>17.1</td><td>16.01</td><td>13.46</td><td>14.49</td></tr>
   <tr id="vnr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VNR.html" target="_blank">VNR</a></td><td></td><td></td><td>100</td><td>1.38</td><td>1.5</td><td>1.14</td><td>0</td></tr>
-  <tr id="apam" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APAM.html" target="_blank">APAM</a></td><td></td><td></td><td>93</td><td>26.71</td><td>28.67</td><td>24.7</td><td>0</td></tr>
+  <tr id="bbg" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBG.html" target="_blank">BBG</a></td><td></td><td></td><td>100</td><td>6.7</td><td>7.8</td><td>5.26</td><td>4.76</td></tr>
+  <tr id="lb" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LB.html" target="_blank">LB</a></td><td></td><td></td><td>94</td><td>77.5</td><td>78.13</td><td>71.87</td><td>70.57</td></tr>
   <tr id="sgy" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGY.html" target="_blank">SGY</a></td><td></td><td></td><td>92</td><td>14.2</td><td>23.4</td><td>10.43</td><td>12.34</td></tr>
   <tr id="cvs" class="red">
@@ -75,8 +77,6 @@ stockList.push('gb_asna');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/O.html" target="_blank">O</a></td><td></td><td></td><td>79</td><td>68.91</td><td>70.91</td><td>58.69</td><td>64.11</td></tr>
   <tr id="agn" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AGN.html" target="_blank">AGN</a></td><td></td><td></td><td>78</td><td>242.24</td><td>251</td><td>221.83</td><td>0</td></tr>
-  <tr id="mlm" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MLM.html" target="_blank">MLM</a></td><td></td><td></td><td>74</td><td>178.23</td><td>191.18</td><td>165.27</td><td>157.5</td></tr>
   <tr id="bel" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BEL.html" target="_blank">BEL</a></td><td></td><td></td><td>73</td><td>11.08</td><td>11.55</td><td>9.1</td><td>10</td></tr>
   <tr id="cpb" class="green">
@@ -107,10 +107,6 @@ stockList.push('gb_asna');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SKX.html" target="_blank">SKX</a></td><td></td><td></td><td>45</td><td>25.56</td><td>25.48</td><td>23.35</td><td>0</td></tr>
   <tr id="abx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ABX.html" target="_blank">ABX</a></td><td></td><td></td><td>43</td><td>19</td><td>19.73</td><td>17.21</td><td>15.07</td></tr>
-  <tr id="jwn" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JWN.html" target="_blank">JWN</a></td><td></td><td></td><td>41</td><td>50.69</td><td>52.51</td><td>46.65</td><td>40.85</td></tr>
-  <tr id="lb" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LB.html" target="_blank">LB</a></td><td></td><td></td><td>39</td><td>77.5</td><td>78.13</td><td>71.87</td><td>70.57</td></tr>
   <tr id="rl" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RL.html" target="_blank">RL</a></td><td></td><td></td><td>36</td><td>110.64</td><td>108.91</td><td>99.34</td><td>101.17</td></tr>
   <tr id="gis" class="green">
@@ -121,14 +117,12 @@ stockList.push('gb_asna');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CNO.html" target="_blank">CNO</a></td><td></td><td></td><td>32</td><td>16.02</td><td>16.51</td><td>14.66</td><td>0</td></tr>
   <tr id="spil" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPIL.html" target="_blank">SPIL</a></td><td></td><td></td><td>32</td><td>7.35</td><td>7.55</td><td>6.85</td><td>0</td></tr>
+  <tr id="se" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SE.html" target="_blank">SE</a></td><td></td><td></td><td>30</td><td>35.44</td><td>36.78</td><td>30.72</td><td>31.7</td></tr>
   <tr id="phm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PHM.html" target="_blank">PHM</a></td><td></td><td></td><td>30</td><td>21.04</td><td>21.63</td><td>18.5</td><td>19.68</td></tr>
-  <tr id="dre" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DRE.html" target="_blank">DRE</a></td><td></td><td></td><td>28</td><td>27.46</td><td>28.47</td><td>24.74</td><td>23.68</td></tr>
   <tr id="hsy" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HSY.html" target="_blank">HSY</a></td><td></td><td></td><td>27</td><td>108.14</td><td>112</td><td>95.45</td><td>94.93</td></tr>
-  <tr id="c" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/C.html" target="_blank">C</a></td><td></td><td></td><td>24</td><td>51.08</td><td>53.22</td><td>42.81</td><td>47.53</td></tr>
   <tr id="pir" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PIR.html" target="_blank">PIR</a></td><td></td><td></td><td>22</td><td>4.75</td><td>5.22</td><td>3.78</td><td>0</td></tr>
   <tr id="cx" class="green">
