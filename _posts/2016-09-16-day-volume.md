@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160916"
-date:   2016-09-16 01:17:48
+date:   2016-09-16 04:16:56
 categories: stock
 ---
 <script type="text/javascript">
@@ -27,5 +27,5 @@ stockList.push('gb_alle');
   <tr id="sblk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SBLK.html" target="_blank">SBLK</a></td><td></td><td></td><td>0.022</td><td>5.634</td></tr>
   <tr id="soxl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SOXL.html" target="_blank">SOXL</a></td><td></td><td></td><td>-0.015</td><td>2.215</td></tr>
   <tr id="coty"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/COTY.html" target="_blank">COTY</a></td><td></td><td></td><td>-0.012</td><td>2.142</td></tr>
-  <tr id="alle"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALLE.html" target="_blank">ALLE</a></td><td></td><td></td><td>-0.011</td><td>2.584</td></tr>
+  <tr id="alle"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALLE.html" target="_blank">ALLE</a></td><td></td><td></td><td>-0.011</td><td>2.583</td></tr>
 </table>
