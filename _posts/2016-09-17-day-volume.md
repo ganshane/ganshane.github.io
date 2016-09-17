@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160917"
-date:   2016-09-17 01:17:12
+date:   2016-09-17 04:16:42
 categories: stock
 ---
 <script type="text/javascript">
@@ -25,7 +25,6 @@ stockList.push('gb_rt');
 stockList.push('gb_drh');
 stockList.push('gb_sblk');
 stockList.push('gb_halo');
-stockList.push('gb_coty');
 stockList.push('gb_irm');
 stockList.push('gb_aria');
 stockList.push('gb_pol');
@@ -34,7 +33,6 @@ stockList.push('gb_unt');
 stockList.push('gb_rpt');
 stockList.push('gb_lxp');
 stockList.push('gb_egy');
-stockList.push('gb_alle');
 stockList.push('gb_pnr');
 stockList.push('gb_joe');
 stockList.push('gb_cvi');
@@ -72,7 +70,6 @@ stockList.push('gb_foe');
   <tr id="drh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DRH.html" target="_blank">DRH</a></td><td></td><td></td><td>-0.013</td><td>2.112</td></tr>
   <tr id="sblk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SBLK.html" target="_blank">SBLK</a></td><td></td><td></td><td>0.012</td><td>2.178</td></tr>
   <tr id="halo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HALO.html" target="_blank">HALO</a></td><td></td><td></td><td>0.012</td><td>3.219</td></tr>
-  <tr id="coty"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/COTY.html" target="_blank">COTY</a></td><td></td><td></td><td>-0.012</td><td>2.142</td></tr>
   <tr id="irm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRM.html" target="_blank">IRM</a></td><td></td><td></td><td>-0.012</td><td>2.747</td></tr>
   <tr id="aria"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARIA.html" target="_blank">ARIA</a></td><td></td><td></td><td>0.012</td><td>2.306</td></tr>
   <tr id="pol"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POL.html" target="_blank">POL</a></td><td></td><td></td><td>-0.012</td><td>2.244</td></tr>
@@ -81,7 +78,6 @@ stockList.push('gb_foe');
   <tr id="rpt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RPT.html" target="_blank">RPT</a></td><td></td><td></td><td>-0.011</td><td>2.497</td></tr>
   <tr id="lxp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LXP.html" target="_blank">LXP</a></td><td></td><td></td><td>-0.011</td><td>2.458</td></tr>
   <tr id="egy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EGY.html" target="_blank">EGY</a></td><td></td><td></td><td>-0.011</td><td>3.753</td></tr>
-  <tr id="alle"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALLE.html" target="_blank">ALLE</a></td><td></td><td></td><td>-0.011</td><td>2.583</td></tr>
   <tr id="pnr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PNR.html" target="_blank">PNR</a></td><td></td><td></td><td>-0.011</td><td>2.159</td></tr>
   <tr id="joe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JOE.html" target="_blank">JOE</a></td><td></td><td></td><td>-0.011</td><td>3.61</td></tr>
   <tr id="cvi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVI.html" target="_blank">CVI</a></td><td></td><td></td><td>0.011</td><td>2.442</td></tr>
