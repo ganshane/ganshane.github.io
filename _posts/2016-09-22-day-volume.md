@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160922"
-date:   2016-09-22 01:17:09
+date:   2016-09-22 04:16:56
 categories: stock
 ---
 <script type="text/javascript">
@@ -49,7 +49,7 @@ stockList.push('gb_cxp');
   <tr id="sbra"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SBRA.html" target="_blank">SBRA</a></td><td></td><td></td><td>-0.013</td><td>2.008</td></tr>
   <tr id="vnr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VNR.html" target="_blank">VNR</a></td><td></td><td></td><td>-0.013</td><td>5.568</td></tr>
   <tr id="czz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CZZ.html" target="_blank">CZZ</a></td><td></td><td></td><td>-0.012</td><td>3.058</td></tr>
-  <tr id="eca"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ECA.html" target="_blank">ECA</a></td><td></td><td></td><td>-0.012</td><td>2.042</td></tr>
+  <tr id="eca"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ECA.html" target="_blank">ECA</a></td><td></td><td></td><td>-0.012</td><td>2.041</td></tr>
   <tr id="trs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TRS.html" target="_blank">TRS</a></td><td></td><td></td><td>-0.011</td><td>3.773</td></tr>
   <tr id="sil"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SIL.html" target="_blank">SIL</a></td><td></td><td></td><td>-0.011</td><td>2.266</td></tr>
   <tr id="tsu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TSU.html" target="_blank">TSU</a></td><td></td><td></td><td>-0.011</td><td>2.311</td></tr>
