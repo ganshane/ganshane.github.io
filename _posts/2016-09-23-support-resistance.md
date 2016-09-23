@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160923"
-date:   2016-09-23 01:17:07
+date:   2016-09-23 04:16:50
 categories: stock
 ---
 <script type="text/javascript">
@@ -19,6 +19,7 @@ stockList.push('gb_hiw');
 stockList.push('gb_abc');
 stockList.push('gb_cyh');
 stockList.push('gb_ingr');
+stockList.push('gb_cvi');
 stockList.push('gb_m');
 stockList.push('gb_wbmd');
 stockList.push('gb_tss');
@@ -67,6 +68,8 @@ stockList.push('gb_clh');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CYH.html" target="_blank">CYH</a></td><td></td><td></td><td>71</td><td>11.43</td><td>13.37</td><td>10.07</td><td>0</td></tr>
   <tr id="ingr" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INGR.html" target="_blank">INGR</a></td><td></td><td></td><td>68</td><td>131.21</td><td>136.89</td><td>121.77</td><td>110.69</td></tr>
+  <tr id="cvi" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVI.html" target="_blank">CVI</a></td><td></td><td></td><td>67</td><td>19.08</td><td>20.71</td><td>13.4</td><td>14.85</td></tr>
   <tr id="m" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/M.html" target="_blank">M</a></td><td></td><td></td><td>63</td><td>37.71</td><td>37</td><td>34.33</td><td>34.65</td></tr>
   <tr id="wbmd" class="red">
