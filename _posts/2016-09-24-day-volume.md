@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160924"
-date:   2016-09-24 01:17:18
+date:   2016-09-24 04:17:03
 categories: stock
 ---
 <script type="text/javascript">
@@ -27,5 +27,5 @@ stockList.push('gb_slca');
   <tr id="nlnk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NLNK.html" target="_blank">NLNK</a></td><td></td><td></td><td>0.019</td><td>2.586</td></tr>
   <tr id="sc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SC.html" target="_blank">SC</a></td><td></td><td></td><td>-0.017</td><td>3.166</td></tr>
   <tr id="ctlt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CTLT.html" target="_blank">CTLT</a></td><td></td><td></td><td>0.015</td><td>2.143</td></tr>
-  <tr id="slca"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLCA.html" target="_blank">SLCA</a></td><td></td><td></td><td>0.011</td><td>2.068</td></tr>
+  <tr id="slca"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLCA.html" target="_blank">SLCA</a></td><td></td><td></td><td>0.011</td><td>2.067</td></tr>
 </table>
