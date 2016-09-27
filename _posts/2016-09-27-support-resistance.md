@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20160927"
-date:   2016-09-27 01:17:36
+date:   2016-09-27 04:17:08
 categories: stock
 ---
 <script type="text/javascript">
