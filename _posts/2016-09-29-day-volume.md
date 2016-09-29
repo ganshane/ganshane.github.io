@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160929"
-date:   2016-09-29 01:17:23
+date:   2016-09-29 04:16:54
 categories: stock
 ---
 <script type="text/javascript">
@@ -41,7 +41,7 @@ stockList.push('gb_meoh');
   <tr id="memp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MEMP.html" target="_blank">MEMP</a></td><td></td><td></td><td>-0.013</td><td>3.317</td></tr>
   <tr id="wor"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WOR.html" target="_blank">WOR</a></td><td></td><td></td><td>0.012</td><td>2.32</td></tr>
   <tr id="bbry"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBRY.html" target="_blank">BBRY</a></td><td></td><td></td><td>0.012</td><td>6.936</td></tr>
-  <tr id="htz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HTZ.html" target="_blank">HTZ</a></td><td></td><td></td><td>-0.011</td><td>2.328</td></tr>
+  <tr id="htz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HTZ.html" target="_blank">HTZ</a></td><td></td><td></td><td>-0.011</td><td>2.327</td></tr>
   <tr id="wll"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WLL.html" target="_blank">WLL</a></td><td></td><td></td><td>0.011</td><td>2.244</td></tr>
   <tr id="sgy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGY.html" target="_blank">SGY</a></td><td></td><td></td><td>-0.01</td><td>2.363</td></tr>
   <tr id="cldx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLDX.html" target="_blank">CLDX</a></td><td></td><td></td><td>0.01</td><td>2.603</td></tr>
