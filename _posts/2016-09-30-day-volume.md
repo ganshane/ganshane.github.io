@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20160930"
-date:   2016-09-30 01:17:29
+date:   2016-09-30 04:17:17
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,7 +32,7 @@ stockList.push('gb_camp');
  <td>天量指数</td>
 </tr>
   <tr id="aegr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AEGR.html" target="_blank">AEGR</a></td><td></td><td></td><td>0.05</td><td>6.747</td></tr>
-  <tr id="uvxy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UVXY.html" target="_blank">UVXY</a></td><td></td><td></td><td>-0.04</td><td>2.035</td></tr>
+  <tr id="uvxy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UVXY.html" target="_blank">UVXY</a></td><td></td><td></td><td>-0.04</td><td>2.033</td></tr>
   <tr id="xiv"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XIV.html" target="_blank">XIV</a></td><td></td><td></td><td>0.017</td><td>2.115</td></tr>
   <tr id="svxy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SVXY.html" target="_blank">SVXY</a></td><td></td><td></td><td>0.017</td><td>2.039</td></tr>
   <tr id="db"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DB.html" target="_blank">DB</a></td><td></td><td></td><td>-0.017</td><td>4.616</td></tr>
