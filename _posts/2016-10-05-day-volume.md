@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20161005"
-date:   2016-10-05 01:17:46
+date:   2016-10-05 04:17:46
 categories: stock
 ---
 <script type="text/javascript">
@@ -26,6 +26,6 @@ stockList.push('gb_bxe');
   <tr id="jnug"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JNUG.html" target="_blank">JNUG</a></td><td></td><td></td><td>-0.021</td><td>2.154</td></tr>
   <tr id="acad"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACAD.html" target="_blank">ACAD</a></td><td></td><td></td><td>-0.016</td><td>2.182</td></tr>
   <tr id="sdrl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDRL.html" target="_blank">SDRL</a></td><td></td><td></td><td>0.015</td><td>5.452</td></tr>
-  <tr id="fii"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FII.html" target="_blank">FII</a></td><td></td><td></td><td>-0.011</td><td>2.188</td></tr>
+  <tr id="fii"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FII.html" target="_blank">FII</a></td><td></td><td></td><td>-0.011</td><td>2.187</td></tr>
   <tr id="bxe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BXE.html" target="_blank">BXE</a></td><td></td><td></td><td>-0.011</td><td>2.314</td></tr>
 </table>
