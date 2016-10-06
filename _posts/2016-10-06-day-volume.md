@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20161006"
-date:   2016-10-06 01:17:17
+date:   2016-10-06 04:16:58
 categories: stock
 ---
 <script type="text/javascript">
@@ -27,5 +27,5 @@ stockList.push('gb_fe');
   <tr id="lulu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LULU.html" target="_blank">LULU</a></td><td></td><td></td><td>-0.012</td><td>2.144</td></tr>
   <tr id="fii"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FII.html" target="_blank">FII</a></td><td></td><td></td><td>-0.011</td><td>2.694</td></tr>
   <tr id="gnrc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GNRC.html" target="_blank">GNRC</a></td><td></td><td></td><td>0.01</td><td>2.157</td></tr>
-  <tr id="fe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FE.html" target="_blank">FE</a></td><td></td><td></td><td>-0.01</td><td>3.259</td></tr>
+  <tr id="fe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FE.html" target="_blank">FE</a></td><td></td><td></td><td>-0.01</td><td>3.258</td></tr>
 </table>
