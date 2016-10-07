@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20161007"
-date:   2016-10-07 01:17:29
+date:   2016-10-07 04:16:48
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_dar');
-stockList.push('gb_fran');
 stockList.push('gb_dks');
 stockList.push('gb_txrh');
 stockList.push('gb_sil');
@@ -48,8 +47,6 @@ stockList.push('gb_mbly');
 </tr>
   <tr id="dar" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DAR.html" target="_blank">DAR</a></td><td></td><td></td><td>100</td><td>13.77</td><td>14.72</td><td>12.8</td><td>10.99</td></tr>
-  <tr id="fran" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FRAN.html" target="_blank">FRAN</a></td><td></td><td></td><td>100</td><td>16.2</td><td>18.5</td><td>13.35</td><td>14.39</td></tr>
   <tr id="dks" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DKS.html" target="_blank">DKS</a></td><td></td><td></td><td>95</td><td>58.16</td><td>61.94</td><td>44.31</td><td>48.56</td></tr>
   <tr id="txrh" class="green">
