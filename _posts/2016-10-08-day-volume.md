@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20161008"
-date:   2016-10-08 01:17:09
+date:   2016-10-08 04:16:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -31,7 +31,7 @@ stockList.push('gb_ftr');
   <tr id="voxx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VOXX.html" target="_blank">VOXX</a></td><td></td><td></td><td>-0.017</td><td>21.033</td></tr>
   <tr id="dft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DFT.html" target="_blank">DFT</a></td><td></td><td></td><td>-0.015</td><td>2.162</td></tr>
   <tr id="rt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RT.html" target="_blank">RT</a></td><td></td><td></td><td>-0.014</td><td>3.823</td></tr>
-  <tr id="ogs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OGS.html" target="_blank">OGS</a></td><td></td><td></td><td>-0.013</td><td>2.488</td></tr>
+  <tr id="ogs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OGS.html" target="_blank">OGS</a></td><td></td><td></td><td>-0.013</td><td>2.486</td></tr>
   <tr id="hees"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HEES.html" target="_blank">HEES</a></td><td></td><td></td><td>0.011</td><td>5.179</td></tr>
   <tr id="ftr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FTR.html" target="_blank">FTR</a></td><td></td><td></td><td>-0.011</td><td>3.575</td></tr>
 </table>
