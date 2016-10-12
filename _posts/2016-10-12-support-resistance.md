@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20161012"
-date:   2016-10-12 01:17:43
+date:   2016-10-12 04:17:09
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,7 +11,6 @@ stockList.push('gb_orig');
 stockList.push('gb_aap');
 stockList.push('gb_podd');
 stockList.push('gb_ptla');
-stockList.push('gb_gov');
 stockList.push('gb_bx');
 stockList.push('gb_hmsy');
 stockList.push('gb_erj');
@@ -38,6 +37,7 @@ stockList.push('gb_txrh');
 stockList.push('gb_are');
 stockList.push('gb_pfpt');
 stockList.push('gb_swhc');
+stockList.push('gb_gov');
 </script>
 <table border="1">
  <tr>
@@ -60,8 +60,6 @@ stockList.push('gb_swhc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PODD.html" target="_blank">PODD</a></td><td></td><td></td><td>96</td><td>40.48</td><td>44.35</td><td>33.33</td><td>35.99</td></tr>
   <tr id="ptla" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTLA.html" target="_blank">PTLA</a></td><td></td><td></td><td>96</td><td>22.11</td><td>24</td><td>20.17</td><td>0</td></tr>
-  <tr id="gov" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOV.html" target="_blank">GOV</a></td><td></td><td></td><td>96</td><td>22.29</td><td>23.76</td><td>19.58</td><td>20.09</td></tr>
   <tr id="bx" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BX.html" target="_blank">BX</a></td><td></td><td></td><td>92</td><td>24.67</td><td>26.61</td><td>22.31</td><td>0</td></tr>
   <tr id="hmsy" class="red">
@@ -114,4 +112,6 @@ stockList.push('gb_swhc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PFPT.html" target="_blank">PFPT</a></td><td></td><td></td><td>24</td><td>74.01</td><td>78.93</td><td>64.62</td><td>64.64</td></tr>
   <tr id="swhc" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWHC.html" target="_blank">SWHC</a></td><td></td><td></td><td>24</td><td>26.47</td><td>27.25</td><td>22.16</td><td>24.79</td></tr>
+  <tr id="gov" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOV.html" target="_blank">GOV</a></td><td></td><td></td><td>21</td><td>22.29</td><td>23.76</td><td>19.58</td><td>20.09</td></tr>
 </table>
