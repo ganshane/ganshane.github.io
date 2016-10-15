@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20161015"
-date:   2016-10-15 01:17:12
+date:   2016-10-15 04:16:48
 categories: stock
 ---
 <script type="text/javascript">
@@ -39,7 +39,6 @@ stockList.push('gb_cmo');
 stockList.push('gb_xray');
 stockList.push('gb_nadl');
 stockList.push('gb_syf');
-stockList.push('gb_kog');
 stockList.push('gb_kors');
 stockList.push('gb_are');
 stockList.push('gb_see');
@@ -121,8 +120,6 @@ stockList.push('gb_see');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NADL.html" target="_blank">NADL</a></td><td></td><td></td><td>32</td><td>2.92</td><td>3.34</td><td>2.48</td><td>2.3</td></tr>
   <tr id="syf" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SYF.html" target="_blank">SYF</a></td><td></td><td></td><td>30</td><td>26.75</td><td>27.84</td><td>23.74</td><td>0</td></tr>
-  <tr id="kog" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>28</td><td>28.445</td><td>27.965</td><td>25.875</td><td>0</td></tr>
   <tr id="kors" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KORS.html" target="_blank">KORS</a></td><td></td><td></td><td>24</td><td>46.85</td><td>51.06</td><td>41.41</td><td>0</td></tr>
   <tr id="are" class="red">
