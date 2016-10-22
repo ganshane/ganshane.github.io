@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "强势股票分析20161022"
-date:   2016-10-22 01:17:43
+date:   2016-10-22 04:16:58
 categories: stock
 ---
 <table border="1">
@@ -65,7 +65,7 @@ categories: stock
   <tr style="background-color:gray"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SC.html" target="_blank">SC</a></td><td>0.007</td><td>0.002</td><td>-0.004</td></tr>
   <tr style="background-color:blue"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DNOW.html" target="_blank">DNOW</a></td><td>0.007</td><td>-0</td><td>-0.004</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LFL.html" target="_blank">LFL</a></td><td>0.006</td><td>0.013</td><td>0.022</td></tr>
-  <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXPE.html" target="_blank">EXPE</a></td><td>0.006</td><td>0.01</td><td>0.011</td></tr>
+  <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXPE.html" target="_blank">EXPE</a></td><td>0.006</td><td>0.01</td><td>0.008</td></tr>
   <tr style="background-color:gray"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PAA.html" target="_blank">PAA</a></td><td>0.006</td><td>0.003</td><td>-0.001</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSLR.html" target="_blank">FSLR</a></td><td>0.006</td><td>0.015</td><td>0.01</td></tr>
   <tr style="background-color:gray"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OIH.html" target="_blank">OIH</a></td><td>0.006</td><td>0.002</td><td>-0.007</td></tr>
@@ -727,6 +727,7 @@ categories: stock
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DSW.html" target="_blank">DSW</a></td><td>-0.001</td><td>-0.001</td><td>0.001</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BABA.html" target="_blank">BABA</a></td><td>-0.001</td><td>0.003</td><td>-0.004</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RSG.html" target="_blank">RSG</a></td><td>-0.001</td><td>0.001</td><td>-0.005</td></tr>
+  <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TYC.html" target="_blank">TYC</a></td><td>-0.001</td><td>-0.001</td><td>-0.005</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VRSN.html" target="_blank">VRSN</a></td><td>-0.001</td><td>0.008</td><td>0.041</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HPT.html" target="_blank">HPT</a></td><td>-0.001</td><td>-0.003</td><td>-0.013</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOL.html" target="_blank">TOL</a></td><td>-0.001</td><td>-0.002</td><td>-0.006</td></tr>
@@ -1038,6 +1039,7 @@ categories: stock
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMAT.html" target="_blank">AMAT</a></td><td>-0.004</td><td>0</td><td>0.002</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CZR.html" target="_blank">CZR</a></td><td>-0.004</td><td>-0.004</td><td>-0.014</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IDTI.html" target="_blank">IDTI</a></td><td>-0.004</td><td>0.001</td><td>0.002</td></tr>
+  <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TWO.html" target="_blank">TWO</a></td><td>-0.004</td><td>0.005</td><td>0.002</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XLNX.html" target="_blank">XLNX</a></td><td>-0.004</td><td>-0</td><td>-0.004</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CIEN.html" target="_blank">CIEN</a></td><td>-0.004</td><td>-0.006</td><td>-0.015</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PPL.html" target="_blank">PPL</a></td><td>-0.004</td><td>0.004</td><td>-0</td></tr>
