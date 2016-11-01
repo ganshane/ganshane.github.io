@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20161101"
-date:   2016-11-01 01:18:38
+date:   2016-11-01 04:17:16
 categories: stock
 ---
 <script type="text/javascript">
@@ -38,6 +38,7 @@ stockList.push('gb_rgld');
 stockList.push('gb_fbhs');
 stockList.push('gb_wdr');
 stockList.push('gb_nrg');
+stockList.push('gb_kog');
 stockList.push('gb_ktos');
 stockList.push('gb_kate');
 stockList.push('gb_jnug');
@@ -118,6 +119,8 @@ stockList.push('gb_deck');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WDR.html" target="_blank">WDR</a></td><td></td><td></td><td>36</td><td>17.17</td><td>18.3</td><td>15.7</td><td>0</td></tr>
   <tr id="nrg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRG.html" target="_blank">NRG</a></td><td></td><td></td><td>36</td><td>10.87</td><td>11.92</td><td>9.76</td><td>0</td></tr>
+  <tr id="kog" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>28</td><td>28.445</td><td>27.965</td><td>25.875</td><td>0</td></tr>
   <tr id="ktos" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KTOS.html" target="_blank">KTOS</a></td><td></td><td></td><td>28</td><td>6.48</td><td>7.14</td><td>4.32</td><td>5.58</td></tr>
   <tr id="kate" class="red">
