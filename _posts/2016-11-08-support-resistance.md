@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20161108"
-date:   2016-11-08 01:16:54
+date:   2016-11-08 04:18:36
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,7 +32,6 @@ stockList.push('gb_idxx');
 stockList.push('gb_vnet');
 stockList.push('gb_lgnd');
 stockList.push('gb_nktr');
-stockList.push('gb_grpn');
 stockList.push('gb_xhb');
 stockList.push('gb_qiwi');
 stockList.push('gb_veev');
@@ -41,7 +40,6 @@ stockList.push('gb_yelp');
 stockList.push('gb_pol');
 stockList.push('gb_ecol');
 stockList.push('gb_iyr');
-stockList.push('gb_ice');
 stockList.push('gb_kog');
 stockList.push('gb_lii');
 stockList.push('gb_deck');
@@ -109,8 +107,6 @@ stockList.push('gb_deck');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LGND.html" target="_blank">LGND</a></td><td></td><td></td><td>56</td><td>94.3</td><td>102.83</td><td>87.11</td><td>0</td></tr>
   <tr id="nktr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NKTR.html" target="_blank">NKTR</a></td><td></td><td></td><td>55</td><td>13.17</td><td>15.79</td><td>10.67</td><td>0</td></tr>
-  <tr id="grpn" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GRPN.html" target="_blank">GRPN</a></td><td></td><td></td><td>48</td><td>4.94</td><td>4.72</td><td>3.85</td><td>3.69</td></tr>
   <tr id="xhb" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XHB.html" target="_blank">XHB</a></td><td></td><td></td><td>47</td><td>31.99</td><td>34.04</td><td>27.72</td><td>0</td></tr>
   <tr id="qiwi" class="red">
@@ -127,8 +123,6 @@ stockList.push('gb_deck');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ECOL.html" target="_blank">ECOL</a></td><td></td><td></td><td>36</td><td>39.74</td><td>42.94</td><td>30.56</td><td>0</td></tr>
   <tr id="iyr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IYR.html" target="_blank">IYR</a></td><td></td><td></td><td>34</td><td>74.72</td><td>78.36</td><td>66.54</td><td>0</td></tr>
-  <tr id="ice" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ICE.html" target="_blank">ICE</a></td><td></td><td></td><td>32</td><td>55.21</td><td>54.39</td><td>48.15</td><td>50.742</td></tr>
   <tr id="kog" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>28</td><td>28.445</td><td>27.965</td><td>25.875</td><td>0</td></tr>
   <tr id="lii" class="green">

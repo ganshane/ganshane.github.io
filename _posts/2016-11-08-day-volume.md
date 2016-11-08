@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20161108"
-date:   2016-11-08 01:16:54
+date:   2016-11-08 04:18:35
 categories: stock
 ---
 <script type="text/javascript">
@@ -61,12 +61,12 @@ stockList.push('gb_eqix');
   <tr id="akrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AKRX.html" target="_blank">AKRX</a></td><td></td><td></td><td>-0.019</td><td>2.332</td></tr>
   <tr id="fi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FI.html" target="_blank">FI</a></td><td></td><td></td><td>-0.018</td><td>3.073</td></tr>
   <tr id="airm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AIRM.html" target="_blank">AIRM</a></td><td></td><td></td><td>-0.017</td><td>4.138</td></tr>
-  <tr id="ras"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RAS.html" target="_blank">RAS</a></td><td></td><td></td><td>-0.017</td><td>2.161</td></tr>
+  <tr id="ras"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RAS.html" target="_blank">RAS</a></td><td></td><td></td><td>-0.017</td><td>2.162</td></tr>
   <tr id="fosl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FOSL.html" target="_blank">FOSL</a></td><td></td><td></td><td>-0.017</td><td>2.865</td></tr>
   <tr id="sppi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPPI.html" target="_blank">SPPI</a></td><td></td><td></td><td>-0.017</td><td>2.903</td></tr>
   <tr id="csiq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CSIQ.html" target="_blank">CSIQ</a></td><td></td><td></td><td>-0.016</td><td>2.894</td></tr>
   <tr id="axl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AXL.html" target="_blank">AXL</a></td><td></td><td></td><td>-0.016</td><td>2.837</td></tr>
-  <tr id="wprt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPRT.html" target="_blank">WPRT</a></td><td></td><td></td><td>-0.016</td><td>2.544</td></tr>
+  <tr id="wprt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPRT.html" target="_blank">WPRT</a></td><td></td><td></td><td>-0.016</td><td>2.537</td></tr>
   <tr id="brs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BRS.html" target="_blank">BRS</a></td><td></td><td></td><td>-0.016</td><td>3.465</td></tr>
   <tr id="w"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/W.html" target="_blank">W</a></td><td></td><td></td><td>-0.016</td><td>2.145</td></tr>
   <tr id="sfun"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SFUN.html" target="_blank">SFUN</a></td><td></td><td></td><td>-0.015</td><td>2.287</td></tr>
