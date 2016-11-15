@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20161115"
-date:   2016-11-15 01:17:04
+date:   2016-11-15 04:17:29
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,8 +17,11 @@ stockList.push('gb_qiwi');
 stockList.push('gb_amba');
 stockList.push('gb_wb');
 stockList.push('gb_dnb');
+stockList.push('gb_exr');
 stockList.push('gb_yelp');
+stockList.push('gb_kr');
 stockList.push('gb_nfx');
+stockList.push('gb_hbi');
 stockList.push('gb_rdc');
 stockList.push('gb_uco');
 stockList.push('gb_low');
@@ -70,10 +73,16 @@ stockList.push('gb_wat');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WB.html" target="_blank">WB</a></td><td></td><td></td><td>81</td><td>45.5</td><td>49.5</td><td>31.25</td><td>33.77</td></tr>
   <tr id="dnb" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DNB.html" target="_blank">DNB</a></td><td></td><td></td><td>78</td><td>118.22</td><td>128.55</td><td>108.77</td><td>96.27</td></tr>
+  <tr id="exr" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXR.html" target="_blank">EXR</a></td><td></td><td></td><td>78</td><td>74.68</td><td>76.9</td><td>70.01</td><td>0</td></tr>
   <tr id="yelp" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YELP.html" target="_blank">YELP</a></td><td></td><td></td><td>76</td><td>37.04</td><td>39.96</td><td>32</td><td>30.7</td></tr>
+  <tr id="kr" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KR.html" target="_blank">KR</a></td><td></td><td></td><td>75</td><td>31.45</td><td>33.24</td><td>28.95</td><td>0</td></tr>
   <tr id="nfx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NFX.html" target="_blank">NFX</a></td><td></td><td></td><td>75</td><td>38.49</td><td>41.36</td><td>33.54</td><td>34.21</td></tr>
+  <tr id="hbi" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HBI.html" target="_blank">HBI</a></td><td></td><td></td><td>71</td><td>25.25</td><td>25.93</td><td>23.66</td><td>0</td></tr>
   <tr id="rdc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RDC.html" target="_blank">RDC</a></td><td></td><td></td><td>67</td><td>15.05</td><td>15.59</td><td>13.38</td><td>14.02</td></tr>
   <tr id="uco" class="green">
