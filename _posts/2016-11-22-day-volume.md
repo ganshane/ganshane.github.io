@@ -1,21 +1,22 @@
 ---
 layout: post
 title:  "天量股票分析20161122"
-date:   2016-11-22 01:17:16
+date:   2016-11-22 04:18:05
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_ktos');
-stockList.push('gb_gps');
-stockList.push('gb_anf');
-stockList.push('gb_nuan');
-stockList.push('gb_klic');
-stockList.push('gb_rdc');
-stockList.push('gb_emes');
-stockList.push('gb_wsm');
-stockList.push('gb_cld');
-stockList.push('gb_gwph');
+stockList.push('gb_bas');
+stockList.push('gb_alj');
+stockList.push('gb_lock');
+stockList.push('gb_bks');
+stockList.push('gb_ete');
+stockList.push('gb_etp');
+stockList.push('gb_lake');
+stockList.push('gb_tk');
+stockList.push('gb_tplm');
+stockList.push('gb_imax');
+stockList.push('gb_sxl');
 </script>
 
 <table border="1">
@@ -26,14 +27,15 @@ stockList.push('gb_gwph');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="ktos"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KTOS.html" target="_blank">KTOS</a></td><td></td><td></td><td>0.027</td><td>7.898</td></tr>
-  <tr id="gps"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GPS.html" target="_blank">GPS</a></td><td></td><td></td><td>0.02</td><td>5.245</td></tr>
-  <tr id="anf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANF.html" target="_blank">ANF</a></td><td></td><td></td><td>0.017</td><td>5.412</td></tr>
-  <tr id="nuan"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NUAN.html" target="_blank">NUAN</a></td><td></td><td></td><td>0.015</td><td>5.949</td></tr>
-  <tr id="klic"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KLIC.html" target="_blank">KLIC</a></td><td></td><td></td><td>0.015</td><td>2.487</td></tr>
-  <tr id="rdc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RDC.html" target="_blank">RDC</a></td><td></td><td></td><td>0.015</td><td>2.407</td></tr>
-  <tr id="emes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EMES.html" target="_blank">EMES</a></td><td></td><td></td><td>0.014</td><td>6.251</td></tr>
-  <tr id="wsm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WSM.html" target="_blank">WSM</a></td><td></td><td></td><td>0.014</td><td>3.124</td></tr>
-  <tr id="cld"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLD.html" target="_blank">CLD</a></td><td></td><td></td><td>-0.014</td><td>2.122</td></tr>
-  <tr id="gwph"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GWPH.html" target="_blank">GWPH</a></td><td></td><td></td><td>0.013</td><td>2.343</td></tr>
+  <tr id="bas"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BAS.html" target="_blank">BAS</a></td><td></td><td></td><td>-0.039</td><td>8.168</td></tr>
+  <tr id="alj"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALJ.html" target="_blank">ALJ</a></td><td></td><td></td><td>0.025</td><td>2.831</td></tr>
+  <tr id="lock"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LOCK.html" target="_blank">LOCK</a></td><td></td><td></td><td>0.023</td><td>17.602</td></tr>
+  <tr id="bks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BKS.html" target="_blank">BKS</a></td><td></td><td></td><td>0.021</td><td>2.549</td></tr>
+  <tr id="ete"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ETE.html" target="_blank">ETE</a></td><td></td><td></td><td>0.019</td><td>2.571</td></tr>
+  <tr id="etp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ETP.html" target="_blank">ETP</a></td><td></td><td></td><td>0.016</td><td>3.742</td></tr>
+  <tr id="lake"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LAKE.html" target="_blank">LAKE</a></td><td></td><td></td><td>0.012</td><td>3.871</td></tr>
+  <tr id="tk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TK.html" target="_blank">TK</a></td><td></td><td></td><td>0.012</td><td>5.781</td></tr>
+  <tr id="tplm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TPLM.html" target="_blank">TPLM</a></td><td></td><td></td><td>0.012</td><td>7.43</td></tr>
+  <tr id="imax"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IMAX.html" target="_blank">IMAX</a></td><td></td><td></td><td>0.01</td><td>2.141</td></tr>
+  <tr id="sxl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SXL.html" target="_blank">SXL</a></td><td></td><td></td><td>0.01</td><td>8.225</td></tr>
 </table>
