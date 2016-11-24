@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20161124"
-date:   2016-11-24 01:17:02
+date:   2016-11-24 04:16:46
 categories: stock
 ---
 <script type="text/javascript">
@@ -25,7 +25,6 @@ stockList.push('gb_brs');
 stockList.push('gb_exas');
 stockList.push('gb_f');
 stockList.push('gb_podd');
-stockList.push('gb_ntes');
 stockList.push('gb_grpn');
 stockList.push('gb_cnc');
 stockList.push('gb_nlnk');
@@ -89,8 +88,6 @@ stockList.push('gb_spg');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/F.html" target="_blank">F</a></td><td></td><td></td><td>59</td><td>11.95</td><td>12.14</td><td>11.07</td><td>0</td></tr>
   <tr id="podd" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PODD.html" target="_blank">PODD</a></td><td></td><td></td><td>56</td><td>38.36</td><td>40.78</td><td>32.98</td><td>35.99</td></tr>
-  <tr id="ntes" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NTES.html" target="_blank">NTES</a></td><td></td><td></td><td>54</td><td>238.02</td><td>248.57</td><td>208.02</td><td>210.27</td></tr>
   <tr id="grpn" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GRPN.html" target="_blank">GRPN</a></td><td></td><td></td><td>52</td><td>4.94</td><td>4.17</td><td>3.79</td><td>3.69</td></tr>
   <tr id="cnc" class="green">
