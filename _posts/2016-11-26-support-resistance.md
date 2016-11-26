@@ -1,15 +1,17 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20161126"
-date:   2016-11-26 01:17:06
+date:   2016-11-26 04:16:40
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_atls');
 stockList.push('gb_ggn');
+stockList.push('gb_endp');
 stockList.push('gb_flo');
 stockList.push('gb_hele');
+stockList.push('gb_tsla');
 stockList.push('gb_tasr');
 stockList.push('gb_rrc');
 stockList.push('gb_ttm');
@@ -37,8 +39,7 @@ stockList.push('gb_ggp');
 stockList.push('gb_bxp');
 stockList.push('gb_baba');
 stockList.push('gb_cbi');
-stockList.push('gb_endp');
-stockList.push('gb_tsla');
+stockList.push('gb_spg');
 stockList.push('gb_dltr');
 </script>
 <table border="1">
@@ -56,10 +57,14 @@ stockList.push('gb_dltr');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATLS.html" target="_blank">ATLS</a></td><td></td><td></td><td>100</td><td>1.33</td><td>1.56</td><td>0.765</td><td>1.1</td></tr>
   <tr id="ggn" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GGN.html" target="_blank">GGN</a></td><td></td><td></td><td>100</td><td>6</td><td>6.26</td><td>5.38</td><td>5.61</td></tr>
+  <tr id="endp" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENDP.html" target="_blank">ENDP</a></td><td></td><td></td><td>95</td><td>16.76</td><td>17.74</td><td>15.42</td><td>0</td></tr>
   <tr id="flo" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FLO.html" target="_blank">FLO</a></td><td></td><td></td><td>94</td><td>17.39</td><td>18.77</td><td>15.05</td><td>15.58</td></tr>
   <tr id="hele" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HELE.html" target="_blank">HELE</a></td><td></td><td></td><td>92</td><td>93.73</td><td>89.87</td><td>78.5</td><td>0</td></tr>
+  <tr id="tsla" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TSLA.html" target="_blank">TSLA</a></td><td></td><td></td><td>91</td><td>197.05</td><td>213.7</td><td>181.21</td><td>0</td></tr>
   <tr id="tasr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TASR.html" target="_blank">TASR</a></td><td></td><td></td><td>86</td><td>28.18</td><td>29</td><td>25.18</td><td>23.73</td></tr>
   <tr id="rrc" class="red">
@@ -114,10 +119,8 @@ stockList.push('gb_dltr');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BABA.html" target="_blank">BABA</a></td><td></td><td></td><td>33</td><td>93.12</td><td>96.63</td><td>81.945</td><td>82.03</td></tr>
   <tr id="cbi" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CBI.html" target="_blank">CBI</a></td><td></td><td></td><td>33</td><td>33.74</td><td>39.04</td><td>27.53</td><td>29.2</td></tr>
-  <tr id="endp" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENDP.html" target="_blank">ENDP</a></td><td></td><td></td><td>29</td><td>16.76</td><td>17.74</td><td>15.42</td><td>0</td></tr>
-  <tr id="tsla" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TSLA.html" target="_blank">TSLA</a></td><td></td><td></td><td>28</td><td>197.05</td><td>213.7</td><td>181.21</td><td>0</td></tr>
+  <tr id="spg" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPG.html" target="_blank">SPG</a></td><td></td><td></td><td>24</td><td>194.77</td><td>189.25</td><td>176.68</td><td>0</td></tr>
   <tr id="dltr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DLTR.html" target="_blank">DLTR</a></td><td></td><td></td><td>23</td><td>90.23</td><td>99.93</td><td>77.64</td><td>83.72</td></tr>
 </table>
