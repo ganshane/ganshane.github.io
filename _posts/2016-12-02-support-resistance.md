@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20161202"
-date:   2016-12-02 01:16:40
+date:   2016-12-02 04:16:46
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,11 +10,11 @@ stockList.push('gb_cray');
 stockList.push('gb_ndls');
 stockList.push('gb_krg');
 stockList.push('gb_hfc');
+stockList.push('gb_jdst');
 stockList.push('gb_tsl');
 stockList.push('gb_tsla');
 stockList.push('gb_ag');
 stockList.push('gb_mmlp');
-stockList.push('gb_ggn');
 stockList.push('gb_feye');
 stockList.push('gb_low');
 stockList.push('gb_spwr');
@@ -32,6 +32,7 @@ stockList.push('gb_edz');
 stockList.push('gb_wdr');
 stockList.push('gb_se');
 stockList.push('gb_onvo');
+stockList.push('gb_ggn');
 stockList.push('gb_wpg');
 stockList.push('gb_nus');
 </script>
@@ -54,6 +55,8 @@ stockList.push('gb_nus');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KRG.html" target="_blank">KRG</a></td><td></td><td></td><td>96</td><td>25.95</td><td>25.44</td><td>23.47</td><td>0</td></tr>
   <tr id="hfc" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HFC.html" target="_blank">HFC</a></td><td></td><td></td><td>94</td><td>32.91</td><td>36.16</td><td>24.53</td><td>28.68</td></tr>
+  <tr id="jdst" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JDST.html" target="_blank">JDST</a></td><td></td><td></td><td>92</td><td>77.15</td><td>121.5</td><td>25.6</td><td>34.69</td></tr>
   <tr id="tsl" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TSL.html" target="_blank">TSL</a></td><td></td><td></td><td>90</td><td>9.68</td><td>10.1</td><td>8.06</td><td>8.9</td></tr>
   <tr id="tsla" class="green">
@@ -62,8 +65,6 @@ stockList.push('gb_nus');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AG.html" target="_blank">AG</a></td><td></td><td></td><td>79</td><td>9.29</td><td>9.21</td><td>7.75</td><td>8.52</td></tr>
   <tr id="mmlp" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MMLP.html" target="_blank">MMLP</a></td><td></td><td></td><td>69</td><td>18.84</td><td>18.29</td><td>15.95</td><td>0</td></tr>
-  <tr id="ggn" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GGN.html" target="_blank">GGN</a></td><td></td><td></td><td>65</td><td>6</td><td>6.26</td><td>5.45</td><td>5.61</td></tr>
   <tr id="feye" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FEYE.html" target="_blank">FEYE</a></td><td></td><td></td><td>62</td><td>13.08</td><td>13.97</td><td>10.87</td><td>0</td></tr>
   <tr id="low" class="green">
@@ -98,6 +99,8 @@ stockList.push('gb_nus');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SE.html" target="_blank">SE</a></td><td></td><td></td><td>33</td><td>41.5</td><td>43.27</td><td>38.76</td><td>37.06</td></tr>
   <tr id="onvo" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ONVO.html" target="_blank">ONVO</a></td><td></td><td></td><td>31</td><td>3.75</td><td>4</td><td>2.5</td><td>2.84</td></tr>
+  <tr id="ggn" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GGN.html" target="_blank">GGN</a></td><td></td><td></td><td>29</td><td>6</td><td>6.26</td><td>5.45</td><td>5.61</td></tr>
   <tr id="wpg" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPG.html" target="_blank">WPG</a></td><td></td><td></td><td>28</td><td>10.44</td><td>11.35</td><td>9.65</td><td>0</td></tr>
   <tr id="nus" class="red">
