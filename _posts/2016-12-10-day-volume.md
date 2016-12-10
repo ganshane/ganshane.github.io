@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20161210"
-date:   2016-12-10 01:16:45
+date:   2016-12-10 04:16:39
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,7 +32,7 @@ stockList.push('gb_sdlp');
   <tr id="pacd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PACD.html" target="_blank">PACD</a></td><td></td><td></td><td>0.025</td><td>4.11</td></tr>
   <tr id="bxe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BXE.html" target="_blank">BXE</a></td><td></td><td></td><td>0.025</td><td>2.006</td></tr>
   <tr id="dyn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DYN.html" target="_blank">DYN</a></td><td></td><td></td><td>-0.015</td><td>3.725</td></tr>
-  <tr id="knx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KNX.html" target="_blank">KNX</a></td><td></td><td></td><td>0.012</td><td>2.105</td></tr>
+  <tr id="knx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KNX.html" target="_blank">KNX</a></td><td></td><td></td><td>0.012</td><td>2.106</td></tr>
   <tr id="nadl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NADL.html" target="_blank">NADL</a></td><td></td><td></td><td>0.012</td><td>2.335</td></tr>
   <tr id="bx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BX.html" target="_blank">BX</a></td><td></td><td></td><td>0.012</td><td>2.294</td></tr>
   <tr id="sdlp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDLP.html" target="_blank">SDLP</a></td><td></td><td></td><td>0.01</td><td>4.402</td></tr>

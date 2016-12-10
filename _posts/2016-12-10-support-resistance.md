@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20161210"
-date:   2016-12-10 01:16:45
+date:   2016-12-10 04:16:39
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,7 +17,6 @@ stockList.push('gb_sina');
 stockList.push('gb_spwr');
 stockList.push('gb_ibb');
 stockList.push('gb_ppc');
-stockList.push('gb_nvgs');
 stockList.push('gb_se');
 stockList.push('gb_bax');
 stockList.push('gb_wpg');
@@ -56,8 +55,6 @@ stockList.push('gb_mmlp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IBB.html" target="_blank">IBB</a></td><td></td><td></td><td>55</td><td>276.63</td><td>286.81</td><td>250.71</td><td>0</td></tr>
   <tr id="ppc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PPC.html" target="_blank">PPC</a></td><td></td><td></td><td>49</td><td>19.5</td><td>21.44</td><td>17.34</td><td>0</td></tr>
-  <tr id="nvgs" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NVGS.html" target="_blank">NVGS</a></td><td></td><td></td><td>42</td><td>10.31</td><td>11.58</td><td>8</td><td>7.95</td></tr>
   <tr id="se" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SE.html" target="_blank">SE</a></td><td></td><td></td><td>35</td><td>41.5</td><td>42.33</td><td>38.76</td><td>37.06</td></tr>
   <tr id="bax" class="red">
