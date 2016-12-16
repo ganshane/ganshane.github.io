@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20161216"
-date:   2016-12-16 01:16:53
+date:   2016-12-16 04:16:49
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,8 +18,11 @@ stockList.push('gb_rt');
 stockList.push('gb_sig');
 stockList.push('gb_bmrn');
 stockList.push('gb_fxcm');
+stockList.push('gb_ego');
+stockList.push('gb_phk');
 stockList.push('gb_pfpt');
 stockList.push('gb_rate');
+stockList.push('gb_hos');
 stockList.push('gb_win');
 stockList.push('gb_sina');
 stockList.push('gb_tef');
@@ -67,10 +70,16 @@ stockList.push('gb_cpb');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BMRN.html" target="_blank">BMRN</a></td><td></td><td></td><td>66</td><td>91</td><td>85.8</td><td>78.2</td><td>0</td></tr>
   <tr id="fxcm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FXCM.html" target="_blank">FXCM</a></td><td></td><td></td><td>64</td><td>9.02</td><td>9.65</td><td>7.87</td><td>8.25</td></tr>
+  <tr id="ego" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EGO.html" target="_blank">EGO</a></td><td></td><td></td><td>62</td><td>3</td><td>3.78</td><td>2.63</td><td>0</td></tr>
+  <tr id="phk" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PHK.html" target="_blank">PHK</a></td><td></td><td></td><td>57</td><td>9.2</td><td>9.58</td><td>8.45</td><td>0</td></tr>
   <tr id="pfpt" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PFPT.html" target="_blank">PFPT</a></td><td></td><td></td><td>54</td><td>73.13</td><td>78.93</td><td>68.45</td><td>64.64</td></tr>
   <tr id="rate" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RATE.html" target="_blank">RATE</a></td><td></td><td></td><td>52</td><td>10.2</td><td>10.93</td><td>8.69</td><td>9.53</td></tr>
+  <tr id="hos" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HOS.html" target="_blank">HOS</a></td><td></td><td></td><td>50</td><td>7.92</td><td>9.62</td><td>4.35</td><td>6.73</td></tr>
   <tr id="win" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WIN.html" target="_blank">WIN</a></td><td></td><td></td><td>48</td><td>7.66</td><td>9.08</td><td>7.18</td><td>0</td></tr>
   <tr id="sina" class="green">
