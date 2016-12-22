@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "天量股票分析20161222"
-date:   2016-12-22 01:17:11
+date:   2016-12-22 04:17:25
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_glf');
 stockList.push('gb_jakk');
 stockList.push('gb_invn');
 </script>
@@ -19,7 +18,6 @@ stockList.push('gb_invn');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="glf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLF.html" target="_blank">GLF</a></td><td></td><td></td><td>0.045</td><td>2.186</td></tr>
   <tr id="jakk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JAKK.html" target="_blank">JAKK</a></td><td></td><td></td><td>-0.043</td><td>2.257</td></tr>
   <tr id="invn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INVN.html" target="_blank">INVN</a></td><td></td><td></td><td>0.028</td><td>9.652</td></tr>
 </table>
