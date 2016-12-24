@@ -1,12 +1,15 @@
 ---
 layout: post
 title:  "天量股票分析20161224"
-date:   2016-12-24 01:17:04
+date:   2016-12-24 04:16:56
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_ete');
+stockList.push('gb_bcei');
+stockList.push('gb_memp');
+stockList.push('gb_hpj');
+stockList.push('gb_gnc');
 </script>
 
 <table border="1">
@@ -17,5 +20,8 @@ stockList.push('gb_ete');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="ete"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ETE.html" target="_blank">ETE</a></td><td></td><td></td><td>0.01</td><td>2.123</td></tr>
+  <tr id="bcei"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BCEI.html" target="_blank">BCEI</a></td><td></td><td></td><td>0.045</td><td>6.952</td></tr>
+  <tr id="memp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MEMP.html" target="_blank">MEMP</a></td><td></td><td></td><td>-0.037</td><td>12.687</td></tr>
+  <tr id="hpj"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HPJ.html" target="_blank">HPJ</a></td><td></td><td></td><td>-0.019</td><td>3.081</td></tr>
+  <tr id="gnc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GNC.html" target="_blank">GNC</a></td><td></td><td></td><td>-0.013</td><td>3.626</td></tr>
 </table>
