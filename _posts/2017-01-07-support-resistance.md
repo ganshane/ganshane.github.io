@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170107"
-date:   2017-01-07 01:17:56
+date:   2017-01-07 04:16:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,12 +9,12 @@ var stockList = []
 stockList.push('gb_bud');
 stockList.push('gb_gme');
 stockList.push('gb_tv');
-stockList.push('gb_spxs');
 stockList.push('gb_bsmx');
 stockList.push('gb_ino');
 stockList.push('gb_sppi');
 stockList.push('gb_nq');
 stockList.push('gb_alsn');
+stockList.push('gb_mnst');
 stockList.push('gb_himx');
 stockList.push('gb_cbi');
 stockList.push('gb_mdrx');
@@ -39,8 +39,6 @@ stockList.push('gb_wprt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GME.html" target="_blank">GME</a></td><td></td><td></td><td>97</td><td>25.18</td><td>26.54</td><td>20.5</td><td>0</td></tr>
   <tr id="tv" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TV.html" target="_blank">TV</a></td><td></td><td></td><td>91</td><td>24.31</td><td>25.73</td><td>20.13</td><td>20.89</td></tr>
-  <tr id="spxs" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPXS.html" target="_blank">SPXS</a></td><td></td><td></td><td>91</td><td>12.11</td><td>12.64</td><td>10.36</td><td>0</td></tr>
   <tr id="bsmx" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BSMX.html" target="_blank">BSMX</a></td><td></td><td></td><td>87</td><td>8.27</td><td>7.6</td><td>6.77</td><td>0</td></tr>
   <tr id="ino" class="red">
@@ -51,6 +49,8 @@ stockList.push('gb_wprt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>72</td><td>3.49</td><td>3.78</td><td>3.19</td><td>0</td></tr>
   <tr id="alsn" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALSN.html" target="_blank">ALSN</a></td><td></td><td></td><td>71</td><td>33.5</td><td>34.54</td><td>28.29</td><td>30.52</td></tr>
+  <tr id="mnst" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MNST.html" target="_blank">MNST</a></td><td></td><td></td><td>67</td><td>120.91</td><td>148.74</td><td>44.11</td><td>45.2</td></tr>
   <tr id="himx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HIMX.html" target="_blank">HIMX</a></td><td></td><td></td><td>67</td><td>6.71</td><td>7.73</td><td>6.02</td><td>0</td></tr>
   <tr id="cbi" class="red">
