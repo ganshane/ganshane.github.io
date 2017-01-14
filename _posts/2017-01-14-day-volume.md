@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "天量股票分析20170114"
-date:   2017-01-14 01:16:50
+date:   2017-01-14 04:16:45
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
+stockList.push('gb_enph');
 stockList.push('gb_sgmo');
 stockList.push('gb_nvgs');
 stockList.push('gb_dxcm');
@@ -24,6 +25,7 @@ stockList.push('gb_sn');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
+  <tr id="enph"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENPH.html" target="_blank">ENPH</a></td><td></td><td></td><td>0.035</td><td>3.297</td></tr>
   <tr id="sgmo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGMO.html" target="_blank">SGMO</a></td><td></td><td></td><td>0.028</td><td>2.234</td></tr>
   <tr id="nvgs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NVGS.html" target="_blank">NVGS</a></td><td></td><td></td><td>0.018</td><td>2.172</td></tr>
   <tr id="dxcm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DXCM.html" target="_blank">DXCM</a></td><td></td><td></td><td>0.017</td><td>6.453</td></tr>
