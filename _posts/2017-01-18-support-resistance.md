@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170118"
-date:   2017-01-18 01:19:12
+date:   2017-01-18 04:17:31
 categories: stock
 ---
 <script type="text/javascript">
@@ -27,6 +27,7 @@ stockList.push('gb_rice');
 stockList.push('gb_dk');
 stockList.push('gb_wern');
 stockList.push('gb_wfc');
+stockList.push('gb_dxj');
 stockList.push('gb_el');
 stockList.push('gb_eme');
 stockList.push('gb_dltr');
@@ -90,6 +91,8 @@ stockList.push('gb_mro');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WERN.html" target="_blank">WERN</a></td><td></td><td></td><td>45</td><td>27.1</td><td>28.8</td><td>22.65</td><td>25.38</td></tr>
   <tr id="wfc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WFC.html" target="_blank">WFC</a></td><td></td><td></td><td>44</td><td>54.65</td><td>56.35</td><td>47.62</td><td>50.87</td></tr>
+  <tr id="dxj" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DXJ.html" target="_blank">DXJ</a></td><td></td><td></td><td>44</td><td>49.23</td><td>51.25</td><td>43.63</td><td>45.87</td></tr>
   <tr id="el" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EL.html" target="_blank">EL</a></td><td></td><td></td><td>42</td><td>87.09</td><td>87.72</td><td>77.41</td><td>79.71</td></tr>
   <tr id="eme" class="red">

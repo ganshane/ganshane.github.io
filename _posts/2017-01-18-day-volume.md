@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20170118"
-date:   2017-01-18 01:19:12
+date:   2017-01-18 04:17:31
 categories: stock
 ---
 <script type="text/javascript">
@@ -27,7 +27,7 @@ stockList.push('gb_lci');
   <tr id="memp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MEMP.html" target="_blank">MEMP</a></td><td></td><td></td><td>0.058</td><td>2.536</td></tr>
   <tr id="ptx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTX.html" target="_blank">PTX</a></td><td></td><td></td><td>0.047</td><td>3.118</td></tr>
   <tr id="enph"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENPH.html" target="_blank">ENPH</a></td><td></td><td></td><td>0.041</td><td>2.881</td></tr>
-  <tr id="nvgs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NVGS.html" target="_blank">NVGS</a></td><td></td><td></td><td>0.018</td><td>2.172</td></tr>
+  <tr id="nvgs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NVGS.html" target="_blank">NVGS</a></td><td></td><td></td><td>0.02</td><td>2.132</td></tr>
   <tr id="edu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EDU.html" target="_blank">EDU</a></td><td></td><td></td><td>0.015</td><td>2.288</td></tr>
   <tr id="lci"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LCI.html" target="_blank">LCI</a></td><td></td><td></td><td>-0.013</td><td>3.981</td></tr>
 </table>
