@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  "天量股票分析20170120"
-date:   2017-01-20 01:16:59
+date:   2017-01-20 04:17:07
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_enph');
-stockList.push('gb_ccj');
-stockList.push('gb_sblk');
-stockList.push('gb_asna');
-stockList.push('gb_rexx');
-stockList.push('gb_aa');
-stockList.push('gb_edu');
-stockList.push('gb_yy');
-stockList.push('gb_sale');
+stockList.push('gb_cenx');
+stockList.push('gb_rcii');
+stockList.push('gb_ddd');
+stockList.push('gb_mnk');
+stockList.push('gb_stng');
+stockList.push('gb_lmca');
+stockList.push('gb_lmck');
+stockList.push('gb_cbl');
+stockList.push('gb_ecyt');
 </script>
 
 <table border="1">
@@ -25,13 +25,13 @@ stockList.push('gb_sale');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="enph"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENPH.html" target="_blank">ENPH</a></td><td></td><td></td><td>0.048</td><td>2.27</td></tr>
-  <tr id="ccj"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CCJ.html" target="_blank">CCJ</a></td><td></td><td></td><td>0.03</td><td>3.153</td></tr>
-  <tr id="sblk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SBLK.html" target="_blank">SBLK</a></td><td></td><td></td><td>0.027</td><td>4.062</td></tr>
-  <tr id="asna"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ASNA.html" target="_blank">ASNA</a></td><td></td><td></td><td>-0.02</td><td>2.267</td></tr>
-  <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>0.018</td><td>7.073</td></tr>
-  <tr id="aa"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AA.html" target="_blank">AA</a></td><td></td><td></td><td>0.014</td><td>2.094</td></tr>
-  <tr id="edu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EDU.html" target="_blank">EDU</a></td><td></td><td></td><td>0.012</td><td>2.089</td></tr>
-  <tr id="yy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YY.html" target="_blank">YY</a></td><td></td><td></td><td>0.012</td><td>2.023</td></tr>
-  <tr id="sale"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SALE.html" target="_blank">SALE</a></td><td></td><td></td><td>-0.01</td><td>2.094</td></tr>
+  <tr id="cenx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CENX.html" target="_blank">CENX</a></td><td></td><td></td><td>0.036</td><td>2.289</td></tr>
+  <tr id="rcii"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCII.html" target="_blank">RCII</a></td><td></td><td></td><td>-0.014</td><td>8.26</td></tr>
+  <tr id="ddd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DDD.html" target="_blank">DDD</a></td><td></td><td></td><td>0.013</td><td>2.201</td></tr>
+  <tr id="mnk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MNK.html" target="_blank">MNK</a></td><td></td><td></td><td>-0.013</td><td>3.015</td></tr>
+  <tr id="stng"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/STNG.html" target="_blank">STNG</a></td><td></td><td></td><td>-0.012</td><td>3.178</td></tr>
+  <tr id="lmca"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LMCA.html" target="_blank">LMCA</a></td><td></td><td></td><td>-0.011</td><td>5.741</td></tr>
+  <tr id="lmck"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LMCK.html" target="_blank">LMCK</a></td><td></td><td></td><td>-0.011</td><td>11.533</td></tr>
+  <tr id="cbl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CBL.html" target="_blank">CBL</a></td><td></td><td></td><td>-0.01</td><td>2.542</td></tr>
+  <tr id="ecyt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ECYT.html" target="_blank">ECYT</a></td><td></td><td></td><td>-0.01</td><td>3.612</td></tr>
 </table>
