@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170126"
-date:   2017-01-26 01:17:44
+date:   2017-01-26 04:28:21
 categories: stock
 ---
 <script type="text/javascript">
@@ -28,7 +28,6 @@ stockList.push('gb_pdco');
 stockList.push('gb_myl');
 stockList.push('gb_iau');
 stockList.push('gb_dyn');
-stockList.push('gb_bah');
 stockList.push('gb_enph');
 stockList.push('gb_wuba');
 stockList.push('gb_bhi');
@@ -91,8 +90,6 @@ stockList.push('gb_jpm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IAU.html" target="_blank">IAU</a></td><td></td><td></td><td>49</td><td>11.63</td><td>12.42</td><td>10.86</td><td>0</td></tr>
   <tr id="dyn" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DYN.html" target="_blank">DYN</a></td><td></td><td></td><td>48</td><td>11.97</td><td>13.52</td><td>8.05</td><td>9.43</td></tr>
-  <tr id="bah" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BAH.html" target="_blank">BAH</a></td><td></td><td></td><td>45</td><td>35.63</td><td>36.57</td><td>29.9</td><td>31.76</td></tr>
   <tr id="enph" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENPH.html" target="_blank">ENPH</a></td><td></td><td></td><td>44</td><td>1.75</td><td>2</td><td>1.07</td><td>1.32</td></tr>
   <tr id="wuba" class="red">

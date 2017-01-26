@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "天量股票分析20170126"
-date:   2017-01-26 01:17:44
+date:   2017-01-26 04:28:21
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_cenx');
-stockList.push('gb_pacd');
 stockList.push('gb_tk');
 stockList.push('gb_vnr');
 stockList.push('gb_mmyt');
@@ -29,9 +27,7 @@ stockList.push('gb_glng');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="cenx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CENX.html" target="_blank">CENX</a></td><td></td><td></td><td>0.061</td><td>2.195</td></tr>
-  <tr id="pacd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PACD.html" target="_blank">PACD</a></td><td></td><td></td><td>-0.025</td><td>4.011</td></tr>
-  <tr id="tk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TK.html" target="_blank">TK</a></td><td></td><td></td><td>0.023</td><td>2.511</td></tr>
+  <tr id="tk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TK.html" target="_blank">TK</a></td><td></td><td></td><td>0.023</td><td>2.509</td></tr>
   <tr id="vnr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VNR.html" target="_blank">VNR</a></td><td></td><td></td><td>0.022</td><td>4.081</td></tr>
   <tr id="mmyt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MMYT.html" target="_blank">MMYT</a></td><td></td><td></td><td>0.021</td><td>3.097</td></tr>
   <tr id="ati"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATI.html" target="_blank">ATI</a></td><td></td><td></td><td>0.02</td><td>2.537</td></tr>
