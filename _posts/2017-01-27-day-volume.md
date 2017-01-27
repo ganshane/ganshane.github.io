@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20170127"
-date:   2017-01-27 01:17:40
+date:   2017-01-27 04:17:09
 categories: stock
 ---
 <script type="text/javascript">
@@ -29,7 +29,7 @@ stockList.push('gb_gnw');
 </tr>
   <tr id="vnr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VNR.html" target="_blank">VNR</a></td><td></td><td></td><td>0.034</td><td>2.087</td></tr>
   <tr id="mmyt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MMYT.html" target="_blank">MMYT</a></td><td></td><td></td><td>0.023</td><td>2.443</td></tr>
-  <tr id="bmy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BMY.html" target="_blank">BMY</a></td><td></td><td></td><td>-0.02</td><td>2.278</td></tr>
+  <tr id="bmy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BMY.html" target="_blank">BMY</a></td><td></td><td></td><td>-0.02</td><td>2.277</td></tr>
   <tr id="tv"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TV.html" target="_blank">TV</a></td><td></td><td></td><td>0.015</td><td>2.313</td></tr>
   <tr id="ndls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NDLS.html" target="_blank">NDLS</a></td><td></td><td></td><td>-0.015</td><td>2.053</td></tr>
   <tr id="mtw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTW.html" target="_blank">MTW</a></td><td></td><td></td><td>0.013</td><td>2.86</td></tr>
