@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170207"
-date:   2017-02-07 01:17:22
+date:   2017-02-07 04:16:54
 categories: stock
 ---
 <script type="text/javascript">
@@ -20,6 +20,7 @@ stockList.push('gb_pbct');
 stockList.push('gb_mbi');
 stockList.push('gb_sppi');
 stockList.push('gb_tv');
+stockList.push('gb_tdw');
 stockList.push('gb_oas');
 stockList.push('gb_bios');
 stockList.push('gb_c');
@@ -65,6 +66,8 @@ stockList.push('gb_sonc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPPI.html" target="_blank">SPPI</a></td><td></td><td></td><td>62</td><td>5.2</td><td>5.72</td><td>4.4</td><td>4.87</td></tr>
   <tr id="tv" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TV.html" target="_blank">TV</a></td><td></td><td></td><td>55</td><td>24.31</td><td>25.73</td><td>20.13</td><td>22.08</td></tr>
+  <tr id="tdw" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TDW.html" target="_blank">TDW</a></td><td></td><td></td><td>54</td><td>2.16</td><td>3.3</td><td>1.91</td><td>0</td></tr>
   <tr id="oas" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OAS.html" target="_blank">OAS</a></td><td></td><td></td><td>52</td><td>14.48</td><td>15.16</td><td>11.06</td><td>11.92</td></tr>
   <tr id="bios" class="red">
