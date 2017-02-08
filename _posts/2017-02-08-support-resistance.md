@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170208"
-date:   2017-02-08 01:17:52
+date:   2017-02-08 04:16:57
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_zumz');
 stockList.push('gb_ffiv');
 stockList.push('gb_alj');
 stockList.push('gb_adp');
@@ -39,8 +38,6 @@ stockList.push('gb_oih');
  <td>支撑1</td>
  <td>支撑2</td>
 </tr>
-  <tr id="zumz" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ZUMZ.html" target="_blank">ZUMZ</a></td><td></td><td></td><td>100</td><td>21.2</td><td>22.8</td><td>18.4</td><td>17.63</td></tr>
   <tr id="ffiv" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FFIV.html" target="_blank">FFIV</a></td><td></td><td></td><td>93</td><td>138.48</td><td>144.14</td><td>122.72</td><td>126.85</td></tr>
   <tr id="alj" class="red">
