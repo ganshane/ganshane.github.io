@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170211"
-date:   2017-02-11 01:17:21
+date:   2017-02-11 04:16:40
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,6 +9,7 @@ var stockList = []
 stockList.push('gb_tdw');
 stockList.push('gb_zumz');
 stockList.push('gb_clmt');
+stockList.push('gb_sgmo');
 stockList.push('gb_ugaz');
 stockList.push('gb_tsco');
 stockList.push('gb_ment');
@@ -18,6 +19,7 @@ stockList.push('gb_gci');
 stockList.push('gb_nvo');
 stockList.push('gb_phk');
 stockList.push('gb_eric');
+stockList.push('gb_wnr');
 stockList.push('gb_nwsa');
 stockList.push('gb_sco');
 stockList.push('gb_met');
@@ -49,6 +51,8 @@ stockList.push('gb_fti');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ZUMZ.html" target="_blank">ZUMZ</a></td><td></td><td></td><td>100</td><td>21.2</td><td>22.8</td><td>18.4</td><td>17.63</td></tr>
   <tr id="clmt" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLMT.html" target="_blank">CLMT</a></td><td></td><td></td><td>100</td><td>3.9</td><td>4.2</td><td>3.42</td><td>0</td></tr>
+  <tr id="sgmo" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGMO.html" target="_blank">SGMO</a></td><td></td><td></td><td>100</td><td>4.18</td><td>4.22</td><td>3.35</td><td>3.7</td></tr>
   <tr id="ugaz" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UGAZ.html" target="_blank">UGAZ</a></td><td></td><td></td><td>96</td><td>26.78</td><td>26.8</td><td>22.21</td><td>0</td></tr>
   <tr id="tsco" class="red">
@@ -67,6 +71,8 @@ stockList.push('gb_fti');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PHK.html" target="_blank">PHK</a></td><td></td><td></td><td>67</td><td>9.02</td><td>9.3</td><td>8.45</td><td>0</td></tr>
   <tr id="eric" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ERIC.html" target="_blank">ERIC</a></td><td></td><td></td><td>66</td><td>5.74</td><td>6.01</td><td>5.1</td><td>5.19</td></tr>
+  <tr id="wnr" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WNR.html" target="_blank">WNR</a></td><td></td><td></td><td>64</td><td>37.98</td><td>39.54</td><td>34.5</td><td>29.78</td></tr>
   <tr id="nwsa" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NWSA.html" target="_blank">NWSA</a></td><td></td><td></td><td>63</td><td>13.47</td><td>14.34</td><td>11.32</td><td>12.32</td></tr>
   <tr id="sco" class="green">
