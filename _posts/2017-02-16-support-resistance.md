@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170216"
-date:   2017-02-16 01:16:54
+date:   2017-02-16 04:16:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,6 +9,7 @@ var stockList = []
 stockList.push('gb_memp');
 stockList.push('gb_wnr');
 stockList.push('gb_ment');
+stockList.push('gb_ths');
 stockList.push('gb_hznp');
 stockList.push('gb_wetf');
 stockList.push('gb_ngg');
@@ -22,7 +23,6 @@ stockList.push('gb_bita');
 stockList.push('gb_ugaz');
 stockList.push('gb_dar');
 stockList.push('gb_sfm');
-stockList.push('gb_auy');
 stockList.push('gb_rmti');
 stockList.push('gb_uan');
 stockList.push('gb_sjm');
@@ -45,6 +45,8 @@ stockList.push('gb_sbgl');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WNR.html" target="_blank">WNR</a></td><td></td><td></td><td>95</td><td>37.98</td><td>39.54</td><td>34.5</td><td>29.78</td></tr>
   <tr id="ment" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MENT.html" target="_blank">MENT</a></td><td></td><td></td><td>92</td><td>36.9</td><td>36.94</td><td>22.69</td><td>24.63</td></tr>
+  <tr id="ths" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/THS.html" target="_blank">THS</a></td><td></td><td></td><td>89</td><td>85.06</td><td>88.54</td><td>72.13</td><td>73.79</td></tr>
   <tr id="hznp" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HZNP.html" target="_blank">HZNP</a></td><td></td><td></td><td>89</td><td>17.43</td><td>18.19</td><td>14.96</td><td>0</td></tr>
   <tr id="wetf" class="red">
@@ -71,8 +73,6 @@ stockList.push('gb_sbgl');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DAR.html" target="_blank">DAR</a></td><td></td><td></td><td>54</td><td>12.8</td><td>13.55</td><td>11.53</td><td>0</td></tr>
   <tr id="sfm" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SFM.html" target="_blank">SFM</a></td><td></td><td></td><td>48</td><td>19.04</td><td>20.28</td><td>17.59</td><td>0</td></tr>
-  <tr id="auy" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AUY.html" target="_blank">AUY</a></td><td></td><td></td><td>41</td><td>3.64</td><td>3.8</td><td>2.89</td><td>3.39</td></tr>
   <tr id="rmti" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RMTI.html" target="_blank">RMTI</a></td><td></td><td></td><td>38</td><td>6.33</td><td>6.8</td><td>5.27</td><td>0</td></tr>
   <tr id="uan" class="red">
