@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170223"
-date:   2017-02-23 01:17:03
+date:   2017-02-23 04:16:56
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,7 +17,7 @@ stockList.push('gb_epe');
 stockList.push('gb_rig');
 stockList.push('gb_nat');
 stockList.push('gb_dks');
-stockList.push('gb_alny');
+stockList.push('gb_clmt');
 stockList.push('gb_hbi');
 stockList.push('gb_gci');
 stockList.push('gb_hfc');
@@ -65,8 +65,8 @@ stockList.push('gb_clne');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NAT.html" target="_blank">NAT</a></td><td></td><td></td><td>76</td><td>8.31</td><td>9.39</td><td>7.57</td><td>0</td></tr>
   <tr id="dks" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DKS.html" target="_blank">DKS</a></td><td></td><td></td><td>75</td><td>50.58</td><td>53.75</td><td>37.96</td><td>43.54</td></tr>
-  <tr id="alny" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALNY.html" target="_blank">ALNY</a></td><td></td><td></td><td>70</td><td>52.43</td><td>48.44</td><td>39.28</td><td>45.07</td></tr>
+  <tr id="clmt" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLMT.html" target="_blank">CLMT</a></td><td></td><td></td><td>75</td><td>3.9</td><td>4.2</td><td>3.42</td><td>0</td></tr>
   <tr id="hbi" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HBI.html" target="_blank">HBI</a></td><td></td><td></td><td>68</td><td>21.4</td><td>23.75</td><td>19.89</td><td>0</td></tr>
   <tr id="gci" class="red">
