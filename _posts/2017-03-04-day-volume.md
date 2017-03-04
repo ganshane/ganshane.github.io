@@ -1,20 +1,19 @@
 ---
 layout: post
 title:  "天量股票分析20170304"
-date:   2017-03-04 01:17:11
+date:   2017-03-04 04:17:01
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_imgn');
+stockList.push('gb_jnug');
 stockList.push('gb_ipxl');
-stockList.push('gb_nadl');
-stockList.push('gb_sdlp');
-stockList.push('gb_fold');
-stockList.push('gb_srpt');
-stockList.push('gb_gdxj');
-stockList.push('gb_tif');
-stockList.push('gb_wti');
+stockList.push('gb_sdrl');
+stockList.push('gb_nlnk');
+stockList.push('gb_wprt');
+stockList.push('gb_kpti');
+stockList.push('gb_glf');
+stockList.push('gb_fosl');
 </script>
 
 <table border="1">
@@ -25,13 +24,12 @@ stockList.push('gb_wti');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="imgn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IMGN.html" target="_blank">IMGN</a></td><td></td><td></td><td>0.04</td><td>2.009</td></tr>
-  <tr id="ipxl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IPXL.html" target="_blank">IPXL</a></td><td></td><td></td><td>-0.027</td><td>2.209</td></tr>
-  <tr id="nadl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NADL.html" target="_blank">NADL</a></td><td></td><td></td><td>-0.022</td><td>2.402</td></tr>
-  <tr id="sdlp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDLP.html" target="_blank">SDLP</a></td><td></td><td></td><td>-0.018</td><td>2.005</td></tr>
-  <tr id="fold"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FOLD.html" target="_blank">FOLD</a></td><td></td><td></td><td>0.016</td><td>2.547</td></tr>
-  <tr id="srpt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SRPT.html" target="_blank">SRPT</a></td><td></td><td></td><td>0.016</td><td>2.544</td></tr>
-  <tr id="gdxj"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GDXJ.html" target="_blank">GDXJ</a></td><td></td><td></td><td>-0.015</td><td>2.217</td></tr>
-  <tr id="tif"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TIF.html" target="_blank">TIF</a></td><td></td><td></td><td>0.012</td><td>2.213</td></tr>
-  <tr id="wti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WTI.html" target="_blank">WTI</a></td><td></td><td></td><td>-0.011</td><td>5.345</td></tr>
+  <tr id="jnug"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JNUG.html" target="_blank">JNUG</a></td><td></td><td></td><td>-0.068</td><td>2.156</td></tr>
+  <tr id="ipxl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IPXL.html" target="_blank">IPXL</a></td><td></td><td></td><td>-0.044</td><td>2.27</td></tr>
+  <tr id="sdrl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDRL.html" target="_blank">SDRL</a></td><td></td><td></td><td>-0.022</td><td>2.981</td></tr>
+  <tr id="nlnk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NLNK.html" target="_blank">NLNK</a></td><td></td><td></td><td>0.022</td><td>2.061</td></tr>
+  <tr id="wprt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPRT.html" target="_blank">WPRT</a></td><td></td><td></td><td>-0.019</td><td>2.07</td></tr>
+  <tr id="kpti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KPTI.html" target="_blank">KPTI</a></td><td></td><td></td><td>0.016</td><td>2.606</td></tr>
+  <tr id="glf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLF.html" target="_blank">GLF</a></td><td></td><td></td><td>-0.012</td><td>2.141</td></tr>
+  <tr id="fosl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FOSL.html" target="_blank">FOSL</a></td><td></td><td></td><td>-0.01</td><td>2.507</td></tr>
 </table>
