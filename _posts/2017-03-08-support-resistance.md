@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170308"
-date:   2017-03-08 01:17:01
+date:   2017-03-08 04:16:44
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,6 +11,7 @@ stockList.push('gb_pdli');
 stockList.push('gb_trn');
 stockList.push('gb_cpb');
 stockList.push('gb_cld');
+stockList.push('gb_inn');
 stockList.push('gb_oke');
 stockList.push('gb_smfg');
 stockList.push('gb_nwsa');
@@ -24,7 +25,6 @@ stockList.push('gb_catm');
 stockList.push('gb_mscc');
 stockList.push('gb_sjm');
 stockList.push('gb_vxz');
-stockList.push('gb_inn');
 stockList.push('gb_kerx');
 stockList.push('gb_mnk');
 stockList.push('gb_m');
@@ -57,6 +57,8 @@ stockList.push('gb_mbt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CPB.html" target="_blank">CPB</a></td><td></td><td></td><td>79</td><td>59.43</td><td>61.45</td><td>52.59</td><td>55.2</td></tr>
   <tr id="cld" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLD.html" target="_blank">CLD</a></td><td></td><td></td><td>77</td><td>5.07</td><td>5.73</td><td>3.38</td><td>4.24</td></tr>
+  <tr id="inn" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INN.html" target="_blank">INN</a></td><td></td><td></td><td>75</td><td>15.45</td><td>16.33</td><td>13.51</td><td>14.43</td></tr>
   <tr id="oke" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OKE.html" target="_blank">OKE</a></td><td></td><td></td><td>74</td><td>57.16</td><td>56.8</td><td>52.86</td><td>51.2</td></tr>
   <tr id="smfg" class="red">
@@ -83,8 +85,6 @@ stockList.push('gb_mbt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SJM.html" target="_blank">SJM</a></td><td></td><td></td><td>44</td><td>150.25</td><td>153.48</td><td>130.01</td><td>138.28</td></tr>
   <tr id="vxz" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VXZ.html" target="_blank">VXZ</a></td><td></td><td></td><td>44</td><td>35.88</td><td>30.33</td><td>28.29</td><td>0</td></tr>
-  <tr id="inn" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INN.html" target="_blank">INN</a></td><td></td><td></td><td>43</td><td>15.45</td><td>16.33</td><td>13.51</td><td>14.43</td></tr>
   <tr id="kerx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KERX.html" target="_blank">KERX</a></td><td></td><td></td><td>39</td><td>5.59</td><td>5.46</td><td>4.47</td><td>4.88</td></tr>
   <tr id="mnk" class="green">
