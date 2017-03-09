@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170309"
-date:   2017-03-09 01:17:27
+date:   2017-03-09 04:17:31
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,10 +12,9 @@ stockList.push('gb_gme');
 stockList.push('gb_oke');
 stockList.push('gb_bbby');
 stockList.push('gb_wll');
-stockList.push('gb_nwsa');
 stockList.push('gb_bhi');
+stockList.push('gb_gci');
 stockList.push('gb_smfg');
-stockList.push('gb_gogo');
 stockList.push('gb_skyw');
 stockList.push('gb_dnb');
 stockList.push('gb_conn');
@@ -23,7 +22,6 @@ stockList.push('gb_rgld');
 stockList.push('gb_nbr');
 stockList.push('gb_qcom');
 stockList.push('gb_sppi');
-stockList.push('gb_mnk');
 stockList.push('gb_xme');
 stockList.push('gb_trn');
 stockList.push('gb_ubnt');
@@ -51,14 +49,12 @@ stockList.push('gb_ubnt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBBY.html" target="_blank">BBBY</a></td><td></td><td></td><td>83</td><td>41.86</td><td>41.98</td><td>39.09</td><td>0</td></tr>
   <tr id="wll" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WLL.html" target="_blank">WLL</a></td><td></td><td></td><td>81</td><td>10.28</td><td>11.75</td><td>7.89</td><td>9.44</td></tr>
-  <tr id="nwsa" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NWSA.html" target="_blank">NWSA</a></td><td></td><td></td><td>71</td><td>13.47</td><td>13.38</td><td>12</td><td>12.32</td></tr>
   <tr id="bhi" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BHI.html" target="_blank">BHI</a></td><td></td><td></td><td>67</td><td>59.43</td><td>62.24</td><td>51</td><td>52.04</td></tr>
+  <tr id="gci" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCI.html" target="_blank">GCI</a></td><td></td><td></td><td>63</td><td>8.67</td><td>9.21</td><td>7.97</td><td>0</td></tr>
   <tr id="smfg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SMFG.html" target="_blank">SMFG</a></td><td></td><td></td><td>61</td><td>7.61</td><td>7.97</td><td>6.61</td><td>7.14</td></tr>
-  <tr id="gogo" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOGO.html" target="_blank">GOGO</a></td><td></td><td></td><td>60</td><td>11.73</td><td>11.2</td><td>9</td><td>10.45</td></tr>
   <tr id="skyw" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SKYW.html" target="_blank">SKYW</a></td><td></td><td></td><td>60</td><td>34.85</td><td>36.4</td><td>31.93</td><td>30.25</td></tr>
   <tr id="dnb" class="green">
@@ -73,8 +69,6 @@ stockList.push('gb_ubnt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QCOM.html" target="_blank">QCOM</a></td><td></td><td></td><td>39</td><td>60.94</td><td>63.7</td><td>52.48</td><td>57.15</td></tr>
   <tr id="sppi" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPPI.html" target="_blank">SPPI</a></td><td></td><td></td><td>39</td><td>6.43</td><td>6.83</td><td>5.2</td><td>5.72</td></tr>
-  <tr id="mnk" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MNK.html" target="_blank">MNK</a></td><td></td><td></td><td>38</td><td>51.89</td><td>54.54</td><td>48.61</td><td>0</td></tr>
   <tr id="xme" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XME.html" target="_blank">XME</a></td><td></td><td></td><td>38</td><td>32.68</td><td>33.37</td><td>30.41</td><td>29.14</td></tr>
   <tr id="trn" class="red">
