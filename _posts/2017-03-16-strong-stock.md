@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "强势股票分析20170316"
-date:   2017-03-16 01:16:52
+date:   2017-03-16 04:17:20
 categories: stock
 ---
 <table border="1">
@@ -867,11 +867,11 @@ categories: stock
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VTR.html" target="_blank">VTR</a></td><td>-0.001</td><td>-0.008</td><td>-0.004</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AVT.html" target="_blank">AVT</a></td><td>-0.001</td><td>-0.001</td><td>0.005</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AIG.html" target="_blank">AIG</a></td><td>-0.001</td><td>-0.002</td><td>0.004</td></tr>
-  <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TYC.html" target="_blank">TYC</a></td><td>-0.001</td><td>-0.002</td><td>0.003</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FIVE.html" target="_blank">FIVE</a></td><td>-0.001</td><td>-0.003</td><td>0.008</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TXT.html" target="_blank">TXT</a></td><td>-0.001</td><td>-0.002</td><td>-0</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RY.html" target="_blank">RY</a></td><td>-0.001</td><td>-0.003</td><td>-0.002</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VNQ.html" target="_blank">VNQ</a></td><td>-0.001</td><td>-0.005</td><td>0.006</td></tr>
+  <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TYC.html" target="_blank">TYC</a></td><td>-0.001</td><td>-0.001</td><td>-0.005</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DFT.html" target="_blank">DFT</a></td><td>-0.001</td><td>-0.006</td><td>0.005</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BRKS.html" target="_blank">BRKS</a></td><td>-0.001</td><td>0.001</td><td>0.001</td></tr>
   <tr style="background-color:white"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ROST.html" target="_blank">ROST</a></td><td>-0.001</td><td>0</td><td>0.003</td></tr>
