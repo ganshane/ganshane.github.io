@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20170329"
-date:   2017-03-29 01:17:00
+date:   2017-03-29 04:16:53
 categories: stock
 ---
 <script type="text/javascript">
@@ -22,7 +22,7 @@ stockList.push('gb_mpel');
  <td>天量指数</td>
 </tr>
   <tr id="tplm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TPLM.html" target="_blank">TPLM</a></td><td></td><td></td><td>0.019</td><td>14.007</td></tr>
-  <tr id="bios"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIOS.html" target="_blank">BIOS</a></td><td></td><td></td><td>-0.019</td><td>2.541</td></tr>
+  <tr id="bios"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIOS.html" target="_blank">BIOS</a></td><td></td><td></td><td>-0.019</td><td>2.533</td></tr>
   <tr id="ptx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTX.html" target="_blank">PTX</a></td><td></td><td></td><td>0.012</td><td>2.918</td></tr>
   <tr id="tcbi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TCBI.html" target="_blank">TCBI</a></td><td></td><td></td><td>-0.011</td><td>12.535</td></tr>
   <tr id="mpel"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MPEL.html" target="_blank">MPEL</a></td><td></td><td></td><td>0.011</td><td>2.227</td></tr>
