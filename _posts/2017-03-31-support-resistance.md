@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170331"
-date:   2017-03-31 01:17:20
+date:   2017-03-31 04:16:49
 categories: stock
 ---
 <script type="text/javascript">
@@ -25,6 +25,7 @@ stockList.push('gb_ntrs');
 stockList.push('gb_hds');
 stockList.push('gb_bud');
 stockList.push('gb_trmk');
+stockList.push('gb_fmer');
 stockList.push('gb_cck');
 stockList.push('gb_fi');
 stockList.push('gb_knd');
@@ -91,6 +92,8 @@ stockList.push('gb_pb');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BUD.html" target="_blank">BUD</a></td><td></td><td></td><td>49</td><td>122.68</td><td>128.06</td><td>105.97</td><td>110.18</td></tr>
   <tr id="trmk" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TRMK.html" target="_blank">TRMK</a></td><td></td><td></td><td>48</td><td>32.34</td><td>32.85</td><td>27.06</td><td>28.71</td></tr>
+  <tr id="fmer" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FMER.html" target="_blank">FMER</a></td><td></td><td></td><td>45</td><td>21.49</td><td>22.59</td><td>19.08</td><td>0</td></tr>
   <tr id="cck" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CCK.html" target="_blank">CCK</a></td><td></td><td></td><td>44</td><td>52.43</td><td>54.35</td><td>49.14</td><td>0</td></tr>
   <tr id="fi" class="red">
