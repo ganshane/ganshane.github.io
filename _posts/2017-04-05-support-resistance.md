@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170405"
-date:   2017-04-05 01:17:51
+date:   2017-04-05 04:17:30
 categories: stock
 ---
 <script type="text/javascript">
@@ -37,6 +37,7 @@ stockList.push('gb_akam');
 stockList.push('gb_ual');
 stockList.push('gb_tsem');
 stockList.push('gb_moh');
+stockList.push('gb_fmer');
 stockList.push('gb_chl');
 stockList.push('gb_swn');
 stockList.push('gb_cvrr');
@@ -122,6 +123,8 @@ stockList.push('gb_tbf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TSEM.html" target="_blank">TSEM</a></td><td></td><td></td><td>48</td><td>22.55</td><td>23.65</td><td>19.02</td><td>19.61</td></tr>
   <tr id="moh" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MOH.html" target="_blank">MOH</a></td><td></td><td></td><td>46</td><td>47.81</td><td>57.06</td><td>42.56</td><td>0</td></tr>
+  <tr id="fmer" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FMER.html" target="_blank">FMER</a></td><td></td><td></td><td>45</td><td>21.49</td><td>22.54</td><td>19.08</td><td>0</td></tr>
   <tr id="chl" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CHL.html" target="_blank">CHL</a></td><td></td><td></td><td>41</td><td>60.88</td><td>58.61</td><td>53.89</td><td>55.09</td></tr>
   <tr id="swn" class="green">
