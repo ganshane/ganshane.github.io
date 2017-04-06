@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170406"
-date:   2017-04-06 01:17:57
+date:   2017-04-06 04:16:58
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,6 +32,8 @@ stockList.push('gb_jbht');
 stockList.push('gb_pten');
 stockList.push('gb_bxs');
 stockList.push('gb_pgti');
+stockList.push('gb_ddm');
+stockList.push('gb_fmer');
 stockList.push('gb_atls');
 stockList.push('gb_wdr');
 stockList.push('gb_bks');
@@ -108,6 +110,10 @@ stockList.push('gb_ecyt');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BXS.html" target="_blank">BXS</a></td><td></td><td></td><td>52</td><td>30.6</td><td>31.35</td><td>28.25</td><td>24.82</td></tr>
   <tr id="pgti" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PGTI.html" target="_blank">PGTI</a></td><td></td><td></td><td>51</td><td>11</td><td>10.88</td><td>10.1</td><td>0</td></tr>
+  <tr id="ddm" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DDM.html" target="_blank">DDM</a></td><td></td><td></td><td>46</td><td>92.88</td><td>94.43</td><td>83.56</td><td>86.48</td></tr>
+  <tr id="fmer" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FMER.html" target="_blank">FMER</a></td><td></td><td></td><td>45</td><td>21.49</td><td>22.54</td><td>19.08</td><td>0</td></tr>
   <tr id="atls" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATLS.html" target="_blank">ATLS</a></td><td></td><td></td><td>43</td><td>0.2</td><td>0.35</td><td>0.176</td><td>0</td></tr>
   <tr id="wdr" class="red">

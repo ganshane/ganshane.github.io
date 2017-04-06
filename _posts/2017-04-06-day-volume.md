@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20170406"
-date:   2017-04-06 01:17:57
+date:   2017-04-06 04:16:58
 categories: stock
 ---
 <script type="text/javascript">
@@ -33,7 +33,7 @@ stockList.push('gb_lvnta');
   <tr id="bsbr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BSBR.html" target="_blank">BSBR</a></td><td></td><td></td><td>-0.016</td><td>2.138</td></tr>
   <tr id="nlnk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NLNK.html" target="_blank">NLNK</a></td><td></td><td></td><td>0.015</td><td>2.63</td></tr>
   <tr id="irdm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRDM.html" target="_blank">IRDM</a></td><td></td><td></td><td>0.014</td><td>2.435</td></tr>
-  <tr id="pnra"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PNRA.html" target="_blank">PNRA</a></td><td></td><td></td><td>0.013</td><td>9.369</td></tr>
-  <tr id="mtdr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTDR.html" target="_blank">MTDR</a></td><td></td><td></td><td>0.012</td><td>2.214</td></tr>
+  <tr id="pnra"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PNRA.html" target="_blank">PNRA</a></td><td></td><td></td><td>0.013</td><td>9.372</td></tr>
+  <tr id="mtdr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTDR.html" target="_blank">MTDR</a></td><td></td><td></td><td>0.012</td><td>2.213</td></tr>
   <tr id="lvnta"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LVNTA.html" target="_blank">LVNTA</a></td><td></td><td></td><td>0.011</td><td>2.96</td></tr>
 </table>
