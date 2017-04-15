@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170415"
-date:   2017-04-15 01:16:47
+date:   2017-04-15 04:17:49
 categories: stock
 ---
 <script type="text/javascript">
@@ -47,7 +47,6 @@ stockList.push('gb_gs');
 stockList.push('gb_zion');
 stockList.push('gb_mdt');
 stockList.push('gb_ntap');
-stockList.push('gb_fmer');
 stockList.push('gb_ajg');
 stockList.push('gb_oas');
 stockList.push('gb_vsh');
@@ -153,8 +152,6 @@ stockList.push('gb_sbgi');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MDT.html" target="_blank">MDT</a></td><td></td><td></td><td>46</td><td>80.94</td><td>83.47</td><td>73.59</td><td>75.72</td></tr>
   <tr id="ntap" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NTAP.html" target="_blank">NTAP</a></td><td></td><td></td><td>46</td><td>40.3</td><td>42.34</td><td>34.72</td><td>37.25</td></tr>
-  <tr id="fmer" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FMER.html" target="_blank">FMER</a></td><td></td><td></td><td>45</td><td>21.49</td><td>22.59</td><td>19.08</td><td>0</td></tr>
   <tr id="ajg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AJG.html" target="_blank">AJG</a></td><td></td><td></td><td>43</td><td>55.54</td><td>57.1</td><td>51.96</td><td>51.86</td></tr>
   <tr id="oas" class="red">
