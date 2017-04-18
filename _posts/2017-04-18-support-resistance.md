@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170418"
-date:   2017-04-18 01:21:33
+date:   2017-04-18 04:20:34
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_nsc');
 stockList.push('gb_vsh');
+stockList.push('gb_ezpw');
 stockList.push('gb_sppi');
 stockList.push('gb_shor');
 stockList.push('gb_fitb');
@@ -69,6 +70,8 @@ stockList.push('gb_avgo');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NSC.html" target="_blank">NSC</a></td><td></td><td></td><td>100</td><td>118.65</td><td>123.17</td><td>109.27</td><td>111.39</td></tr>
   <tr id="vsh" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VSH.html" target="_blank">VSH</a></td><td></td><td></td><td>100</td><td>15.7</td><td>16.45</td><td>14.7</td><td>14.28</td></tr>
+  <tr id="ezpw" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EZPW.html" target="_blank">EZPW</a></td><td></td><td></td><td>100</td><td>8.94</td><td>9.35</td><td>7.75</td><td>8.4</td></tr>
   <tr id="sppi" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPPI.html" target="_blank">SPPI</a></td><td></td><td></td><td>100</td><td>6.43</td><td>6.75</td><td>5.65</td><td>5.72</td></tr>
   <tr id="shor" class="red">
