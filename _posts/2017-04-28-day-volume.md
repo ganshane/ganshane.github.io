@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20170428"
-date:   2017-04-28 01:20:54
+date:   2017-04-28 04:19:48
 categories: stock
 ---
 <script type="text/javascript">
@@ -57,5 +57,5 @@ stockList.push('gb_trs');
   <tr id="tk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TK.html" target="_blank">TK</a></td><td></td><td></td><td>-0.011</td><td>2.475</td></tr>
   <tr id="wll"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WLL.html" target="_blank">WLL</a></td><td></td><td></td><td>-0.011</td><td>2.019</td></tr>
   <tr id="bwld"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BWLD.html" target="_blank">BWLD</a></td><td></td><td></td><td>0.01</td><td>2.043</td></tr>
-  <tr id="trs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TRS.html" target="_blank">TRS</a></td><td></td><td></td><td>0.01</td><td>2.319</td></tr>
+  <tr id="trs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TRS.html" target="_blank">TRS</a></td><td></td><td></td><td>0.01</td><td>2.321</td></tr>
 </table>
