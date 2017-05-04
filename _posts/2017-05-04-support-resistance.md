@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170504"
-date:   2017-05-04 01:21:13
+date:   2017-05-04 04:22:28
 categories: stock
 ---
 <script type="text/javascript">
@@ -33,6 +33,7 @@ stockList.push('gb_ajg');
 stockList.push('gb_mdco');
 stockList.push('gb_bud');
 stockList.push('gb_pm');
+stockList.push('gb_scty');
 </script>
 <table border="1">
  <tr>
@@ -99,4 +100,6 @@ stockList.push('gb_pm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BUD.html" target="_blank">BUD</a></td><td></td><td></td><td>27</td><td>122.68</td><td>128.06</td><td>107.95</td><td>111.9</td></tr>
   <tr id="pm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PM.html" target="_blank">PM</a></td><td></td><td></td><td>23</td><td>110.01</td><td>114.65</td><td>99.06</td><td>102.25</td></tr>
+  <tr id="scty" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCTY.html" target="_blank">SCTY</a></td><td></td><td></td><td>22</td><td>20.5</td><td>20.55</td><td>18.58</td><td>0</td></tr>
 </table>
