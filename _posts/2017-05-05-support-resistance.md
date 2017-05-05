@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170505"
-date:   2017-05-05 01:21:38
+date:   2017-05-05 04:21:15
 categories: stock
 ---
 <script type="text/javascript">
@@ -29,7 +29,6 @@ stockList.push('gb_sbgi');
 stockList.push('gb_cnx');
 stockList.push('gb_hive');
 stockList.push('gb_vnet');
-stockList.push('gb_scty');
 stockList.push('gb_smfg');
 </script>
 <table border="1">
@@ -89,8 +88,6 @@ stockList.push('gb_smfg');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HIVE.html" target="_blank">HIVE</a></td><td></td><td></td><td>25</td><td>4.95</td><td>5.42</td><td>3.71</td><td>3.98</td></tr>
   <tr id="vnet" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VNET.html" target="_blank">VNET</a></td><td></td><td></td><td>24</td><td>6.85</td><td>5.63</td><td>5.3</td><td>0</td></tr>
-  <tr id="scty" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCTY.html" target="_blank">SCTY</a></td><td></td><td></td><td>22</td><td>20.5</td><td>20.55</td><td>19.1</td><td>0</td></tr>
   <tr id="smfg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SMFG.html" target="_blank">SMFG</a></td><td></td><td></td><td>21</td><td>7.61</td><td>7.97</td><td>6.93</td><td>7.14</td></tr>
 </table>
