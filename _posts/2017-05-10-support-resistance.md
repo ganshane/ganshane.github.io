@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170510"
-date:   2017-05-10 01:22:24
+date:   2017-05-10 04:21:39
 categories: stock
 ---
 <script type="text/javascript">
@@ -27,11 +27,11 @@ stockList.push('gb_urbn');
 stockList.push('gb_coty');
 stockList.push('gb_finl');
 stockList.push('gb_hees');
+stockList.push('gb_fmer');
 stockList.push('gb_bfr');
 stockList.push('gb_slg');
 stockList.push('gb_fsc');
 stockList.push('gb_saic');
-stockList.push('gb_scty');
 stockList.push('gb_oih');
 </script>
 <table border="1">
@@ -87,6 +87,8 @@ stockList.push('gb_oih');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FINL.html" target="_blank">FINL</a></td><td></td><td></td><td>50</td><td>15.9</td><td>16.97</td><td>14.02</td><td>0</td></tr>
   <tr id="hees" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HEES.html" target="_blank">HEES</a></td><td></td><td></td><td>49</td><td>21.44</td><td>23.92</td><td>15.1</td><td>17.53</td></tr>
+  <tr id="fmer" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FMER.html" target="_blank">FMER</a></td><td></td><td></td><td>45</td><td>21.49</td><td>22.98</td><td>19.08</td><td>0</td></tr>
   <tr id="bfr" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BFR.html" target="_blank">BFR</a></td><td></td><td></td><td>43</td><td>19.12</td><td>18.89</td><td>17.58</td><td>0</td></tr>
   <tr id="slg" class="red">
@@ -95,8 +97,6 @@ stockList.push('gb_oih');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSC.html" target="_blank">FSC</a></td><td></td><td></td><td>31</td><td>5.21</td><td>4.59</td><td>4.32</td><td>0</td></tr>
   <tr id="saic" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SAIC.html" target="_blank">SAIC</a></td><td></td><td></td><td>29</td><td>78.99</td><td>84.68</td><td>71.93</td><td>69.82</td></tr>
-  <tr id="scty" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCTY.html" target="_blank">SCTY</a></td><td></td><td></td><td>22</td><td>20.5</td><td>20.55</td><td>19.1</td><td>0</td></tr>
   <tr id="oih" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OIH.html" target="_blank">OIH</a></td><td></td><td></td><td>21</td><td>27.87</td><td>28.82</td><td>26.1</td><td>0</td></tr>
 </table>
