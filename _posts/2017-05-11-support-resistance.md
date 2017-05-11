@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170511"
-date:   2017-05-11 01:21:04
+date:   2017-05-11 04:19:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -22,14 +22,12 @@ stockList.push('gb_ypf');
 stockList.push('gb_acrx');
 stockList.push('gb_panw');
 stockList.push('gb_dfs');
-stockList.push('gb_fmer');
 stockList.push('gb_wuba');
 stockList.push('gb_sdow');
 stockList.push('gb_uco');
 stockList.push('gb_oih');
 stockList.push('gb_oks');
 stockList.push('gb_slg');
-stockList.push('gb_scty');
 </script>
 <table border="1">
  <tr>
@@ -74,8 +72,6 @@ stockList.push('gb_scty');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PANW.html" target="_blank">PANW</a></td><td></td><td></td><td>61</td><td>124.52</td><td>155.6</td><td>107.31</td><td>115.21</td></tr>
   <tr id="dfs" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DFS.html" target="_blank">DFS</a></td><td></td><td></td><td>61</td><td>64.62</td><td>67.8</td><td>55.41</td><td>59.86</td></tr>
-  <tr id="fmer" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FMER.html" target="_blank">FMER</a></td><td></td><td></td><td>45</td><td>21.49</td><td>22.98</td><td>19.08</td><td>0</td></tr>
   <tr id="wuba" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WUBA.html" target="_blank">WUBA</a></td><td></td><td></td><td>44</td><td>44.32</td><td>50.68</td><td>34.84</td><td>38</td></tr>
   <tr id="sdow" class="red">
@@ -88,6 +84,4 @@ stockList.push('gb_scty');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OKS.html" target="_blank">OKS</a></td><td></td><td></td><td>31</td><td>50.82</td><td>53.68</td><td>43.9</td><td>47.01</td></tr>
   <tr id="slg" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLG.html" target="_blank">SLG</a></td><td></td><td></td><td>29</td><td>104.05</td><td>108.45</td><td>95.06</td><td>0</td></tr>
-  <tr id="scty" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCTY.html" target="_blank">SCTY</a></td><td></td><td></td><td>22</td><td>20.5</td><td>20.55</td><td>19.1</td><td>0</td></tr>
 </table>
