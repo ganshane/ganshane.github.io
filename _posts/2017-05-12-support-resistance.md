@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170512"
-date:   2017-05-12 01:21:46
+date:   2017-05-12 04:21:40
 categories: stock
 ---
 <script type="text/javascript">
@@ -28,6 +28,7 @@ stockList.push('gb_oks');
 stockList.push('gb_slw');
 stockList.push('gb_nov');
 stockList.push('gb_cveo');
+stockList.push('gb_scty');
 </script>
 <table border="1">
  <tr>
@@ -84,4 +85,6 @@ stockList.push('gb_cveo');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NOV.html" target="_blank">NOV</a></td><td></td><td></td><td>28</td><td>34.11</td><td>35.49</td><td>31.89</td><td>0</td></tr>
   <tr id="cveo" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVEO.html" target="_blank">CVEO</a></td><td></td><td></td><td>23</td><td>2.895</td><td>3.28</td><td>2.55</td><td>2.47</td></tr>
+  <tr id="scty" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCTY.html" target="_blank">SCTY</a></td><td></td><td></td><td>22</td><td>20.5</td><td>20.55</td><td>19.1</td><td>0</td></tr>
 </table>
