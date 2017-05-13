@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170513"
-date:   2017-05-13 01:23:39
+date:   2017-05-13 04:23:35
 categories: stock
 ---
 <script type="text/javascript">
@@ -34,7 +34,6 @@ stockList.push('gb_ajg');
 stockList.push('gb_cof');
 stockList.push('gb_payx');
 stockList.push('gb_hxl');
-stockList.push('gb_scty');
 </script>
 <table border="1">
  <tr>
@@ -103,6 +102,4 @@ stockList.push('gb_scty');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PAYX.html" target="_blank">PAYX</a></td><td></td><td></td><td>25</td><td>57.68</td><td>59.94</td><td>52.78</td><td>0</td></tr>
   <tr id="hxl" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HXL.html" target="_blank">HXL</a></td><td></td><td></td><td>25</td><td>49.81</td><td>52.94</td><td>44.19</td><td>45.76</td></tr>
-  <tr id="scty" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCTY.html" target="_blank">SCTY</a></td><td></td><td></td><td>22</td><td>20.5</td><td>20.55</td><td>19.1</td><td>0</td></tr>
 </table>
