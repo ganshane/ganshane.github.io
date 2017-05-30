@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170530"
-date:   2017-05-30 01:35:45
+date:   2017-05-30 04:29:39
 categories: stock
 ---
 <script type="text/javascript">
@@ -13,7 +13,6 @@ stockList.push('gb_slm');
 stockList.push('gb_pacw');
 stockList.push('gb_gca');
 stockList.push('gb_hive');
-stockList.push('gb_pb');
 stockList.push('gb_osk');
 stockList.push('gb_sfun');
 stockList.push('gb_ann');
@@ -21,12 +20,9 @@ stockList.push('gb_nvo');
 stockList.push('gb_kfx');
 stockList.push('gb_clb');
 stockList.push('gb_dxcm');
-stockList.push('gb_urs');
-stockList.push('gb_met');
 stockList.push('gb_tti');
 stockList.push('gb_tlm');
 stockList.push('gb_bbt');
-stockList.push('gb_eca');
 stockList.push('gb_arwr');
 stockList.push('gb_ugaz');
 </script>
@@ -55,8 +51,6 @@ stockList.push('gb_ugaz');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>80</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="hive" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HIVE.html" target="_blank">HIVE</a></td><td></td><td></td><td>80</td><td>4.95</td><td>5.42</td><td>3.71</td><td>3.98</td></tr>
-  <tr id="pb" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PB.html" target="_blank">PB</a></td><td></td><td></td><td>79</td><td>64.69</td><td>71.97</td><td>53.8</td><td>57.26</td></tr>
   <tr id="osk" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OSK.html" target="_blank">OSK</a></td><td></td><td></td><td>74</td><td>64.93</td><td>69.74</td><td>54</td><td>57.4</td></tr>
   <tr id="sfun" class="green">
@@ -71,18 +65,12 @@ stockList.push('gb_ugaz');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLB.html" target="_blank">CLB</a></td><td></td><td></td><td>59</td><td>103.52</td><td>113.37</td><td>96.3</td><td>0</td></tr>
   <tr id="dxcm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DXCM.html" target="_blank">DXCM</a></td><td></td><td></td><td>54</td><td>74.59</td><td>74.18</td><td>60.14</td><td>67.8</td></tr>
-  <tr id="urs" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>44</td><td>57.26</td><td>58.7</td><td>46.13</td><td>53.03</td></tr>
-  <tr id="met" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MET.html" target="_blank">MET</a></td><td></td><td></td><td>44</td><td>51</td><td>53</td><td>46.05</td><td>47.36</td></tr>
   <tr id="tti" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TTI.html" target="_blank">TTI</a></td><td></td><td></td><td>38</td><td>3.7</td><td>3.51</td><td>3.18</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
   <tr id="bbt" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBT.html" target="_blank">BBT</a></td><td></td><td></td><td>35</td><td>42.43</td><td>44.7</td><td>38.23</td><td>39.49</td></tr>
-  <tr id="eca" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ECA.html" target="_blank">ECA</a></td><td></td><td></td><td>34</td><td>11.68</td><td>11.74</td><td>10.1</td><td>10.49</td></tr>
   <tr id="arwr" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARWR.html" target="_blank">ARWR</a></td><td></td><td></td><td>34</td><td>1.7</td><td>1.78</td><td>1.5</td><td>0</td></tr>
   <tr id="ugaz" class="green">
