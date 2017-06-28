@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20170628"
-date:   2017-06-28 01:48:07
+date:   2017-06-28 04:54:25
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,7 +18,6 @@ stockList.push('gb_qre');
 stockList.push('gb_mmyt');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
-stockList.push('gb_podd');
 stockList.push('gb_mbt');
 stockList.push('gb_pom');
 stockList.push('gb_ryl');
@@ -45,7 +44,6 @@ stockList.push('gb_vlccf');
   <tr id="mmyt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MMYT.html" target="_blank">MMYT</a></td><td></td><td></td><td>0.012</td><td>2.045</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
-  <tr id="podd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PODD.html" target="_blank">PODD</a></td><td></td><td></td><td>0.011</td><td>2.405</td></tr>
   <tr id="mbt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MBT.html" target="_blank">MBT</a></td><td></td><td></td><td>-0.011</td><td>2.726</td></tr>
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
