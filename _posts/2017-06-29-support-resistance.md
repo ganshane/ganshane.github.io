@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170629"
-date:   2017-06-29 01:42:45
+date:   2017-06-29 05:03:11
 categories: stock
 ---
 <script type="text/javascript">
@@ -29,7 +29,6 @@ stockList.push('gb_ha');
 stockList.push('gb_jwn');
 stockList.push('gb_exp');
 stockList.push('gb_urs');
-stockList.push('gb_meli');
 stockList.push('gb_pwr');
 stockList.push('gb_mbt');
 stockList.push('gb_tlm');
@@ -96,8 +95,6 @@ stockList.push('gb_wair');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXP.html" target="_blank">EXP</a></td><td></td><td></td><td>45</td><td>93.58</td><td>97.79</td><td>75.55</td><td>0</td></tr>
   <tr id="urs" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>44</td><td>57.26</td><td>58.7</td><td>46.13</td><td>53.03</td></tr>
-  <tr id="meli" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MELI.html" target="_blank">MELI</a></td><td></td><td></td><td>40</td><td>264.81</td><td>297.95</td><td>206.03</td><td>218.75</td></tr>
   <tr id="pwr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PWR.html" target="_blank">PWR</a></td><td></td><td></td><td>40</td><td>33.96</td><td>33</td><td>30.69</td><td>28.87</td></tr>
   <tr id="mbt" class="green">
