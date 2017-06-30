@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20170630"
-date:   2017-06-30 01:48:42
+date:   2017-06-30 04:42:39
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,7 +12,6 @@ stockList.push('gb_ngls');
 stockList.push('gb_mtcn');
 stockList.push('gb_crzo');
 stockList.push('gb_bios');
-stockList.push('gb_leju');
 stockList.push('gb_ig');
 stockList.push('gb_fsl');
 stockList.push('gb_qre');
@@ -40,7 +39,6 @@ stockList.push('gb_spls');
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="crzo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRZO.html" target="_blank">CRZO</a></td><td></td><td></td><td>-0.021</td><td>8.076</td></tr>
   <tr id="bios"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIOS.html" target="_blank">BIOS</a></td><td></td><td></td><td>0.018</td><td>2.395</td></tr>
-  <tr id="leju"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LEJU.html" target="_blank">LEJU</a></td><td></td><td></td><td>-0.017</td><td>3.375</td></tr>
   <tr id="ig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IG.html" target="_blank">IG</a></td><td></td><td></td><td>-0.017</td><td>4.429</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
