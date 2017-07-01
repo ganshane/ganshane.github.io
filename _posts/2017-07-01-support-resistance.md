@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170701"
-date:   2017-07-01 01:47:31
+date:   2017-07-01 04:45:32
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,6 +11,7 @@ stockList.push('gb_tdw');
 stockList.push('gb_ewi');
 stockList.push('gb_mdco');
 stockList.push('gb_qre');
+stockList.push('gb_dsw');
 stockList.push('gb_evhc');
 stockList.push('gb_geo');
 stockList.push('gb_masi');
@@ -34,8 +35,6 @@ stockList.push('gb_lb');
 stockList.push('gb_pagp');
 stockList.push('gb_yndx');
 stockList.push('gb_mscc');
-stockList.push('gb_nadl');
-stockList.push('gb_wmgi');
 </script>
 <table border="1">
  <tr>
@@ -58,6 +57,8 @@ stockList.push('gb_wmgi');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MDCO.html" target="_blank">MDCO</a></td><td></td><td></td><td>95</td><td>48.59</td><td>40.48</td><td>37.44</td><td>37.98</td></tr>
   <tr id="qre" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>94</td><td>15.24</td><td>16.99</td><td>14.05</td><td>0</td></tr>
+  <tr id="dsw" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DSW.html" target="_blank">DSW</a></td><td></td><td></td><td>89</td><td>18.87</td><td>20.92</td><td>16.24</td><td>17.64</td></tr>
   <tr id="evhc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EVHC.html" target="_blank">EVHC</a></td><td></td><td></td><td>86</td><td>63.07</td><td>66.39</td><td>54.91</td><td>58.16</td></tr>
   <tr id="geo" class="red">
@@ -104,8 +105,4 @@ stockList.push('gb_wmgi');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YNDX.html" target="_blank">YNDX</a></td><td></td><td></td><td>26</td><td>26.78</td><td>28.97</td><td>24.94</td><td>24.8</td></tr>
   <tr id="mscc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MSCC.html" target="_blank">MSCC</a></td><td></td><td></td><td>24</td><td>46.92</td><td>52</td><td>39.76</td><td>42.64</td></tr>
-  <tr id="nadl" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NADL.html" target="_blank">NADL</a></td><td></td><td></td><td>24</td><td>2.01</td><td>2.15</td><td>1.3</td><td>0</td></tr>
-  <tr id="wmgi" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WMGI.html" target="_blank">WMGI</a></td><td></td><td></td><td>21</td><td>29.11</td><td>27.86</td><td>24.45</td><td>25.12</td></tr>
 </table>
