@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20170708"
-date:   2017-07-08 01:43:38
+date:   2017-07-08 04:38:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,7 +12,6 @@ stockList.push('gb_ngls');
 stockList.push('gb_mtcn');
 stockList.push('gb_ig');
 stockList.push('gb_fsl');
-stockList.push('gb_tsla');
 stockList.push('gb_qre');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
@@ -36,7 +35,6 @@ stockList.push('gb_vlccf');
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="ig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IG.html" target="_blank">IG</a></td><td></td><td></td><td>-0.017</td><td>4.429</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
-  <tr id="tsla"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TSLA.html" target="_blank">TSLA</a></td><td></td><td></td><td>-0.014</td><td>2.542</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
