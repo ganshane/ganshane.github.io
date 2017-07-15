@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170715"
-date:   2017-07-15 01:35:31
+date:   2017-07-15 04:36:32
 categories: stock
 ---
 <script type="text/javascript">
@@ -31,6 +31,7 @@ stockList.push('gb_dsw');
 stockList.push('gb_bbg');
 stockList.push('gb_tlm');
 stockList.push('gb_erus');
+stockList.push('gb_sqqq');
 stockList.push('gb_lgcy');
 stockList.push('gb_src');
 stockList.push('gb_paa');
@@ -96,6 +97,8 @@ stockList.push('gb_paa');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
   <tr id="erus" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ERUS.html" target="_blank">ERUS</a></td><td></td><td></td><td>31</td><td>30.21</td><td>32.02</td><td>27.66</td><td>15.04</td></tr>
+  <tr id="sqqq" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SQQQ.html" target="_blank">SQQQ</a></td><td></td><td></td><td>28</td><td>36.9</td><td>32.72</td><td>29.26</td><td>14.89</td></tr>
   <tr id="lgcy" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LGCY.html" target="_blank">LGCY</a></td><td></td><td></td><td>25</td><td>1.33</td><td>1.5</td><td>1.17</td><td>0</td></tr>
   <tr id="src" class="red">
