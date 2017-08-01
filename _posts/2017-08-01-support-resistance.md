@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170801"
-date:   2017-08-01 01:35:57
+date:   2017-08-01 04:28:05
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_sqqq');
 stockList.push('gb_win');
 stockList.push('gb_stng');
 stockList.push('gb_qre');
@@ -14,11 +13,10 @@ stockList.push('gb_rpai');
 stockList.push('gb_gpor');
 stockList.push('gb_gca');
 stockList.push('gb_hlf');
+stockList.push('gb_kim');
 stockList.push('gb_kfx');
 stockList.push('gb_src');
 stockList.push('gb_czz');
-stockList.push('gb_dvn');
-stockList.push('gb_xec');
 stockList.push('gb_bbry');
 stockList.push('gb_avp');
 stockList.push('gb_urs');
@@ -29,7 +27,6 @@ stockList.push('gb_pds');
 stockList.push('gb_lpl');
 stockList.push('gb_ecyt');
 stockList.push('gb_erus');
-stockList.push('gb_clr');
 </script>
 <table border="1">
  <tr>
@@ -42,8 +39,6 @@ stockList.push('gb_clr');
  <td>支撑1</td>
  <td>支撑2</td>
 </tr>
-  <tr id="sqqq" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SQQQ.html" target="_blank">SQQQ</a></td><td></td><td></td><td>100</td><td>28.68</td><td>32.72</td><td>13.2</td><td>14.89</td></tr>
   <tr id="win" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WIN.html" target="_blank">WIN</a></td><td></td><td></td><td>100</td><td>4.2</td><td>4.71</td><td>3.77</td><td>0</td></tr>
   <tr id="stng" class="red">
@@ -58,16 +53,14 @@ stockList.push('gb_clr');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>80</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="hlf" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HLF.html" target="_blank">HLF</a></td><td></td><td></td><td>71</td><td>68.2</td><td>73.61</td><td>53.12</td><td>61.67</td></tr>
+  <tr id="kim" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KIM.html" target="_blank">KIM</a></td><td></td><td></td><td>65</td><td>21.43</td><td>23.03</td><td>17.88</td><td>19.89</td></tr>
   <tr id="kfx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KFX.html" target="_blank">KFX</a></td><td></td><td></td><td>64</td><td>10.97</td><td>11.1</td><td>7.4</td><td>8</td></tr>
   <tr id="src" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SRC.html" target="_blank">SRC</a></td><td></td><td></td><td>62</td><td>9.94</td><td>10.49</td><td>7.22</td><td>7.8</td></tr>
   <tr id="czz" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CZZ.html" target="_blank">CZZ</a></td><td></td><td></td><td>60</td><td>7.33</td><td>7.84</td><td>6.87</td><td>0</td></tr>
-  <tr id="dvn" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DVN.html" target="_blank">DVN</a></td><td></td><td></td><td>52</td><td>36.64</td><td>38.79</td><td>30.16</td><td>33.08</td></tr>
-  <tr id="xec" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XEC.html" target="_blank">XEC</a></td><td></td><td></td><td>50</td><td>114.14</td><td>122.1</td><td>92.11</td><td>97.33</td></tr>
   <tr id="bbry" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBRY.html" target="_blank">BBRY</a></td><td></td><td></td><td>49</td><td>9.73</td><td>10.17</td><td>7.36</td><td>8.05</td></tr>
   <tr id="avp" class="green">
@@ -88,6 +81,4 @@ stockList.push('gb_clr');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ECYT.html" target="_blank">ECYT</a></td><td></td><td></td><td>30</td><td>2.04</td><td>1.71</td><td>1.4</td><td>0</td></tr>
   <tr id="erus" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ERUS.html" target="_blank">ERUS</a></td><td></td><td></td><td>24</td><td>30.21</td><td>32.02</td><td>27.66</td><td>14.81</td></tr>
-  <tr id="clr" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLR.html" target="_blank">CLR</a></td><td></td><td></td><td>21</td><td>40.02</td><td>42.75</td><td>31.02</td><td>33.05</td></tr>
 </table>
