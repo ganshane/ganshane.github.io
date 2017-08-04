@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20170804"
-date:   2017-08-04 01:33:43
+date:   2017-08-04 04:41:13
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,14 +14,21 @@ stockList.push('gb_mtcn');
 stockList.push('gb_ipi');
 stockList.push('gb_ig');
 stockList.push('gb_fsl');
+stockList.push('gb_ttmi');
 stockList.push('gb_qre');
+stockList.push('gb_ftr');
 stockList.push('gb_cenx');
+stockList.push('gb_cavm');
 stockList.push('gb_rrd');
 stockList.push('gb_insm');
+stockList.push('gb_lci');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
 stockList.push('gb_pom');
+stockList.push('gb_ryl');
+stockList.push('gb_ppc');
 stockList.push('gb_vlccf');
+stockList.push('gb_veco');
 </script>
 
 <table border="1">
@@ -40,12 +47,19 @@ stockList.push('gb_vlccf');
   <tr id="ipi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IPI.html" target="_blank">IPI</a></td><td></td><td></td><td>0.018</td><td>2.736</td></tr>
   <tr id="ig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IG.html" target="_blank">IG</a></td><td></td><td></td><td>-0.017</td><td>4.429</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
+  <tr id="ttmi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TTMI.html" target="_blank">TTMI</a></td><td></td><td></td><td>-0.014</td><td>9.679</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
+  <tr id="ftr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FTR.html" target="_blank">FTR</a></td><td></td><td></td><td>0.013</td><td>2.184</td></tr>
   <tr id="cenx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CENX.html" target="_blank">CENX</a></td><td></td><td></td><td>-0.013</td><td>6.037</td></tr>
+  <tr id="cavm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CAVM.html" target="_blank">CAVM</a></td><td></td><td></td><td>-0.012</td><td>2.156</td></tr>
   <tr id="rrd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RRD.html" target="_blank">RRD</a></td><td></td><td></td><td>-0.012</td><td>3.011</td></tr>
   <tr id="insm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INSM.html" target="_blank">INSM</a></td><td></td><td></td><td>-0.012</td><td>3.012</td></tr>
+  <tr id="lci"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LCI.html" target="_blank">LCI</a></td><td></td><td></td><td>-0.012</td><td>5.996</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
+  <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
+  <tr id="ppc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PPC.html" target="_blank">PPC</a></td><td></td><td></td><td>0.011</td><td>2.832</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
+  <tr id="veco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VECO.html" target="_blank">VECO</a></td><td></td><td></td><td>-0.01</td><td>2.401</td></tr>
 </table>
