@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170826"
-date:   2017-08-26 01:39:58
+date:   2017-08-26 04:39:17
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,11 +17,10 @@ stockList.push('gb_hlx');
 stockList.push('gb_kmt');
 stockList.push('gb_tts');
 stockList.push('gb_gca');
-stockList.push('gb_amag');
+stockList.push('gb_amzn');
 stockList.push('gb_ann');
 stockList.push('gb_kfx');
 stockList.push('gb_clf');
-stockList.push('gb_amzn');
 stockList.push('gb_oii');
 stockList.push('gb_ew');
 stockList.push('gb_clvs');
@@ -71,16 +70,14 @@ stockList.push('gb_akrx');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TTS.html" target="_blank">TTS</a></td><td></td><td></td><td>81</td><td>17.35</td><td>15.4</td><td>14.35</td><td>0</td></tr>
   <tr id="gca" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>80</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
-  <tr id="amag" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMAG.html" target="_blank">AMAG</a></td><td></td><td></td><td>72</td><td>17.9</td><td>20.4</td><td>16.8</td><td>0</td></tr>
+  <tr id="amzn" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMZN.html" target="_blank">AMZN</a></td><td></td><td></td><td>76</td><td>955.25</td><td>1,009.8</td><td>884.49</td><td>862.79</td></tr>
   <tr id="ann" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="kfx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KFX.html" target="_blank">KFX</a></td><td></td><td></td><td>64</td><td>10.97</td><td>11.1</td><td>7.4</td><td>8</td></tr>
   <tr id="clf" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLF.html" target="_blank">CLF</a></td><td></td><td></td><td>63</td><td>8.37</td><td>8</td><td>7.19</td><td>6.95</td></tr>
-  <tr id="amzn" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMZN.html" target="_blank">AMZN</a></td><td></td><td></td><td>61</td><td>955.25</td><td>1,009.8</td><td>884.49</td><td>862.79</td></tr>
   <tr id="oii" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OII.html" target="_blank">OII</a></td><td></td><td></td><td>58</td><td>24.21</td><td>23.65</td><td>21.51</td><td>0</td></tr>
   <tr id="ew" class="red">
