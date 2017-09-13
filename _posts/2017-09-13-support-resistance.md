@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170913"
-date:   2017-09-13 01:39:09
+date:   2017-09-13 04:35:42
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_imax');
 stockList.push('gb_orig');
 stockList.push('gb_svxy');
 stockList.push('gb_qre');
@@ -19,19 +18,15 @@ stockList.push('gb_myl');
 stockList.push('gb_ann');
 stockList.push('gb_dst');
 stockList.push('gb_cldx');
-stockList.push('gb_bte');
 stockList.push('gb_ddd');
 stockList.push('gb_mrc');
-stockList.push('gb_nrg');
 stockList.push('gb_qld');
 stockList.push('gb_lci');
 stockList.push('gb_urs');
 stockList.push('gb_bk');
 stockList.push('gb_trgp');
 stockList.push('gb_jci');
-stockList.push('gb_enlk');
 stockList.push('gb_aan');
-stockList.push('gb_cprt');
 stockList.push('gb_src');
 stockList.push('gb_pah');
 </script>
@@ -46,8 +41,6 @@ stockList.push('gb_pah');
  <td>支撑1</td>
  <td>支撑2</td>
 </tr>
-  <tr id="imax" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IMAX.html" target="_blank">IMAX</a></td><td></td><td></td><td>100</td><td>20.3</td><td>22.25</td><td>17.57</td><td>0</td></tr>
   <tr id="orig" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ORIG.html" target="_blank">ORIG</a></td><td></td><td></td><td>100</td><td>0.19</td><td>0.24</td><td>0.12</td><td>0</td></tr>
   <tr id="svxy" class="green">
@@ -72,14 +65,10 @@ stockList.push('gb_pah');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DST.html" target="_blank">DST</a></td><td></td><td></td><td>64</td><td>60.06</td><td>62.41</td><td>50.22</td><td>51.83</td></tr>
   <tr id="cldx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLDX.html" target="_blank">CLDX</a></td><td></td><td></td><td>62</td><td>3.16</td><td>3.27</td><td>2.45</td><td>2.62</td></tr>
-  <tr id="bte" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BTE.html" target="_blank">BTE</a></td><td></td><td></td><td>61</td><td>2.8</td><td>2.88</td><td>2.33</td><td>2.55</td></tr>
   <tr id="ddd" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DDD.html" target="_blank">DDD</a></td><td></td><td></td><td>56</td><td>13.4</td><td>14.96</td><td>12.14</td><td>0</td></tr>
   <tr id="mrc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MRC.html" target="_blank">MRC</a></td><td></td><td></td><td>54</td><td>17.21</td><td>17.3</td><td>15.92</td><td>0</td></tr>
-  <tr id="nrg" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRG.html" target="_blank">NRG</a></td><td></td><td></td><td>51</td><td>24</td><td>24.92</td><td>15.83</td><td>18.98</td></tr>
   <tr id="qld" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QLD.html" target="_blank">QLD</a></td><td></td><td></td><td>47</td><td>85.59</td><td>90.55</td><td>60.3</td><td>63.8</td></tr>
   <tr id="lci" class="red">
@@ -92,12 +81,8 @@ stockList.push('gb_pah');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TRGP.html" target="_blank">TRGP</a></td><td></td><td></td><td>40</td><td>51.39</td><td>46.8</td><td>43</td><td>0</td></tr>
   <tr id="jci" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JCI.html" target="_blank">JCI</a></td><td></td><td></td><td>38</td><td>40.36</td><td>42.56</td><td>36.74</td><td>0</td></tr>
-  <tr id="enlk" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENLK.html" target="_blank">ENLK</a></td><td></td><td></td><td>33</td><td>16.29</td><td>17.33</td><td>15.13</td><td>0</td></tr>
   <tr id="aan" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AAN.html" target="_blank">AAN</a></td><td></td><td></td><td>33</td><td>43.03</td><td>44.86</td><td>38.02</td><td>39.64</td></tr>
-  <tr id="cprt" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CPRT.html" target="_blank">CPRT</a></td><td></td><td></td><td>32</td><td>55.12</td><td>56.92</td><td>31.14</td><td>32.11</td></tr>
   <tr id="src" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SRC.html" target="_blank">SRC</a></td><td></td><td></td><td>31</td><td>9.94</td><td>10.49</td><td>8.29</td><td>8.66</td></tr>
   <tr id="pah" class="red">
