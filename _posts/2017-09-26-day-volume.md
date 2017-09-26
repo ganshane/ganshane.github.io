@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20170926"
-date:   2017-09-26 01:40:02
+date:   2017-09-26 04:38:44
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,7 +11,6 @@ stockList.push('gb_kog');
 stockList.push('gb_ngls');
 stockList.push('gb_mtcn');
 stockList.push('gb_vslr');
-stockList.push('gb_atw');
 stockList.push('gb_ne');
 stockList.push('gb_ig');
 stockList.push('gb_fsl');
@@ -40,7 +39,6 @@ stockList.push('gb_vlccf');
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="vslr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VSLR.html" target="_blank">VSLR</a></td><td></td><td></td><td>-0.018</td><td>2.574</td></tr>
-  <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.018</td><td>4.546</td></tr>
   <tr id="ne"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NE.html" target="_blank">NE</a></td><td></td><td></td><td>0.018</td><td>2.136</td></tr>
   <tr id="ig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IG.html" target="_blank">IG</a></td><td></td><td></td><td>-0.017</td><td>4.429</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
