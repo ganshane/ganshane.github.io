@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170928"
-date:   2017-09-28 01:41:00
+date:   2017-09-28 04:39:17
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,20 +17,15 @@ stockList.push('gb_upl');
 stockList.push('gb_ew');
 stockList.push('gb_hlx');
 stockList.push('gb_sbra');
-stockList.push('gb_kmi');
 stockList.push('gb_gca');
 stockList.push('gb_trgp');
 stockList.push('gb_exxi');
 stockList.push('gb_hlf');
 stockList.push('gb_enr');
-stockList.push('gb_ann');
-stockList.push('gb_ge');
 stockList.push('gb_kfx');
 stockList.push('gb_ash');
-stockList.push('gb_geo');
 stockList.push('gb_luv');
 stockList.push('gb_bcr');
-stockList.push('gb_efii');
 stockList.push('gb_gdp');
 stockList.push('gb_aks');
 stockList.push('gb_spxl');
@@ -76,8 +71,6 @@ stockList.push('gb_cve');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HLX.html" target="_blank">HLX</a></td><td></td><td></td><td>87</td><td>7.39</td><td>7.94</td><td>6.87</td><td>6.54</td></tr>
   <tr id="sbra" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SBRA.html" target="_blank">SBRA</a></td><td></td><td></td><td>86</td><td>22.48</td><td>23.79</td><td>20.77</td><td>0</td></tr>
-  <tr id="kmi" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KMI.html" target="_blank">KMI</a></td><td></td><td></td><td>85</td><td>20.62</td><td>20.56</td><td>18.57</td><td>19.27</td></tr>
   <tr id="gca" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>80</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="trgp" class="green">
@@ -88,22 +81,14 @@ stockList.push('gb_cve');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HLF.html" target="_blank">HLF</a></td><td></td><td></td><td>70</td><td>68.2</td><td>69.58</td><td>61.29</td><td>61.67</td></tr>
   <tr id="enr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENR.html" target="_blank">ENR</a></td><td></td><td></td><td>68</td><td>46.23</td><td>47.16</td><td>41.16</td><td>0</td></tr>
-  <tr id="ann" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
-  <tr id="ge" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GE.html" target="_blank">GE</a></td><td></td><td></td><td>65</td><td>25.91</td><td>25.3</td><td>23.75</td><td>0</td></tr>
   <tr id="kfx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KFX.html" target="_blank">KFX</a></td><td></td><td></td><td>64</td><td>10.97</td><td>11.1</td><td>7.4</td><td>8</td></tr>
   <tr id="ash" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ASH.html" target="_blank">ASH</a></td><td></td><td></td><td>58</td><td>65.19</td><td>67</td><td>60.93</td><td>0</td></tr>
-  <tr id="geo" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GEO.html" target="_blank">GEO</a></td><td></td><td></td><td>57</td><td>28.64</td><td>27.9</td><td>25.28</td><td>0</td></tr>
   <tr id="luv" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LUV.html" target="_blank">LUV</a></td><td></td><td></td><td>53</td><td>56.83</td><td>58.62</td><td>51.7</td><td>51.95</td></tr>
   <tr id="bcr" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BCR.html" target="_blank">BCR</a></td><td></td><td></td><td>52</td><td>317.85</td><td>321.5</td><td>247.41</td><td>251.5</td></tr>
-  <tr id="efii" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EFII.html" target="_blank">EFII</a></td><td></td><td></td><td>52</td><td>43.08</td><td>45.01</td><td>31.88</td><td>0</td></tr>
   <tr id="gdp" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GDP.html" target="_blank">GDP</a></td><td></td><td></td><td>48</td><td>11.23</td><td>13.22</td><td>8.2</td><td>9.5</td></tr>
   <tr id="aks" class="red">
