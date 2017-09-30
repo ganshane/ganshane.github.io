@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20170930"
-date:   2017-09-30 01:37:18
+date:   2017-09-30 04:40:34
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,6 +14,7 @@ stockList.push('gb_hlf');
 stockList.push('gb_qre');
 stockList.push('gb_ddd');
 stockList.push('gb_cve');
+stockList.push('gb_gild');
 stockList.push('gb_aht');
 stockList.push('gb_vr');
 stockList.push('gb_enlc');
@@ -24,6 +25,7 @@ stockList.push('gb_imax');
 stockList.push('gb_pir');
 stockList.push('gb_epe');
 stockList.push('gb_htgc');
+stockList.push('gb_luv');
 stockList.push('gb_ulta');
 stockList.push('gb_wcc');
 stockList.push('gb_ann');
@@ -76,6 +78,8 @@ stockList.push('gb_ual');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DDD.html" target="_blank">DDD</a></td><td></td><td></td><td>93</td><td>13.4</td><td>13.84</td><td>12.14</td><td>0</td></tr>
   <tr id="cve" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVE.html" target="_blank">CVE</a></td><td></td><td></td><td>90</td><td>11.66</td><td>13.32</td><td>9.11</td><td>9.94</td></tr>
+  <tr id="gild" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GILD.html" target="_blank">GILD</a></td><td></td><td></td><td>86</td><td>81.84</td><td>84.75</td><td>71.3</td><td>76.36</td></tr>
   <tr id="aht" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AHT.html" target="_blank">AHT</a></td><td></td><td></td><td>85</td><td>7.5</td><td>7.9</td><td>5.97</td><td>6.62</td></tr>
   <tr id="vr" class="red">
@@ -96,6 +100,8 @@ stockList.push('gb_ual');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EPE.html" target="_blank">EPE</a></td><td></td><td></td><td>70</td><td>3.32</td><td>3.79</td><td>2.7</td><td>3.11</td></tr>
   <tr id="htgc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HTGC.html" target="_blank">HTGC</a></td><td></td><td></td><td>70</td><td>12.95</td><td>13.43</td><td>12.03</td><td>0</td></tr>
+  <tr id="luv" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LUV.html" target="_blank">LUV</a></td><td></td><td></td><td>69</td><td>56.83</td><td>58.62</td><td>51.7</td><td>51.95</td></tr>
   <tr id="ulta" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ULTA.html" target="_blank">ULTA</a></td><td></td><td></td><td>66</td><td>253.62</td><td>228.69</td><td>214.47</td><td>0</td></tr>
   <tr id="wcc" class="red">

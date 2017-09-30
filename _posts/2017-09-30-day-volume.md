@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20170930"
-date:   2017-09-30 01:37:18
+date:   2017-09-30 04:40:34
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,6 +14,7 @@ stockList.push('gb_mtcn');
 stockList.push('gb_conn');
 stockList.push('gb_ig');
 stockList.push('gb_scg');
+stockList.push('gb_ptct');
 stockList.push('gb_fsl');
 stockList.push('gb_gbx');
 stockList.push('gb_mbi');
@@ -24,6 +25,7 @@ stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
 stockList.push('gb_angi');
 stockList.push('gb_pom');
+stockList.push('gb_ryl');
 stockList.push('gb_ocn');
 stockList.push('gb_swft');
 stockList.push('gb_ggal');
@@ -47,6 +49,7 @@ stockList.push('gb_af');
   <tr id="conn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CONN.html" target="_blank">CONN</a></td><td></td><td></td><td>0.017</td><td>2.904</td></tr>
   <tr id="ig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IG.html" target="_blank">IG</a></td><td></td><td></td><td>-0.017</td><td>4.429</td></tr>
   <tr id="scg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCG.html" target="_blank">SCG</a></td><td></td><td></td><td>-0.017</td><td>2.12</td></tr>
+  <tr id="ptct"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTCT.html" target="_blank">PTCT</a></td><td></td><td></td><td>-0.016</td><td>2.618</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="gbx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GBX.html" target="_blank">GBX</a></td><td></td><td></td><td>0.015</td><td>2.078</td></tr>
   <tr id="mbi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MBI.html" target="_blank">MBI</a></td><td></td><td></td><td>-0.015</td><td>2.361</td></tr>
@@ -57,6 +60,7 @@ stockList.push('gb_af');
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
   <tr id="angi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANGI.html" target="_blank">ANGI</a></td><td></td><td></td><td>0.012</td><td>3.926</td></tr>
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
+  <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
   <tr id="ocn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OCN.html" target="_blank">OCN</a></td><td></td><td></td><td>0.011</td><td>3.654</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
   <tr id="ggal"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GGAL.html" target="_blank">GGAL</a></td><td></td><td></td><td>0.01</td><td>2.353</td></tr>
