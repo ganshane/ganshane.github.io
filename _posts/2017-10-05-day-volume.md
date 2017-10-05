@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "天量股票分析20171005"
-date:   2017-10-05 01:38:43
+date:   2017-10-05 04:36:09
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_bbep');
 stockList.push('gb_kog');
-stockList.push('gb_ngls');
 stockList.push('gb_kndi');
 stockList.push('gb_mtcn');
 stockList.push('gb_mbi');
@@ -40,7 +39,6 @@ stockList.push('gb_af');
 </tr>
   <tr id="bbep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBEP.html" target="_blank">BBEP</a></td><td></td><td></td><td>-0.155</td><td>3.166</td></tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.057</td><td>5.282</td></tr>
-  <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
   <tr id="kndi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KNDI.html" target="_blank">KNDI</a></td><td></td><td></td><td>0.031</td><td>11.353</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="mbi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MBI.html" target="_blank">MBI</a></td><td></td><td></td><td>-0.02</td><td>5.06</td></tr>
