@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20171011"
-date:   2017-10-11 01:37:31
+date:   2017-10-11 04:36:02
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,17 +16,17 @@ stockList.push('gb_sne');
 stockList.push('gb_gme');
 stockList.push('gb_gca');
 stockList.push('gb_kt');
-stockList.push('gb_clvs');
 stockList.push('gb_midd');
 stockList.push('gb_amkr');
 stockList.push('gb_igt');
 stockList.push('gb_ann');
-stockList.push('gb_kfx');
 stockList.push('gb_cig');
 stockList.push('gb_enlc');
 stockList.push('gb_pxd');
 stockList.push('gb_ha');
+stockList.push('gb_urs');
 stockList.push('gb_qld');
+stockList.push('gb_m');
 stockList.push('gb_tlm');
 stockList.push('gb_disca');
 stockList.push('gb_rexx');
@@ -63,8 +63,6 @@ stockList.push('gb_apc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>80</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="kt" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KT.html" target="_blank">KT</a></td><td></td><td></td><td>79</td><td>15.47</td><td>16.65</td><td>13.74</td><td>0</td></tr>
-  <tr id="clvs" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLVS.html" target="_blank">CLVS</a></td><td></td><td></td><td>77</td><td>84.31</td><td>99.45</td><td>70.15</td><td>78.42</td></tr>
   <tr id="midd" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MIDD.html" target="_blank">MIDD</a></td><td></td><td></td><td>76</td><td>125.82</td><td>132.18</td><td>118.1</td><td>0</td></tr>
   <tr id="amkr" class="red">
@@ -73,8 +71,6 @@ stockList.push('gb_apc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IGT.html" target="_blank">IGT</a></td><td></td><td></td><td>67</td><td>26.17</td><td>27.45</td><td>20</td><td>23.98</td></tr>
   <tr id="ann" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
-  <tr id="kfx" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KFX.html" target="_blank">KFX</a></td><td></td><td></td><td>64</td><td>10.97</td><td>11.1</td><td>7.4</td><td>8</td></tr>
   <tr id="cig" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CIG.html" target="_blank">CIG</a></td><td></td><td></td><td>63</td><td>2.63</td><td>2.86</td><td>2.45</td><td>0</td></tr>
   <tr id="enlc" class="red">
@@ -83,8 +79,12 @@ stockList.push('gb_apc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PXD.html" target="_blank">PXD</a></td><td></td><td></td><td>53</td><td>153.5</td><td>166.06</td><td>127.26</td><td>0</td></tr>
   <tr id="ha" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HA.html" target="_blank">HA</a></td><td></td><td></td><td>52</td><td>41.05</td><td>44.3</td><td>36.62</td><td>0</td></tr>
+  <tr id="urs" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>44</td><td>57.26</td><td>58.7</td><td>46.13</td><td>53.03</td></tr>
   <tr id="qld" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QLD.html" target="_blank">QLD</a></td><td></td><td></td><td>39</td><td>102.52</td><td>107.45</td><td>61.84</td><td>65.11</td></tr>
+  <tr id="m" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/M.html" target="_blank">M</a></td><td></td><td></td><td>38</td><td>20.91</td><td>22.42</td><td>19.32</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
   <tr id="disca" class="green">
