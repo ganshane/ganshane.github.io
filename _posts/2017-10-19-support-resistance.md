@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20171019"
-date:   2017-10-19 01:40:31
+date:   2017-10-19 04:41:56
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,6 +9,7 @@ var stockList = []
 stockList.push('gb_imax');
 stockList.push('gb_lgcy');
 stockList.push('gb_ts');
+stockList.push('gb_saic');
 stockList.push('gb_nfx');
 stockList.push('gb_qre');
 stockList.push('gb_axl');
@@ -29,11 +30,8 @@ stockList.push('gb_nat');
 stockList.push('gb_urs');
 stockList.push('gb_qep');
 stockList.push('gb_erj');
-stockList.push('gb_scg');
 stockList.push('gb_tlm');
 stockList.push('gb_lscc');
-stockList.push('gb_serv');
-stockList.push('gb_saic');
 stockList.push('gb_htgc');
 stockList.push('gb_clvs');
 stockList.push('gb_fls');
@@ -56,6 +54,8 @@ stockList.push('gb_cveo');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LGCY.html" target="_blank">LGCY</a></td><td></td><td></td><td>100</td><td>1.85</td><td>2.12</td><td>1.33</td><td>1.5</td></tr>
   <tr id="ts" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TS.html" target="_blank">TS</a></td><td></td><td></td><td>97</td><td>29.73</td><td>29.06</td><td>26.48</td><td>0</td></tr>
+  <tr id="saic" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SAIC.html" target="_blank">SAIC</a></td><td></td><td></td><td>96</td><td>68.89</td><td>72.45</td><td>63.03</td><td>0</td></tr>
   <tr id="nfx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NFX.html" target="_blank">NFX</a></td><td></td><td></td><td>94</td><td>33</td><td>35.99</td><td>26.05</td><td>29.61</td></tr>
   <tr id="qre" class="red">
@@ -96,16 +96,10 @@ stockList.push('gb_cveo');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QEP.html" target="_blank">QEP</a></td><td></td><td></td><td>43</td><td>8.82</td><td>9.61</td><td>7.08</td><td>0</td></tr>
   <tr id="erj" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ERJ.html" target="_blank">ERJ</a></td><td></td><td></td><td>41</td><td>22.17</td><td>23.43</td><td>18.42</td><td>20.39</td></tr>
-  <tr id="scg" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCG.html" target="_blank">SCG</a></td><td></td><td></td><td>40</td><td>60</td><td>67.88</td><td>48.35</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
   <tr id="lscc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LSCC.html" target="_blank">LSCC</a></td><td></td><td></td><td>33</td><td>6.51</td><td>5.89</td><td>5.09</td><td>0</td></tr>
-  <tr id="serv" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SERV.html" target="_blank">SERV</a></td><td></td><td></td><td>32</td><td>46.37</td><td>47.64</td><td>39.88</td><td>42.45</td></tr>
-  <tr id="saic" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SAIC.html" target="_blank">SAIC</a></td><td></td><td></td><td>31</td><td>68.89</td><td>72.45</td><td>63.03</td><td>0</td></tr>
   <tr id="htgc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HTGC.html" target="_blank">HTGC</a></td><td></td><td></td><td>30</td><td>12.95</td><td>12.83</td><td>12.03</td><td>0</td></tr>
   <tr id="clvs" class="green">
