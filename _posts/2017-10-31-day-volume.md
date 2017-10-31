@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20171031"
-date:   2017-10-31 01:49:49
+date:   2017-10-31 04:40:33
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,9 +17,11 @@ stockList.push('gb_tph');
 stockList.push('gb_ig');
 stockList.push('gb_fsl');
 stockList.push('gb_atw');
+stockList.push('gb_mmyt');
 stockList.push('gb_alsn');
 stockList.push('gb_qre');
 stockList.push('gb_sivb');
+stockList.push('gb_fslr');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
 stockList.push('gb_pom');
@@ -49,9 +51,11 @@ stockList.push('gb_af');
   <tr id="ig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IG.html" target="_blank">IG</a></td><td></td><td></td><td>-0.017</td><td>4.429</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
+  <tr id="mmyt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MMYT.html" target="_blank">MMYT</a></td><td></td><td></td><td>-0.014</td><td>3.893</td></tr>
   <tr id="alsn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALSN.html" target="_blank">ALSN</a></td><td></td><td></td><td>0.013</td><td>2.339</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="sivb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SIVB.html" target="_blank">SIVB</a></td><td></td><td></td><td>0.012</td><td>2.17</td></tr>
+  <tr id="fslr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSLR.html" target="_blank">FSLR</a></td><td></td><td></td><td>0.012</td><td>2.743</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
