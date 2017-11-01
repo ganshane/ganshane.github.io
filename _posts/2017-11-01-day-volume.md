@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20171101"
-date:   2017-11-01 01:40:32
+date:   2017-11-01 04:37:53
 categories: stock
 ---
 <script type="text/javascript">
@@ -19,10 +19,8 @@ stockList.push('gb_alsn');
 stockList.push('gb_qre');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
-stockList.push('gb_tmst');
 stockList.push('gb_irdm');
 stockList.push('gb_pom');
-stockList.push('gb_trip');
 stockList.push('gb_ryl');
 stockList.push('gb_bkd');
 stockList.push('gb_skt');
@@ -54,10 +52,8 @@ stockList.push('gb_af');
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
-  <tr id="tmst"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TMST.html" target="_blank">TMST</a></td><td></td><td></td><td>-0.012</td><td>2.283</td></tr>
   <tr id="irdm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRDM.html" target="_blank">IRDM</a></td><td></td><td></td><td>0.011</td><td>2.016</td></tr>
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
-  <tr id="trip"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TRIP.html" target="_blank">TRIP</a></td><td></td><td></td><td>-0.011</td><td>2.468</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
   <tr id="bkd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BKD.html" target="_blank">BKD</a></td><td></td><td></td><td>-0.011</td><td>3.813</td></tr>
   <tr id="skt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SKT.html" target="_blank">SKT</a></td><td></td><td></td><td>-0.011</td><td>3.149</td></tr>
