@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20171212"
-date:   2017-12-12 01:40:07
+date:   2017-12-12 04:47:05
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,6 +12,8 @@ stockList.push('gb_x');
 stockList.push('gb_dyn');
 stockList.push('gb_crr');
 stockList.push('gb_gca');
+stockList.push('gb_yelp');
+stockList.push('gb_pdce');
 stockList.push('gb_ll');
 stockList.push('gb_ann');
 stockList.push('gb_kfx');
@@ -23,12 +25,15 @@ stockList.push('gb_uwm');
 stockList.push('gb_ery');
 stockList.push('gb_upl');
 stockList.push('gb_dbd');
+stockList.push('gb_jblu');
 stockList.push('gb_urs');
 stockList.push('gb_cake');
 stockList.push('gb_dnow');
 stockList.push('gb_tlm');
 stockList.push('gb_irbt');
 stockList.push('gb_finl');
+stockList.push('gb_mtor');
+stockList.push('gb_pdco');
 </script>
 <table border="1">
  <tr>
@@ -53,6 +58,10 @@ stockList.push('gb_finl');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRR.html" target="_blank">CRR</a></td><td></td><td></td><td>81</td><td>10.31</td><td>10.68</td><td>6.63</td><td>9.36</td></tr>
   <tr id="gca" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>80</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
+  <tr id="yelp" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YELP.html" target="_blank">YELP</a></td><td></td><td></td><td>79</td><td>41.8</td><td>44.24</td><td>33.35</td><td>36.2</td></tr>
+  <tr id="pdce" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PDCE.html" target="_blank">PDCE</a></td><td></td><td></td><td>76</td><td>45.24</td><td>47.47</td><td>40.36</td><td>0</td></tr>
   <tr id="ll" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LL.html" target="_blank">LL</a></td><td></td><td></td><td>67</td><td>36.63</td><td>35.94</td><td>27.38</td><td>30.18</td></tr>
   <tr id="ann" class="red">
@@ -75,6 +84,8 @@ stockList.push('gb_finl');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UPL.html" target="_blank">UPL</a></td><td></td><td></td><td>49</td><td>9.96</td><td>9.79</td><td>8.07</td><td>9.09</td></tr>
   <tr id="dbd" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DBD.html" target="_blank">DBD</a></td><td></td><td></td><td>48</td><td>18.9</td><td>20.4</td><td>16</td><td>0</td></tr>
+  <tr id="jblu" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JBLU.html" target="_blank">JBLU</a></td><td></td><td></td><td>47</td><td>22.2</td><td>22.15</td><td>20.7</td><td>20.71</td></tr>
   <tr id="urs" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>44</td><td>57.26</td><td>58.7</td><td>46.13</td><td>53.03</td></tr>
   <tr id="cake" class="red">
@@ -87,4 +98,8 @@ stockList.push('gb_finl');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRBT.html" target="_blank">IRBT</a></td><td></td><td></td><td>34</td><td>66.2</td><td>73.28</td><td>56.12</td><td>0</td></tr>
   <tr id="finl" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FINL.html" target="_blank">FINL</a></td><td></td><td></td><td>28</td><td>12.47</td><td>11.71</td><td>8.14</td><td>10.94</td></tr>
+  <tr id="mtor" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTOR.html" target="_blank">MTOR</a></td><td></td><td></td><td>26</td><td>23.89</td><td>25.38</td><td>18.37</td><td>19.12</td></tr>
+  <tr id="pdco" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PDCO.html" target="_blank">PDCO</a></td><td></td><td></td><td>22</td><td>35.93</td><td>37.47</td><td>32.07</td><td>0</td></tr>
 </table>
