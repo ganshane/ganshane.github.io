@@ -1,16 +1,15 @@
 ---
 layout: post
 title:  "天量股票分析20171213"
-date:   2017-12-13 01:38:56
+date:   2017-12-13 04:39:28
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_bbep');
 stockList.push('gb_kog');
-stockList.push('gb_ngls');
 stockList.push('gb_mtcn');
-stockList.push('gb_eix');
+stockList.push('gb_vrx');
 stockList.push('gb_fsl');
 stockList.push('gb_atw');
 stockList.push('gb_exas');
@@ -34,9 +33,8 @@ stockList.push('gb_af');
 </tr>
   <tr id="bbep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBEP.html" target="_blank">BBEP</a></td><td></td><td></td><td>-0.155</td><td>3.166</td></tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.057</td><td>5.282</td></tr>
-  <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
-  <tr id="eix"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EIX.html" target="_blank">EIX</a></td><td></td><td></td><td>-0.019</td><td>2.039</td></tr>
+  <tr id="vrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VRX.html" target="_blank">VRX</a></td><td></td><td></td><td>0.021</td><td>2.045</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="exas"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXAS.html" target="_blank">EXAS</a></td><td></td><td></td><td>-0.014</td><td>2.669</td></tr>
