@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20171220"
-date:   2017-12-20 01:41:55
+date:   2017-12-20 04:40:02
 categories: stock
 ---
 <script type="text/javascript">
@@ -57,7 +57,7 @@ stockList.push('gb_af');
   <tr id="hpj"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HPJ.html" target="_blank">HPJ</a></td><td></td><td></td><td>-0.013</td><td>2.598</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="arex"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AREX.html" target="_blank">AREX</a></td><td></td><td></td><td>0.012</td><td>2.085</td></tr>
-  <tr id="chgg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CHGG.html" target="_blank">CHGG</a></td><td></td><td></td><td>0.012</td><td>2.531</td></tr>
+  <tr id="chgg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CHGG.html" target="_blank">CHGG</a></td><td></td><td></td><td>0.012</td><td>2.609</td></tr>
   <tr id="ptla"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTLA.html" target="_blank">PTLA</a></td><td></td><td></td><td>-0.012</td><td>2.775</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
