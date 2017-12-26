@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20171226"
-date:   2017-12-26 01:28:07
+date:   2017-12-26 04:26:11
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,7 +10,6 @@ stockList.push('gb_fls');
 stockList.push('gb_semg');
 stockList.push('gb_twx');
 stockList.push('gb_md');
-stockList.push('gb_ual');
 stockList.push('gb_vips');
 stockList.push('gb_qld');
 stockList.push('gb_urs');
@@ -38,8 +37,6 @@ stockList.push('gb_orly');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TWX.html" target="_blank">TWX</a></td><td></td><td></td><td>58</td><td>96.88</td><td>92.77</td><td>87.03</td><td>0</td></tr>
   <tr id="md" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MD.html" target="_blank">MD</a></td><td></td><td></td><td>58</td><td>53.83</td><td>55.7</td><td>41.53</td><td>44.8</td></tr>
-  <tr id="ual" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UAL.html" target="_blank">UAL</a></td><td></td><td></td><td>58</td><td>67.77</td><td>68.48</td><td>57.7</td><td>61.98</td></tr>
   <tr id="vips" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIPS.html" target="_blank">VIPS</a></td><td></td><td></td><td>52</td><td>12.8</td><td>12.32</td><td>9.94</td><td>10.13</td></tr>
   <tr id="qld" class="green">
