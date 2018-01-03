@@ -1,16 +1,13 @@
 ---
 layout: post
 title:  "天量股票分析20180103"
-date:   2018-01-03 02:01:22
+date:   2018-01-03 04:43:09
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
-stockList.push('gb_mtcn');
-stockList.push('gb_pom');
-stockList.push('gb_ryl');
-stockList.push('gb_swft');
-stockList.push('gb_edc');
+stockList.push('gb_ngls');
+stockList.push('gb_egn');
 </script>
 
 <table border="1">
@@ -21,9 +18,6 @@ stockList.push('gb_edc');
  <td>强度指数</td>
  <td>天量指数</td>
 </tr>
-  <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
-  <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
-  <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
-  <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
-  <tr id="edc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EDC.html" target="_blank">EDC</a></td><td></td><td></td><td>0.01</td><td>2.738</td></tr>
+  <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
+  <tr id="egn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EGN.html" target="_blank">EGN</a></td><td></td><td></td><td>0.012</td><td>2.7</td></tr>
 </table>
