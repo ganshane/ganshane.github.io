@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180104"
-date:   2018-01-04 01:28:57
+date:   2018-01-04 04:28:47
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,12 +9,12 @@ var stockList = []
 stockList.push('gb_coo');
 stockList.push('gb_sig');
 stockList.push('gb_apam');
+stockList.push('gb_qld');
 stockList.push('gb_spxl');
 stockList.push('gb_urs');
 stockList.push('gb_trip');
 stockList.push('gb_gel');
 stockList.push('gb_emes');
-stockList.push('gb_clvs');
 </script>
 <table border="1">
  <tr>
@@ -33,6 +33,8 @@ stockList.push('gb_clvs');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SIG.html" target="_blank">SIG</a></td><td></td><td></td><td>93</td><td>55.57</td><td>61.09</td><td>51.09</td><td>0</td></tr>
   <tr id="apam" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APAM.html" target="_blank">APAM</a></td><td></td><td></td><td>75</td><td>38.7</td><td>40.1</td><td>35.45</td><td>36.33</td></tr>
+  <tr id="qld" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QLD.html" target="_blank">QLD</a></td><td></td><td></td><td>73</td><td>104.51</td><td>107.49</td><td>69.76</td><td>75.82</td></tr>
   <tr id="spxl" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPXL.html" target="_blank">SPXL</a></td><td></td><td></td><td>59</td><td>121.93</td><td>127.1</td><td>43.16</td><td>45.06</td></tr>
   <tr id="urs" class="green">
@@ -43,6 +45,4 @@ stockList.push('gb_clvs');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GEL.html" target="_blank">GEL</a></td><td></td><td></td><td>25</td><td>25.91</td><td>23.8</td><td>20.43</td><td>0</td></tr>
   <tr id="emes" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EMES.html" target="_blank">EMES</a></td><td></td><td></td><td>23</td><td>8.1</td><td>7.84</td><td>6.73</td><td>0</td></tr>
-  <tr id="clvs" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLVS.html" target="_blank">CLVS</a></td><td></td><td></td><td>21</td><td>68.76</td><td>78.42</td><td>60.8</td><td>59.24</td></tr>
 </table>
