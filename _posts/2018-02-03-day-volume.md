@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180203"
-date:   2018-02-03 01:59:19
+date:   2018-02-03 04:45:33
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,6 +11,7 @@ stockList.push('gb_kog');
 stockList.push('gb_ngls');
 stockList.push('gb_upl');
 stockList.push('gb_mtcn');
+stockList.push('gb_vsi');
 stockList.push('gb_qep');
 stockList.push('gb_nktr');
 stockList.push('gb_nvgs');
@@ -23,6 +24,7 @@ stockList.push('gb_vxx');
 stockList.push('gb_vixy');
 stockList.push('gb_tol');
 stockList.push('gb_atw');
+stockList.push('gb_sn');
 stockList.push('gb_cpe');
 stockList.push('gb_qre');
 stockList.push('gb_wetf');
@@ -52,6 +54,7 @@ stockList.push('gb_ges');
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
   <tr id="upl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UPL.html" target="_blank">UPL</a></td><td></td><td></td><td>-0.027</td><td>3.971</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
+  <tr id="vsi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VSI.html" target="_blank">VSI</a></td><td></td><td></td><td>-0.023</td><td>2.119</td></tr>
   <tr id="qep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QEP.html" target="_blank">QEP</a></td><td></td><td></td><td>-0.02</td><td>2.309</td></tr>
   <tr id="nktr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NKTR.html" target="_blank">NKTR</a></td><td></td><td></td><td>0.018</td><td>2.822</td></tr>
   <tr id="nvgs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NVGS.html" target="_blank">NVGS</a></td><td></td><td></td><td>0.017</td><td>2.26</td></tr>
@@ -64,6 +67,7 @@ stockList.push('gb_ges');
   <tr id="vixy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIXY.html" target="_blank">VIXY</a></td><td></td><td></td><td>0.015</td><td>3.654</td></tr>
   <tr id="tol"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOL.html" target="_blank">TOL</a></td><td></td><td></td><td>-0.015</td><td>2.418</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
+  <tr id="sn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SN.html" target="_blank">SN</a></td><td></td><td></td><td>-0.014</td><td>2.443</td></tr>
   <tr id="cpe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CPE.html" target="_blank">CPE</a></td><td></td><td></td><td>-0.013</td><td>2.486</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="wetf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>-0.012</td><td>2.548</td></tr>
