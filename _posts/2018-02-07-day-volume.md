@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180207"
-date:   2018-02-07 02:02:56
+date:   2018-02-07 04:44:10
 categories: stock
 ---
 <script type="text/javascript">
@@ -50,7 +50,6 @@ stockList.push('gb_mdc');
 stockList.push('gb_snh');
 stockList.push('gb_sdrl');
 stockList.push('gb_entg');
-stockList.push('gb_mga');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
 stockList.push('gb_ns');
@@ -72,7 +71,6 @@ stockList.push('gb_cnc');
 stockList.push('gb_ige');
 stockList.push('gb_oc');
 stockList.push('gb_swft');
-stockList.push('gb_hd');
 stockList.push('gb_vlccf');
 stockList.push('gb_af');
 stockList.push('gb_rds.b');
@@ -130,7 +128,6 @@ stockList.push('gb_rds.b');
   <tr id="snh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNH.html" target="_blank">SNH</a></td><td></td><td></td><td>-0.012</td><td>2.199</td></tr>
   <tr id="sdrl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDRL.html" target="_blank">SDRL</a></td><td></td><td></td><td>-0.012</td><td>2.019</td></tr>
   <tr id="entg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENTG.html" target="_blank">ENTG</a></td><td></td><td></td><td>-0.012</td><td>2.016</td></tr>
-  <tr id="mga"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MGA.html" target="_blank">MGA</a></td><td></td><td></td><td>-0.012</td><td>2.017</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
   <tr id="ns"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NS.html" target="_blank">NS</a></td><td></td><td></td><td>-0.012</td><td>2.049</td></tr>
@@ -152,7 +149,6 @@ stockList.push('gb_rds.b');
   <tr id="ige"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IGE.html" target="_blank">IGE</a></td><td></td><td></td><td>-0.011</td><td>2.436</td></tr>
   <tr id="oc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OC.html" target="_blank">OC</a></td><td></td><td></td><td>-0.011</td><td>2.085</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
-  <tr id="hd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HD.html" target="_blank">HD</a></td><td></td><td></td><td>-0.01</td><td>2.375</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
   <tr id="af"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AF.html" target="_blank">AF</a></td><td></td><td></td><td>0.01</td><td>18.827</td></tr>
   <tr id="rds.b"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RDS.B.html" target="_blank">RDS.B</a></td><td></td><td></td><td>-0.01</td><td>2.005</td></tr>
