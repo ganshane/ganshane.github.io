@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180213"
-date:   2018-02-13 01:48:30
+date:   2018-02-13 04:47:57
 categories: stock
 ---
 <script type="text/javascript">
@@ -13,6 +13,7 @@ stockList.push('gb_qre');
 stockList.push('gb_wlk');
 stockList.push('gb_rcii');
 stockList.push('gb_burl');
+stockList.push('gb_oled');
 stockList.push('gb_exp');
 stockList.push('gb_gca');
 stockList.push('gb_tile');
@@ -29,7 +30,6 @@ stockList.push('gb_pbi');
 stockList.push('gb_btu');
 stockList.push('gb_five');
 stockList.push('gb_eep');
-stockList.push('gb_syna');
 stockList.push('gb_rok');
 stockList.push('gb_awi');
 stockList.push('gb_fnf');
@@ -39,6 +39,7 @@ stockList.push('gb_kr');
 stockList.push('gb_urs');
 stockList.push('gb_tlm');
 stockList.push('gb_gel');
+stockList.push('gb_rio');
 stockList.push('gb_eme');
 stockList.push('gb_ceco');
 stockList.push('gb_hsic');
@@ -77,6 +78,8 @@ stockList.push('gb_bte');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RCII.html" target="_blank">RCII</a></td><td></td><td></td><td>91</td><td>10.07</td><td>11.3</td><td>9.05</td><td>0</td></tr>
   <tr id="burl" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BURL.html" target="_blank">BURL</a></td><td></td><td></td><td>90</td><td>119.51</td><td>128.93</td><td>93.59</td><td>104.07</td></tr>
+  <tr id="oled" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OLED.html" target="_blank">OLED</a></td><td></td><td></td><td>90</td><td>168</td><td>187.85</td><td>130.5</td><td>145.15</td></tr>
   <tr id="exp" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXP.html" target="_blank">EXP</a></td><td></td><td></td><td>80</td><td>108.62</td><td>110.98</td><td>101.88</td><td>101.64</td></tr>
   <tr id="gca" class="green">
@@ -109,8 +112,6 @@ stockList.push('gb_bte');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FIVE.html" target="_blank">FIVE</a></td><td></td><td></td><td>58</td><td>64.92</td><td>73.55</td><td>54.82</td><td>58.07</td></tr>
   <tr id="eep" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EEP.html" target="_blank">EEP</a></td><td></td><td></td><td>57</td><td>13.74</td><td>15.07</td><td>12.25</td><td>0</td></tr>
-  <tr id="syna" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SYNA.html" target="_blank">SYNA</a></td><td></td><td></td><td>55</td><td>50.54</td><td>47.19</td><td>39.45</td><td>41.93</td></tr>
   <tr id="rok" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ROK.html" target="_blank">ROK</a></td><td></td><td></td><td>54</td><td>187.2</td><td>195.8</td><td>158</td><td>167.97</td></tr>
   <tr id="awi" class="red">
@@ -129,6 +130,8 @@ stockList.push('gb_bte');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
   <tr id="gel" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GEL.html" target="_blank">GEL</a></td><td></td><td></td><td>37</td><td>21.75</td><td>23.8</td><td>20.43</td><td>0</td></tr>
+  <tr id="rio" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RIO.html" target="_blank">RIO</a></td><td></td><td></td><td>36</td><td>55.13</td><td>57.28</td><td>47.55</td><td>50.55</td></tr>
   <tr id="eme" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EME.html" target="_blank">EME</a></td><td></td><td></td><td>35</td><td>76.96</td><td>81.68</td><td>68.77</td><td>70.85</td></tr>
   <tr id="ceco" class="red">
