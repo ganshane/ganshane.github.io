@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180215"
-date:   2018-02-15 01:43:35
+date:   2018-02-15 04:40:34
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,6 +16,7 @@ stockList.push('gb_htz');
 stockList.push('gb_ois');
 stockList.push('gb_nktr');
 stockList.push('gb_ig');
+stockList.push('gb_fosl');
 stockList.push('gb_fsl');
 stockList.push('gb_atw');
 stockList.push('gb_lrn');
@@ -24,6 +25,7 @@ stockList.push('gb_qre');
 stockList.push('gb_car');
 stockList.push('gb_ayr');
 stockList.push('gb_biib');
+stockList.push('gb_bidu');
 stockList.push('gb_bud');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
@@ -54,6 +56,7 @@ stockList.push('gb_af');
   <tr id="ois"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OIS.html" target="_blank">OIS</a></td><td></td><td></td><td>-0.018</td><td>2.693</td></tr>
   <tr id="nktr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NKTR.html" target="_blank">NKTR</a></td><td></td><td></td><td>-0.018</td><td>2.816</td></tr>
   <tr id="ig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IG.html" target="_blank">IG</a></td><td></td><td></td><td>-0.017</td><td>4.429</td></tr>
+  <tr id="fosl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FOSL.html" target="_blank">FOSL</a></td><td></td><td></td><td>0.016</td><td>13.8</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="lrn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LRN.html" target="_blank">LRN</a></td><td></td><td></td><td>-0.014</td><td>6.958</td></tr>
@@ -62,6 +65,7 @@ stockList.push('gb_af');
   <tr id="car"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CAR.html" target="_blank">CAR</a></td><td></td><td></td><td>-0.013</td><td>2.464</td></tr>
   <tr id="ayr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AYR.html" target="_blank">AYR</a></td><td></td><td></td><td>-0.013</td><td>2.433</td></tr>
   <tr id="biib"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIIB.html" target="_blank">BIIB</a></td><td></td><td></td><td>-0.012</td><td>3.907</td></tr>
+  <tr id="bidu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIDU.html" target="_blank">BIDU</a></td><td></td><td></td><td>-0.012</td><td>2.11</td></tr>
   <tr id="bud"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BUD.html" target="_blank">BUD</a></td><td></td><td></td><td>-0.012</td><td>2.586</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
