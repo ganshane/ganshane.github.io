@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180309"
-date:   2018-03-09 01:42:35
+date:   2018-03-09 04:40:58
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,7 +11,6 @@ stockList.push('gb_bdsi');
 stockList.push('gb_ach');
 stockList.push('gb_rh');
 stockList.push('gb_geo');
-stockList.push('gb_vrx');
 stockList.push('gb_dks');
 stockList.push('gb_qre');
 stockList.push('gb_efii');
@@ -39,6 +38,7 @@ stockList.push('gb_slca');
 stockList.push('gb_pah');
 stockList.push('gb_urs');
 stockList.push('gb_wpg');
+stockList.push('gb_irbt');
 stockList.push('gb_tlm');
 stockList.push('gb_dltr');
 stockList.push('gb_two');
@@ -67,8 +67,6 @@ stockList.push('gb_fang');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RH.html" target="_blank">RH</a></td><td></td><td></td><td>99</td><td>81</td><td>93.64</td><td>68.78</td><td>76</td></tr>
   <tr id="geo" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GEO.html" target="_blank">GEO</a></td><td></td><td></td><td>96</td><td>22.2</td><td>23.68</td><td>19.05</td><td>0</td></tr>
-  <tr id="vrx" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VRX.html" target="_blank">VRX</a></td><td></td><td></td><td>94</td><td>17.02</td><td>17.33</td><td>13.43</td><td>15.08</td></tr>
   <tr id="dks" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DKS.html" target="_blank">DKS</a></td><td></td><td></td><td>94</td><td>35.1</td><td>33.98</td><td>30.18</td><td>30.8</td></tr>
   <tr id="qre" class="red">
@@ -123,6 +121,8 @@ stockList.push('gb_fang');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>44</td><td>57.26</td><td>58.7</td><td>46.13</td><td>53.03</td></tr>
   <tr id="wpg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPG.html" target="_blank">WPG</a></td><td></td><td></td><td>41</td><td>6.74</td><td>7.17</td><td>5.44</td><td>0</td></tr>
+  <tr id="irbt" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRBT.html" target="_blank">IRBT</a></td><td></td><td></td><td>40</td><td>83.05</td><td>73.28</td><td>66.2</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
   <tr id="dltr" class="green">
