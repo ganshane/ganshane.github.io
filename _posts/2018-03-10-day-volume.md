@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180310"
-date:   2018-03-10 01:40:15
+date:   2018-03-10 04:38:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,7 +14,6 @@ stockList.push('gb_mtcn');
 stockList.push('gb_ig');
 stockList.push('gb_fsl');
 stockList.push('gb_rexx');
-stockList.push('gb_atw');
 stockList.push('gb_fnsr');
 stockList.push('gb_qre');
 stockList.push('gb_nes');
@@ -45,7 +44,6 @@ stockList.push('gb_af');
   <tr id="ig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IG.html" target="_blank">IG</a></td><td></td><td></td><td>-0.017</td><td>4.429</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>-0.014</td><td>3.072</td></tr>
-  <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="fnsr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FNSR.html" target="_blank">FNSR</a></td><td></td><td></td><td>0.014</td><td>2.634</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="nes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NES.html" target="_blank">NES</a></td><td></td><td></td><td>0.012</td><td>5.53</td></tr>
