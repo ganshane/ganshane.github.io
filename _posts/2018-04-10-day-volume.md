@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180410"
-date:   2018-04-10 01:38:52
+date:   2018-04-10 04:44:38
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,10 +11,10 @@ stockList.push('gb_kog');
 stockList.push('gb_ngls');
 stockList.push('gb_mtcn');
 stockList.push('gb_ras');
-stockList.push('gb_incy');
 stockList.push('gb_ig');
 stockList.push('gb_fsl');
 stockList.push('gb_ozm');
+stockList.push('gb_atw');
 stockList.push('gb_obci');
 stockList.push('gb_sdrl');
 stockList.push('gb_qre');
@@ -40,10 +40,10 @@ stockList.push('gb_af');
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="ras"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RAS.html" target="_blank">RAS</a></td><td></td><td></td><td>-0.023</td><td>4.736</td></tr>
-  <tr id="incy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INCY.html" target="_blank">INCY</a></td><td></td><td></td><td>-0.017</td><td>2.05</td></tr>
   <tr id="ig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IG.html" target="_blank">IG</a></td><td></td><td></td><td>-0.017</td><td>4.429</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="ozm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OZM.html" target="_blank">OZM</a></td><td></td><td></td><td>-0.015</td><td>2.04</td></tr>
+  <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="obci"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OBCI.html" target="_blank">OBCI</a></td><td></td><td></td><td>-0.014</td><td>2.249</td></tr>
   <tr id="sdrl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDRL.html" target="_blank">SDRL</a></td><td></td><td></td><td>-0.013</td><td>2.866</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
