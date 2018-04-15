@@ -10,3 +10,6 @@ github_username:  jcai
 
 # Build settings
 markdown: kramdown
+
+paginate: 10
+paginate_path: "/info/:num/"
