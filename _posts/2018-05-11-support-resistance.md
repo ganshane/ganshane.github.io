@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180511"
-date:   2018-05-11 01:38:50
+date:   2018-05-11 04:38:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,7 +16,6 @@ stockList.push('gb_tile');
 stockList.push('gb_eqix');
 stockList.push('gb_enb');
 stockList.push('gb_klic');
-stockList.push('gb_ggp');
 stockList.push('gb_ann');
 stockList.push('gb_kfx');
 stockList.push('gb_rlgy');
@@ -24,13 +23,12 @@ stockList.push('gb_sqqq');
 stockList.push('gb_acco');
 stockList.push('gb_acad');
 stockList.push('gb_nq');
+stockList.push('gb_gpk');
 stockList.push('gb_camp');
 stockList.push('gb_urs');
 stockList.push('gb_dltr');
-stockList.push('gb_gov');
 stockList.push('gb_wafd');
 stockList.push('gb_tlm');
-stockList.push('gb_tnp');
 </script>
 <table border="1">
  <tr>
@@ -63,8 +61,6 @@ stockList.push('gb_tnp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENB.html" target="_blank">ENB</a></td><td></td><td></td><td>71</td><td>34.44</td><td>33.62</td><td>29.61</td><td>0</td></tr>
   <tr id="klic" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KLIC.html" target="_blank">KLIC</a></td><td></td><td></td><td>71</td><td>23.77</td><td>25.41</td><td>21.98</td><td>0</td></tr>
-  <tr id="ggp" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GGP.html" target="_blank">GGP</a></td><td></td><td></td><td>66</td><td>20.38</td><td>20.45</td><td>18.83</td><td>0</td></tr>
   <tr id="ann" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="kfx" class="green">
@@ -79,18 +75,16 @@ stockList.push('gb_tnp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACAD.html" target="_blank">ACAD</a></td><td></td><td></td><td>58</td><td>18.68</td><td>20.44</td><td>15.58</td><td>0</td></tr>
   <tr id="nq" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>55</td><td>3.27</td><td>2.44</td><td>2.17</td><td>0</td></tr>
+  <tr id="gpk" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GPK.html" target="_blank">GPK</a></td><td></td><td></td><td>50</td><td>14.79</td><td>15.49</td><td>13.01</td><td>13.83</td></tr>
   <tr id="camp" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CAMP.html" target="_blank">CAMP</a></td><td></td><td></td><td>49</td><td>21.12</td><td>22.88</td><td>17.52</td><td>0</td></tr>
   <tr id="urs" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>44</td><td>57.26</td><td>58.7</td><td>46.13</td><td>53.03</td></tr>
   <tr id="dltr" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DLTR.html" target="_blank">DLTR</a></td><td></td><td></td><td>43</td><td>103.21</td><td>101.75</td><td>91.81</td><td>0</td></tr>
-  <tr id="gov" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOV.html" target="_blank">GOV</a></td><td></td><td></td><td>43</td><td>17.59</td><td>13.86</td><td>12.2</td><td>0</td></tr>
   <tr id="wafd" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WAFD.html" target="_blank">WAFD</a></td><td></td><td></td><td>39</td><td>32.25</td><td>33.2</td><td>29.85</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
-  <tr id="tnp" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TNP.html" target="_blank">TNP</a></td><td></td><td></td><td>24</td><td>3.88</td><td>4.09</td><td>3.52</td><td>3.6</td></tr>
 </table>

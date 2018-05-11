@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180511"
-date:   2018-05-11 01:38:50
+date:   2018-05-11 04:38:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -20,7 +20,6 @@ stockList.push('gb_fsl');
 stockList.push('gb_nvda');
 stockList.push('gb_lci');
 stockList.push('gb_sbs');
-stockList.push('gb_arcb');
 stockList.push('gb_atw');
 stockList.push('gb_qre');
 stockList.push('gb_wprt');
@@ -28,7 +27,6 @@ stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
 stockList.push('gb_depo');
 stockList.push('gb_eght');
-stockList.push('gb_ryl');
 stockList.push('gb_swft');
 stockList.push('gb_dsx');
 stockList.push('gb_ugaz');
@@ -60,7 +58,6 @@ stockList.push('gb_af');
   <tr id="nvda"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NVDA.html" target="_blank">NVDA</a></td><td></td><td></td><td>0.015</td><td>2.318</td></tr>
   <tr id="lci"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LCI.html" target="_blank">LCI</a></td><td></td><td></td><td>-0.015</td><td>2.311</td></tr>
   <tr id="sbs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SBS.html" target="_blank">SBS</a></td><td></td><td></td><td>-0.014</td><td>2.089</td></tr>
-  <tr id="arcb"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARCB.html" target="_blank">ARCB</a></td><td></td><td></td><td>0.014</td><td>2.225</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="wprt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPRT.html" target="_blank">WPRT</a></td><td></td><td></td><td>0.013</td><td>6.462</td></tr>
@@ -68,7 +65,6 @@ stockList.push('gb_af');
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
   <tr id="depo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DEPO.html" target="_blank">DEPO</a></td><td></td><td></td><td>-0.012</td><td>4.708</td></tr>
   <tr id="eght"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EGHT.html" target="_blank">EGHT</a></td><td></td><td></td><td>0.011</td><td>2.039</td></tr>
-  <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
   <tr id="dsx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DSX.html" target="_blank">DSX</a></td><td></td><td></td><td>0.01</td><td>2.166</td></tr>
   <tr id="ugaz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UGAZ.html" target="_blank">UGAZ</a></td><td></td><td></td><td>-0.01</td><td>2.002</td></tr>
