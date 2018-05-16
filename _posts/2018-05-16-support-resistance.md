@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180516"
-date:   2018-05-16 01:53:10
+date:   2018-05-16 05:13:39
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,7 +12,6 @@ stockList.push('gb_ego');
 stockList.push('gb_acco');
 stockList.push('gb_hlit');
 stockList.push('gb_nav');
-stockList.push('gb_ryam');
 stockList.push('gb_qre');
 stockList.push('gb_rpai');
 stockList.push('gb_irbt');
@@ -23,7 +22,6 @@ stockList.push('gb_ter');
 stockList.push('gb_gca');
 stockList.push('gb_cri');
 stockList.push('gb_rrc');
-stockList.push('gb_hiw');
 stockList.push('gb_pah');
 stockList.push('gb_ann');
 stockList.push('gb_ach');
@@ -67,8 +65,6 @@ stockList.push('gb_rdn');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HLIT.html" target="_blank">HLIT</a></td><td></td><td></td><td>100</td><td>3.8</td><td>4.25</td><td>3.5</td><td>3.45</td></tr>
   <tr id="nav" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NAV.html" target="_blank">NAV</a></td><td></td><td></td><td>98</td><td>38.15</td><td>39.34</td><td>33.53</td><td>31.72</td></tr>
-  <tr id="ryam" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYAM.html" target="_blank">RYAM</a></td><td></td><td></td><td>95</td><td>19.22</td><td>20.4</td><td>17.65</td><td>14.34</td></tr>
   <tr id="qre" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>94</td><td>15.24</td><td>16.99</td><td>14.05</td><td>0</td></tr>
   <tr id="rpai" class="green">
@@ -89,8 +85,6 @@ stockList.push('gb_rdn');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRI.html" target="_blank">CRI</a></td><td></td><td></td><td>77</td><td>113.39</td><td>108.24</td><td>100.41</td><td>99.75</td></tr>
   <tr id="rrc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RRC.html" target="_blank">RRC</a></td><td></td><td></td><td>74</td><td>15.45</td><td>14.82</td><td>13.68</td><td>13.74</td></tr>
-  <tr id="hiw" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HIW.html" target="_blank">HIW</a></td><td></td><td></td><td>74</td><td>47.42</td><td>48.58</td><td>42.91</td><td>44.53</td></tr>
   <tr id="pah" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PAH.html" target="_blank">PAH</a></td><td></td><td></td><td>73</td><td>11.04</td><td>11.28</td><td>9.9</td><td>10.27</td></tr>
   <tr id="ann" class="red">
