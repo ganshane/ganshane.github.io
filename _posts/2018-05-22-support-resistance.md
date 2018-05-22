@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180522"
-date:   2018-05-22 01:41:15
+date:   2018-05-22 04:45:15
 categories: stock
 ---
 <script type="text/javascript">
@@ -25,10 +25,10 @@ stockList.push('gb_ann');
 stockList.push('gb_kfx');
 stockList.push('gb_icpt');
 stockList.push('gb_cyh');
-stockList.push('gb_tsla');
 stockList.push('gb_nq');
 stockList.push('gb_urs');
 stockList.push('gb_ryam');
+stockList.push('gb_bks');
 stockList.push('gb_tlm');
 stockList.push('gb_fnsr');
 stockList.push('gb_infn');
@@ -87,14 +87,14 @@ stockList.push('gb_bkd');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ICPT.html" target="_blank">ICPT</a></td><td></td><td></td><td>59</td><td>101.68</td><td>75.38</td><td>65.99</td><td>69.63</td></tr>
   <tr id="cyh" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CYH.html" target="_blank">CYH</a></td><td></td><td></td><td>57</td><td>5.27</td><td>5</td><td>4.27</td><td>4.57</td></tr>
-  <tr id="tsla" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TSLA.html" target="_blank">TSLA</a></td><td></td><td></td><td>56</td><td>299.11</td><td>303.95</td><td>275.23</td><td>0</td></tr>
   <tr id="nq" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>55</td><td>3.27</td><td>2.44</td><td>2.17</td><td>0</td></tr>
   <tr id="urs" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>44</td><td>57.26</td><td>58.7</td><td>46.13</td><td>53.03</td></tr>
   <tr id="ryam" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYAM.html" target="_blank">RYAM</a></td><td></td><td></td><td>44</td><td>19.22</td><td>20.4</td><td>17.65</td><td>14.34</td></tr>
+  <tr id="bks" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BKS.html" target="_blank">BKS</a></td><td></td><td></td><td>43</td><td>6.5</td><td>5.7</td><td>4.8</td><td>5.25</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
   <tr id="fnsr" class="red">
