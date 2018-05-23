@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180523"
-date:   2018-05-23 01:39:07
+date:   2018-05-23 04:41:24
 categories: stock
 ---
 <script type="text/javascript">
@@ -13,7 +13,6 @@ stockList.push('gb_cvs');
 stockList.push('gb_finl');
 stockList.push('gb_aan');
 stockList.push('gb_cmc');
-stockList.push('gb_bwp');
 stockList.push('gb_kbh');
 stockList.push('gb_dri');
 stockList.push('gb_ryam');
@@ -37,7 +36,7 @@ stockList.push('gb_rcl');
 stockList.push('gb_tlm');
 stockList.push('gb_cmcsa');
 stockList.push('gb_cys');
-stockList.push('gb_bbby');
+stockList.push('gb_dhi');
 stockList.push('gb_ohi');
 stockList.push('gb_abbv');
 stockList.push('gb_geos');
@@ -67,8 +66,6 @@ stockList.push('gb_geos');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AAN.html" target="_blank">AAN</a></td><td></td><td></td><td>93</td><td>43.03</td><td>42.6</td><td>39.82</td><td>39.25</td></tr>
   <tr id="cmc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMC.html" target="_blank">CMC</a></td><td></td><td></td><td>92</td><td>24.31</td><td>25.65</td><td>21.8</td><td>22.11</td></tr>
-  <tr id="bwp" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BWP.html" target="_blank">BWP</a></td><td></td><td></td><td>91</td><td>10.94</td><td>12.7</td><td>9.99</td><td>0</td></tr>
   <tr id="kbh" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KBH.html" target="_blank">KBH</a></td><td></td><td></td><td>85</td><td>26.3</td><td>28.09</td><td>20.68</td><td>21.98</td></tr>
   <tr id="dri" class="green">
@@ -115,12 +112,12 @@ stockList.push('gb_geos');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMCSA.html" target="_blank">CMCSA</a></td><td></td><td></td><td>36</td><td>32.92</td><td>34.78</td><td>30.43</td><td>0</td></tr>
   <tr id="cys" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CYS.html" target="_blank">CYS</a></td><td></td><td></td><td>32</td><td>7.82</td><td>7.39</td><td>6.52</td><td>6.85</td></tr>
-  <tr id="bbby" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBBY.html" target="_blank">BBBY</a></td><td></td><td></td><td>24</td><td>19.38</td><td>18.34</td><td>16.68</td><td>0</td></tr>
+  <tr id="dhi" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DHI.html" target="_blank">DHI</a></td><td></td><td></td><td>28</td><td>41.74</td><td>44.92</td><td>36.56</td><td>0</td></tr>
   <tr id="ohi" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OHI.html" target="_blank">OHI</a></td><td></td><td></td><td>24</td><td>31.1</td><td>32.24</td><td>26.83</td><td>28.63</td></tr>
   <tr id="abbv" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ABBV.html" target="_blank">ABBV</a></td><td></td><td></td><td>22</td><td>106.41</td><td>117.93</td><td>96.71</td><td>98.52</td></tr>
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ABBV.html" target="_blank">ABBV</a></td><td></td><td></td><td>23</td><td>106.41</td><td>117.93</td><td>96.71</td><td>98.52</td></tr>
   <tr id="geos" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GEOS.html" target="_blank">GEOS</a></td><td></td><td></td><td>21</td><td>12.42</td><td>14.71</td><td>10.21</td><td>10.99</td></tr>
 </table>
