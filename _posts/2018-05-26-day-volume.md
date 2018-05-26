@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180526"
-date:   2018-05-26 01:39:05
+date:   2018-05-26 04:40:38
 categories: stock
 ---
 <script type="text/javascript">
@@ -15,6 +15,7 @@ stockList.push('gb_mtcn');
 stockList.push('gb_fsl');
 stockList.push('gb_atw');
 stockList.push('gb_qre');
+stockList.push('gb_leju');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
 stockList.push('gb_pom');
@@ -43,6 +44,7 @@ stockList.push('gb_af');
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
+  <tr id="leju"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LEJU.html" target="_blank">LEJU</a></td><td></td><td></td><td>-0.012</td><td>2.191</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
