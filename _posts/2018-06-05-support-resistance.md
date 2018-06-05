@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180605"
-date:   2018-06-05 01:41:37
+date:   2018-06-05 04:40:14
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_bbg');
 stockList.push('gb_ozm');
-stockList.push('gb_ssys');
 stockList.push('gb_qre');
 stockList.push('gb_pay');
 stockList.push('gb_dug');
@@ -57,8 +56,6 @@ stockList.push('gb_p');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBG.html" target="_blank">BBG</a></td><td></td><td></td><td>100</td><td>4.92</td><td>5.52</td><td>4.5</td><td>4.43</td></tr>
   <tr id="ozm" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OZM.html" target="_blank">OZM</a></td><td></td><td></td><td>100</td><td>2.26</td><td>2.12</td><td>1.96</td><td>0</td></tr>
-  <tr id="ssys" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SSYS.html" target="_blank">SSYS</a></td><td></td><td></td><td>95</td><td>19.13</td><td>20.38</td><td>17.27</td><td>0</td></tr>
   <tr id="qre" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>94</td><td>15.24</td><td>16.99</td><td>14.05</td><td>0</td></tr>
   <tr id="pay" class="red">
