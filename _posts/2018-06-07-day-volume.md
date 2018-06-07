@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180607"
-date:   2018-06-07 01:41:13
+date:   2018-06-07 04:44:40
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,7 +14,6 @@ stockList.push('gb_nktr');
 stockList.push('gb_csiq');
 stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
-stockList.push('gb_bfr');
 stockList.push('gb_twtr');
 stockList.push('gb_yy');
 stockList.push('gb_ua');
@@ -31,9 +30,7 @@ stockList.push('gb_rfmd');
 stockList.push('gb_enlc');
 stockList.push('gb_pom');
 stockList.push('gb_ryl');
-stockList.push('gb_cig');
 stockList.push('gb_swft');
-stockList.push('gb_rbs');
 stockList.push('gb_vlccf');
 stockList.push('gb_af');
 </script>
@@ -54,7 +51,6 @@ stockList.push('gb_af');
   <tr id="csiq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CSIQ.html" target="_blank">CSIQ</a></td><td></td><td></td><td>-0.026</td><td>2.546</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>-0.025</td><td>6.236</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
-  <tr id="bfr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BFR.html" target="_blank">BFR</a></td><td></td><td></td><td>-0.019</td><td>3.065</td></tr>
   <tr id="twtr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TWTR.html" target="_blank">TWTR</a></td><td></td><td></td><td>0.019</td><td>6.36</td></tr>
   <tr id="yy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YY.html" target="_blank">YY</a></td><td></td><td></td><td>0.018</td><td>3.895</td></tr>
   <tr id="ua"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UA.html" target="_blank">UA</a></td><td></td><td></td><td>0.017</td><td>2.868</td></tr>
@@ -71,9 +67,7 @@ stockList.push('gb_af');
   <tr id="enlc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENLC.html" target="_blank">ENLC</a></td><td></td><td></td><td>0.012</td><td>2.21</td></tr>
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
-  <tr id="cig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CIG.html" target="_blank">CIG</a></td><td></td><td></td><td>-0.011</td><td>2.681</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
-  <tr id="rbs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RBS.html" target="_blank">RBS</a></td><td></td><td></td><td>-0.01</td><td>2.624</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
   <tr id="af"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AF.html" target="_blank">AF</a></td><td></td><td></td><td>0.01</td><td>18.827</td></tr>
 </table>
