@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180609"
-date:   2018-06-09 01:39:24
+date:   2018-06-09 04:40:47
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,9 +18,8 @@ stockList.push('gb_vsi');
 stockList.push('gb_acor');
 stockList.push('gb_atw');
 stockList.push('gb_czz');
-stockList.push('gb_bbd');
 stockList.push('gb_qre');
-stockList.push('gb_seas');
+stockList.push('gb_ll');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
 stockList.push('gb_ewz');
@@ -30,7 +29,6 @@ stockList.push('gb_swft');
 stockList.push('gb_zumz');
 stockList.push('gb_vlccf');
 stockList.push('gb_af');
-stockList.push('gb_itub');
 </script>
 
 <table border="1">
@@ -53,9 +51,8 @@ stockList.push('gb_itub');
   <tr id="acor"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACOR.html" target="_blank">ACOR</a></td><td></td><td></td><td>0.015</td><td>9.798</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="czz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CZZ.html" target="_blank">CZZ</a></td><td></td><td></td><td>-0.014</td><td>2.578</td></tr>
-  <tr id="bbd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBD.html" target="_blank">BBD</a></td><td></td><td></td><td>-0.014</td><td>2.544</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
-  <tr id="seas"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SEAS.html" target="_blank">SEAS</a></td><td></td><td></td><td>0.013</td><td>2.629</td></tr>
+  <tr id="ll"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LL.html" target="_blank">LL</a></td><td></td><td></td><td>0.012</td><td>2.41</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
   <tr id="ewz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWZ.html" target="_blank">EWZ</a></td><td></td><td></td><td>-0.012</td><td>2.02</td></tr>
@@ -65,5 +62,4 @@ stockList.push('gb_itub');
   <tr id="zumz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ZUMZ.html" target="_blank">ZUMZ</a></td><td></td><td></td><td>0.01</td><td>9.907</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
   <tr id="af"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AF.html" target="_blank">AF</a></td><td></td><td></td><td>0.01</td><td>18.827</td></tr>
-  <tr id="itub"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ITUB.html" target="_blank">ITUB</a></td><td></td><td></td><td>-0.01</td><td>2.275</td></tr>
 </table>
