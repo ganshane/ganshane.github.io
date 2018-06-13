@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "天量股票分析20180613"
-date:   2018-06-13 01:43:35
+date:   2018-06-13 04:39:05
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_bbep');
 stockList.push('gb_kog');
+stockList.push('gb_ngls');
 stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
 stockList.push('gb_jcp');
@@ -16,6 +17,7 @@ stockList.push('gb_cbl');
 stockList.push('gb_pir');
 stockList.push('gb_tsla');
 stockList.push('gb_peix');
+stockList.push('gb_rh');
 stockList.push('gb_fsl');
 stockList.push('gb_atw');
 stockList.push('gb_irbt');
@@ -27,7 +29,6 @@ stockList.push('gb_snmx');
 stockList.push('gb_pom');
 stockList.push('gb_ryl');
 stockList.push('gb_swft');
-stockList.push('gb_rh');
 stockList.push('gb_vlccf');
 stockList.push('gb_af');
 </script>
@@ -42,6 +43,7 @@ stockList.push('gb_af');
 </tr>
   <tr id="bbep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBEP.html" target="_blank">BBEP</a></td><td></td><td></td><td>-0.155</td><td>3.166</td></tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.057</td><td>5.282</td></tr>
+  <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>-0.025</td><td>6.236</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="jcp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JCP.html" target="_blank">JCP</a></td><td></td><td></td><td>0.025</td><td>2.211</td></tr>
@@ -50,6 +52,7 @@ stockList.push('gb_af');
   <tr id="pir"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PIR.html" target="_blank">PIR</a></td><td></td><td></td><td>0.018</td><td>2.246</td></tr>
   <tr id="tsla"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TSLA.html" target="_blank">TSLA</a></td><td></td><td></td><td>0.017</td><td>2.49</td></tr>
   <tr id="peix"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PEIX.html" target="_blank">PEIX</a></td><td></td><td></td><td>-0.017</td><td>3.688</td></tr>
+  <tr id="rh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RH.html" target="_blank">RH</a></td><td></td><td></td><td>0.017</td><td>12.4</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="irbt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRBT.html" target="_blank">IRBT</a></td><td></td><td></td><td>0.014</td><td>4.108</td></tr>
@@ -61,7 +64,6 @@ stockList.push('gb_af');
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
-  <tr id="rh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RH.html" target="_blank">RH</a></td><td></td><td></td><td>0.01</td><td>4.854</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
   <tr id="af"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AF.html" target="_blank">AF</a></td><td></td><td></td><td>0.01</td><td>18.827</td></tr>
 </table>
