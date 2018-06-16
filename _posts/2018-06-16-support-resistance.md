@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180616"
-date:   2018-06-16 01:45:58
+date:   2018-06-16 04:41:19
 categories: stock
 ---
 <script type="text/javascript">
@@ -19,14 +19,12 @@ stockList.push('gb_chtr');
 stockList.push('gb_gca');
 stockList.push('gb_pm');
 stockList.push('gb_man');
-stockList.push('gb_ann');
 stockList.push('gb_kfx');
 stockList.push('gb_wprt');
 stockList.push('gb_slca');
 stockList.push('gb_ges');
 stockList.push('gb_trp');
 stockList.push('gb_nq');
-stockList.push('gb_sco');
 stockList.push('gb_wpg');
 stockList.push('gb_eqix');
 stockList.push('gb_abbv');
@@ -78,8 +76,6 @@ stockList.push('gb_mack');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PM.html" target="_blank">PM</a></td><td></td><td></td><td>74</td><td>97.31</td><td>81.92</td><td>76.21</td><td>0</td></tr>
   <tr id="man" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MAN.html" target="_blank">MAN</a></td><td></td><td></td><td>68</td><td>109.72</td><td>97.09</td><td>91.03</td><td>0</td></tr>
-  <tr id="ann" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="kfx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KFX.html" target="_blank">KFX</a></td><td></td><td></td><td>64</td><td>10.97</td><td>11.1</td><td>7.4</td><td>8</td></tr>
   <tr id="wprt" class="red">
@@ -92,8 +88,6 @@ stockList.push('gb_mack');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TRP.html" target="_blank">TRP</a></td><td></td><td></td><td>55</td><td>41.95</td><td>43.7</td><td>39.16</td><td>0</td></tr>
   <tr id="nq" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>55</td><td>3.27</td><td>2.44</td><td>2.17</td><td>0</td></tr>
-  <tr id="sco" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCO.html" target="_blank">SCO</a></td><td></td><td></td><td>51</td><td>19.75</td><td>21.91</td><td>15.33</td><td>18.4</td></tr>
   <tr id="wpg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPG.html" target="_blank">WPG</a></td><td></td><td></td><td>50</td><td>8.02</td><td>8.56</td><td>7.23</td><td>7.5</td></tr>
   <tr id="eqix" class="red">
