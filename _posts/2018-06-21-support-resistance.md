@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180621"
-date:   2018-06-21 01:39:17
+date:   2018-06-21 04:39:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,7 +16,6 @@ stockList.push('gb_bmy');
 stockList.push('gb_gca');
 stockList.push('gb_chtr');
 stockList.push('gb_tts');
-stockList.push('gb_nrg');
 stockList.push('gb_bcei');
 stockList.push('gb_qiwi');
 stockList.push('gb_pep');
@@ -37,8 +36,8 @@ stockList.push('gb_alny');
 stockList.push('gb_jcp');
 stockList.push('gb_sco');
 stockList.push('gb_snh');
-stockList.push('gb_gogo');
 stockList.push('gb_bks');
+stockList.push('gb_gogo');
 stockList.push('gb_ge');
 stockList.push('gb_bwp');
 </script>
@@ -73,8 +72,6 @@ stockList.push('gb_bwp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CHTR.html" target="_blank">CHTR</a></td><td></td><td></td><td>76</td><td>299.23</td><td>319.74</td><td>260</td><td>275.05</td></tr>
   <tr id="tts" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TTS.html" target="_blank">TTS</a></td><td></td><td></td><td>76</td><td>8.2</td><td>9.55</td><td>5.4</td><td>6.1</td></tr>
-  <tr id="nrg" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRG.html" target="_blank">NRG</a></td><td></td><td></td><td>73</td><td>32.84</td><td>34.52</td><td>30.25</td><td>30.84</td></tr>
   <tr id="bcei" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BCEI.html" target="_blank">BCEI</a></td><td></td><td></td><td>71</td><td>33.32</td><td>34.44</td><td>29.65</td><td>31.01</td></tr>
   <tr id="qiwi" class="red">
@@ -115,10 +112,10 @@ stockList.push('gb_bwp');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCO.html" target="_blank">SCO</a></td><td></td><td></td><td>29</td><td>19.75</td><td>21.91</td><td>17.94</td><td>18.4</td></tr>
   <tr id="snh" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNH.html" target="_blank">SNH</a></td><td></td><td></td><td>27</td><td>18.3</td><td>17.88</td><td>15.97</td><td>16.32</td></tr>
+  <tr id="bks" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BKS.html" target="_blank">BKS</a></td><td></td><td></td><td>24</td><td>6.5</td><td>7</td><td>5.8</td><td>5.7</td></tr>
   <tr id="gogo" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOGO.html" target="_blank">GOGO</a></td><td></td><td></td><td>24</td><td>8.21</td><td>9.74</td><td>4.82</td><td>5.3</td></tr>
-  <tr id="bks" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BKS.html" target="_blank">BKS</a></td><td></td><td></td><td>23</td><td>6.5</td><td>7</td><td>5.1</td><td>5.7</td></tr>
   <tr id="ge" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GE.html" target="_blank">GE</a></td><td></td><td></td><td>22</td><td>13.77</td><td>14.49</td><td>12.85</td><td>0</td></tr>
   <tr id="bwp" class="green">
