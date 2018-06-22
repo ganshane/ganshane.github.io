@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180622"
-date:   2018-06-22 01:41:08
+date:   2018-06-22 04:40:16
 categories: stock
 ---
 <script type="text/javascript">
@@ -35,7 +35,6 @@ stockList.push('gb_tlm');
 stockList.push('gb_himx');
 stockList.push('gb_vips');
 stockList.push('gb_jcp');
-stockList.push('gb_snh');
 stockList.push('gb_kmt');
 stockList.push('gb_lpi');
 stockList.push('gb_ten');
@@ -109,8 +108,6 @@ stockList.push('gb_ten');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIPS.html" target="_blank">VIPS</a></td><td></td><td></td><td>32</td><td>11.52</td><td>12.6</td><td>8.14</td><td>10.13</td></tr>
   <tr id="jcp" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JCP.html" target="_blank">JCP</a></td><td></td><td></td><td>30</td><td>2.81</td><td>3.05</td><td>2.35</td><td>0</td></tr>
-  <tr id="snh" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNH.html" target="_blank">SNH</a></td><td></td><td></td><td>27</td><td>18.3</td><td>17.88</td><td>15.97</td><td>16.32</td></tr>
   <tr id="kmt" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KMT.html" target="_blank">KMT</a></td><td></td><td></td><td>25</td><td>36.87</td><td>39.18</td><td>34.37</td><td>0</td></tr>
   <tr id="lpi" class="red">
