@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180623"
-date:   2018-06-23 01:38:46
+date:   2018-06-23 04:41:22
 categories: stock
 ---
 <script type="text/javascript">
@@ -38,6 +38,7 @@ stockList.push('gb_ne');
 stockList.push('gb_p');
 stockList.push('gb_scco');
 stockList.push('gb_ip');
+stockList.push('gb_icpt');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
 stockList.push('gb_tdw');
@@ -96,6 +97,7 @@ stockList.push('gb_ph');
   <tr id="p"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/P.html" target="_blank">P</a></td><td></td><td></td><td>0.012</td><td>3.796</td></tr>
   <tr id="scco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCCO.html" target="_blank">SCCO</a></td><td></td><td></td><td>-0.012</td><td>2.307</td></tr>
   <tr id="ip"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IP.html" target="_blank">IP</a></td><td></td><td></td><td>-0.012</td><td>2.099</td></tr>
+  <tr id="icpt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ICPT.html" target="_blank">ICPT</a></td><td></td><td></td><td>0.012</td><td>3.814</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
   <tr id="tdw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TDW.html" target="_blank">TDW</a></td><td></td><td></td><td>-0.012</td><td>14.59</td></tr>
