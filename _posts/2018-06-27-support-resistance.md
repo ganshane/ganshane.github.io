@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180627"
-date:   2018-06-27 01:40:02
+date:   2018-06-27 04:37:06
 categories: stock
 ---
 <script type="text/javascript">
@@ -13,6 +13,7 @@ stockList.push('gb_qre');
 stockList.push('gb_gca');
 stockList.push('gb_dish');
 stockList.push('gb_abx');
+stockList.push('gb_gis');
 stockList.push('gb_chtr');
 stockList.push('gb_vale');
 stockList.push('gb_ann');
@@ -29,7 +30,6 @@ stockList.push('gb_crr');
 stockList.push('gb_sohu');
 stockList.push('gb_gpk');
 stockList.push('gb_tlm');
-stockList.push('gb_gis');
 stockList.push('gb_cmcm');
 </script>
 <table border="1">
@@ -57,6 +57,8 @@ stockList.push('gb_cmcm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DISH.html" target="_blank">DISH</a></td><td></td><td></td><td>79</td><td>36.85</td><td>39.5</td><td>30.77</td><td>33.29</td></tr>
   <tr id="abx" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ABX.html" target="_blank">ABX</a></td><td></td><td></td><td>77</td><td>12.77</td><td>13.2</td><td>11.56</td><td>0</td></tr>
+  <tr id="gis" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GIS.html" target="_blank">GIS</a></td><td></td><td></td><td>74</td><td>50.47</td><td>52.34</td><td>41.82</td><td>45.58</td></tr>
   <tr id="chtr" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CHTR.html" target="_blank">CHTR</a></td><td></td><td></td><td>69</td><td>299.23</td><td>319.74</td><td>260</td><td>275.05</td></tr>
   <tr id="vale" class="green">
@@ -89,8 +91,6 @@ stockList.push('gb_cmcm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GPK.html" target="_blank">GPK</a></td><td></td><td></td><td>39</td><td>14.79</td><td>15.15</td><td>13.61</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
-  <tr id="gis" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GIS.html" target="_blank">GIS</a></td><td></td><td></td><td>28</td><td>50.47</td><td>52.34</td><td>41.82</td><td>45.58</td></tr>
   <tr id="cmcm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMCM.html" target="_blank">CMCM</a></td><td></td><td></td><td>22</td><td>11.65</td><td>12.89</td><td>10.11</td><td>8.84</td></tr>
 </table>
