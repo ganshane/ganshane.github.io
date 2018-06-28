@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180628"
-date:   2018-06-28 01:38:45
+date:   2018-06-28 04:42:33
 categories: stock
 ---
 <script type="text/javascript">
@@ -22,7 +22,6 @@ stockList.push('gb_pom');
 stockList.push('gb_ryl');
 stockList.push('gb_sco');
 stockList.push('gb_swft');
-stockList.push('gb_ge');
 stockList.push('gb_ego');
 stockList.push('gb_ypf');
 stockList.push('gb_vlccf');
@@ -53,7 +52,6 @@ stockList.push('gb_af');
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
   <tr id="sco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCO.html" target="_blank">SCO</a></td><td></td><td></td><td>-0.011</td><td>2.129</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
-  <tr id="ge"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GE.html" target="_blank">GE</a></td><td></td><td></td><td>-0.01</td><td>3.068</td></tr>
   <tr id="ego"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EGO.html" target="_blank">EGO</a></td><td></td><td></td><td>-0.01</td><td>3.303</td></tr>
   <tr id="ypf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YPF.html" target="_blank">YPF</a></td><td></td><td></td><td>-0.01</td><td>2.156</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
