@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180629"
-date:   2018-06-29 01:40:03
+date:   2018-06-29 04:40:57
 categories: stock
 ---
 <script type="text/javascript">
@@ -29,7 +29,6 @@ stockList.push('gb_mrvl');
 stockList.push('gb_st');
 stockList.push('gb_rmti');
 stockList.push('gb_swft');
-stockList.push('gb_ypf');
 stockList.push('gb_royt');
 stockList.push('gb_vlccf');
 stockList.push('gb_af');
@@ -66,7 +65,6 @@ stockList.push('gb_af');
   <tr id="st"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ST.html" target="_blank">ST</a></td><td></td><td></td><td>-0.011</td><td>2.014</td></tr>
   <tr id="rmti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RMTI.html" target="_blank">RMTI</a></td><td></td><td></td><td>-0.011</td><td>3.71</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
-  <tr id="ypf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YPF.html" target="_blank">YPF</a></td><td></td><td></td><td>-0.01</td><td>2.156</td></tr>
   <tr id="royt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ROYT.html" target="_blank">ROYT</a></td><td></td><td></td><td>0.01</td><td>3.805</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
   <tr id="af"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AF.html" target="_blank">AF</a></td><td></td><td></td><td>0.01</td><td>18.827</td></tr>
