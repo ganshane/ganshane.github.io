@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180704"
-date:   2018-07-04 01:40:18
+date:   2018-07-04 04:37:01
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,7 +16,6 @@ stockList.push('gb_atw');
 stockList.push('gb_qre');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
-stockList.push('gb_pom');
 stockList.push('gb_ryl');
 stockList.push('gb_swft');
 stockList.push('gb_sdlp');
@@ -42,7 +41,6 @@ stockList.push('gb_af');
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
-  <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
   <tr id="sdlp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDLP.html" target="_blank">SDLP</a></td><td></td><td></td><td>0.01</td><td>3.865</td></tr>
