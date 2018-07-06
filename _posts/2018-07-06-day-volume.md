@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180706"
-date:   2018-07-06 01:40:06
+date:   2018-07-06 04:38:26
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,8 +11,10 @@ stockList.push('gb_kog');
 stockList.push('gb_ngls');
 stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
+stockList.push('gb_royt');
 stockList.push('gb_cree');
 stockList.push('gb_fsl');
+stockList.push('gb_cstm');
 stockList.push('gb_atw');
 stockList.push('gb_qre');
 stockList.push('gb_sdlp');
@@ -38,8 +40,10 @@ stockList.push('gb_af');
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>-0.025</td><td>6.236</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
+  <tr id="royt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ROYT.html" target="_blank">ROYT</a></td><td></td><td></td><td>0.02</td><td>2.885</td></tr>
   <tr id="cree"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CREE.html" target="_blank">CREE</a></td><td></td><td></td><td>-0.018</td><td>4.378</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
+  <tr id="cstm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CSTM.html" target="_blank">CSTM</a></td><td></td><td></td><td>-0.015</td><td>2.077</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="sdlp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDLP.html" target="_blank">SDLP</a></td><td></td><td></td><td>0.013</td><td>2.471</td></tr>
