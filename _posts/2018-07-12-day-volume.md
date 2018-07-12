@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180712"
-date:   2018-07-12 01:41:32
+date:   2018-07-12 04:42:43
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,6 +9,7 @@ var stockList = []
 stockList.push('gb_bbep');
 stockList.push('gb_kog');
 stockList.push('gb_ngls');
+stockList.push('gb_hos');
 stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
 stockList.push('gb_opk');
@@ -37,6 +38,7 @@ stockList.push('gb_af');
   <tr id="bbep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBEP.html" target="_blank">BBEP</a></td><td></td><td></td><td>-0.155</td><td>3.166</td></tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.057</td><td>5.282</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
+  <tr id="hos"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HOS.html" target="_blank">HOS</a></td><td></td><td></td><td>0.03</td><td>2.082</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>-0.025</td><td>6.236</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="opk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OPK.html" target="_blank">OPK</a></td><td></td><td></td><td>0.02</td><td>2.142</td></tr>
