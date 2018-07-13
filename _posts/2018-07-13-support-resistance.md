@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180713"
-date:   2018-07-13 01:38:45
+date:   2018-07-13 04:37:32
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,6 +18,7 @@ stockList.push('gb_twi');
 stockList.push('gb_rf');
 stockList.push('gb_au');
 stockList.push('gb_ann');
+stockList.push('gb_thc');
 stockList.push('gb_kfx');
 stockList.push('gb_eep');
 stockList.push('gb_rdn');
@@ -64,6 +65,8 @@ stockList.push('gb_nus');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AU.html" target="_blank">AU</a></td><td></td><td></td><td>66</td><td>8.88</td><td>8.83</td><td>8.02</td><td>0</td></tr>
   <tr id="ann" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
+  <tr id="thc" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/THC.html" target="_blank">THC</a></td><td></td><td></td><td>64</td><td>35.41</td><td>38.21</td><td>32.82</td><td>25.13</td></tr>
   <tr id="kfx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KFX.html" target="_blank">KFX</a></td><td></td><td></td><td>64</td><td>10.97</td><td>11.1</td><td>7.4</td><td>8</td></tr>
   <tr id="eep" class="green">
