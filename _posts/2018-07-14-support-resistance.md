@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180714"
-date:   2018-07-14 01:37:28
+date:   2018-07-14 04:40:28
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,6 +18,7 @@ stockList.push('gb_ann');
 stockList.push('gb_fcx');
 stockList.push('gb_kfx');
 stockList.push('gb_sfly');
+stockList.push('gb_vips');
 stockList.push('gb_nxpi');
 stockList.push('gb_nq');
 stockList.push('gb_tap');
@@ -63,6 +64,8 @@ stockList.push('gb_uvxy');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KFX.html" target="_blank">KFX</a></td><td></td><td></td><td>64</td><td>10.97</td><td>11.1</td><td>7.4</td><td>8</td></tr>
   <tr id="sfly" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SFLY.html" target="_blank">SFLY</a></td><td></td><td></td><td>62</td><td>91.75</td><td>96.58</td><td>80.33</td><td>86</td></tr>
+  <tr id="vips" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIPS.html" target="_blank">VIPS</a></td><td></td><td></td><td>60</td><td>11.52</td><td>11.13</td><td>8.14</td><td>9.99</td></tr>
   <tr id="nxpi" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NXPI.html" target="_blank">NXPI</a></td><td></td><td></td><td>57</td><td>109.32</td><td>117.56</td><td>98.24</td><td>0</td></tr>
   <tr id="nq" class="green">
