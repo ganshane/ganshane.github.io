@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180717"
-date:   2018-07-17 01:39:14
+date:   2018-07-17 04:39:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -21,7 +21,6 @@ stockList.push('gb_ann');
 stockList.push('gb_kfx');
 stockList.push('gb_pdli');
 stockList.push('gb_oi');
-stockList.push('gb_nxpi');
 stockList.push('gb_nq');
 stockList.push('gb_csiq');
 stockList.push('gb_lkq');
@@ -76,8 +75,6 @@ stockList.push('gb_fcx');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PDLI.html" target="_blank">PDLI</a></td><td></td><td></td><td>62</td><td>2.61</td><td>2.59</td><td>2.43</td><td>0</td></tr>
   <tr id="oi" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OI.html" target="_blank">OI</a></td><td></td><td></td><td>58</td><td>18.5</td><td>19.24</td><td>16.59</td><td>0</td></tr>
-  <tr id="nxpi" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NXPI.html" target="_blank">NXPI</a></td><td></td><td></td><td>57</td><td>109.32</td><td>117.56</td><td>98.24</td><td>0</td></tr>
   <tr id="nq" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>55</td><td>3.27</td><td>2.44</td><td>2.17</td><td>0</td></tr>
   <tr id="csiq" class="green">
