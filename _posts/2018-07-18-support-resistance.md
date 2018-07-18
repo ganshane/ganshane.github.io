@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180718"
-date:   2018-07-18 01:40:00
+date:   2018-07-18 04:39:01
 categories: stock
 ---
 <script type="text/javascript">
@@ -37,6 +37,7 @@ stockList.push('gb_xpo');
 stockList.push('gb_thc');
 stockList.push('gb_irm');
 stockList.push('gb_mnst');
+stockList.push('gb_vale');
 </script>
 <table border="1">
  <tr>
@@ -111,4 +112,6 @@ stockList.push('gb_mnst');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRM.html" target="_blank">IRM</a></td><td></td><td></td><td>32</td><td>39.56</td><td>41.17</td><td>33.06</td><td>35.13</td></tr>
   <tr id="mnst" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MNST.html" target="_blank">MNST</a></td><td></td><td></td><td>25</td><td>62.79</td><td>64.56</td><td>56</td><td>58.92</td></tr>
+  <tr id="vale" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VALE.html" target="_blank">VALE</a></td><td></td><td></td><td>25</td><td>13.4</td><td>13.42</td><td>12.34</td><td>11.47</td></tr>
 </table>
