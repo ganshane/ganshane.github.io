@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180719"
-date:   2018-07-19 01:39:31
+date:   2018-07-19 04:40:11
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,7 +14,6 @@ stockList.push('gb_wll');
 stockList.push('gb_qre');
 stockList.push('gb_fisv');
 stockList.push('gb_wbc');
-stockList.push('gb_fcx');
 stockList.push('gb_gca');
 stockList.push('gb_tap');
 stockList.push('gb_tv');
@@ -37,6 +36,7 @@ stockList.push('gb_sivb');
 stockList.push('gb_tlm');
 stockList.push('gb_vale');
 stockList.push('gb_etfc');
+stockList.push('gb_fcx');
 stockList.push('gb_pdli');
 </script>
 <table border="1">
@@ -66,8 +66,6 @@ stockList.push('gb_pdli');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FISV.html" target="_blank">FISV</a></td><td></td><td></td><td>87</td><td>126.14</td><td>130.2</td><td>73.54</td><td>76.75</td></tr>
   <tr id="wbc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WBC.html" target="_blank">WBC</a></td><td></td><td></td><td>85</td><td>121.58</td><td>126</td><td>113</td><td>0</td></tr>
-  <tr id="fcx" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FCX.html" target="_blank">FCX</a></td><td></td><td></td><td>83</td><td>17.07</td><td>18.14</td><td>15.66</td><td>15.58</td></tr>
   <tr id="gca" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>80</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="tap" class="red">
@@ -112,6 +110,8 @@ stockList.push('gb_pdli');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VALE.html" target="_blank">VALE</a></td><td></td><td></td><td>34</td><td>13.4</td><td>13.42</td><td>12.34</td><td>11.47</td></tr>
   <tr id="etfc" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ETFC.html" target="_blank">ETFC</a></td><td></td><td></td><td>28</td><td>62.93</td><td>65.79</td><td>53.48</td><td>58.49</td></tr>
+  <tr id="fcx" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FCX.html" target="_blank">FCX</a></td><td></td><td></td><td>25</td><td>17.07</td><td>18.14</td><td>15.66</td><td>15.58</td></tr>
   <tr id="pdli" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PDLI.html" target="_blank">PDLI</a></td><td></td><td></td><td>23</td><td>2.61</td><td>2.59</td><td>2.43</td><td>0</td></tr>
 </table>
