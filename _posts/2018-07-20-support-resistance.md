@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180720"
-date:   2018-07-20 01:41:13
+date:   2018-07-20 04:40:02
 categories: stock
 ---
 <script type="text/javascript">
@@ -20,9 +20,7 @@ stockList.push('gb_fisv');
 stockList.push('gb_rjf');
 stockList.push('gb_lkq');
 stockList.push('gb_gca');
-stockList.push('gb_tap');
 stockList.push('gb_etfc');
-stockList.push('gb_gnc');
 stockList.push('gb_ann');
 stockList.push('gb_bf.b');
 stockList.push('gb_kfx');
@@ -35,6 +33,7 @@ stockList.push('gb_urs');
 stockList.push('gb_soxs');
 stockList.push('gb_sivb');
 stockList.push('gb_tlm');
+stockList.push('gb_hmc');
 stockList.push('gb_viab');
 stockList.push('gb_thc');
 </script>
@@ -77,12 +76,8 @@ stockList.push('gb_thc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LKQ.html" target="_blank">LKQ</a></td><td></td><td></td><td>80</td><td>36.16</td><td>37.47</td><td>31.25</td><td>33.46</td></tr>
   <tr id="gca" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>80</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
-  <tr id="tap" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TAP.html" target="_blank">TAP</a></td><td></td><td></td><td>77</td><td>67.2</td><td>70.95</td><td>60.55</td><td>0</td></tr>
   <tr id="etfc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ETFC.html" target="_blank">ETFC</a></td><td></td><td></td><td>77</td><td>62.93</td><td>65.79</td><td>53.48</td><td>58.49</td></tr>
-  <tr id="gnc" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GNC.html" target="_blank">GNC</a></td><td></td><td></td><td>69</td><td>3.41</td><td>3.71</td><td>3.18</td><td>0</td></tr>
   <tr id="ann" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="bf.b" class="red">
@@ -107,6 +102,8 @@ stockList.push('gb_thc');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SIVB.html" target="_blank">SIVB</a></td><td></td><td></td><td>39</td><td>310.2</td><td>327.91</td><td>287.88</td><td>268.97</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
+  <tr id="hmc" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HMC.html" target="_blank">HMC</a></td><td></td><td></td><td>32</td><td>31.82</td><td>32.51</td><td>29.07</td><td>0</td></tr>
   <tr id="viab" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIAB.html" target="_blank">VIAB</a></td><td></td><td></td><td>31</td><td>28.91</td><td>30.45</td><td>26.61</td><td>26.88</td></tr>
   <tr id="thc" class="green">
