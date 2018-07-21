@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180721"
-date:   2018-07-21 01:38:37
+date:   2018-07-21 04:43:55
 categories: stock
 ---
 <script type="text/javascript">
@@ -13,6 +13,7 @@ stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
 stockList.push('gb_snmx');
 stockList.push('gb_fsl');
+stockList.push('gb_dish');
 stockList.push('gb_gtls');
 stockList.push('gb_atw');
 stockList.push('gb_qre');
@@ -42,6 +43,7 @@ stockList.push('gb_af');
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="snmx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNMX.html" target="_blank">SNMX</a></td><td></td><td></td><td>-0.016</td><td>2.166</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
+  <tr id="dish"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DISH.html" target="_blank">DISH</a></td><td></td><td></td><td>-0.015</td><td>2.314</td></tr>
   <tr id="gtls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GTLS.html" target="_blank">GTLS</a></td><td></td><td></td><td>0.015</td><td>2.187</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
