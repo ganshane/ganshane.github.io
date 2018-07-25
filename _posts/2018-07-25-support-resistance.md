@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180725"
-date:   2018-07-25 01:41:20
+date:   2018-07-25 04:43:30
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
 stockList.push('gb_bwp');
 stockList.push('gb_bbg');
-stockList.push('gb_insm');
 stockList.push('gb_nrg');
 stockList.push('gb_qre');
 stockList.push('gb_incy');
@@ -30,6 +29,7 @@ stockList.push('gb_nq');
 stockList.push('gb_abb');
 stockList.push('gb_urs');
 stockList.push('gb_tlm');
+stockList.push('gb_insm');
 stockList.push('gb_ilf');
 </script>
 <table border="1">
@@ -47,8 +47,6 @@ stockList.push('gb_ilf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BWP.html" target="_blank">BWP</a></td><td></td><td></td><td>100</td><td>12.94</td><td>13.72</td><td>11.04</td><td>12.05</td></tr>
   <tr id="bbg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBG.html" target="_blank">BBG</a></td><td></td><td></td><td>100</td><td>4.92</td><td>5.52</td><td>4.5</td><td>4.43</td></tr>
-  <tr id="insm" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INSM.html" target="_blank">INSM</a></td><td></td><td></td><td>100</td><td>25.24</td><td>25.95</td><td>23.53</td><td>0</td></tr>
   <tr id="nrg" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NRG.html" target="_blank">NRG</a></td><td></td><td></td><td>94</td><td>32.84</td><td>34.52</td><td>30.25</td><td>30.84</td></tr>
   <tr id="qre" class="red">
@@ -91,6 +89,8 @@ stockList.push('gb_ilf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>44</td><td>57.26</td><td>58.7</td><td>46.13</td><td>53.03</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
+  <tr id="insm" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INSM.html" target="_blank">INSM</a></td><td></td><td></td><td>26</td><td>25.24</td><td>25.95</td><td>23.53</td><td>0</td></tr>
   <tr id="ilf" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ILF.html" target="_blank">ILF</a></td><td></td><td></td><td>21</td><td>32.44</td><td>34.2</td><td>28.87</td><td>0</td></tr>
 </table>
