@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180726"
-date:   2018-07-26 01:44:16
+date:   2018-07-26 04:38:49
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,6 +12,7 @@ stockList.push('gb_bbg');
 stockList.push('gb_ozm');
 stockList.push('gb_qre');
 stockList.push('gb_akrx');
+stockList.push('gb_nbr');
 stockList.push('gb_cbl');
 stockList.push('gb_gpt');
 stockList.push('gb_gca');
@@ -20,13 +21,13 @@ stockList.push('gb_kerx');
 stockList.push('gb_vxx');
 stockList.push('gb_sohu');
 stockList.push('gb_nws');
-stockList.push('gb_bf.b');
 stockList.push('gb_ann');
 stockList.push('gb_kfx');
 stockList.push('gb_flex');
 stockList.push('gb_pm');
 stockList.push('gb_vixy');
 stockList.push('gb_ndls');
+stockList.push('gb_arcb');
 stockList.push('gb_fisv');
 stockList.push('gb_soxs');
 stockList.push('gb_nq');
@@ -38,7 +39,6 @@ stockList.push('gb_tlm');
 stockList.push('gb_yndx');
 stockList.push('gb_mtor');
 stockList.push('gb_eep');
-stockList.push('gb_ilf');
 </script>
 <table border="1">
  <tr>
@@ -63,6 +63,8 @@ stockList.push('gb_ilf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>94</td><td>15.24</td><td>16.99</td><td>14.05</td><td>0</td></tr>
   <tr id="akrx" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AKRX.html" target="_blank">AKRX</a></td><td></td><td></td><td>84</td><td>18</td><td>19.35</td><td>13.51</td><td>0</td></tr>
+  <tr id="nbr" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NBR.html" target="_blank">NBR</a></td><td></td><td></td><td>84</td><td>5.99</td><td>6.3</td><td>5.55</td><td>0</td></tr>
   <tr id="cbl" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CBL.html" target="_blank">CBL</a></td><td></td><td></td><td>82</td><td>5.32</td><td>5.78</td><td>4.57</td><td>4.94</td></tr>
   <tr id="gpt" class="green">
@@ -79,8 +81,6 @@ stockList.push('gb_ilf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SOHU.html" target="_blank">SOHU</a></td><td></td><td></td><td>70</td><td>33.1</td><td>35.07</td><td>30.89</td><td>0</td></tr>
   <tr id="nws" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NWS.html" target="_blank">NWS</a></td><td></td><td></td><td>68</td><td>15.35</td><td>16.15</td><td>13.85</td><td>0</td></tr>
-  <tr id="bf.b" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BF.B.html" target="_blank">BF.B</a></td><td></td><td></td><td>67</td><td>52.85</td><td>56.47</td><td>48.68</td><td>0</td></tr>
   <tr id="ann" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="kfx" class="green">
@@ -93,6 +93,8 @@ stockList.push('gb_ilf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIXY.html" target="_blank">VIXY</a></td><td></td><td></td><td>58</td><td>25.74</td><td>30</td><td>21.24</td><td>0</td></tr>
   <tr id="ndls" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NDLS.html" target="_blank">NDLS</a></td><td></td><td></td><td>58</td><td>11.7</td><td>12.57</td><td>8.2</td><td>9.5</td></tr>
+  <tr id="arcb" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARCB.html" target="_blank">ARCB</a></td><td></td><td></td><td>57</td><td>45.7</td><td>47.9</td><td>42.73</td><td>39.15</td></tr>
   <tr id="fisv" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FISV.html" target="_blank">FISV</a></td><td></td><td></td><td>56</td><td>126.14</td><td>130.2</td><td>73.54</td><td>76.75</td></tr>
   <tr id="soxs" class="red">
@@ -115,6 +117,4 @@ stockList.push('gb_ilf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTOR.html" target="_blank">MTOR</a></td><td></td><td></td><td>30</td><td>19.94</td><td>21.75</td><td>17.28</td><td>0</td></tr>
   <tr id="eep" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EEP.html" target="_blank">EEP</a></td><td></td><td></td><td>26</td><td>12.45</td><td>13.25</td><td>10.54</td><td>10.69</td></tr>
-  <tr id="ilf" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ILF.html" target="_blank">ILF</a></td><td></td><td></td><td>21</td><td>32.44</td><td>34.2</td><td>28.87</td><td>0</td></tr>
 </table>

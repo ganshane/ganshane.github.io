@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180726"
-date:   2018-07-26 01:44:16
+date:   2018-07-26 04:38:49
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,6 +14,7 @@ stockList.push('gb_mtcn');
 stockList.push('gb_hmhc');
 stockList.push('gb_fsl');
 stockList.push('gb_atw');
+stockList.push('gb_lpl');
 stockList.push('gb_qre');
 stockList.push('gb_irbt');
 stockList.push('gb_whr');
@@ -43,6 +44,7 @@ stockList.push('gb_af');
   <tr id="hmhc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HMHC.html" target="_blank">HMHC</a></td><td></td><td></td><td>-0.019</td><td>6.116</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
+  <tr id="lpl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPL.html" target="_blank">LPL</a></td><td></td><td></td><td>0.014</td><td>2.081</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="irbt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRBT.html" target="_blank">IRBT</a></td><td></td><td></td><td>-0.013</td><td>8.485</td></tr>
   <tr id="whr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WHR.html" target="_blank">WHR</a></td><td></td><td></td><td>-0.012</td><td>2.272</td></tr>
