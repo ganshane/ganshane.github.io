@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180728"
-date:   2018-07-28 01:39:11
+date:   2018-07-28 04:38:15
 categories: stock
 ---
 <script type="text/javascript">
@@ -20,22 +20,20 @@ stockList.push('gb_res');
 stockList.push('gb_ann');
 stockList.push('gb_kfx');
 stockList.push('gb_nq');
+stockList.push('gb_elp');
 stockList.push('gb_flr');
 stockList.push('gb_urs');
 stockList.push('gb_ryam');
 stockList.push('gb_nwsa');
-stockList.push('gb_pm');
 stockList.push('gb_upl');
 stockList.push('gb_tlm');
 stockList.push('gb_nclh');
-stockList.push('gb_vxx');
 stockList.push('gb_gov');
 stockList.push('gb_sgmo');
 stockList.push('gb_ohi');
 stockList.push('gb_xpo');
 stockList.push('gb_feng');
 stockList.push('gb_wprt');
-stockList.push('gb_arcb');
 </script>
 <table border="1">
  <tr>
@@ -76,6 +74,8 @@ stockList.push('gb_arcb');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KFX.html" target="_blank">KFX</a></td><td></td><td></td><td>64</td><td>10.97</td><td>11.1</td><td>7.4</td><td>8</td></tr>
   <tr id="nq" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>55</td><td>3.27</td><td>2.44</td><td>2.17</td><td>0</td></tr>
+  <tr id="elp" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ELP.html" target="_blank">ELP</a></td><td></td><td></td><td>49</td><td>6.27</td><td>5.83</td><td>5.46</td><td>0</td></tr>
   <tr id="flr" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FLR.html" target="_blank">FLR</a></td><td></td><td></td><td>45</td><td>55.19</td><td>59.18</td><td>47.77</td><td>50.54</td></tr>
   <tr id="urs" class="green">
@@ -84,16 +84,12 @@ stockList.push('gb_arcb');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYAM.html" target="_blank">RYAM</a></td><td></td><td></td><td>44</td><td>17.69</td><td>18.8</td><td>16.15</td><td>0</td></tr>
   <tr id="nwsa" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NWSA.html" target="_blank">NWSA</a></td><td></td><td></td><td>41</td><td>15.09</td><td>15.66</td><td>13.49</td><td>0</td></tr>
-  <tr id="pm" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PM.html" target="_blank">PM</a></td><td></td><td></td><td>39</td><td>97.31</td><td>103.55</td><td>76.52</td><td>83.04</td></tr>
   <tr id="upl" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UPL.html" target="_blank">UPL</a></td><td></td><td></td><td>38</td><td>1.99</td><td>2.35</td><td>1.62</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
   <tr id="nclh" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NCLH.html" target="_blank">NCLH</a></td><td></td><td></td><td>37</td><td>51</td><td>54.37</td><td>46.92</td><td>0</td></tr>
-  <tr id="vxx" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VXX.html" target="_blank">VXX</a></td><td></td><td></td><td>33</td><td>31.19</td><td>36.17</td><td>25.59</td><td>0</td></tr>
   <tr id="gov" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOV.html" target="_blank">GOV</a></td><td></td><td></td><td>32</td><td>17.59</td><td>16.71</td><td>13.86</td><td>14.59</td></tr>
   <tr id="sgmo" class="red">
@@ -106,6 +102,4 @@ stockList.push('gb_arcb');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FENG.html" target="_blank">FENG</a></td><td></td><td></td><td>24</td><td>4.2</td><td>4.78</td><td>3.89</td><td>0</td></tr>
   <tr id="wprt" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPRT.html" target="_blank">WPRT</a></td><td></td><td></td><td>24</td><td>2.6</td><td>2.72</td><td>2.43</td><td>2.43</td></tr>
-  <tr id="arcb" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARCB.html" target="_blank">ARCB</a></td><td></td><td></td><td>23</td><td>45.7</td><td>47.9</td><td>42.73</td><td>39.15</td></tr>
 </table>
