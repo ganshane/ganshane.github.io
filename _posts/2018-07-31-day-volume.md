@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180731"
-date:   2018-07-31 01:43:06
+date:   2018-07-31 04:39:37
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,6 +10,7 @@ stockList.push('gb_bbep');
 stockList.push('gb_kog');
 stockList.push('gb_ngls');
 stockList.push('gb_rexx');
+stockList.push('gb_mtcn');
 stockList.push('gb_tph');
 stockList.push('gb_twtr');
 stockList.push('gb_fsl');
@@ -39,6 +40,7 @@ stockList.push('gb_af');
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.057</td><td>5.282</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>-0.025</td><td>6.236</td></tr>
+  <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="tph"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TPH.html" target="_blank">TPH</a></td><td></td><td></td><td>-0.018</td><td>2.235</td></tr>
   <tr id="twtr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TWTR.html" target="_blank">TWTR</a></td><td></td><td></td><td>-0.016</td><td>2.604</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>

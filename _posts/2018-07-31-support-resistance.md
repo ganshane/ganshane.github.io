@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180731"
-date:   2018-07-31 01:43:06
+date:   2018-07-31 04:39:37
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,6 +16,7 @@ stockList.push('gb_lkq');
 stockList.push('gb_tap');
 stockList.push('gb_gpt');
 stockList.push('gb_gca');
+stockList.push('gb_arcb');
 stockList.push('gb_ryam');
 stockList.push('gb_ggal');
 stockList.push('gb_nwsa');
@@ -64,6 +65,8 @@ stockList.push('gb_gov');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GPT.html" target="_blank">GPT</a></td><td></td><td></td><td>82</td><td>27.32</td><td>27.42</td><td>21.21</td><td>22.76</td></tr>
   <tr id="gca" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>80</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
+  <tr id="arcb" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ARCB.html" target="_blank">ARCB</a></td><td></td><td></td><td>79</td><td>45.7</td><td>48.15</td><td>42.73</td><td>39.15</td></tr>
   <tr id="ryam" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYAM.html" target="_blank">RYAM</a></td><td></td><td></td><td>78</td><td>17.69</td><td>18.8</td><td>16.15</td><td>0</td></tr>
   <tr id="ggal" class="red">
