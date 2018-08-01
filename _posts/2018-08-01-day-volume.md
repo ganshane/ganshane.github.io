@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180801"
-date:   2018-08-01 01:40:02
+date:   2018-08-01 04:40:55
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,7 +16,7 @@ stockList.push('gb_tmst');
 stockList.push('gb_p');
 stockList.push('gb_atw');
 stockList.push('gb_achn');
-stockList.push('gb_mth');
+stockList.push('gb_clgx');
 stockList.push('gb_qre');
 stockList.push('gb_aks');
 stockList.push('gb_rrc');
@@ -27,6 +27,8 @@ stockList.push('gb_pom');
 stockList.push('gb_ryl');
 stockList.push('gb_swft');
 stockList.push('gb_vlccf');
+stockList.push('gb_bms');
+stockList.push('gb_chgg');
 stockList.push('gb_af');
 </script>
 
@@ -48,7 +50,7 @@ stockList.push('gb_af');
   <tr id="p"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/P.html" target="_blank">P</a></td><td></td><td></td><td>-0.014</td><td>2.785</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="achn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACHN.html" target="_blank">ACHN</a></td><td></td><td></td><td>-0.014</td><td>2.951</td></tr>
-  <tr id="mth"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTH.html" target="_blank">MTH</a></td><td></td><td></td><td>-0.013</td><td>2.139</td></tr>
+  <tr id="clgx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLGX.html" target="_blank">CLGX</a></td><td></td><td></td><td>-0.013</td><td>2.281</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="aks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AKS.html" target="_blank">AKS</a></td><td></td><td></td><td>0.013</td><td>2.637</td></tr>
   <tr id="rrc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RRC.html" target="_blank">RRC</a></td><td></td><td></td><td>-0.012</td><td>2.142</td></tr>
@@ -59,5 +61,7 @@ stockList.push('gb_af');
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
+  <tr id="bms"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BMS.html" target="_blank">BMS</a></td><td></td><td></td><td>0.01</td><td>2.097</td></tr>
+  <tr id="chgg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CHGG.html" target="_blank">CHGG</a></td><td></td><td></td><td>-0.01</td><td>4.322</td></tr>
   <tr id="af"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AF.html" target="_blank">AF</a></td><td></td><td></td><td>0.01</td><td>18.827</td></tr>
 </table>
