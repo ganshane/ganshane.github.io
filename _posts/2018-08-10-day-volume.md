@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180810"
-date:   2018-08-10 01:40:30
+date:   2018-08-10 04:42:03
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,11 +9,12 @@ var stockList = []
 stockList.push('gb_bbep');
 stockList.push('gb_kog');
 stockList.push('gb_ngls');
+stockList.push('gb_sn');
 stockList.push('gb_egy');
 stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
+stockList.push('gb_ddd');
 stockList.push('gb_vsi');
-stockList.push('gb_sn');
 stockList.push('gb_zumz');
 stockList.push('gb_fsl');
 stockList.push('gb_win');
@@ -45,11 +46,12 @@ stockList.push('gb_af');
   <tr id="bbep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBEP.html" target="_blank">BBEP</a></td><td></td><td></td><td>-0.155</td><td>3.166</td></tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.057</td><td>5.282</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
+  <tr id="sn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SN.html" target="_blank">SN</a></td><td></td><td></td><td>-0.031</td><td>3.206</td></tr>
   <tr id="egy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EGY.html" target="_blank">EGY</a></td><td></td><td></td><td>-0.028</td><td>2.238</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>-0.025</td><td>6.236</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
+  <tr id="ddd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DDD.html" target="_blank">DDD</a></td><td></td><td></td><td>0.024</td><td>2.092</td></tr>
   <tr id="vsi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VSI.html" target="_blank">VSI</a></td><td></td><td></td><td>0.021</td><td>2.243</td></tr>
-  <tr id="sn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SN.html" target="_blank">SN</a></td><td></td><td></td><td>-0.017</td><td>2.307</td></tr>
   <tr id="zumz"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ZUMZ.html" target="_blank">ZUMZ</a></td><td></td><td></td><td>0.016</td><td>2.626</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="win"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WIN.html" target="_blank">WIN</a></td><td></td><td></td><td>0.015</td><td>2.481</td></tr>
