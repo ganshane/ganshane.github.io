@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180815"
-date:   2018-08-15 01:41:22
+date:   2018-08-15 04:39:52
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,6 +17,7 @@ stockList.push('gb_fsl');
 stockList.push('gb_anf');
 stockList.push('gb_atw');
 stockList.push('gb_qre');
+stockList.push('gb_kos');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
 stockList.push('gb_jks');
@@ -46,6 +47,7 @@ stockList.push('gb_af');
   <tr id="anf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANF.html" target="_blank">ANF</a></td><td></td><td></td><td>0.016</td><td>2.714</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
+  <tr id="kos"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOS.html" target="_blank">KOS</a></td><td></td><td></td><td>0.012</td><td>2.243</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
   <tr id="jks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JKS.html" target="_blank">JKS</a></td><td></td><td></td><td>0.011</td><td>2.096</td></tr>
