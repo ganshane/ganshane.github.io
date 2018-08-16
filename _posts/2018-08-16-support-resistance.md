@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180816"
-date:   2018-08-16 01:41:03
+date:   2018-08-16 04:40:03
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,7 +18,6 @@ stockList.push('gb_gpt');
 stockList.push('gb_gca');
 stockList.push('gb_aks');
 stockList.push('gb_pxlw');
-stockList.push('gb_trip');
 stockList.push('gb_sdrl');
 stockList.push('gb_comm');
 stockList.push('gb_splk');
@@ -78,8 +77,6 @@ stockList.push('gb_mgm');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AKS.html" target="_blank">AKS</a></td><td></td><td></td><td>76</td><td>4.33</td><td>4.9</td><td>4</td><td>0</td></tr>
   <tr id="pxlw" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PXLW.html" target="_blank">PXLW</a></td><td></td><td></td><td>76</td><td>4.03</td><td>4.37</td><td>3.62</td><td>0</td></tr>
-  <tr id="trip" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TRIP.html" target="_blank">TRIP</a></td><td></td><td></td><td>75</td><td>54.5</td><td>59.72</td><td>38.27</td><td>45.2</td></tr>
   <tr id="sdrl" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDRL.html" target="_blank">SDRL</a></td><td></td><td></td><td>74</td><td>18.64</td><td>20.73</td><td>0.41</td><td>0.7</td></tr>
   <tr id="comm" class="green">
