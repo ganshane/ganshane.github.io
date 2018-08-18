@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180818"
-date:   2018-08-18 01:40:25
+date:   2018-08-18 04:38:18
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,6 +14,7 @@ stockList.push('gb_gpt');
 stockList.push('gb_dplo');
 stockList.push('gb_gca');
 stockList.push('gb_amx');
+stockList.push('gb_hees');
 stockList.push('gb_tx');
 stockList.push('gb_ann');
 stockList.push('gb_wbai');
@@ -35,7 +36,6 @@ stockList.push('gb_tlm');
 stockList.push('gb_fisv');
 stockList.push('gb_upro');
 stockList.push('gb_epe');
-stockList.push('gb_hees');
 stockList.push('gb_trip');
 stockList.push('gb_m');
 stockList.push('gb_tivo');
@@ -69,6 +69,8 @@ stockList.push('gb_bcei');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>80</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="amx" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMX.html" target="_blank">AMX</a></td><td></td><td></td><td>71</td><td>16.73</td><td>17.45</td><td>14.85</td><td>0</td></tr>
+  <tr id="hees" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HEES.html" target="_blank">HEES</a></td><td></td><td></td><td>68</td><td>34.19</td><td>39.5</td><td>32.05</td><td>0</td></tr>
   <tr id="tx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TX.html" target="_blank">TX</a></td><td></td><td></td><td>68</td><td>31.09</td><td>34.68</td><td>27.41</td><td>0</td></tr>
   <tr id="ann" class="red">
@@ -111,8 +113,6 @@ stockList.push('gb_bcei');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UPRO.html" target="_blank">UPRO</a></td><td></td><td></td><td>34</td><td>122.07</td><td>54.44</td><td>50.71</td><td>0</td></tr>
   <tr id="epe" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EPE.html" target="_blank">EPE</a></td><td></td><td></td><td>34</td><td>1.5</td><td>1.85</td><td>1.28</td><td>0</td></tr>
-  <tr id="hees" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HEES.html" target="_blank">HEES</a></td><td></td><td></td><td>31</td><td>34.19</td><td>39.5</td><td>32.05</td><td>0</td></tr>
   <tr id="trip" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TRIP.html" target="_blank">TRIP</a></td><td></td><td></td><td>27</td><td>54.5</td><td>59.72</td><td>38.27</td><td>45.2</td></tr>
   <tr id="m" class="green">
