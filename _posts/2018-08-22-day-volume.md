@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180822"
-date:   2018-08-22 01:42:29
+date:   2018-08-22 04:40:46
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,6 +14,7 @@ stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
 stockList.push('gb_fsl');
 stockList.push('gb_cree');
+stockList.push('gb_ing');
 stockList.push('gb_atw');
 stockList.push('gb_qre');
 stockList.push('gb_tqnt');
@@ -43,6 +44,7 @@ stockList.push('gb_af');
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="cree"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CREE.html" target="_blank">CREE</a></td><td></td><td></td><td>-0.014</td><td>2.477</td></tr>
+  <tr id="ing"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ING.html" target="_blank">ING</a></td><td></td><td></td><td>-0.014</td><td>7.229</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
