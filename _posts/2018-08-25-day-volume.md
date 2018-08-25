@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180825"
-date:   2018-08-25 01:40:45
+date:   2018-08-25 04:39:17
 categories: stock
 ---
 <script type="text/javascript">
@@ -11,7 +11,6 @@ stockList.push('gb_kog');
 stockList.push('gb_ngls');
 stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
-stockList.push('gb_leju');
 stockList.push('gb_fsl');
 stockList.push('gb_dxcm');
 stockList.push('gb_ecyt');
@@ -43,7 +42,6 @@ stockList.push('gb_af');
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>-0.025</td><td>6.236</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
-  <tr id="leju"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LEJU.html" target="_blank">LEJU</a></td><td></td><td></td><td>-0.017</td><td>118.245</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="dxcm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DXCM.html" target="_blank">DXCM</a></td><td></td><td></td><td>0.016</td><td>2.097</td></tr>
   <tr id="ecyt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ECYT.html" target="_blank">ECYT</a></td><td></td><td></td><td>0.016</td><td>2.219</td></tr>
