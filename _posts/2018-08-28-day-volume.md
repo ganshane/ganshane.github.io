@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180828"
-date:   2018-08-28 01:43:57
+date:   2018-08-28 04:40:49
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,13 +17,13 @@ stockList.push('gb_ptx');
 stockList.push('gb_atw');
 stockList.push('gb_qre');
 stockList.push('gb_gme');
-stockList.push('gb_fl');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
-stockList.push('gb_dks');
+stockList.push('gb_ecr');
+stockList.push('gb_pom');
 stockList.push('gb_ryl');
+stockList.push('gb_anet');
 stockList.push('gb_swft');
-stockList.push('gb_cig');
 stockList.push('gb_vlccf');
 stockList.push('gb_af');
 </script>
@@ -47,13 +47,13 @@ stockList.push('gb_af');
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="gme"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GME.html" target="_blank">GME</a></td><td></td><td></td><td>0.013</td><td>4.437</td></tr>
-  <tr id="fl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FL.html" target="_blank">FL</a></td><td></td><td></td><td>0.012</td><td>5.275</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
-  <tr id="dks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DKS.html" target="_blank">DKS</a></td><td></td><td></td><td>0.011</td><td>2.794</td></tr>
+  <tr id="ecr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ECR.html" target="_blank">ECR</a></td><td></td><td></td><td>0.012</td><td>8.072</td></tr>
+  <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
+  <tr id="anet"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANET.html" target="_blank">ANET</a></td><td></td><td></td><td>0.011</td><td>11.767</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
-  <tr id="cig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CIG.html" target="_blank">CIG</a></td><td></td><td></td><td>-0.01</td><td>2.877</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
   <tr id="af"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AF.html" target="_blank">AF</a></td><td></td><td></td><td>0.01</td><td>18.827</td></tr>
 </table>
