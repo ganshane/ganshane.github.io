@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180829"
-date:   2018-08-29 01:42:24
+date:   2018-08-29 04:43:25
 categories: stock
 ---
 <script type="text/javascript">
@@ -21,10 +21,13 @@ stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
 stockList.push('gb_pom');
 stockList.push('gb_ryl');
+stockList.push('gb_chs');
 stockList.push('gb_swft');
+stockList.push('gb_feng');
 stockList.push('gb_conn');
 stockList.push('gb_vlccf');
 stockList.push('gb_af');
+stockList.push('gb_sdrl');
 </script>
 
 <table border="1">
@@ -50,8 +53,11 @@ stockList.push('gb_af');
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
+  <tr id="chs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CHS.html" target="_blank">CHS</a></td><td></td><td></td><td>-0.011</td><td>2.149</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
+  <tr id="feng"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FENG.html" target="_blank">FENG</a></td><td></td><td></td><td>0.01</td><td>2.433</td></tr>
   <tr id="conn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CONN.html" target="_blank">CONN</a></td><td></td><td></td><td>0.01</td><td>2.132</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
   <tr id="af"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AF.html" target="_blank">AF</a></td><td></td><td></td><td>0.01</td><td>18.827</td></tr>
+  <tr id="sdrl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDRL.html" target="_blank">SDRL</a></td><td></td><td></td><td>0.01</td><td>2.367</td></tr>
 </table>
