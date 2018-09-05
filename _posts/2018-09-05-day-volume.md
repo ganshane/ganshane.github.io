@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180905"
-date:   2018-09-05 01:40:53
+date:   2018-09-05 04:41:11
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,7 +9,6 @@ var stockList = []
 stockList.push('gb_bbep');
 stockList.push('gb_kog');
 stockList.push('gb_ngls');
-stockList.push('gb_bfr');
 stockList.push('gb_achn');
 stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
@@ -43,7 +42,6 @@ stockList.push('gb_af');
   <tr id="bbep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBEP.html" target="_blank">BBEP</a></td><td></td><td></td><td>-0.155</td><td>3.166</td></tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.057</td><td>5.282</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
-  <tr id="bfr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BFR.html" target="_blank">BFR</a></td><td></td><td></td><td>-0.032</td><td>2.89</td></tr>
   <tr id="achn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACHN.html" target="_blank">ACHN</a></td><td></td><td></td><td>0.028</td><td>2.32</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>-0.025</td><td>6.236</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
