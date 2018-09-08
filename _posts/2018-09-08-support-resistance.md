@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180908"
-date:   2018-09-08 01:39:01
+date:   2018-09-08 04:37:48
 categories: stock
 ---
 <script type="text/javascript">
@@ -28,6 +28,7 @@ stockList.push('gb_ann');
 stockList.push('gb_kfx');
 stockList.push('gb_mack');
 stockList.push('gb_pxlw');
+stockList.push('gb_lpl');
 stockList.push('gb_spxu');
 stockList.push('gb_sxc');
 stockList.push('gb_nq');
@@ -103,6 +104,8 @@ stockList.push('gb_tph');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MACK.html" target="_blank">MACK</a></td><td></td><td></td><td>63</td><td>7.89</td><td>8.96</td><td>4.98</td><td>5.42</td></tr>
   <tr id="pxlw" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PXLW.html" target="_blank">PXLW</a></td><td></td><td></td><td>62</td><td>5.27</td><td>6.95</td><td>4.25</td><td>4.73</td></tr>
+  <tr id="lpl" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPL.html" target="_blank">LPL</a></td><td></td><td></td><td>58</td><td>9.41</td><td>10.39</td><td>7.88</td><td>0</td></tr>
   <tr id="spxu" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPXU.html" target="_blank">SPXU</a></td><td></td><td></td><td>57</td><td>34.27</td><td>36.44</td><td>10.32</td><td>12.3</td></tr>
   <tr id="sxc" class="green">
