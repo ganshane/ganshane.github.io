@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180913"
-date:   2018-09-13 01:41:31
+date:   2018-09-13 04:39:14
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,15 +14,17 @@ stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
 stockList.push('gb_mdco');
 stockList.push('gb_alny');
-stockList.push('gb_resi');
+stockList.push('gb_dk');
+stockList.push('gb_asml');
 stockList.push('gb_fsl');
 stockList.push('gb_atw');
 stockList.push('gb_pdce');
 stockList.push('gb_qre');
-stockList.push('gb_cmrx');
+stockList.push('gb_brfs');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
 stockList.push('gb_entg');
+stockList.push('gb_eca');
 stockList.push('gb_soxl');
 stockList.push('gb_pom');
 stockList.push('gb_ryl');
@@ -47,15 +49,17 @@ stockList.push('gb_af');
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="mdco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MDCO.html" target="_blank">MDCO</a></td><td></td><td></td><td>-0.022</td><td>2.038</td></tr>
   <tr id="alny"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALNY.html" target="_blank">ALNY</a></td><td></td><td></td><td>-0.019</td><td>3.011</td></tr>
-  <tr id="resi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RESI.html" target="_blank">RESI</a></td><td></td><td></td><td>-0.017</td><td>2.878</td></tr>
+  <tr id="dk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DK.html" target="_blank">DK</a></td><td></td><td></td><td>-0.018</td><td>2.067</td></tr>
+  <tr id="asml"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ASML.html" target="_blank">ASML</a></td><td></td><td></td><td>-0.017</td><td>4.165</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="pdce"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PDCE.html" target="_blank">PDCE</a></td><td></td><td></td><td>-0.014</td><td>2.068</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
-  <tr id="cmrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMRX.html" target="_blank">CMRX</a></td><td></td><td></td><td>-0.012</td><td>4.343</td></tr>
+  <tr id="brfs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BRFS.html" target="_blank">BRFS</a></td><td></td><td></td><td>0.012</td><td>2.643</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
   <tr id="entg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENTG.html" target="_blank">ENTG</a></td><td></td><td></td><td>-0.012</td><td>2.657</td></tr>
+  <tr id="eca"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ECA.html" target="_blank">ECA</a></td><td></td><td></td><td>-0.012</td><td>2.747</td></tr>
   <tr id="soxl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SOXL.html" target="_blank">SOXL</a></td><td></td><td></td><td>-0.011</td><td>2.279</td></tr>
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
