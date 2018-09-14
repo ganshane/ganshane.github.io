@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180914"
-date:   2018-09-14 01:41:15
+date:   2018-09-14 04:38:51
 categories: stock
 ---
 <script type="text/javascript">
@@ -13,7 +13,7 @@ stockList.push('gb_ngls');
 stockList.push('gb_nes');
 stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
-stockList.push('gb_dk');
+stockList.push('gb_leju');
 stockList.push('gb_asml');
 stockList.push('gb_fsl');
 stockList.push('gb_se');
@@ -44,8 +44,8 @@ stockList.push('gb_af');
   <tr id="nes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NES.html" target="_blank">NES</a></td><td></td><td></td><td>-0.032</td><td>6.192</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>-0.025</td><td>6.236</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
-  <tr id="dk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DK.html" target="_blank">DK</a></td><td></td><td></td><td>-0.018</td><td>2.067</td></tr>
-  <tr id="asml"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ASML.html" target="_blank">ASML</a></td><td></td><td></td><td>-0.017</td><td>4.165</td></tr>
+  <tr id="leju"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LEJU.html" target="_blank">LEJU</a></td><td></td><td></td><td>-0.02</td><td>2.288</td></tr>
+  <tr id="asml"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ASML.html" target="_blank">ASML</a></td><td></td><td></td><td>-0.019</td><td>2.42</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="se"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SE.html" target="_blank">SE</a></td><td></td><td></td><td>-0.015</td><td>2.093</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
