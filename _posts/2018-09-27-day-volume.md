@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20180927"
-date:   2018-09-27 01:40:48
+date:   2018-09-27 04:39:51
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,6 +16,7 @@ stockList.push('gb_ptx');
 stockList.push('gb_swn');
 stockList.push('gb_fsl');
 stockList.push('gb_atw');
+stockList.push('gb_gold');
 stockList.push('gb_qre');
 stockList.push('gb_rose');
 stockList.push('gb_edc');
@@ -51,6 +52,7 @@ stockList.push('gb_alxn');
   <tr id="swn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWN.html" target="_blank">SWN</a></td><td></td><td></td><td>0.02</td><td>2.057</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
+  <tr id="gold"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOLD.html" target="_blank">GOLD</a></td><td></td><td></td><td>0.014</td><td>2.111</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="rose"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ROSE.html" target="_blank">ROSE</a></td><td></td><td></td><td>-0.012</td><td>2.938</td></tr>
   <tr id="edc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EDC.html" target="_blank">EDC</a></td><td></td><td></td><td>0.012</td><td>2.204</td></tr>
