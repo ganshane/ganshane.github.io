@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20180928"
-date:   2018-09-28 01:42:10
+date:   2018-09-28 04:38:33
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,6 +18,7 @@ stockList.push('gb_cgnx');
 stockList.push('gb_prgs');
 stockList.push('gb_infn');
 stockList.push('gb_igt');
+stockList.push('gb_ter');
 stockList.push('gb_pfpt');
 stockList.push('gb_gca');
 stockList.push('gb_skm');
@@ -41,7 +42,6 @@ stockList.push('gb_fcx');
 stockList.push('gb_ctb');
 stockList.push('gb_m');
 stockList.push('gb_imgn');
-stockList.push('gb_ter');
 stockList.push('gb_abx');
 stockList.push('gb_syf');
 stockList.push('gb_arco');
@@ -82,6 +82,8 @@ stockList.push('gb_sb');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INFN.html" target="_blank">INFN</a></td><td></td><td></td><td>87</td><td>8.24</td><td>9.41</td><td>6.31</td><td>7.23</td></tr>
   <tr id="igt" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IGT.html" target="_blank">IGT</a></td><td></td><td></td><td>85</td><td>19.94</td><td>21.76</td><td>18.25</td><td>0</td></tr>
+  <tr id="ter" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TER.html" target="_blank">TER</a></td><td></td><td></td><td>84</td><td>37.41</td><td>40.04</td><td>33.55</td><td>0</td></tr>
   <tr id="pfpt" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PFPT.html" target="_blank">PFPT</a></td><td></td><td></td><td>81</td><td>110.72</td><td>119.75</td><td>92</td><td>103.94</td></tr>
   <tr id="gca" class="green">
@@ -128,8 +130,6 @@ stockList.push('gb_sb');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/M.html" target="_blank">M</a></td><td></td><td></td><td>29</td><td>35.31</td><td>37.23</td><td>28.93</td><td>31.77</td></tr>
   <tr id="imgn" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IMGN.html" target="_blank">IMGN</a></td><td></td><td></td><td>29</td><td>9.68</td><td>10.37</td><td>8.84</td><td>0</td></tr>
-  <tr id="ter" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TER.html" target="_blank">TER</a></td><td></td><td></td><td>26</td><td>37.41</td><td>40.04</td><td>33.55</td><td>0</td></tr>
   <tr id="abx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ABX.html" target="_blank">ABX</a></td><td></td><td></td><td>26</td><td>11.56</td><td>13.09</td><td>10.09</td><td>10.8</td></tr>
   <tr id="syf" class="red">
