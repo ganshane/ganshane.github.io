@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181011"
-date:   2018-10-11 01:41:21
+date:   2018-10-11 04:40:39
 categories: stock
 ---
 <script type="text/javascript">
@@ -29,7 +29,6 @@ stockList.push('gb_srty');
 stockList.push('gb_w');
 stockList.push('gb_dal');
 stockList.push('gb_amba');
-stockList.push('gb_wbai');
 stockList.push('gb_lpsn');
 stockList.push('gb_atw');
 stockList.push('gb_cbl');
@@ -95,7 +94,6 @@ stockList.push('gb_ter');
   <tr id="w"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/W.html" target="_blank">W</a></td><td></td><td></td><td>-0.015</td><td>2.047</td></tr>
   <tr id="dal"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DAL.html" target="_blank">DAL</a></td><td></td><td></td><td>-0.015</td><td>2.099</td></tr>
   <tr id="amba"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMBA.html" target="_blank">AMBA</a></td><td></td><td></td><td>-0.015</td><td>2.033</td></tr>
-  <tr id="wbai"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WBAI.html" target="_blank">WBAI</a></td><td></td><td></td><td>-0.015</td><td>2.127</td></tr>
   <tr id="lpsn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LPSN.html" target="_blank">LPSN</a></td><td></td><td></td><td>-0.014</td><td>2.008</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="cbl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CBL.html" target="_blank">CBL</a></td><td></td><td></td><td>-0.014</td><td>2.262</td></tr>
