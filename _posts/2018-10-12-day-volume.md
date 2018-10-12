@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181012"
-date:   2018-10-12 01:41:46
+date:   2018-10-12 04:40:02
 categories: stock
 ---
 <script type="text/javascript">
@@ -19,8 +19,10 @@ stockList.push('gb_kpti');
 stockList.push('gb_mtcn');
 stockList.push('gb_rh');
 stockList.push('gb_lgnd');
+stockList.push('gb_tqqq');
 stockList.push('gb_wbai');
 stockList.push('gb_pkg');
+stockList.push('gb_sqqq');
 stockList.push('gb_podd');
 stockList.push('gb_vixy');
 stockList.push('gb_vxx');
@@ -47,9 +49,7 @@ stockList.push('gb_asx');
 stockList.push('gb_amzn');
 stockList.push('gb_pol');
 stockList.push('gb_qre');
-stockList.push('gb_tqqq');
 stockList.push('gb_adbe');
-stockList.push('gb_sqqq');
 stockList.push('gb_ma');
 stockList.push('gb_swk');
 stockList.push('gb_vrsn');
@@ -105,8 +105,10 @@ stockList.push('gb_af');
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="rh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RH.html" target="_blank">RH</a></td><td></td><td></td><td>-0.024</td><td>2.38</td></tr>
   <tr id="lgnd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LGND.html" target="_blank">LGND</a></td><td></td><td></td><td>-0.024</td><td>2.446</td></tr>
+  <tr id="tqqq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQQQ.html" target="_blank">TQQQ</a></td><td></td><td></td><td>-0.023</td><td>2.061</td></tr>
   <tr id="wbai"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WBAI.html" target="_blank">WBAI</a></td><td></td><td></td><td>-0.023</td><td>2.372</td></tr>
   <tr id="pkg"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PKG.html" target="_blank">PKG</a></td><td></td><td></td><td>-0.022</td><td>2.863</td></tr>
+  <tr id="sqqq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SQQQ.html" target="_blank">SQQQ</a></td><td></td><td></td><td>0.022</td><td>3.419</td></tr>
   <tr id="podd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PODD.html" target="_blank">PODD</a></td><td></td><td></td><td>-0.022</td><td>2.049</td></tr>
   <tr id="vixy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIXY.html" target="_blank">VIXY</a></td><td></td><td></td><td>0.021</td><td>3.817</td></tr>
   <tr id="vxx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VXX.html" target="_blank">VXX</a></td><td></td><td></td><td>0.021</td><td>2.821</td></tr>
@@ -133,9 +135,7 @@ stockList.push('gb_af');
   <tr id="amzn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMZN.html" target="_blank">AMZN</a></td><td></td><td></td><td>-0.013</td><td>2.335</td></tr>
   <tr id="pol"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POL.html" target="_blank">POL</a></td><td></td><td></td><td>-0.013</td><td>2.831</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
-  <tr id="tqqq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQQQ.html" target="_blank">TQQQ</a></td><td></td><td></td><td>-0.013</td><td>2.698</td></tr>
   <tr id="adbe"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ADBE.html" target="_blank">ADBE</a></td><td></td><td></td><td>-0.013</td><td>2.086</td></tr>
-  <tr id="sqqq"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SQQQ.html" target="_blank">SQQQ</a></td><td></td><td></td><td>0.013</td><td>2.41</td></tr>
   <tr id="ma"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MA.html" target="_blank">MA</a></td><td></td><td></td><td>-0.012</td><td>2.099</td></tr>
   <tr id="swk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWK.html" target="_blank">SWK</a></td><td></td><td></td><td>-0.012</td><td>2.238</td></tr>
   <tr id="vrsn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VRSN.html" target="_blank">VRSN</a></td><td></td><td></td><td>-0.012</td><td>2.041</td></tr>
