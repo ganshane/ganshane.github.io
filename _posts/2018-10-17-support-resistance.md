@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20181017"
-date:   2018-10-17 01:42:56
+date:   2018-10-17 04:41:50
 categories: stock
 ---
 <script type="text/javascript">
@@ -31,6 +31,7 @@ stockList.push('gb_ntes');
 stockList.push('gb_nq');
 stockList.push('gb_cpa');
 stockList.push('gb_arex');
+stockList.push('gb_algn');
 stockList.push('gb_gogo');
 stockList.push('gb_expd');
 stockList.push('gb_urs');
@@ -102,6 +103,8 @@ stockList.push('gb_fold');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CPA.html" target="_blank">CPA</a></td><td></td><td></td><td>52</td><td>92.33</td><td>85.09</td><td>76.51</td><td>0</td></tr>
   <tr id="arex" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AREX.html" target="_blank">AREX</a></td><td></td><td></td><td>50</td><td>2.16</td><td>2.3</td><td>1.96</td><td>0</td></tr>
+  <tr id="algn" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALGN.html" target="_blank">ALGN</a></td><td></td><td></td><td>48</td><td>333.57</td><td>369.2</td><td>247.64</td><td>287.32</td></tr>
   <tr id="gogo" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GOGO.html" target="_blank">GOGO</a></td><td></td><td></td><td>46</td><td>8.21</td><td>9.74</td><td>5.05</td><td>5.47</td></tr>
   <tr id="expd" class="green">
