@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181018"
-date:   2018-10-18 01:41:30
+date:   2018-10-18 04:40:12
 categories: stock
 ---
 <script type="text/javascript">
@@ -34,7 +34,6 @@ stockList.push('gb_wafd');
 stockList.push('gb_pom');
 stockList.push('gb_sblk');
 stockList.push('gb_ryl');
-stockList.push('gb_ms');
 stockList.push('gb_swft');
 stockList.push('gb_coty');
 stockList.push('gb_vlccf');
@@ -77,7 +76,6 @@ stockList.push('gb_af');
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
   <tr id="sblk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SBLK.html" target="_blank">SBLK</a></td><td></td><td></td><td>-0.011</td><td>2.016</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
-  <tr id="ms"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MS.html" target="_blank">MS</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
   <tr id="coty"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/COTY.html" target="_blank">COTY</a></td><td></td><td></td><td>-0.01</td><td>2.529</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
