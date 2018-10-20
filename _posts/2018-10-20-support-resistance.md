@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20181020"
-date:   2018-10-20 01:39:10
+date:   2018-10-20 04:37:38
 categories: stock
 ---
 <script type="text/javascript">
 var stockList = []
+stockList.push('gb_syf');
 stockList.push('gb_pbi');
 stockList.push('gb_bwp');
 stockList.push('gb_bbg');
@@ -31,7 +32,6 @@ stockList.push('gb_urs');
 stockList.push('gb_deck');
 stockList.push('gb_tlm');
 stockList.push('gb_lho');
-stockList.push('gb_sbs');
 stockList.push('gb_flir');
 stockList.push('gb_eww');
 </script>
@@ -46,6 +46,8 @@ stockList.push('gb_eww');
  <td>支撑1</td>
  <td>支撑2</td>
 </tr>
+  <tr id="syf" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SYF.html" target="_blank">SYF</a></td><td></td><td></td><td>100</td><td>31.74</td><td>33.82</td><td>29.14</td><td>0</td></tr>
   <tr id="pbi" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PBI.html" target="_blank">PBI</a></td><td></td><td></td><td>100</td><td>7.04</td><td>7.62</td><td>6.59</td><td>0</td></tr>
   <tr id="bwp" class="green">
@@ -96,8 +98,6 @@ stockList.push('gb_eww');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
   <tr id="lho" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LHO.html" target="_blank">LHO</a></td><td></td><td></td><td>37</td><td>33.96</td><td>34.65</td><td>29.48</td><td>31.32</td></tr>
-  <tr id="sbs" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SBS.html" target="_blank">SBS</a></td><td></td><td></td><td>32</td><td>9.71</td><td>10.38</td><td>6.62</td><td>7.25</td></tr>
   <tr id="flir" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FLIR.html" target="_blank">FLIR</a></td><td></td><td></td><td>27</td><td>61.29</td><td>62.59</td><td>53.08</td><td>55.44</td></tr>
   <tr id="eww" class="red">
