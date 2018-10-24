@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181024"
-date:   2018-10-24 01:39:30
+date:   2018-10-24 04:39:09
 categories: stock
 ---
 <script type="text/javascript">
@@ -9,7 +9,6 @@ var stockList = []
 stockList.push('gb_bbep');
 stockList.push('gb_kog');
 stockList.push('gb_ngls');
-stockList.push('gb_hclp');
 stockList.push('gb_nyrt');
 stockList.push('gb_slca');
 stockList.push('gb_rexx');
@@ -20,6 +19,7 @@ stockList.push('gb_fran');
 stockList.push('gb_ozm');
 stockList.push('gb_fsl');
 stockList.push('gb_aig');
+stockList.push('gb_exp');
 stockList.push('gb_atw');
 stockList.push('gb_qre');
 stockList.push('gb_cat');
@@ -49,7 +49,6 @@ stockList.push('gb_itb');
   <tr id="bbep"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBEP.html" target="_blank">BBEP</a></td><td></td><td></td><td>-0.155</td><td>3.166</td></tr>
   <tr id="kog"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KOG.html" target="_blank">KOG</a></td><td></td><td></td><td>-0.057</td><td>5.282</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
-  <tr id="hclp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HCLP.html" target="_blank">HCLP</a></td><td></td><td></td><td>-0.029</td><td>2.595</td></tr>
   <tr id="nyrt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NYRT.html" target="_blank">NYRT</a></td><td></td><td></td><td>-0.028</td><td>2.085</td></tr>
   <tr id="slca"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLCA.html" target="_blank">SLCA</a></td><td></td><td></td><td>-0.026</td><td>4.118</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>-0.025</td><td>6.236</td></tr>
@@ -60,6 +59,7 @@ stockList.push('gb_itb');
   <tr id="ozm"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OZM.html" target="_blank">OZM</a></td><td></td><td></td><td>-0.016</td><td>2.129</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="aig"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AIG.html" target="_blank">AIG</a></td><td></td><td></td><td>-0.015</td><td>2.012</td></tr>
+  <tr id="exp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXP.html" target="_blank">EXP</a></td><td></td><td></td><td>-0.015</td><td>2.07</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="cat"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CAT.html" target="_blank">CAT</a></td><td></td><td></td><td>-0.013</td><td>3.717</td></tr>
