@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20181030"
-date:   2018-10-30 01:41:05
+date:   2018-10-30 04:42:13
 categories: stock
 ---
 <script type="text/javascript">
@@ -23,7 +23,6 @@ stockList.push('gb_cnx');
 stockList.push('gb_nq');
 stockList.push('gb_glw');
 stockList.push('gb_hfc');
-stockList.push('gb_tjx');
 stockList.push('gb_mcc');
 stockList.push('gb_ewz');
 stockList.push('gb_conn');
@@ -31,7 +30,6 @@ stockList.push('gb_urs');
 stockList.push('gb_nlsn');
 stockList.push('gb_chs');
 stockList.push('gb_tlm');
-stockList.push('gb_wcg');
 stockList.push('gb_m');
 </script>
 <table border="1">
@@ -79,8 +77,6 @@ stockList.push('gb_m');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLW.html" target="_blank">GLW</a></td><td></td><td></td><td>54</td><td>32.07</td><td>33.52</td><td>28.55</td><td>30</td></tr>
   <tr id="hfc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HFC.html" target="_blank">HFC</a></td><td></td><td></td><td>51</td><td>64.08</td><td>70.67</td><td>44.48</td><td>47.88</td></tr>
-  <tr id="tjx" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TJX.html" target="_blank">TJX</a></td><td></td><td></td><td>49</td><td>107.58</td><td>111.13</td><td>95.92</td><td>96.45</td></tr>
   <tr id="mcc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MCC.html" target="_blank">MCC</a></td><td></td><td></td><td>48</td><td>3.81</td><td>3.97</td><td>3.36</td><td>3.54</td></tr>
   <tr id="ewz" class="red">
@@ -95,8 +91,6 @@ stockList.push('gb_m');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CHS.html" target="_blank">CHS</a></td><td></td><td></td><td>38</td><td>7.92</td><td>8.87</td><td>7.08</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
-  <tr id="wcg" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WCG.html" target="_blank">WCG</a></td><td></td><td></td><td>36</td><td>297.86</td><td>313.07</td><td>246.47</td><td>220.95</td></tr>
   <tr id="m" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/M.html" target="_blank">M</a></td><td></td><td></td><td>35</td><td>35.31</td><td>37.23</td><td>28.93</td><td>31.77</td></tr>
 </table>
