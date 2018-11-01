@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181101"
-date:   2018-11-01 01:42:08
+date:   2018-11-01 04:39:44
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,10 +18,12 @@ stockList.push('gb_mtcn');
 stockList.push('gb_simo');
 stockList.push('gb_w');
 stockList.push('gb_apc');
+stockList.push('gb_xec');
 stockList.push('gb_irwd');
-stockList.push('gb_flt');
+stockList.push('gb_hes');
 stockList.push('gb_dbd');
 stockList.push('gb_ea');
+stockList.push('gb_flt');
 stockList.push('gb_himx');
 stockList.push('gb_fsl');
 stockList.push('gb_s');
@@ -73,11 +75,13 @@ stockList.push('gb_af');
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="simo"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SIMO.html" target="_blank">SIMO</a></td><td></td><td></td><td>-0.022</td><td>3.779</td></tr>
   <tr id="w"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/W.html" target="_blank">W</a></td><td></td><td></td><td>-0.022</td><td>2.181</td></tr>
-  <tr id="apc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APC.html" target="_blank">APC</a></td><td></td><td></td><td>-0.022</td><td>2.027</td></tr>
+  <tr id="apc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APC.html" target="_blank">APC</a></td><td></td><td></td><td>-0.022</td><td>2.499</td></tr>
+  <tr id="xec"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XEC.html" target="_blank">XEC</a></td><td></td><td></td><td>-0.02</td><td>2.358</td></tr>
   <tr id="irwd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IRWD.html" target="_blank">IRWD</a></td><td></td><td></td><td>-0.019</td><td>3.777</td></tr>
-  <tr id="flt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FLT.html" target="_blank">FLT</a></td><td></td><td></td><td>-0.017</td><td>2.027</td></tr>
+  <tr id="hes"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HES.html" target="_blank">HES</a></td><td></td><td></td><td>-0.017</td><td>2.133</td></tr>
   <tr id="dbd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DBD.html" target="_blank">DBD</a></td><td></td><td></td><td>-0.016</td><td>2.929</td></tr>
   <tr id="ea"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EA.html" target="_blank">EA</a></td><td></td><td></td><td>-0.016</td><td>3.087</td></tr>
+  <tr id="flt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FLT.html" target="_blank">FLT</a></td><td></td><td></td><td>-0.016</td><td>2.059</td></tr>
   <tr id="himx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HIMX.html" target="_blank">HIMX</a></td><td></td><td></td><td>-0.016</td><td>3.116</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="s"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/S.html" target="_blank">S</a></td><td></td><td></td><td>-0.015</td><td>2.541</td></tr>
