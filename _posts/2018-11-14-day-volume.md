@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181114"
-date:   2018-11-14 01:38:59
+date:   2018-11-14 04:38:26
 categories: stock
 ---
 <script type="text/javascript">
@@ -28,6 +28,8 @@ stockList.push('gb_pom');
 stockList.push('gb_ryl');
 stockList.push('gb_swft');
 stockList.push('gb_brfs');
+stockList.push('gb_ag');
+stockList.push('gb_vlccf');
 stockList.push('gb_af');
 </script>
 
@@ -61,5 +63,7 @@ stockList.push('gb_af');
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
   <tr id="brfs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BRFS.html" target="_blank">BRFS</a></td><td></td><td></td><td>-0.01</td><td>2.503</td></tr>
+  <tr id="ag"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AG.html" target="_blank">AG</a></td><td></td><td></td><td>-0.01</td><td>2.453</td></tr>
+  <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
   <tr id="af"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AF.html" target="_blank">AF</a></td><td></td><td></td><td>0.01</td><td>18.827</td></tr>
 </table>
