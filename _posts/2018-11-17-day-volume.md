@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181117"
-date:   2018-11-17 01:41:02
+date:   2018-11-17 04:41:21
 categories: stock
 ---
 <script type="text/javascript">
@@ -22,7 +22,6 @@ stockList.push('gb_ks');
 stockList.push('gb_fsl');
 stockList.push('gb_bcrx');
 stockList.push('gb_atw');
-stockList.push('gb_vips');
 stockList.push('gb_sxc');
 stockList.push('gb_qre');
 stockList.push('gb_jwn');
@@ -65,7 +64,6 @@ stockList.push('gb_af');
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="bcrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BCRX.html" target="_blank">BCRX</a></td><td></td><td></td><td>-0.015</td><td>2.27</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
-  <tr id="vips"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIPS.html" target="_blank">VIPS</a></td><td></td><td></td><td>-0.014</td><td>2.478</td></tr>
   <tr id="sxc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SXC.html" target="_blank">SXC</a></td><td></td><td></td><td>-0.014</td><td>2.372</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="jwn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/JWN.html" target="_blank">JWN</a></td><td></td><td></td><td>-0.013</td><td>5.155</td></tr>
