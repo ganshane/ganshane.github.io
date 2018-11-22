@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20181122"
-date:   2018-11-22 01:42:50
+date:   2018-11-22 04:40:47
 categories: stock
 ---
 <script type="text/javascript">
@@ -51,7 +51,6 @@ stockList.push('gb_tlm');
 stockList.push('gb_rf');
 stockList.push('gb_mlm');
 stockList.push('gb_wetf');
-stockList.push('gb_f');
 stockList.push('gb_mxim');
 stockList.push('gb_fcx');
 stockList.push('gb_pds');
@@ -160,8 +159,6 @@ stockList.push('gb_halo');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MLM.html" target="_blank">MLM</a></td><td></td><td></td><td>36</td><td>189.26</td><td>199.75</td><td>150.75</td><td>0</td></tr>
   <tr id="wetf" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>36</td><td>7.79</td><td>7.96</td><td>6.59</td><td>0</td></tr>
-  <tr id="f" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/F.html" target="_blank">F</a></td><td></td><td></td><td>35</td><td>9.28</td><td>9.67</td><td>8.17</td><td>0</td></tr>
   <tr id="mxim" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MXIM.html" target="_blank">MXIM</a></td><td></td><td></td><td>29</td><td>53.82</td><td>59.19</td><td>47.95</td><td>0</td></tr>
   <tr id="fcx" class="green">
