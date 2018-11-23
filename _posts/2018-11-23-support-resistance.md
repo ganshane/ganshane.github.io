@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20181123"
-date:   2018-11-23 01:42:01
+date:   2018-11-23 04:39:01
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,9 +16,7 @@ stockList.push('gb_osk');
 stockList.push('gb_slm');
 stockList.push('gb_acm');
 stockList.push('gb_czz');
-stockList.push('gb_gra');
 stockList.push('gb_cma');
-stockList.push('gb_pnc');
 stockList.push('gb_phm');
 stockList.push('gb_odfl');
 stockList.push('gb_lnc');
@@ -36,14 +34,12 @@ stockList.push('gb_hmc');
 stockList.push('gb_eght');
 stockList.push('gb_cfg');
 stockList.push('gb_m');
-stockList.push('gb_yy');
 stockList.push('gb_nq');
 stockList.push('gb_atu');
 stockList.push('gb_mar');
 stockList.push('gb_nem');
 stockList.push('gb_urs');
 stockList.push('gb_pbf');
-stockList.push('gb_ndsn');
 stockList.push('gb_exg');
 stockList.push('gb_chk');
 stockList.push('gb_amlp');
@@ -89,12 +85,8 @@ stockList.push('gb_halo');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACM.html" target="_blank">ACM</a></td><td></td><td></td><td>88</td><td>31.84</td><td>33.11</td><td>29.43</td><td>0</td></tr>
   <tr id="czz" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CZZ.html" target="_blank">CZZ</a></td><td></td><td></td><td>87</td><td>7.97</td><td>8.57</td><td>7.43</td><td>0</td></tr>
-  <tr id="gra" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GRA.html" target="_blank">GRA</a></td><td></td><td></td><td>86</td><td>62.59</td><td>67.55</td><td>58.48</td><td>0</td></tr>
   <tr id="cma" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CMA.html" target="_blank">CMA</a></td><td></td><td></td><td>86</td><td>88.63</td><td>85.54</td><td>78.3</td><td>0</td></tr>
-  <tr id="pnc" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PNC.html" target="_blank">PNC</a></td><td></td><td></td><td>85</td><td>134.42</td><td>140.7</td><td>117.41</td><td>0</td></tr>
   <tr id="phm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PHM.html" target="_blank">PHM</a></td><td></td><td></td><td>85</td><td>27.81</td><td>29.08</td><td>23.21</td><td>25.13</td></tr>
   <tr id="odfl" class="red">
@@ -129,8 +121,6 @@ stockList.push('gb_halo');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CFG.html" target="_blank">CFG</a></td><td></td><td></td><td>60</td><td>38.71</td><td>38.29</td><td>34.96</td><td>0</td></tr>
   <tr id="m" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/M.html" target="_blank">M</a></td><td></td><td></td><td>57</td><td>35.31</td><td>37.23</td><td>32.09</td><td>31.77</td></tr>
-  <tr id="yy" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/YY.html" target="_blank">YY</a></td><td></td><td></td><td>56</td><td>69.4</td><td>70.5</td><td>58.92</td><td>0</td></tr>
   <tr id="nq" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>55</td><td>3.27</td><td>2.44</td><td>2.17</td><td>0</td></tr>
   <tr id="atu" class="green">
@@ -143,8 +133,6 @@ stockList.push('gb_halo');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>44</td><td>57.26</td><td>58.7</td><td>46.13</td><td>53.03</td></tr>
   <tr id="pbf" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PBF.html" target="_blank">PBF</a></td><td></td><td></td><td>44</td><td>38.49</td><td>43.65</td><td>30.16</td><td>32.4</td></tr>
-  <tr id="ndsn" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NDSN.html" target="_blank">NDSN</a></td><td></td><td></td><td>41</td><td>125.33</td><td>132.84</td><td>114.01</td><td>0</td></tr>
   <tr id="exg" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EXG.html" target="_blank">EXG</a></td><td></td><td></td><td>40</td><td>8.88</td><td>8.95</td><td>8.24</td><td>0</td></tr>
   <tr id="chk" class="green">
