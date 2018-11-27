@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181127"
-date:   2018-11-27 01:39:23
+date:   2018-11-27 04:41:34
 categories: stock
 ---
 <script type="text/javascript">
@@ -12,6 +12,7 @@ stockList.push('gb_brs');
 stockList.push('gb_lgcy');
 stockList.push('gb_ngls');
 stockList.push('gb_cld');
+stockList.push('gb_ptx');
 stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
 stockList.push('gb_mnk');
@@ -48,6 +49,7 @@ stockList.push('gb_af');
   <tr id="lgcy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LGCY.html" target="_blank">LGCY</a></td><td></td><td></td><td>-0.042</td><td>2.431</td></tr>
   <tr id="ngls"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NGLS.html" target="_blank">NGLS</a></td><td></td><td></td><td>-0.041</td><td>10.185</td></tr>
   <tr id="cld"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CLD.html" target="_blank">CLD</a></td><td></td><td></td><td>-0.037</td><td>3.235</td></tr>
+  <tr id="ptx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTX.html" target="_blank">PTX</a></td><td></td><td></td><td>-0.031</td><td>2.057</td></tr>
   <tr id="rexx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/REXX.html" target="_blank">REXX</a></td><td></td><td></td><td>-0.025</td><td>6.236</td></tr>
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="mnk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MNK.html" target="_blank">MNK</a></td><td></td><td></td><td>-0.02</td><td>5.425</td></tr>

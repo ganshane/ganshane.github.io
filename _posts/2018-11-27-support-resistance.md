@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20181127"
-date:   2018-11-27 01:39:23
+date:   2018-11-27 04:41:34
 categories: stock
 ---
 <script type="text/javascript">
@@ -10,7 +10,6 @@ stockList.push('gb_symc');
 stockList.push('gb_bwp');
 stockList.push('gb_bbg');
 stockList.push('gb_lnc');
-stockList.push('gb_sm');
 stockList.push('gb_pbf');
 stockList.push('gb_qre');
 stockList.push('gb_fhn');
@@ -43,10 +42,13 @@ stockList.push('gb_nq');
 stockList.push('gb_rdn');
 stockList.push('gb_vmc');
 stockList.push('gb_lci');
+stockList.push('gb_wcg');
 stockList.push('gb_urs');
 stockList.push('gb_atu');
+stockList.push('gb_tlm');
 stockList.push('gb_tol');
 stockList.push('gb_eme');
+stockList.push('gb_cy');
 stockList.push('gb_oke');
 stockList.push('gb_sdlp');
 stockList.push('gb_umpq');
@@ -70,8 +72,6 @@ stockList.push('gb_umpq');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BBG.html" target="_blank">BBG</a></td><td></td><td></td><td>100</td><td>4.92</td><td>5.52</td><td>4.5</td><td>4.43</td></tr>
   <tr id="lnc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LNC.html" target="_blank">LNC</a></td><td></td><td></td><td>97</td><td>62.61</td><td>66.14</td><td>57.5</td><td>0</td></tr>
-  <tr id="sm" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SM.html" target="_blank">SM</a></td><td></td><td></td><td>95</td><td>22.49</td><td>26.98</td><td>17.06</td><td>19.49</td></tr>
   <tr id="pbf" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PBF.html" target="_blank">PBF</a></td><td></td><td></td><td>95</td><td>38.49</td><td>43.65</td><td>30.16</td><td>32.4</td></tr>
   <tr id="qre" class="red">
@@ -136,14 +136,20 @@ stockList.push('gb_umpq');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VMC.html" target="_blank">VMC</a></td><td></td><td></td><td>46</td><td>106.24</td><td>107.42</td><td>82.52</td><td>0</td></tr>
   <tr id="lci" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LCI.html" target="_blank">LCI</a></td><td></td><td></td><td>46</td><td>12.15</td><td>13.8</td><td>3.45</td><td>5.55</td></tr>
+  <tr id="wcg" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WCG.html" target="_blank">WCG</a></td><td></td><td></td><td>44</td><td>246.47</td><td>313.07</td><td>190.87</td><td>200.82</td></tr>
   <tr id="urs" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>44</td><td>57.26</td><td>58.7</td><td>46.13</td><td>53.03</td></tr>
   <tr id="atu" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATU.html" target="_blank">ATU</a></td><td></td><td></td><td>40</td><td>27.35</td><td>28.7</td><td>24.24</td><td>25.05</td></tr>
+  <tr id="tlm" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
   <tr id="tol" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOL.html" target="_blank">TOL</a></td><td></td><td></td><td>37</td><td>34.07</td><td>33.54</td><td>28.92</td><td>0</td></tr>
   <tr id="eme" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EME.html" target="_blank">EME</a></td><td></td><td></td><td>35</td><td>73.32</td><td>75.22</td><td>63.81</td><td>0</td></tr>
+  <tr id="cy" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CY.html" target="_blank">CY</a></td><td></td><td></td><td>34</td><td>14.69</td><td>16.19</td><td>12.76</td><td>13.71</td></tr>
   <tr id="oke" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OKE.html" target="_blank">OKE</a></td><td></td><td></td><td>33</td><td>64.78</td><td>66.9</td><td>58.38</td><td>58.85</td></tr>
   <tr id="sdlp" class="green">
