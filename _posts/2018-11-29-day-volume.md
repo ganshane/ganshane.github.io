@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181129"
-date:   2018-11-29 01:40:12
+date:   2018-11-29 04:40:36
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,7 +18,6 @@ stockList.push('gb_dxcm');
 stockList.push('gb_bios');
 stockList.push('gb_bv');
 stockList.push('gb_ks');
-stockList.push('gb_lgcy');
 stockList.push('gb_fsl');
 stockList.push('gb_stld');
 stockList.push('gb_aa');
@@ -31,7 +30,6 @@ stockList.push('gb_mt');
 stockList.push('gb_pom');
 stockList.push('gb_ryl');
 stockList.push('gb_pvh');
-stockList.push('gb_swft');
 stockList.push('gb_cplp');
 stockList.push('gb_vlccf');
 stockList.push('gb_af');
@@ -57,7 +55,6 @@ stockList.push('gb_af');
   <tr id="bios"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BIOS.html" target="_blank">BIOS</a></td><td></td><td></td><td>0.017</td><td>2.064</td></tr>
   <tr id="bv"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BV.html" target="_blank">BV</a></td><td></td><td></td><td>-0.016</td><td>12.702</td></tr>
   <tr id="ks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KS.html" target="_blank">KS</a></td><td></td><td></td><td>0.016</td><td>14.663</td></tr>
-  <tr id="lgcy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LGCY.html" target="_blank">LGCY</a></td><td></td><td></td><td>-0.016</td><td>2.097</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="stld"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/STLD.html" target="_blank">STLD</a></td><td></td><td></td><td>-0.015</td><td>2.351</td></tr>
   <tr id="aa"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AA.html" target="_blank">AA</a></td><td></td><td></td><td>-0.014</td><td>2.002</td></tr>
@@ -70,7 +67,6 @@ stockList.push('gb_af');
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
   <tr id="pvh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PVH.html" target="_blank">PVH</a></td><td></td><td></td><td>-0.011</td><td>2.011</td></tr>
-  <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
   <tr id="cplp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CPLP.html" target="_blank">CPLP</a></td><td></td><td></td><td>-0.01</td><td>6.174</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
   <tr id="af"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AF.html" target="_blank">AF</a></td><td></td><td></td><td>0.01</td><td>18.827</td></tr>
