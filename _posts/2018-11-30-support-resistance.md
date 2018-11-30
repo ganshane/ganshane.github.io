@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20181130"
-date:   2018-11-30 01:39:57
+date:   2018-11-30 04:39:05
 categories: stock
 ---
 <script type="text/javascript">
@@ -25,7 +25,6 @@ stockList.push('gb_irwd');
 stockList.push('gb_akam');
 stockList.push('gb_vod');
 stockList.push('gb_wetf');
-stockList.push('gb_pnc');
 stockList.push('gb_ebay');
 stockList.push('gb_acor');
 stockList.push('gb_ely');
@@ -38,7 +37,6 @@ stockList.push('gb_stt');
 stockList.push('gb_mas');
 stockList.push('gb_nq');
 stockList.push('gb_klac');
-stockList.push('gb_gra');
 stockList.push('gb_dhi');
 stockList.push('gb_urs');
 stockList.push('gb_ewt');
@@ -99,8 +97,6 @@ stockList.push('gb_gd');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VOD.html" target="_blank">VOD</a></td><td></td><td></td><td>73</td><td>21.5</td><td>22.87</td><td>18.64</td><td>0</td></tr>
   <tr id="wetf" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WETF.html" target="_blank">WETF</a></td><td></td><td></td><td>73</td><td>7.79</td><td>7.96</td><td>7.17</td><td>0</td></tr>
-  <tr id="pnc" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PNC.html" target="_blank">PNC</a></td><td></td><td></td><td>72</td><td>134.42</td><td>140.7</td><td>117.41</td><td>0</td></tr>
   <tr id="ebay" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EBAY.html" target="_blank">EBAY</a></td><td></td><td></td><td>70</td><td>32.86</td><td>29.97</td><td>27.6</td><td>0</td></tr>
   <tr id="acor" class="green">
@@ -125,8 +121,6 @@ stockList.push('gb_gd');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>55</td><td>3.27</td><td>2.44</td><td>2.17</td><td>0</td></tr>
   <tr id="klac" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KLAC.html" target="_blank">KLAC</a></td><td></td><td></td><td>53</td><td>99.06</td><td>111.03</td><td>90.25</td><td>0</td></tr>
-  <tr id="gra" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GRA.html" target="_blank">GRA</a></td><td></td><td></td><td>48</td><td>62.59</td><td>67.55</td><td>58.48</td><td>0</td></tr>
   <tr id="dhi" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DHI.html" target="_blank">DHI</a></td><td></td><td></td><td>45</td><td>39.33</td><td>37.93</td><td>34.63</td><td>0</td></tr>
   <tr id="urs" class="green">
