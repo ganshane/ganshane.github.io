@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181201"
-date:   2018-12-01 01:38:33
+date:   2018-12-01 04:39:55
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,9 +16,7 @@ stockList.push('gb_mtcn');
 stockList.push('gb_win');
 stockList.push('gb_gme');
 stockList.push('gb_cyh');
-stockList.push('gb_ks');
 stockList.push('gb_fsl');
-stockList.push('gb_cvrr');
 stockList.push('gb_atw');
 stockList.push('gb_nfx');
 stockList.push('gb_tol');
@@ -61,9 +59,7 @@ stockList.push('gb_af');
   <tr id="win"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WIN.html" target="_blank">WIN</a></td><td></td><td></td><td>-0.023</td><td>4.377</td></tr>
   <tr id="gme"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GME.html" target="_blank">GME</a></td><td></td><td></td><td>0.019</td><td>2.362</td></tr>
   <tr id="cyh"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CYH.html" target="_blank">CYH</a></td><td></td><td></td><td>0.018</td><td>2.229</td></tr>
-  <tr id="ks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KS.html" target="_blank">KS</a></td><td></td><td></td><td>0.016</td><td>14.663</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
-  <tr id="cvrr"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CVRR.html" target="_blank">CVRR</a></td><td></td><td></td><td>-0.015</td><td>2.916</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="nfx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NFX.html" target="_blank">NFX</a></td><td></td><td></td><td>-0.014</td><td>2.636</td></tr>
   <tr id="tol"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOL.html" target="_blank">TOL</a></td><td></td><td></td><td>0.013</td><td>3.066</td></tr>
