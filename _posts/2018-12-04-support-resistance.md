@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20181204"
-date:   2018-12-04 01:38:23
+date:   2018-12-04 04:37:59
 categories: stock
 ---
 <script type="text/javascript">
@@ -13,7 +13,6 @@ stockList.push('gb_bbg');
 stockList.push('gb_qre');
 stockList.push('gb_voya');
 stockList.push('gb_acor');
-stockList.push('gb_fitb');
 stockList.push('gb_amkr');
 stockList.push('gb_arcb');
 stockList.push('gb_mu');
@@ -40,10 +39,10 @@ stockList.push('gb_aod');
 stockList.push('gb_urs');
 stockList.push('gb_ewbc');
 stockList.push('gb_stt');
+stockList.push('gb_mas');
 stockList.push('gb_aeis');
 stockList.push('gb_tlm');
 stockList.push('gb_emn');
-stockList.push('gb_cgnx');
 stockList.push('gb_xhb');
 stockList.push('gb_rjf');
 stockList.push('gb_m');
@@ -76,8 +75,6 @@ stockList.push('gb_asml');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VOYA.html" target="_blank">VOYA</a></td><td></td><td></td><td>92</td><td>46.92</td><td>46.53</td><td>43.07</td><td>0</td></tr>
   <tr id="acor" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACOR.html" target="_blank">ACOR</a></td><td></td><td></td><td>86</td><td>22.5</td><td>21.63</td><td>18.45</td><td>20</td></tr>
-  <tr id="fitb" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FITB.html" target="_blank">FITB</a></td><td></td><td></td><td>86</td><td>28.62</td><td>28.13</td><td>24.92</td><td>0</td></tr>
   <tr id="amkr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMKR.html" target="_blank">AMKR</a></td><td></td><td></td><td>86</td><td>7.6</td><td>7.13</td><td>6.27</td><td>0</td></tr>
   <tr id="arcb" class="red">
@@ -130,14 +127,14 @@ stockList.push('gb_asml');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWBC.html" target="_blank">EWBC</a></td><td></td><td></td><td>44</td><td>60.04</td><td>54.89</td><td>51.52</td><td>0</td></tr>
   <tr id="stt" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/STT.html" target="_blank">STT</a></td><td></td><td></td><td>43</td><td>82.43</td><td>87.79</td><td>69.36</td><td>72.39</td></tr>
+  <tr id="mas" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MAS.html" target="_blank">MAS</a></td><td></td><td></td><td>38</td><td>36.87</td><td>38.95</td><td>30.36</td><td>31.85</td></tr>
   <tr id="aeis" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AEIS.html" target="_blank">AEIS</a></td><td></td><td></td><td>38</td><td>57.74</td><td>47.85</td><td>40.43</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
   <tr id="emn" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EMN.html" target="_blank">EMN</a></td><td></td><td></td><td>37</td><td>95.43</td><td>83.52</td><td>75.44</td><td>0</td></tr>
-  <tr id="cgnx" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CGNX.html" target="_blank">CGNX</a></td><td></td><td></td><td>35</td><td>43.73</td><td>47.65</td><td>36.16</td><td>0</td></tr>
   <tr id="xhb" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/XHB.html" target="_blank">XHB</a></td><td></td><td></td><td>35</td><td>38.58</td><td>39.96</td><td>33.39</td><td>35.6</td></tr>
   <tr id="rjf" class="red">
