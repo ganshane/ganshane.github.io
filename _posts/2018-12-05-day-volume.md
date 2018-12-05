@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181205"
-date:   2018-12-05 01:38:29
+date:   2018-12-05 04:38:50
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,6 +14,7 @@ stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
 stockList.push('gb_coup');
 stockList.push('gb_bgcp');
+stockList.push('gb_hclp');
 stockList.push('gb_kerx');
 stockList.push('gb_ocn');
 stockList.push('gb_hmhc');
@@ -29,6 +30,7 @@ stockList.push('gb_rmd');
 stockList.push('gb_enph');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
+stockList.push('gb_alk');
 stockList.push('gb_glf');
 stockList.push('gb_tpx');
 stockList.push('gb_pom');
@@ -59,6 +61,7 @@ stockList.push('gb_af');
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="coup"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/COUP.html" target="_blank">COUP</a></td><td></td><td></td><td>0.023</td><td>3.132</td></tr>
   <tr id="bgcp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BGCP.html" target="_blank">BGCP</a></td><td></td><td></td><td>-0.023</td><td>2.481</td></tr>
+  <tr id="hclp"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HCLP.html" target="_blank">HCLP</a></td><td></td><td></td><td>-0.021</td><td>2.775</td></tr>
   <tr id="kerx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KERX.html" target="_blank">KERX</a></td><td></td><td></td><td>0.019</td><td>3.203</td></tr>
   <tr id="ocn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OCN.html" target="_blank">OCN</a></td><td></td><td></td><td>-0.019</td><td>2.475</td></tr>
   <tr id="hmhc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HMHC.html" target="_blank">HMHC</a></td><td></td><td></td><td>0.017</td><td>2.157</td></tr>
@@ -74,6 +77,7 @@ stockList.push('gb_af');
   <tr id="enph"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENPH.html" target="_blank">ENPH</a></td><td></td><td></td><td>0.012</td><td>2.455</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
+  <tr id="alk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ALK.html" target="_blank">ALK</a></td><td></td><td></td><td>0.011</td><td>2.118</td></tr>
   <tr id="glf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLF.html" target="_blank">GLF</a></td><td></td><td></td><td>-0.011</td><td>8.989</td></tr>
   <tr id="tpx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TPX.html" target="_blank">TPX</a></td><td></td><td></td><td>0.011</td><td>2.233</td></tr>
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
