@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20181206"
-date:   2018-12-06 01:53:41
+date:   2018-12-06 04:44:15
 categories: stock
 ---
 <script type="text/javascript">
@@ -47,6 +47,7 @@ stockList.push('gb_tlm');
 stockList.push('gb_resi');
 stockList.push('gb_bhe');
 stockList.push('gb_symc');
+stockList.push('gb_sanm');
 stockList.push('gb_prgs');
 stockList.push('gb_mu');
 stockList.push('gb_edu');
@@ -144,6 +145,8 @@ stockList.push('gb_edu');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BHE.html" target="_blank">BHE</a></td><td></td><td></td><td>35</td><td>24.55</td><td>24.68</td><td>22.95</td><td>0</td></tr>
   <tr id="symc" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SYMC.html" target="_blank">SYMC</a></td><td></td><td></td><td>32</td><td>24.93</td><td>23.31</td><td>21.26</td><td>21.73</td></tr>
+  <tr id="sanm" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SANM.html" target="_blank">SANM</a></td><td></td><td></td><td>32</td><td>28.9</td><td>29.05</td><td>25.65</td><td>26.43</td></tr>
   <tr id="prgs" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PRGS.html" target="_blank">PRGS</a></td><td></td><td></td><td>26</td><td>34.72</td><td>38.69</td><td>31.97</td><td>0</td></tr>
   <tr id="mu" class="red">
