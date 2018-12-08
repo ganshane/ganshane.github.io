@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181208"
-date:   2018-12-08 01:55:32
+date:   2018-12-08 04:44:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -15,6 +15,7 @@ stockList.push('gb_mtcn');
 stockList.push('gb_ocn');
 stockList.push('gb_akrx');
 stockList.push('gb_ptx');
+stockList.push('gb_ks');
 stockList.push('gb_soxs');
 stockList.push('gb_fsl');
 stockList.push('gb_sdow');
@@ -49,6 +50,7 @@ stockList.push('gb_af');
   <tr id="ocn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OCN.html" target="_blank">OCN</a></td><td></td><td></td><td>-0.023</td><td>2.463</td></tr>
   <tr id="akrx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AKRX.html" target="_blank">AKRX</a></td><td></td><td></td><td>-0.018</td><td>10.985</td></tr>
   <tr id="ptx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PTX.html" target="_blank">PTX</a></td><td></td><td></td><td>-0.016</td><td>2.004</td></tr>
+  <tr id="ks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KS.html" target="_blank">KS</a></td><td></td><td></td><td>0.016</td><td>14.663</td></tr>
   <tr id="soxs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SOXS.html" target="_blank">SOXS</a></td><td></td><td></td><td>-0.016</td><td>2.523</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="sdow"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SDOW.html" target="_blank">SDOW</a></td><td></td><td></td><td>-0.015</td><td>2.268</td></tr>
