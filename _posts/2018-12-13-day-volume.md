@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20181213"
-date:   2018-12-13 01:47:32
+date:   2018-12-13 04:49:46
 categories: stock
 ---
 <script type="text/javascript">
@@ -32,7 +32,6 @@ stockList.push('gb_glf');
 stockList.push('gb_pom');
 stockList.push('gb_ryl');
 stockList.push('gb_mcc');
-stockList.push('gb_acor');
 stockList.push('gb_swft');
 stockList.push('gb_vlccf');
 stockList.push('gb_sc');
@@ -73,7 +72,6 @@ stockList.push('gb_af');
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
   <tr id="ryl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RYL.html" target="_blank">RYL</a></td><td></td><td></td><td>-0.011</td><td>2.108</td></tr>
   <tr id="mcc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MCC.html" target="_blank">MCC</a></td><td></td><td></td><td>-0.011</td><td>2.119</td></tr>
-  <tr id="acor"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACOR.html" target="_blank">ACOR</a></td><td></td><td></td><td>-0.011</td><td>6.548</td></tr>
   <tr id="swft"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SWFT.html" target="_blank">SWFT</a></td><td></td><td></td><td>0.01</td><td>2.89</td></tr>
   <tr id="vlccf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLCCF.html" target="_blank">VLCCF</a></td><td></td><td></td><td>0.01</td><td>5.574</td></tr>
   <tr id="sc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SC.html" target="_blank">SC</a></td><td></td><td></td><td>-0.01</td><td>2.575</td></tr>

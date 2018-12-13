@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20181213"
-date:   2018-12-13 01:47:32
+date:   2018-12-13 04:49:46
 categories: stock
 ---
 <script type="text/javascript">
@@ -18,7 +18,6 @@ stockList.push('gb_avy');
 stockList.push('gb_hog');
 stockList.push('gb_cef');
 stockList.push('gb_celg');
-stockList.push('gb_pcar');
 stockList.push('gb_aal');
 stockList.push('gb_cray');
 stockList.push('gb_gca');
@@ -88,8 +87,6 @@ stockList.push('gb_cvbf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CEF.html" target="_blank">CEF</a></td><td></td><td></td><td>84</td><td>13.07</td><td>13.23</td><td>11.65</td><td>12</td></tr>
   <tr id="celg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CELG.html" target="_blank">CELG</a></td><td></td><td></td><td>82</td><td>71.97</td><td>74.88</td><td>66.62</td><td>0</td></tr>
-  <tr id="pcar" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PCAR.html" target="_blank">PCAR</a></td><td></td><td></td><td>82</td><td>60.03</td><td>63.41</td><td>54.87</td><td>0</td></tr>
   <tr id="aal" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AAL.html" target="_blank">AAL</a></td><td></td><td></td><td>80</td><td>34.86</td><td>38.59</td><td>30.24</td><td>0</td></tr>
   <tr id="cray" class="red">
