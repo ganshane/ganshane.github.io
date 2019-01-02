@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20190102"
-date:   2019-01-02 01:48:56
+date:   2019-01-02 04:47:41
 categories: stock
 ---
 <script type="text/javascript">
@@ -19,6 +19,7 @@ stockList.push('gb_czz');
 stockList.push('gb_cpb');
 stockList.push('gb_resi');
 stockList.push('gb_aap');
+stockList.push('gb_phm');
 stockList.push('gb_el');
 stockList.push('gb_lho');
 stockList.push('gb_ann');
@@ -72,6 +73,8 @@ stockList.push('gb_csx');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RESI.html" target="_blank">RESI</a></td><td></td><td></td><td>76</td><td>9.28</td><td>9.96</td><td>8.25</td><td>0</td></tr>
   <tr id="aap" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AAP.html" target="_blank">AAP</a></td><td></td><td></td><td>74</td><td>158.1</td><td>168.52</td><td>139.4</td><td>143.81</td></tr>
+  <tr id="phm" class="green">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PHM.html" target="_blank">PHM</a></td><td></td><td></td><td>73</td><td>27.81</td><td>26.96</td><td>23.21</td><td>25.13</td></tr>
   <tr id="el" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EL.html" target="_blank">EL</a></td><td></td><td></td><td>70</td><td>131.35</td><td>140.61</td><td>122.94</td><td>0</td></tr>
   <tr id="lho" class="green">
