@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20190108"
-date:   2019-01-08 01:46:52
+date:   2019-01-08 04:42:26
 categories: stock
 ---
 <script type="text/javascript">
@@ -46,6 +46,7 @@ stockList.push('gb_etfc');
 stockList.push('gb_urs');
 stockList.push('gb_htgc');
 stockList.push('gb_tlm');
+stockList.push('gb_mmp');
 stockList.push('gb_panw');
 stockList.push('gb_nlsn');
 stockList.push('gb_acwi');
@@ -150,6 +151,8 @@ stockList.push('gb_halo');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HTGC.html" target="_blank">HTGC</a></td><td></td><td></td><td>42</td><td>11.96</td><td>12.25</td><td>10.7</td><td>0</td></tr>
   <tr id="tlm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TLM.html" target="_blank">TLM</a></td><td></td><td></td><td>38</td><td>10.19</td><td>10.94</td><td>7.57</td><td>7.93</td></tr>
+  <tr id="mmp" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MMP.html" target="_blank">MMP</a></td><td></td><td></td><td>36</td><td>60.84</td><td>62.3</td><td>54.25</td><td>0</td></tr>
   <tr id="panw" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PANW.html" target="_blank">PANW</a></td><td></td><td></td><td>35</td><td>186.76</td><td>191.19</td><td>168.81</td><td>0</td></tr>
   <tr id="nlsn" class="red">
