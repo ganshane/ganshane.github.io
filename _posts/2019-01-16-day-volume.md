@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20190116"
-date:   2019-01-16 01:46:18
+date:   2019-01-16 04:51:01
 categories: stock
 ---
 <script type="text/javascript">
@@ -22,7 +22,6 @@ stockList.push('gb_vc');
 stockList.push('gb_atw');
 stockList.push('gb_qre');
 stockList.push('gb_veco');
-stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
 stockList.push('gb_elgx');
 stockList.push('gb_glf');
@@ -57,7 +56,6 @@ stockList.push('gb_af');
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="veco"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VECO.html" target="_blank">VECO</a></td><td></td><td></td><td>0.012</td><td>2.783</td></tr>
-  <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
   <tr id="elgx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ELGX.html" target="_blank">ELGX</a></td><td></td><td></td><td>-0.011</td><td>2.546</td></tr>
   <tr id="glf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLF.html" target="_blank">GLF</a></td><td></td><td></td><td>-0.011</td><td>8.989</td></tr>

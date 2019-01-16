@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20190116"
-date:   2019-01-16 01:46:18
+date:   2019-01-16 04:51:01
 categories: stock
 ---
 <script type="text/javascript">
@@ -70,7 +70,6 @@ stockList.push('gb_chk');
 stockList.push('gb_fnx');
 stockList.push('gb_eme');
 stockList.push('gb_ann');
-stockList.push('gb_acwi');
 stockList.push('gb_kfx');
 stockList.push('gb_xrt');
 stockList.push('gb_tot');
@@ -266,8 +265,6 @@ stockList.push('gb_byd');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EME.html" target="_blank">EME</a></td><td></td><td></td><td>65</td><td>63.81</td><td>74.17</td><td>58.05</td><td>0</td></tr>
   <tr id="ann" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
-  <tr id="acwi" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACWI.html" target="_blank">ACWI</a></td><td></td><td></td><td>64</td><td>66.23</td><td>71.03</td><td>61.01</td><td>0</td></tr>
   <tr id="kfx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KFX.html" target="_blank">KFX</a></td><td></td><td></td><td>64</td><td>10.97</td><td>11.1</td><td>7.4</td><td>8</td></tr>
   <tr id="xrt" class="red">
