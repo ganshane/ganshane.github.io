@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20190118"
-date:   2019-01-18 01:44:43
+date:   2019-01-18 04:53:07
 categories: stock
 ---
 <script type="text/javascript">
@@ -54,7 +54,6 @@ stockList.push('gb_fcx');
 stockList.push('gb_tot');
 stockList.push('gb_ewj');
 stockList.push('gb_ing');
-stockList.push('gb_ann');
 stockList.push('gb_ccl');
 stockList.push('gb_gab');
 stockList.push('gb_iyt');
@@ -212,8 +211,6 @@ stockList.push('gb_hlit');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWJ.html" target="_blank">EWJ</a></td><td></td><td></td><td>67</td><td>53.45</td><td>56.22</td><td>50.13</td><td>0</td></tr>
   <tr id="ing" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ING.html" target="_blank">ING</a></td><td></td><td></td><td>66</td><td>11.64</td><td>12.51</td><td>10.46</td><td>0</td></tr>
-  <tr id="ann" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="ccl" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CCL.html" target="_blank">CCL</a></td><td></td><td></td><td>65</td><td>53.47</td><td>59.77</td><td>47.33</td><td>0</td></tr>
   <tr id="gab" class="red">
