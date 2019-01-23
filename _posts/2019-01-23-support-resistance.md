@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20190123"
-date:   2019-01-23 01:41:38
+date:   2019-01-23 04:46:06
 categories: stock
 ---
 <script type="text/javascript">
@@ -22,10 +22,8 @@ stockList.push('gb_qre');
 stockList.push('gb_wsm');
 stockList.push('gb_lkq');
 stockList.push('gb_ewu');
-stockList.push('gb_cr');
 stockList.push('gb_ffiv');
 stockList.push('gb_amg');
-stockList.push('gb_vgk');
 stockList.push('gb_wpx');
 stockList.push('gb_nws');
 stockList.push('gb_athn');
@@ -39,11 +37,8 @@ stockList.push('gb_ety');
 stockList.push('gb_ec');
 stockList.push('gb_hon');
 stockList.push('gb_schf');
-stockList.push('gb_wfc');
 stockList.push('gb_lho');
 stockList.push('gb_igd');
-stockList.push('gb_rpv');
-stockList.push('gb_tot');
 stockList.push('gb_ann');
 stockList.push('gb_clny');
 stockList.push('gb_bzh');
@@ -53,51 +48,40 @@ stockList.push('gb_pkw');
 stockList.push('gb_ubs');
 stockList.push('gb_psx');
 stockList.push('gb_mwa');
-stockList.push('gb_ll');
 stockList.push('gb_five');
 stockList.push('gb_cplp');
 stockList.push('gb_rtn');
 stockList.push('gb_bmo');
 stockList.push('gb_wafd');
-stockList.push('gb_tmk');
 stockList.push('gb_pacw');
 stockList.push('gb_ach');
 stockList.push('gb_nq');
 stockList.push('gb_trip');
-stockList.push('gb_infy');
-stockList.push('gb_dfe');
 stockList.push('gb_bcs');
 stockList.push('gb_umpq');
-stockList.push('gb_c');
 stockList.push('gb_ewbc');
 stockList.push('gb_iwn');
 stockList.push('gb_wbc');
 stockList.push('gb_pfpt');
 stockList.push('gb_sgmo');
-stockList.push('gb_vlo');
 stockList.push('gb_snv');
-stockList.push('gb_urs');
 stockList.push('gb_iev');
 stockList.push('gb_drh');
-stockList.push('gb_dox');
 stockList.push('gb_ibm');
 stockList.push('gb_tlm');
 stockList.push('gb_iwm');
 stockList.push('gb_dds');
 stockList.push('gb_ci');
 stockList.push('gb_pey');
-stockList.push('gb_pnr');
 stockList.push('gb_acor');
 stockList.push('gb_eqix');
 stockList.push('gb_seas');
 stockList.push('gb_axl');
 stockList.push('gb_oxy');
 stockList.push('gb_asml');
-stockList.push('gb_aph');
 stockList.push('gb_ms');
 stockList.push('gb_al');
 stockList.push('gb_etfc');
-stockList.push('gb_mur');
 stockList.push('gb_celg');
 stockList.push('gb_phg');
 stockList.push('gb_fnf');
@@ -145,14 +129,10 @@ stockList.push('gb_fnf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LKQ.html" target="_blank">LKQ</a></td><td></td><td></td><td>93</td><td>26.23</td><td>28.63</td><td>22.74</td><td>0</td></tr>
   <tr id="ewu" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWU.html" target="_blank">EWU</a></td><td></td><td></td><td>91</td><td>30.77</td><td>31.95</td><td>28.41</td><td>0</td></tr>
-  <tr id="cr" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CR.html" target="_blank">CR</a></td><td></td><td></td><td>89</td><td>79.45</td><td>86.5</td><td>69.04</td><td>0</td></tr>
   <tr id="ffiv" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FFIV.html" target="_blank">FFIV</a></td><td></td><td></td><td>86</td><td>165.92</td><td>165.01</td><td>153.91</td><td>0</td></tr>
   <tr id="amg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMG.html" target="_blank">AMG</a></td><td></td><td></td><td>85</td><td>107.97</td><td>114.43</td><td>88.47</td><td>0</td></tr>
-  <tr id="vgk" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VGK.html" target="_blank">VGK</a></td><td></td><td></td><td>85</td><td>50.98</td><td>52.16</td><td>46.8</td><td>0</td></tr>
   <tr id="wpx" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WPX.html" target="_blank">WPX</a></td><td></td><td></td><td>85</td><td>12.97</td><td>15.13</td><td>9.89</td><td>0</td></tr>
   <tr id="nws" class="red">
@@ -179,16 +159,10 @@ stockList.push('gb_fnf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HON.html" target="_blank">HON</a></td><td></td><td></td><td>72</td><td>141.55</td><td>151.51</td><td>126.84</td><td>0</td></tr>
   <tr id="schf" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCHF.html" target="_blank">SCHF</a></td><td></td><td></td><td>70</td><td>29.85</td><td>31.36</td><td>27.93</td><td>0</td></tr>
-  <tr id="wfc" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WFC.html" target="_blank">WFC</a></td><td></td><td></td><td>69</td><td>50.26</td><td>53.11</td><td>43.02</td><td>0</td></tr>
   <tr id="lho" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LHO.html" target="_blank">LHO</a></td><td></td><td></td><td>69</td><td>33.96</td><td>34.88</td><td>31.46</td><td>31.32</td></tr>
   <tr id="igd" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IGD.html" target="_blank">IGD</a></td><td></td><td></td><td>69</td><td>6.43</td><td>6.71</td><td>5.75</td><td>0</td></tr>
-  <tr id="rpv" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RPV.html" target="_blank">RPV</a></td><td></td><td></td><td>68</td><td>61.95</td><td>66.2</td><td>55.84</td><td>0</td></tr>
-  <tr id="tot" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TOT.html" target="_blank">TOT</a></td><td></td><td></td><td>65</td><td>53.82</td><td>54.99</td><td>49.7</td><td>0</td></tr>
   <tr id="ann" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="clny" class="red">
@@ -207,8 +181,6 @@ stockList.push('gb_fnf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PSX.html" target="_blank">PSX</a></td><td></td><td></td><td>60</td><td>95.3</td><td>95.01</td><td>78.44</td><td>0</td></tr>
   <tr id="mwa" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MWA.html" target="_blank">MWA</a></td><td></td><td></td><td>59</td><td>9.59</td><td>10.8</td><td>8.85</td><td>0</td></tr>
-  <tr id="ll" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LL.html" target="_blank">LL</a></td><td></td><td></td><td>58</td><td>11.68</td><td>13.25</td><td>9.13</td><td>0</td></tr>
   <tr id="five" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FIVE.html" target="_blank">FIVE</a></td><td></td><td></td><td>58</td><td>124.52</td><td>125.59</td><td>108.76</td><td>111.77</td></tr>
   <tr id="cplp" class="red">
@@ -219,8 +191,6 @@ stockList.push('gb_fnf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BMO.html" target="_blank">BMO</a></td><td></td><td></td><td>56</td><td>72.83</td><td>75.81</td><td>64.53</td><td>0</td></tr>
   <tr id="wafd" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WAFD.html" target="_blank">WAFD</a></td><td></td><td></td><td>56</td><td>31.2</td><td>32.37</td><td>27.06</td><td>29.1</td></tr>
-  <tr id="tmk" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TMK.html" target="_blank">TMK</a></td><td></td><td></td><td>55</td><td>81.82</td><td>86.63</td><td>71.92</td><td>0</td></tr>
   <tr id="pacw" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PACW.html" target="_blank">PACW</a></td><td></td><td></td><td>55</td><td>39.27</td><td>40.98</td><td>31.26</td><td>0</td></tr>
   <tr id="ach" class="red">
@@ -229,16 +199,10 @@ stockList.push('gb_fnf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/NQ.html" target="_blank">NQ</a></td><td></td><td></td><td>55</td><td>3.27</td><td>2.44</td><td>2.17</td><td>0</td></tr>
   <tr id="trip" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TRIP.html" target="_blank">TRIP</a></td><td></td><td></td><td>53</td><td>58.46</td><td>59.72</td><td>54.5</td><td>54.55</td></tr>
-  <tr id="infy" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/INFY.html" target="_blank">INFY</a></td><td></td><td></td><td>53</td><td>17</td><td>17.79</td><td>9.43</td><td>10.52</td></tr>
-  <tr id="dfe" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DFE.html" target="_blank">DFE</a></td><td></td><td></td><td>53</td><td>56.51</td><td>57.31</td><td>51.01</td><td>0</td></tr>
   <tr id="bcs" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BCS.html" target="_blank">BCS</a></td><td></td><td></td><td>53</td><td>8.51</td><td>9.41</td><td>7.07</td><td>0</td></tr>
   <tr id="umpq" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UMPQ.html" target="_blank">UMPQ</a></td><td></td><td></td><td>52</td><td>18.4</td><td>19.86</td><td>15.68</td><td>0</td></tr>
-  <tr id="c" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/C.html" target="_blank">C</a></td><td></td><td></td><td>51</td><td>62.5</td><td>66.45</td><td>50.67</td><td>0</td></tr>
   <tr id="ewbc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWBC.html" target="_blank">EWBC</a></td><td></td><td></td><td>51</td><td>50.7</td><td>55.2</td><td>40.05</td><td>0</td></tr>
   <tr id="iwn" class="red">
@@ -249,18 +213,12 @@ stockList.push('gb_fnf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PFPT.html" target="_blank">PFPT</a></td><td></td><td></td><td>47</td><td>93.5</td><td>95.48</td><td>81.23</td><td>0</td></tr>
   <tr id="sgmo" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SGMO.html" target="_blank">SGMO</a></td><td></td><td></td><td>46</td><td>12.27</td><td>12.96</td><td>10.89</td><td>0</td></tr>
-  <tr id="vlo" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VLO.html" target="_blank">VLO</a></td><td></td><td></td><td>45</td><td>86.16</td><td>83.78</td><td>68.81</td><td>0</td></tr>
   <tr id="snv" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SNV.html" target="_blank">SNV</a></td><td></td><td></td><td>45</td><td>35.59</td><td>38.66</td><td>29.93</td><td>0</td></tr>
-  <tr id="urs" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/URS.html" target="_blank">URS</a></td><td></td><td></td><td>44</td><td>57.26</td><td>58.7</td><td>46.13</td><td>53.03</td></tr>
   <tr id="iev" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IEV.html" target="_blank">IEV</a></td><td></td><td></td><td>44</td><td>40.62</td><td>42.04</td><td>37.75</td><td>0</td></tr>
   <tr id="drh" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DRH.html" target="_blank">DRH</a></td><td></td><td></td><td>41</td><td>10.01</td><td>10.65</td><td>8.76</td><td>0</td></tr>
-  <tr id="dox" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DOX.html" target="_blank">DOX</a></td><td></td><td></td><td>40</td><td>61.22</td><td>63.81</td><td>57.19</td><td>0</td></tr>
   <tr id="ibm" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IBM.html" target="_blank">IBM</a></td><td></td><td></td><td>38</td><td>138.2</td><td>124.57</td><td>114.54</td><td>0</td></tr>
   <tr id="tlm" class="green">
@@ -273,8 +231,6 @@ stockList.push('gb_fnf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CI.html" target="_blank">CI</a></td><td></td><td></td><td>35</td><td>204.05</td><td>214.91</td><td>184.3</td><td>191.24</td></tr>
   <tr id="pey" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PEY.html" target="_blank">PEY</a></td><td></td><td></td><td>35</td><td>16.89</td><td>17.32</td><td>15.6</td><td>0</td></tr>
-  <tr id="pnr" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PNR.html" target="_blank">PNR</a></td><td></td><td></td><td>34</td><td>41.17</td><td>42.76</td><td>38.06</td><td>0</td></tr>
   <tr id="acor" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACOR.html" target="_blank">ACOR</a></td><td></td><td></td><td>33</td><td>16.38</td><td>20.27</td><td>13.15</td><td>0</td></tr>
   <tr id="eqix" class="red">
@@ -287,16 +243,12 @@ stockList.push('gb_fnf');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/OXY.html" target="_blank">OXY</a></td><td></td><td></td><td>31</td><td>66.86</td><td>72.43</td><td>59.72</td><td>0</td></tr>
   <tr id="asml" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ASML.html" target="_blank">ASML</a></td><td></td><td></td><td>31</td><td>162.12</td><td>178.2</td><td>147.38</td><td>0</td></tr>
-  <tr id="aph" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/APH.html" target="_blank">APH</a></td><td></td><td></td><td>30</td><td>82.77</td><td>87.67</td><td>76</td><td>0</td></tr>
   <tr id="ms" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MS.html" target="_blank">MS</a></td><td></td><td></td><td>28</td><td>43.05</td><td>46.14</td><td>36.78</td><td>0</td></tr>
   <tr id="al" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AL.html" target="_blank">AL</a></td><td></td><td></td><td>28</td><td>37.21</td><td>39.9</td><td>29.31</td><td>0</td></tr>
   <tr id="etfc" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ETFC.html" target="_blank">ETFC</a></td><td></td><td></td><td>27</td><td>50.09</td><td>54.08</td><td>45.97</td><td>0</td></tr>
-  <tr id="mur" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MUR.html" target="_blank">MUR</a></td><td></td><td></td><td>25</td><td>28.12</td><td>31.09</td><td>22.47</td><td>0</td></tr>
   <tr id="celg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CELG.html" target="_blank">CELG</a></td><td></td><td></td><td>22</td><td>86.87</td><td>92.68</td><td>77.38</td><td>79.67</td></tr>
   <tr id="phg" class="green">
