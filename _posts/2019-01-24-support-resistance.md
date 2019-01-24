@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20190124"
-date:   2019-01-24 01:59:45
+date:   2019-01-24 04:47:24
 categories: stock
 ---
 <script type="text/javascript">
@@ -16,6 +16,7 @@ stockList.push('gb_schw');
 stockList.push('gb_c');
 stockList.push('gb_schf');
 stockList.push('gb_ewj');
+stockList.push('gb_tmk');
 stockList.push('gb_qre');
 stockList.push('gb_lkq');
 stockList.push('gb_celg');
@@ -47,6 +48,7 @@ stockList.push('gb_vgk');
 stockList.push('gb_nclh');
 stockList.push('gb_tex');
 stockList.push('gb_ijr');
+stockList.push('gb_ann');
 stockList.push('gb_kfx');
 stockList.push('gb_ctsh');
 stockList.push('gb_wnc');
@@ -120,6 +122,8 @@ stockList.push('gb_sfl');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SCHF.html" target="_blank">SCHF</a></td><td></td><td></td><td>97</td><td>29.85</td><td>31.36</td><td>27.93</td><td>0</td></tr>
   <tr id="ewj" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EWJ.html" target="_blank">EWJ</a></td><td></td><td></td><td>97</td><td>53.45</td><td>56.22</td><td>50.13</td><td>0</td></tr>
+  <tr id="tmk" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TMK.html" target="_blank">TMK</a></td><td></td><td></td><td>94</td><td>81.82</td><td>86.63</td><td>71.92</td><td>0</td></tr>
   <tr id="qre" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>94</td><td>15.24</td><td>16.99</td><td>14.05</td><td>0</td></tr>
   <tr id="lkq" class="red">
@@ -182,6 +186,8 @@ stockList.push('gb_sfl');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TEX.html" target="_blank">TEX</a></td><td></td><td></td><td>67</td><td>29.82</td><td>34.17</td><td>25.8</td><td>0</td></tr>
   <tr id="ijr" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IJR.html" target="_blank">IJR</a></td><td></td><td></td><td>66</td><td>75.55</td><td>80.64</td><td>66.25</td><td>0</td></tr>
+  <tr id="ann" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="kfx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KFX.html" target="_blank">KFX</a></td><td></td><td></td><td>64</td><td>10.97</td><td>11.1</td><td>7.4</td><td>8</td></tr>
   <tr id="ctsh" class="red">
