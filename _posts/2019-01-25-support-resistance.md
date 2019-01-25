@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20190125"
-date:   2019-01-25 01:40:27
+date:   2019-01-25 04:54:00
 categories: stock
 ---
 <script type="text/javascript">
@@ -47,7 +47,6 @@ stockList.push('gb_schw');
 stockList.push('gb_dds');
 stockList.push('gb_bmo');
 stockList.push('gb_adt');
-stockList.push('gb_umpq');
 stockList.push('gb_ety');
 stockList.push('gb_pacw');
 stockList.push('gb_bbt');
@@ -58,12 +57,9 @@ stockList.push('gb_tot');
 stockList.push('gb_lho');
 stockList.push('gb_igd');
 stockList.push('gb_comm');
-stockList.push('gb_enr');
 stockList.push('gb_ann');
 stockList.push('gb_kfx');
-stockList.push('gb_cnc');
 stockList.push('gb_amag');
-stockList.push('gb_wmc');
 stockList.push('gb_auy');
 stockList.push('gb_nwl');
 stockList.push('gb_cr');
@@ -205,8 +201,6 @@ stockList.push('gb_acrx');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BMO.html" target="_blank">BMO</a></td><td></td><td></td><td>73</td><td>72.83</td><td>75.81</td><td>64.53</td><td>0</td></tr>
   <tr id="adt" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ADT.html" target="_blank">ADT</a></td><td></td><td></td><td>73</td><td>7.22</td><td>7.75</td><td>5.88</td><td>0</td></tr>
-  <tr id="umpq" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/UMPQ.html" target="_blank">UMPQ</a></td><td></td><td></td><td>73</td><td>18.4</td><td>19.86</td><td>15.68</td><td>0</td></tr>
   <tr id="ety" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ETY.html" target="_blank">ETY</a></td><td></td><td></td><td>73</td><td>11.14</td><td>11.94</td><td>9.69</td><td>0</td></tr>
   <tr id="pacw" class="red">
@@ -227,18 +221,12 @@ stockList.push('gb_acrx');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IGD.html" target="_blank">IGD</a></td><td></td><td></td><td>69</td><td>6.43</td><td>6.71</td><td>5.75</td><td>0</td></tr>
   <tr id="comm" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/COMM.html" target="_blank">COMM</a></td><td></td><td></td><td>68</td><td>23.36</td><td>25.22</td><td>15.18</td><td>18.55</td></tr>
-  <tr id="enr" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ENR.html" target="_blank">ENR</a></td><td></td><td></td><td>67</td><td>54.03</td><td>47.84</td><td>44.49</td><td>0</td></tr>
   <tr id="ann" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="kfx" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KFX.html" target="_blank">KFX</a></td><td></td><td></td><td>64</td><td>10.97</td><td>11.1</td><td>7.4</td><td>8</td></tr>
-  <tr id="cnc" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CNC.html" target="_blank">CNC</a></td><td></td><td></td><td>61</td><td>128.45</td><td>136.29</td><td>120.25</td><td>115.77</td></tr>
   <tr id="amag" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AMAG.html" target="_blank">AMAG</a></td><td></td><td></td><td>59</td><td>17.11</td><td>19.44</td><td>14.94</td><td>0</td></tr>
-  <tr id="wmc" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/WMC.html" target="_blank">WMC</a></td><td></td><td></td><td>59</td><td>9.65</td><td>10.13</td><td>8.26</td><td>0</td></tr>
   <tr id="auy" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AUY.html" target="_blank">AUY</a></td><td></td><td></td><td>59</td><td>2.44</td><td>2.5</td><td>2.08</td><td>0</td></tr>
   <tr id="nwl" class="green">
