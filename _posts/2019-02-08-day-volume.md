@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20190208"
-date:   2019-02-08 01:37:07
+date:   2019-02-08 04:50:45
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,7 +17,6 @@ stockList.push('gb_ks');
 stockList.push('gb_fsl');
 stockList.push('gb_ftnt');
 stockList.push('gb_atw');
-stockList.push('gb_spxu');
 stockList.push('gb_spxs');
 stockList.push('gb_qre');
 stockList.push('gb_tqnt');
@@ -55,7 +54,6 @@ stockList.push('gb_af');
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="ftnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FTNT.html" target="_blank">FTNT</a></td><td></td><td></td><td>0.015</td><td>2.434</td></tr>
   <tr id="atw"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATW.html" target="_blank">ATW</a></td><td></td><td></td><td>0.014</td><td>4.165</td></tr>
-  <tr id="spxu"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPXU.html" target="_blank">SPXU</a></td><td></td><td></td><td>-0.013</td><td>2.238</td></tr>
   <tr id="spxs"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SPXS.html" target="_blank">SPXS</a></td><td></td><td></td><td>-0.013</td><td>2.125</td></tr>
   <tr id="qre"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/QRE.html" target="_blank">QRE</a></td><td></td><td></td><td>-0.013</td><td>7.722</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
