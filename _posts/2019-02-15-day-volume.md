@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20190215"
-date:   2019-02-15 01:38:11
+date:   2019-02-15 04:39:43
 categories: stock
 ---
 <script type="text/javascript">
@@ -15,7 +15,6 @@ stockList.push('gb_mtcn');
 stockList.push('gb_lscc');
 stockList.push('gb_rmti');
 stockList.push('gb_ks');
-stockList.push('gb_atvi');
 stockList.push('gb_fsl');
 stockList.push('gb_eca');
 stockList.push('gb_egy');
@@ -56,7 +55,6 @@ stockList.push('gb_af');
   <tr id="lscc"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/LSCC.html" target="_blank">LSCC</a></td><td></td><td></td><td>0.02</td><td>4.813</td></tr>
   <tr id="rmti"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RMTI.html" target="_blank">RMTI</a></td><td></td><td></td><td>0.017</td><td>2.183</td></tr>
   <tr id="ks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KS.html" target="_blank">KS</a></td><td></td><td></td><td>0.016</td><td>14.663</td></tr>
-  <tr id="atvi"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ATVI.html" target="_blank">ATVI</a></td><td></td><td></td><td>-0.016</td><td>2.537</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="eca"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ECA.html" target="_blank">ECA</a></td><td></td><td></td><td>-0.016</td><td>4.762</td></tr>
   <tr id="egy"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/EGY.html" target="_blank">EGY</a></td><td></td><td></td><td>0.015</td><td>4.576</td></tr>
