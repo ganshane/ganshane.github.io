@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20190216"
-date:   2019-02-16 01:36:51
+date:   2019-02-16 04:39:16
 categories: stock
 ---
 <script type="text/javascript">
@@ -27,7 +27,6 @@ stockList.push('gb_tsu');
 stockList.push('gb_diod');
 stockList.push('gb_tqnt');
 stockList.push('gb_rfmd');
-stockList.push('gb_acor');
 stockList.push('gb_hive');
 stockList.push('gb_glf');
 stockList.push('gb_pom');
@@ -67,7 +66,6 @@ stockList.push('gb_af');
   <tr id="diod"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DIOD.html" target="_blank">DIOD</a></td><td></td><td></td><td>0.012</td><td>2.422</td></tr>
   <tr id="tqnt"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TQNT.html" target="_blank">TQNT</a></td><td></td><td></td><td>0.012</td><td>5.993</td></tr>
   <tr id="rfmd"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RFMD.html" target="_blank">RFMD</a></td><td></td><td></td><td>0.012</td><td>6.818</td></tr>
-  <tr id="acor"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ACOR.html" target="_blank">ACOR</a></td><td></td><td></td><td>-0.011</td><td>2.094</td></tr>
   <tr id="hive"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/HIVE.html" target="_blank">HIVE</a></td><td></td><td></td><td>0.011</td><td>2.127</td></tr>
   <tr id="glf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GLF.html" target="_blank">GLF</a></td><td></td><td></td><td>-0.011</td><td>8.989</td></tr>
   <tr id="pom"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/POM.html" target="_blank">POM</a></td><td></td><td></td><td>-0.011</td><td>6.011</td></tr>
