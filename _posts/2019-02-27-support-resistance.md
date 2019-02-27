@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20190227"
-date:   2019-02-27 01:45:23
+date:   2019-02-27 04:42:10
 categories: stock
 ---
 <script type="text/javascript">
@@ -59,6 +59,7 @@ stockList.push('gb_cnq');
 stockList.push('gb_gpk');
 stockList.push('gb_blk');
 stockList.push('gb_pbf');
+stockList.push('gb_rose');
 stockList.push('gb_itub');
 stockList.push('gb_tlm');
 stockList.push('gb_ip');
@@ -190,6 +191,8 @@ stockList.push('gb_arcb');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/BLK.html" target="_blank">BLK</a></td><td></td><td></td><td>42</td><td>469.04</td><td>482.48</td><td>406.13</td><td>438.26</td></tr>
   <tr id="pbf" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/PBF.html" target="_blank">PBF</a></td><td></td><td></td><td>41</td><td>33.75</td><td>36.44</td><td>29.68</td><td>0</td></tr>
+  <tr id="rose" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ROSE.html" target="_blank">ROSE</a></td><td></td><td></td><td>40</td><td>6.67</td><td>3.31</td><td>2.75</td><td>0</td></tr>
   <tr id="itub" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ITUB.html" target="_blank">ITUB</a></td><td></td><td></td><td>38</td><td>9.61</td><td>10.24</td><td>8.96</td><td>0</td></tr>
   <tr id="tlm" class="green">
