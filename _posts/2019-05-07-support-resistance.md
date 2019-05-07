@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20190507"
-date:   2019-05-07 01:50:06
+date:   2019-05-07 04:45:32
 categories: stock
 ---
 <script type="text/javascript">
@@ -17,7 +17,6 @@ stockList.push('gb_tmst');
 stockList.push('gb_cop');
 stockList.push('gb_aeis');
 stockList.push('gb_crk');
-stockList.push('gb_viv');
 stockList.push('gb_gca');
 stockList.push('gb_bcei');
 stockList.push('gb_jbht');
@@ -77,8 +76,6 @@ stockList.push('gb_aa');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/AEIS.html" target="_blank">AEIS</a></td><td></td><td></td><td>85</td><td>57.74</td><td>62</td><td>48.41</td><td>53.45</td></tr>
   <tr id="crk" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CRK.html" target="_blank">CRK</a></td><td></td><td></td><td>85</td><td>6.43</td><td>6.8</td><td>5.85</td><td>0</td></tr>
-  <tr id="viv" class="red">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/VIV.html" target="_blank">VIV</a></td><td></td><td></td><td>83</td><td>11.52</td><td>12.48</td><td>9.98</td><td>10.79</td></tr>
   <tr id="gca" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/GCA.html" target="_blank">GCA</a></td><td></td><td></td><td>80</td><td>6.41</td><td>5.48</td><td>4.83</td><td>0</td></tr>
   <tr id="bcei" class="green">
