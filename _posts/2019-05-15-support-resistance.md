@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20190515"
-date:   2019-05-15 01:41:36
+date:   2019-05-15 04:40:43
 categories: stock
 ---
 <script type="text/javascript">
@@ -29,7 +29,6 @@ stockList.push('gb_aig');
 stockList.push('gb_lho');
 stockList.push('gb_ann');
 stockList.push('gb_slg');
-stockList.push('gb_kfx');
 stockList.push('gb_rmti');
 stockList.push('gb_chk');
 stockList.push('gb_ati');
@@ -110,8 +109,6 @@ stockList.push('gb_enlk');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANN.html" target="_blank">ANN</a></td><td></td><td></td><td>65</td><td>45.43</td><td>46.13</td><td>38</td><td>41.99</td></tr>
   <tr id="slg" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/SLG.html" target="_blank">SLG</a></td><td></td><td></td><td>64</td><td>85.77</td><td>89.35</td><td>77.22</td><td>0</td></tr>
-  <tr id="kfx" class="green">
-  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KFX.html" target="_blank">KFX</a></td><td></td><td></td><td>64</td><td>10.97</td><td>11.1</td><td>7.4</td><td>8</td></tr>
   <tr id="rmti" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/RMTI.html" target="_blank">RMTI</a></td><td></td><td></td><td>60</td><td>5.38</td><td>6.88</td><td>4.42</td><td>4.92</td></tr>
   <tr id="chk" class="green">
