@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "触碰支撑位或阻力位股票分析20190531"
-date:   2019-05-31 01:35:59
+date:   2019-05-31 04:36:19
 categories: stock
 ---
 <script type="text/javascript">
@@ -59,6 +59,7 @@ stockList.push('gb_nq');
 stockList.push('gb_axl');
 stockList.push('gb_ibb');
 stockList.push('gb_dan');
+stockList.push('gb_ijr');
 stockList.push('gb_iwn');
 stockList.push('gb_zion');
 stockList.push('gb_urs');
@@ -197,6 +198,8 @@ stockList.push('gb_wpx');
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IBB.html" target="_blank">IBB</a></td><td></td><td></td><td>49</td><td>102.04</td><td>109.06</td><td>90.13</td><td>0</td></tr>
   <tr id="dan" class="green">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DAN.html" target="_blank">DAN</a></td><td></td><td></td><td>48</td><td>16.76</td><td>18.55</td><td>13.75</td><td>15.18</td></tr>
+  <tr id="ijr" class="red">
+  <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IJR.html" target="_blank">IJR</a></td><td></td><td></td><td>47</td><td>75.42</td><td>78.98</td><td>66.25</td><td>0</td></tr>
   <tr id="iwn" class="red">
   <td><a href="http://stock.finance.sina.com.cn/usstock/quotes/IWN.html" target="_blank">IWN</a></td><td></td><td></td><td>47</td><td>117.79</td><td>123.19</td><td>105.79</td><td>0</td></tr>
   <tr id="zion" class="red">

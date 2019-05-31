@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "天量股票分析20190531"
-date:   2019-05-31 01:35:59
+date:   2019-05-31 04:36:19
 categories: stock
 ---
 <script type="text/javascript">
@@ -14,7 +14,6 @@ stockList.push('gb_rexx');
 stockList.push('gb_mtcn');
 stockList.push('gb_anf');
 stockList.push('gb_cnx');
-stockList.push('gb_tk');
 stockList.push('gb_ks');
 stockList.push('gb_fsl');
 stockList.push('gb_dug');
@@ -52,7 +51,6 @@ stockList.push('gb_af');
   <tr id="mtcn"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/MTCN.html" target="_blank">MTCN</a></td><td></td><td></td><td>-0.025</td><td>14.238</td></tr>
   <tr id="anf"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/ANF.html" target="_blank">ANF</a></td><td></td><td></td><td>-0.024</td><td>2.38</td></tr>
   <tr id="cnx"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/CNX.html" target="_blank">CNX</a></td><td></td><td></td><td>-0.023</td><td>2.073</td></tr>
-  <tr id="tk"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/TK.html" target="_blank">TK</a></td><td></td><td></td><td>-0.018</td><td>6.179</td></tr>
   <tr id="ks"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/KS.html" target="_blank">KS</a></td><td></td><td></td><td>0.016</td><td>14.663</td></tr>
   <tr id="fsl"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/FSL.html" target="_blank">FSL</a></td><td></td><td></td><td>0.016</td><td>12.091</td></tr>
   <tr id="dug"><td><a href="http://stock.finance.sina.com.cn/usstock/quotes/DUG.html" target="_blank">DUG</a></td><td></td><td></td><td>0.015</td><td>2.499</td></tr>
